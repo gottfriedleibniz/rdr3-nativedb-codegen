@@ -1,0 +1,10 @@
+---
+ns: MISC
+---
+## SET_SUPER_JUMP_THIS_FRAME
+
+```c
+// 0xB3E9BE963F10C445
+Any SET_SUPER_JUMP_THIS_FRAME();
+```
+

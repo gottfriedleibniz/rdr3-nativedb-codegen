@@ -1,0 +1,10 @@
+---
+ns: CAM
+---
+## SET_WIDESCREEN_BORDERS
+
+```c
+// 0xD7F4D54CF80AFA34
+Any SET_WIDESCREEN_BORDERS();
+```
+

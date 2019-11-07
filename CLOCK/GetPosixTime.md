@@ -1,0 +1,10 @@
+---
+ns: CLOCK
+---
+## GET_POSIX_TIME
+
+```c
+// 0x90338AD4A784E455
+Any GET_POSIX_TIME();
+```
+

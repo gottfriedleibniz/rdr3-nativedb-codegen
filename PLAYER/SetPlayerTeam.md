@@ -1,0 +1,10 @@
+---
+ns: PLAYER
+---
+## SET_PLAYER_TEAM
+
+```c
+// 0xE8DD8536F01DE600
+Any SET_PLAYER_TEAM();
+```
+

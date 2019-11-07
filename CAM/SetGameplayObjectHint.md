@@ -1,0 +1,10 @@
+---
+ns: CAM
+---
+## SET_GAMEPLAY_OBJECT_HINT
+
+```c
+// 0xC40551D65F2BF297
+Any SET_GAMEPLAY_OBJECT_HINT();
+```
+

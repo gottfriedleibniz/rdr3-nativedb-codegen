@@ -1,0 +1,10 @@
+---
+ns: SCRIPTS
+---
+## BG_END_CONTEXT_HASH
+
+```c
+// 0x6D1431744182CDE8
+Any BG_END_CONTEXT_HASH();
+```
+

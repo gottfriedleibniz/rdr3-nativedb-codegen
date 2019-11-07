@@ -1,0 +1,10 @@
+---
+ns: SCRIPTS
+---
+## BG_START_CONTEXT_HASH
+
+```c
+// 0x2EB67D564DCC09D5
+Any BG_START_CONTEXT_HASH();
+```
+

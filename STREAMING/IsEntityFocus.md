@@ -1,0 +1,10 @@
+---
+ns: STREAMING
+---
+## IS_ENTITY_FOCUS
+
+```c
+// 0xF87DE697E9A06EC6
+Any IS_ENTITY_FOCUS();
+```
+

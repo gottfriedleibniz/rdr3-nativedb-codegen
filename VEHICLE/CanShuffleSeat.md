@@ -1,0 +1,10 @@
+---
+ns: VEHICLE
+---
+## CAN_SHUFFLE_SEAT
+
+```c
+// 0xF8B2D32A2231FD24
+Any CAN_SHUFFLE_SEAT();
+```
+

@@ -1,0 +1,10 @@
+---
+ns: MISC
+---
+## ADD_POP_MULTIPLIER_AREA
+
+```c
+// 0x5EBDA1A3B8CB5EF7
+Any ADD_POP_MULTIPLIER_AREA();
+```
+

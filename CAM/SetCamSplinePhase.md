@@ -1,0 +1,10 @@
+---
+ns: CAM
+---
+## SET_CAM_SPLINE_PHASE
+
+```c
+// 0xF1898A68E7C15636
+Any SET_CAM_SPLINE_PHASE();
+```
+

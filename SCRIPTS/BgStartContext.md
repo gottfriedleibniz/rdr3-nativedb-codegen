@@ -1,0 +1,10 @@
+---
+ns: SCRIPTS
+---
+## BG_START_CONTEXT
+
+```c
+// 0x49BA5678BA040CA7
+Any BG_START_CONTEXT();
+```
+

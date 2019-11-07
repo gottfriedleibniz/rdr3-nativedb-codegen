@@ -1,0 +1,10 @@
+---
+ns: VEHICLE
+---
+## _CAN_BOAT_BE_ANCHORED
+
+```c
+// 0xC075176CFB8B4128
+Any _CAN_BOAT_BE_ANCHORED();
+```
+

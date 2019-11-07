@@ -1,0 +1,10 @@
+---
+ns: STREAMING
+---
+## IS_MODEL_IN_CDIMAGE
+
+```c
+// 0xD6F3B6D7716CFF8E
+Any IS_MODEL_IN_CDIMAGE();
+```
+

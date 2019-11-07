@@ -1,0 +1,10 @@
+---
+ns: SCRIPTS
+---
+## GET_NO_LOADING_SCREEN
+
+```c
+// 0x323DAF00687E0F28
+Any GET_NO_LOADING_SCREEN();
+```
+

@@ -1,0 +1,10 @@
+---
+ns: DATAFILE
+---
+## DATAFILE_DELETE
+
+```c
+// 0x9FB90EEDEA9F2D5C
+Any DATAFILE_DELETE();
+```
+

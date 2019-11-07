@@ -1,0 +1,10 @@
+---
+ns: DATAFILE
+---
+## _OBJECT_VALUE_GET_TYPE
+
+```c
+// 0x92E11E3CA4C7CDF0
+Any _OBJECT_VALUE_GET_TYPE();
+```
+

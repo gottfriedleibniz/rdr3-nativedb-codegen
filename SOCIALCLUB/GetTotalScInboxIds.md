@@ -1,0 +1,10 @@
+---
+ns: SOCIALCLUB
+---
+## _GET_TOTAL_SC_INBOX_IDS
+
+```c
+// 0x8EF0F633280C0663
+Any _GET_TOTAL_SC_INBOX_IDS();
+```
+

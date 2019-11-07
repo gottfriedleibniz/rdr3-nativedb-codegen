@@ -1,0 +1,10 @@
+---
+ns: HUD
+---
+## SET_TEXT_CENTRE
+
+```c
+// 0xBE5261939FBECB8C
+Any SET_TEXT_CENTRE();
+```
+

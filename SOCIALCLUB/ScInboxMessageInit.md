@@ -1,0 +1,10 @@
+---
+ns: SOCIALCLUB
+---
+## _SC_INBOX_MESSAGE_INIT
+
+```c
+// 0xFF92537C4DDC1241
+Any _SC_INBOX_MESSAGE_INIT();
+```
+

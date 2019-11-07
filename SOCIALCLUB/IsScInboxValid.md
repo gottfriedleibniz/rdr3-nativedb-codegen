@@ -1,0 +1,10 @@
+---
+ns: SOCIALCLUB
+---
+## _IS_SC_INBOX_VALID
+
+```c
+// 0x74CF39E030A382C4
+Any _IS_SC_INBOX_VALID();
+```
+

@@ -1,0 +1,10 @@
+---
+ns: MISC
+---
+## _GET_BENCHMARK_TIME
+
+```c
+// 0x3F3172FEAE3AFE1C
+Any _GET_BENCHMARK_TIME();
+```
+

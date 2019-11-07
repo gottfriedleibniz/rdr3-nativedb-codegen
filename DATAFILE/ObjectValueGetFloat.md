@@ -1,0 +1,10 @@
+---
+ns: DATAFILE
+---
+## _OBJECT_VALUE_GET_FLOAT
+
+```c
+// 0x814643ECA258ADF5
+Any _OBJECT_VALUE_GET_FLOAT();
+```
+

@@ -1,0 +1,10 @@
+---
+ns: OBJECT
+---
+## _GET_PICKUP_HASH
+
+```c
+// 0x5EAAD83F8CFB4575
+Any _GET_PICKUP_HASH();
+```
+

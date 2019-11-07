@@ -1,0 +1,10 @@
+---
+ns: VEHICLE
+---
+## COPY_VEHICLE_DAMAGES
+
+```c
+// 0xDBC28A8C683CD80B
+Any COPY_VEHICLE_DAMAGES();
+```
+

@@ -1,0 +1,10 @@
+---
+ns: DATAFILE
+---
+## _ARRAY_VALUE_GET_FLOAT
+
+```c
+// 0xA9D003CF419CB81E
+Any _ARRAY_VALUE_GET_FLOAT();
+```
+

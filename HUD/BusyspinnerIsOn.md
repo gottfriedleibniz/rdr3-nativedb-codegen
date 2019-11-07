@@ -1,0 +1,10 @@
+---
+ns: HUD
+---
+## BUSYSPINNER_IS_ON
+
+```c
+// 0x823BF7B1DF613A21
+Any BUSYSPINNER_IS_ON();
+```
+

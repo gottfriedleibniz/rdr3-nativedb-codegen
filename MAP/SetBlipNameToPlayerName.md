@@ -1,0 +1,10 @@
+---
+ns: MAP
+---
+## SET_BLIP_NAME_TO_PLAYER_NAME
+
+```c
+// 0x093DD5A31BC2B459
+Any SET_BLIP_NAME_TO_PLAYER_NAME();
+```
+

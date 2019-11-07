@@ -1,0 +1,10 @@
+---
+ns: GRAPHICS
+---
+## DELETE_CHECKPOINT
+
+```c
+// 0x0DED5B0C8EBAAE12
+Any DELETE_CHECKPOINT();
+```
+

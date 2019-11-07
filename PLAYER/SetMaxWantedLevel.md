@@ -1,0 +1,10 @@
+---
+ns: PLAYER
+---
+## SET_MAX_WANTED_LEVEL
+
+```c
+// 0x28A4BD2CEE236E19
+Any SET_MAX_WANTED_LEVEL();
+```
+

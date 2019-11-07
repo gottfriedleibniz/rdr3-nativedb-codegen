@@ -1,0 +1,10 @@
+---
+ns: HUD
+---
+## _FORCE_CLOSE_TEXT_INPUT_BOX
+
+```c
+// 0xFBBF5943E4C2C992
+Any _FORCE_CLOSE_TEXT_INPUT_BOX();
+```
+

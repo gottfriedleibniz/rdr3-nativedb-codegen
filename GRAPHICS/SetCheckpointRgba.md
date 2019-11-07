@@ -1,0 +1,10 @@
+---
+ns: GRAPHICS
+---
+## SET_CHECKPOINT_RGBA
+
+```c
+// 0xCAAFC225E33B1D15
+Any SET_CHECKPOINT_RGBA();
+```
+
