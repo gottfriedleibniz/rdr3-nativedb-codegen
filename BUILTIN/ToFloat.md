@@ -5,8 +5,8 @@ ns: BUILTIN
 
 ```c
 // 0xBBDA792448DB5A89
-Any TO_FLOAT(Any p0);
+float TO_FLOAT(int value);
 ```
 
 ## Parameters
-* **p0**:
+* **value**:

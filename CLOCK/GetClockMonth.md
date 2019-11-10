@@ -5,6 +5,6 @@ ns: CLOCK
 
 ```c
 // 0x2D44E8FC79EAB1AC
-Any GET_CLOCK_MONTH();
+int GET_CLOCK_MONTH();
 ```
 

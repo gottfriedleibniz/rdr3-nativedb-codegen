@@ -5,8 +5,8 @@ ns: BUILTIN
 
 ```c
 // 0xF34EE736CF047844
-Any FLOOR(Any p0);
+int FLOOR(float value);
 ```
 
 ## Parameters
-* **p0**:
+* **value**:

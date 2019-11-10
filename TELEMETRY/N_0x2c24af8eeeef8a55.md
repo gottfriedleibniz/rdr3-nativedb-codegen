@@ -1,0 +1,10 @@
+---
+ns: TELEMETRY
+---
+## _0x2C24AF8EEEEF8A55
+
+```c
+// 0x2C24AF8EEEEF8A55
+Any _0x2C24AF8EEEEF8A55();
+```
+

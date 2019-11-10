@@ -5,9 +5,9 @@ ns: BUILTIN
 
 ```c
 // 0xE81651AD79516E48
-Any START_NEW_SCRIPT(Any p0, Any p1);
+int START_NEW_SCRIPT(char* scriptName, int stackSize);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **scriptName**:
+* **stackSize**:

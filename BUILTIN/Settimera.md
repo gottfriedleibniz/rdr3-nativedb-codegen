@@ -5,8 +5,8 @@ ns: BUILTIN
 
 ```c
 // 0xC1B1E9A034A63A62
-void SETTIMERA(Any p0);
+void SETTIMERA(int value);
 ```
 
 ## Parameters
-* **p0**:
+* **value**:

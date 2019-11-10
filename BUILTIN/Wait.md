@@ -5,8 +5,8 @@ ns: BUILTIN
 
 ```c
 // 0x4EDE34FBADD967A6
-void WAIT(Any p0);
+void WAIT(int ms);
 ```
 
 ## Parameters
-* **p0**:
+* **ms**:

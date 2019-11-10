@@ -1,0 +1,10 @@
+---
+ns: STATS
+---
+## _0x7C2ABF6E556B21FC
+
+```c
+// 0x7C2ABF6E556B21FC
+Any _0x7C2ABF6E556B21FC();
+```
+

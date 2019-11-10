@@ -5,9 +5,9 @@ ns: BUILTIN
 
 ```c
 // 0x97EF1E5BCE9DC075
-Any SHIFT_RIGHT(Any p0, Any p1);
+int SHIFT_RIGHT(int value, int bitShift);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **value**:
+* **bitShift**:

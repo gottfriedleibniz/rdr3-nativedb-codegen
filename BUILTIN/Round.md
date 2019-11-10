@@ -5,8 +5,8 @@ ns: BUILTIN
 
 ```c
 // 0xF2DB717A73826179
-Any ROUND(Any p0);
+int ROUND(float value);
 ```
 
 ## Parameters
-* **p0**:
+* **value**:

@@ -5,6 +5,6 @@ ns: CLOCK
 
 ```c
 // 0xB6101ABE62B5F080
-Any GET_CLOCK_SECONDS();
+int GET_CLOCK_SECONDS();
 ```
 

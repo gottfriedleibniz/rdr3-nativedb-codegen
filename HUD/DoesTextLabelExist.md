@@ -5,8 +5,8 @@ ns: HUD
 
 ```c
 // 0x73C258C68D6F55B6
-Any DOES_TEXT_LABEL_EXIST(Any p0);
+Any DOES_TEXT_LABEL_EXIST(char* label);
 ```
 
 ## Parameters
-* **p0**:
+* **label**:

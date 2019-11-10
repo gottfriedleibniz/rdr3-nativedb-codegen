@@ -5,6 +5,6 @@ ns: BUILTIN
 
 ```c
 // 0xC9D9444186B5A374
-Any TIMERB();
+int TIMERB();
 ```
 

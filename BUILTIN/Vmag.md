@@ -5,10 +5,10 @@ ns: BUILTIN
 
 ```c
 // 0x652D2EEEF1D3E62C
-Any VMAG(Any p0, Any p1, Any p2);
+float VMAG(float x, float y, float z);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **x**:
+* **y**:
+* **z**:

@@ -1,0 +1,10 @@
+---
+ns: STATS
+---
+## _0xB5E2EDA2135E0FA1
+
+```c
+// 0xB5E2EDA2135E0FA1
+Any _0xB5E2EDA2135E0FA1();
+```
+

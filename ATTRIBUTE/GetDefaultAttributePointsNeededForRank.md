@@ -1,0 +1,14 @@
+---
+ns: ATTRIBUTE
+---
+## GET_DEFAULT_ATTRIBUTE_POINTS_NEEDED_FOR_RANK
+
+```c
+// 0x94A7F191DB49A44D
+Any GET_DEFAULT_ATTRIBUTE_POINTS_NEEDED_FOR_RANK(Any p0, Any p1, Any p2);
+```
+
+## Parameters
+* **p0**:
+* **p1**:
+* **p2**:

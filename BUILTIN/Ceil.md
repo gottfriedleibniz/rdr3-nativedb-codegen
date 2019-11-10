@@ -5,8 +5,8 @@ ns: BUILTIN
 
 ```c
 // 0x11E019C8F43ACC8A
-Any CEIL(Any p0);
+int CEIL(float value);
 ```
 
 ## Parameters
-* **p0**:
+* **value**:

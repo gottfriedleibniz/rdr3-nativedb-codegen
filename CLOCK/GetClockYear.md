@@ -5,6 +5,6 @@ ns: CLOCK
 
 ```c
 // 0xE136DCA28C4A48BA
-Any GET_CLOCK_YEAR();
+int GET_CLOCK_YEAR();
 ```
 

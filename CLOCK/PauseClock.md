@@ -5,8 +5,8 @@ ns: CLOCK
 
 ```c
 // 0x4D1A590C92BF377E
-void PAUSE_CLOCK(Any p0);
+void PAUSE_CLOCK(BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
+* **toggle**:

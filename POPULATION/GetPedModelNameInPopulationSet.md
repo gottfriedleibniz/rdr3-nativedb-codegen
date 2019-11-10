@@ -1,0 +1,13 @@
+---
+ns: POPULATION
+---
+## GET_PED_MODEL_NAME_IN_POPULATION_SET
+
+```c
+// 0x3EAFA1C533B7139E
+Any GET_PED_MODEL_NAME_IN_POPULATION_SET(Any p0, Any p1);
+```
+
+## Parameters
+* **p0**:
+* **p1**:

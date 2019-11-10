@@ -1,0 +1,10 @@
+---
+ns: STATS
+---
+## CHAL_NET_STOP_CHAL
+
+```c
+// 0x43B0163154A50C86
+Any CHAL_NET_STOP_CHAL();
+```
+

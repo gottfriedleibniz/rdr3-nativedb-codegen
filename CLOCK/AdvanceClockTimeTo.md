@@ -5,10 +5,10 @@ ns: CLOCK
 
 ```c
 // 0x0184750AE88D0B1D
-void ADVANCE_CLOCK_TIME_TO(Any p0, Any p1, Any p2);
+void ADVANCE_CLOCK_TIME_TO(int hour, int minute, int second);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **hour**:
+* **minute**:
+* **second**:

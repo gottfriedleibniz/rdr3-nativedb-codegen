@@ -5,8 +5,8 @@ ns: BUILTIN
 
 ```c
 // 0x71D93B57D07F9804
-Any SQRT(Any p0);
+float SQRT(float value);
 ```
 
 ## Parameters
-* **p0**:
+* **value**:

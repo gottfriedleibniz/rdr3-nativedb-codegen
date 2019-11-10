@@ -1,0 +1,13 @@
+---
+ns: ANIMSCENE
+---
+## SET_ANIM_SCENE_PAUSED
+
+```c
+// 0xD6824B7D24DC0CE0
+void SET_ANIM_SCENE_PAUSED(Any p0, Any p1);
+```
+
+## Parameters
+* **p0**:
+* **p1**:

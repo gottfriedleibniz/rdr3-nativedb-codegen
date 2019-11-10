@@ -5,10 +5,10 @@ ns: CLOCK
 
 ```c
 // 0x02AD3092562941E2
-void SET_CLOCK_DATE(Any p0, Any p1, Any p2);
+void SET_CLOCK_DATE(int day, int month, int year);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **day**:
+* **month**:
+* **year**:

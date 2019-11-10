@@ -1,0 +1,10 @@
+---
+ns: STATS
+---
+## STAT_ID_SET_DATE
+
+```c
+// 0x1FAE9B2FAA2DFE06
+Any STAT_ID_SET_DATE();
+```
+

@@ -1,0 +1,10 @@
+---
+ns: STATS
+---
+## CHAL_NET_STOP_GOAL
+
+```c
+// 0x00CE6A93324A590B
+Any CHAL_NET_STOP_GOAL();
+```
+

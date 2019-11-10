@@ -1,0 +1,10 @@
+---
+ns: TASK
+---
+## TASK_BOARD_VEHICLE
+
+```c
+// 0xE41A09C8DDFF7AA4
+Any TASK_BOARD_VEHICLE();
+```
+

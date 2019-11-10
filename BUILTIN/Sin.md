@@ -5,8 +5,8 @@ ns: BUILTIN
 
 ```c
 // 0x0BADBFA3B172435F
-Any SIN(Any p0);
+float SIN(float value);
 ```
 
 ## Parameters
-* **p0**:
+* **value**:
