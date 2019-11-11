@@ -5,7 +5,7 @@ ns: SCRIPTS
 
 ```c
 // 0x552B171E3F69E5AE
-Any DOES_SCRIPT_EXIST(char* scriptName);
+BOOL DOES_SCRIPT_EXIST(char* scriptName);
 ```
 
 ## Parameters

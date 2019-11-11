@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0xE3B6097CC25AA69E
-Any IS_PED_RUNNING_RAGDOLL_TASK(Ped ped);
+BOOL IS_PED_RUNNING_RAGDOLL_TASK(Ped ped);
 ```
 
 ## Parameters

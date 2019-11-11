@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x4FBACCE3B4138EE8
-Any IS_PED_BEING_STUNNED(Ped ped, int p1);
+BOOL IS_PED_BEING_STUNNED(Ped ped, int p1);
 ```
 
 ## Parameters

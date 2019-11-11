@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x90370EBE0FEE1A3D
-Any CREATE_GROUP(int unused);
+int CREATE_GROUP(int unused);
 ```
 
 ## Parameters

@@ -5,7 +5,7 @@ ns: WEAPON
 
 ```c
 // 0xEDCA14CA5199FF25
-Any GET_WEAPONTYPE_GROUP(Hash weaponHash);
+Hash GET_WEAPONTYPE_GROUP(Hash weaponHash);
 ```
 
 ## Parameters

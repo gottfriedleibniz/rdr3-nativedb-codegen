@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0xF28965D04F570DCA
-Any FORCE_PED_MOTION_STATE(Ped ped, Hash motionStateHash, BOOL p2, int p3, BOOL p4);
+BOOL FORCE_PED_MOTION_STATE(Ped ped, Hash motionStateHash, BOOL p2, int p3, BOOL p4);
 ```
 
 ## Parameters

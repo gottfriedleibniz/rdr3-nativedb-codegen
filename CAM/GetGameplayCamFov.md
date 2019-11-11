@@ -5,6 +5,6 @@ ns: CAM
 
 ```c
 // 0xF6A96E5ACEEC6E50
-Any GET_GAMEPLAY_CAM_FOV();
+float GET_GAMEPLAY_CAM_FOV();
 ```
 

@@ -5,7 +5,7 @@ ns: ENTITY
 
 ```c
 // 0x1BB501624FAF2BEA
-Any GET_ENTITY_ALPHA(Entity entity);
+int GET_ENTITY_ALPHA(Entity entity);
 ```
 
 ## Parameters

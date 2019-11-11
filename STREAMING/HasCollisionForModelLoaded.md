@@ -5,7 +5,7 @@ ns: STREAMING
 
 ```c
 // 0x210A79C9EC89778F
-Any HAS_COLLISION_FOR_MODEL_LOADED(Hash model);
+BOOL HAS_COLLISION_FOR_MODEL_LOADED(Hash model);
 ```
 
 ## Parameters

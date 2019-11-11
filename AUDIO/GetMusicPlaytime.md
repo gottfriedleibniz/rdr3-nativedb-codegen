@@ -5,6 +5,6 @@ ns: AUDIO
 
 ```c
 // 0xE7A0D23DC414507B
-Any GET_MUSIC_PLAYTIME();
+int GET_MUSIC_PLAYTIME();
 ```
 

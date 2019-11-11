@@ -5,7 +5,7 @@ ns: AUDIO
 
 ```c
 // 0x706D57B0F50DA710
-Any TRIGGER_MUSIC_EVENT(char* eventName);
+BOOL TRIGGER_MUSIC_EVENT(char* eventName);
 ```
 
 ## Parameters

@@ -5,7 +5,7 @@ ns: INTERIOR
 
 ```c
 // 0xAAD6170AA33B13C0
-Any GET_INTERIOR_AT_COORDS_WITH_TYPE(float x, float y, float z, char* interiorType);
+int GET_INTERIOR_AT_COORDS_WITH_TYPE(float x, float y, float z, char* interiorType);
 ```
 
 ## Parameters

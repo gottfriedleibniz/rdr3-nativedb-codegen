@@ -5,7 +5,7 @@ ns: SHAPETEST
 
 ```c
 // 0x28579D1B8F8AAC80
-Any START_SHAPE_TEST_CAPSULE(float x1, float y1, float z1, float x2, float y2, float z2, float radius, int flags, Entity entity, int p9);
+int START_SHAPE_TEST_CAPSULE(float x1, float y1, float z1, float x2, float y2, float z2, float radius, int flags, Entity entity, int p9);
 ```
 
 ## Parameters

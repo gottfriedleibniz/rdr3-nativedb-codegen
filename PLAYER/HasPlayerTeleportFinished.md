@@ -5,7 +5,7 @@ ns: PLAYER
 
 ```c
 // 0xC39DCE4672CBFBC1
-Any _HAS_PLAYER_TELEPORT_FINISHED(Player player);
+BOOL _HAS_PLAYER_TELEPORT_FINISHED(Player player);
 ```
 
 ## Parameters

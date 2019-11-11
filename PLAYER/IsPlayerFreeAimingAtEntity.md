@@ -5,7 +5,7 @@ ns: PLAYER
 
 ```c
 // 0x8C67C11C68713D25
-Any IS_PLAYER_FREE_AIMING_AT_ENTITY(Player player, Entity entity);
+BOOL IS_PLAYER_FREE_AIMING_AT_ENTITY(Player player, Entity entity);
 ```
 
 ## Parameters

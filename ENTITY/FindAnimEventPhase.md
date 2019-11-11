@@ -5,7 +5,7 @@ ns: ENTITY
 
 ```c
 // 0x42718CC559BD7776
-Any FIND_ANIM_EVENT_PHASE(char* animDictionary, char* animName, char* p2, Any* p3, Any* p4);
+BOOL FIND_ANIM_EVENT_PHASE(char* animDictionary, char* animName, char* p2, Any* p3, Any* p4);
 ```
 
 ## Parameters

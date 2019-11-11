@@ -5,7 +5,7 @@ ns: SHAPETEST
 
 ```c
 // 0xFE466162C4401D18
-Any START_SHAPE_TEST_BOX(float x, float y, float z, float x1, float y2, float z2, float rotX, float rotY, float rotZ, Any p9, Any p10, Any entity, Any p12);
+int START_SHAPE_TEST_BOX(float x, float y, float z, float x1, float y2, float z2, float rotX, float rotY, float rotZ, Any p9, Any p10, Any entity, Any p12);
 ```
 
 ## Parameters

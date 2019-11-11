@@ -5,7 +5,7 @@ ns: EVENT
 
 ```c
 // 0xE8BB3CC253A34559
-Any REMOVE_SHOCKING_EVENT(ScrHandle event);
+BOOL REMOVE_SHOCKING_EVENT(ScrHandle event);
 ```
 
 ## Parameters

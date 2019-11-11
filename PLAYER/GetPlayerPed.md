@@ -5,7 +5,7 @@ ns: PLAYER
 
 ```c
 // 0x275F255ED201B937
-Any GET_PLAYER_PED(Player player);
+Ped GET_PLAYER_PED(Player player);
 ```
 
 ## Parameters

@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0xCD5003B097200F36
-Any GET_DEAD_PED_PICKUP_COORDS(Ped ped, float p1, float p2);
+Vector3 GET_DEAD_PED_PICKUP_COORDS(Ped ped, float p1, float p2);
 ```
 
 ## Parameters

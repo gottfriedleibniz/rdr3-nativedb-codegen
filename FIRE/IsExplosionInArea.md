@@ -5,7 +5,7 @@ ns: FIRE
 
 ```c
 // 0x8391BA4313A25AD3
-Any IS_EXPLOSION_IN_AREA(int explosionType, float x1, float y1, float z1, float x2, float y2, float z2);
+BOOL IS_EXPLOSION_IN_AREA(int explosionType, float x1, float y1, float z1, float x2, float y2, float z2);
 ```
 
 ## Parameters

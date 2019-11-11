@@ -5,7 +5,7 @@ ns: PLAYER
 
 ```c
 // 0x7964097FCE4C244B
-Any IS_PLAYER_CONTROL_ON(Player player);
+BOOL IS_PLAYER_CONTROL_ON(Player player);
 ```
 
 ## Parameters

@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0xDEA92412FCAEB3F5
-Any GET_PED_COMBAT_MOVEMENT(Ped ped);
+int GET_PED_COMBAT_MOVEMENT(Ped ped);
 ```
 
 ## Parameters

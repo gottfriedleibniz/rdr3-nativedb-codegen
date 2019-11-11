@@ -5,7 +5,7 @@ ns: NETWORK
 
 ```c
 // 0x017008CCDAD48503
-Any GET_TIME_OFFSET(int timeA, int timeB);
+int GET_TIME_OFFSET(int timeA, int timeB);
 ```
 
 ## Parameters

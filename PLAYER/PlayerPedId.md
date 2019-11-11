@@ -5,6 +5,6 @@ ns: PLAYER
 
 ```c
 // 0x096275889B8E0EE0
-Any PLAYER_PED_ID();
+Ped PLAYER_PED_ID();
 ```
 

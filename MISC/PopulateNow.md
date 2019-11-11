@@ -5,6 +5,6 @@ ns: MISC
 
 ```c
 // 0xEA6DC3A8ADD2005F
-Any POPULATE_NOW();
+void POPULATE_NOW();
 ```
 

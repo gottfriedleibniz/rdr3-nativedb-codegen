@@ -5,7 +5,7 @@ ns: NETWORK
 
 ```c
 // 0x0EDEC3C276198689
-Any PED_TO_NET(Ped ped);
+int PED_TO_NET(Ped ped);
 ```
 
 ## Parameters

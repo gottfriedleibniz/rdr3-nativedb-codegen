@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x4AE4FF911DFB61DA
-Any IS_PED_JACKING(Ped ped);
+BOOL IS_PED_JACKING(Ped ped);
 ```
 
 ## Parameters

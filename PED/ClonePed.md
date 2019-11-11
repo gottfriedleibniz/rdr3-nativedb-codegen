@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0xEF29A16337FACADB
-Any CLONE_PED(Ped ped, float heading, BOOL isNetwork, BOOL thisScriptCheck);
+Ped CLONE_PED(Ped ped, float heading, BOOL isNetwork, BOOL thisScriptCheck);
 ```
 
 ## Parameters

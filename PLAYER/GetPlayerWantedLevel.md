@@ -5,7 +5,7 @@ ns: PLAYER
 
 ```c
 // 0xABC532F9098BFD9D
-Any GET_PLAYER_WANTED_LEVEL(Player player);
+int GET_PLAYER_WANTED_LEVEL(Player player);
 ```
 
 ## Parameters

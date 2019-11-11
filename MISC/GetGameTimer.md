@@ -5,6 +5,6 @@ ns: MISC
 
 ```c
 // 0x4F67E8ECA7D3F667
-Any GET_GAME_TIMER();
+int GET_GAME_TIMER();
 ```
 

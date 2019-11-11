@@ -5,7 +5,7 @@ ns: NETWORK
 
 ```c
 // 0x57DBA049E110F217
-Any NETWORK_ARE_HANDLES_THE_SAME(int* netHandle1, int* netHandle2);
+BOOL NETWORK_ARE_HANDLES_THE_SAME(int* netHandle1, int* netHandle2);
 ```
 
 ## Parameters

@@ -5,7 +5,7 @@ ns: GRAPHICS
 
 ```c
 // 0x4A123E85D7C4CA0B
-Any ANIMPOSTFX_IS_RUNNING(char* effectName);
+BOOL ANIMPOSTFX_IS_RUNNING(char* effectName);
 ```
 
 ## Parameters

@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x9F65DBC537E59AD5
-Any IS_PED_GOING_INTO_COVER(Ped ped);
+BOOL IS_PED_GOING_INTO_COVER(Ped ped);
 ```
 
 ## Parameters

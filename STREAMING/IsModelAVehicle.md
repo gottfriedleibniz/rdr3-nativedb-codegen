@@ -5,7 +5,7 @@ ns: STREAMING
 
 ```c
 // 0x354F62672DE7DB0A
-Any IS_MODEL_A_VEHICLE(Hash model);
+BOOL IS_MODEL_A_VEHICLE(Hash model);
 ```
 
 ## Parameters

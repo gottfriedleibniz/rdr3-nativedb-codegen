@@ -5,7 +5,7 @@ ns: PLAYER
 
 ```c
 // 0x9BAB31815159ABCF
-Any GET_PLAYER_GROUP(Player player);
+int GET_PLAYER_GROUP(Player player);
 ```
 
 ## Parameters

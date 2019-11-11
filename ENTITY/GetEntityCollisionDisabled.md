@@ -5,7 +5,7 @@ ns: ENTITY
 
 ```c
 // 0xAA2FADD30F45A9DA
-Any GET_ENTITY_COLLISION_DISABLED(Entity entity);
+BOOL GET_ENTITY_COLLISION_DISABLED(Entity entity);
 ```
 
 ## Parameters

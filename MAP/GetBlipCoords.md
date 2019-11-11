@@ -5,7 +5,7 @@ ns: MAP
 
 ```c
 // 0x201C319797BDA603
-Any GET_BLIP_COORDS(Blip blip);
+Vector3 GET_BLIP_COORDS(Blip blip);
 ```
 
 ## Parameters

@@ -5,7 +5,7 @@ ns: TASK
 
 ```c
 // 0xB0760331C7AA4155
-Any GET_IS_TASK_ACTIVE(Ped ped, int taskIndex);
+BOOL GET_IS_TASK_ACTIVE(Ped ped, int taskIndex);
 ```
 
 ## Parameters

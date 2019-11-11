@@ -5,7 +5,7 @@ ns: AUDIO
 
 ```c
 // 0xB65B60556E2A9225
-Any IS_AUDIO_SCENE_ACTIVE(char* scene);
+BOOL IS_AUDIO_SCENE_ACTIVE(char* scene);
 ```
 
 ## Parameters

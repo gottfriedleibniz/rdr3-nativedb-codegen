@@ -5,7 +5,7 @@ ns: FIRE
 
 ```c
 // 0xB646FB657F448261
-Any GET_CLOSEST_FIRE_POS(Vector3* outPosition, float x, float y, float z);
+BOOL GET_CLOSEST_FIRE_POS(Vector3* outPosition, float x, float y, float z);
 ```
 
 ## Parameters

@@ -5,7 +5,7 @@ ns: FIRE
 
 ```c
 // 0xD62DD846D82CBB90
-Any IS_EXPLOSION_IN_SPHERE(int explosionType, float x, float y, float z, float radius);
+BOOL IS_EXPLOSION_IN_SPHERE(int explosionType, float x, float y, float z, float radius);
 ```
 
 ## Parameters

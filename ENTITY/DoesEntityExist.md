@@ -5,7 +5,7 @@ ns: ENTITY
 
 ```c
 // 0xD42BD6EB2E0F1677
-Any DOES_ENTITY_EXIST(Entity entity);
+BOOL DOES_ENTITY_EXIST(Entity entity);
 ```
 
 ## Parameters

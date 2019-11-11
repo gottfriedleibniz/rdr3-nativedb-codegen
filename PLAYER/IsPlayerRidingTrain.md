@@ -5,7 +5,7 @@ ns: PLAYER
 
 ```c
 // 0x2FB0ACADA6A238DD
-Any IS_PLAYER_RIDING_TRAIN(Player player);
+BOOL IS_PLAYER_RIDING_TRAIN(Player player);
 ```
 
 ## Parameters

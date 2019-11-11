@@ -5,7 +5,7 @@ ns: MISC
 
 ```c
 // 0x134549B388167CBF
-Any ABSF(float value);
+float ABSF(float value);
 ```
 
 ## Parameters

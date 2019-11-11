@@ -5,6 +5,6 @@ ns: HUD
 
 ```c
 // 0x71B72B478F8189DC
-Any IS_HUD_HIDDEN();
+BOOL IS_HUD_HIDDEN();
 ```
 

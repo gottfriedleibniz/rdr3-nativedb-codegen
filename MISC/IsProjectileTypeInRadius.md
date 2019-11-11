@@ -5,7 +5,7 @@ ns: MISC
 
 ```c
 // 0xF51C9BAAD9ED64C4
-Any _IS_PROJECTILE_TYPE_IN_RADIUS(float p0, float p1, float p2, Any p3, float p4, BOOL p5);
+BOOL _IS_PROJECTILE_TYPE_IN_RADIUS(float p0, float p1, float p2, Any p3, float p4, BOOL p5);
 ```
 
 ## Parameters

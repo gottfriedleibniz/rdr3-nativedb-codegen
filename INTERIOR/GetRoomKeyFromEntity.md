@@ -5,7 +5,7 @@ ns: INTERIOR
 
 ```c
 // 0x076E46E0EB52AFC6
-Any GET_ROOM_KEY_FROM_ENTITY(Entity entity);
+Hash GET_ROOM_KEY_FROM_ENTITY(Entity entity);
 ```
 
 ## Parameters

@@ -5,7 +5,7 @@ ns: CAM
 
 ```c
 // 0xE72CDBA7F0A02DD6
-Any CREATE_CAM(char* camName, BOOL p1);
+Cam CREATE_CAM(char* camName, BOOL p1);
 ```
 
 ## Parameters

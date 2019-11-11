@@ -5,7 +5,7 @@ ns: MISC
 
 ```c
 // 0x6E3C15D296C15583
-Any ASIN(float p0);
+float ASIN(float p0);
 ```
 
 ## Parameters

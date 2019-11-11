@@ -5,7 +5,7 @@ ns: PLAYER
 
 ```c
 // 0xB8A70C22FD48197A
-Any IS_PLAYER_CLIMBING(Player player);
+BOOL IS_PLAYER_CLIMBING(Player player);
 ```
 
 ## Parameters

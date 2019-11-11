@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x6E575D6A898AB852
-Any IS_PED_IN_ANY_TAXI(Ped ped);
+BOOL IS_PED_IN_ANY_TAXI(Ped ped);
 ```
 
 ## Parameters

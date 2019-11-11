@@ -5,7 +5,7 @@ ns: SCRIPTS
 
 ```c
 // 0xC9F59C0A710ECD34
-Any GET_EVENT_EXISTS(int eventGroup, int eventIndex);
+BOOL GET_EVENT_EXISTS(int eventGroup, int eventIndex);
 ```
 
 ## Parameters

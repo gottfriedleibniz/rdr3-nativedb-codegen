@@ -5,7 +5,7 @@ ns: INTERIOR
 
 ```c
 // 0x32810CA2125F5842
-Any IS_INTERIOR_ENTITY_SET_ACTIVE(int interior, char* entitySetName);
+BOOL IS_INTERIOR_ENTITY_SET_ACTIVE(int interior, char* entitySetName);
 ```
 
 ## Parameters

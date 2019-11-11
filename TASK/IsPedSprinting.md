@@ -5,7 +5,7 @@ ns: TASK
 
 ```c
 // 0x57E457CD2C0FC168
-Any IS_PED_SPRINTING(Ped ped);
+BOOL IS_PED_SPRINTING(Ped ped);
 ```
 
 ## Parameters

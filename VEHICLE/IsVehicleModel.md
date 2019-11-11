@@ -5,7 +5,7 @@ ns: VEHICLE
 
 ```c
 // 0x0045A54EC7A22455
-Any IS_VEHICLE_MODEL(Vehicle vehicle, Hash model);
+BOOL IS_VEHICLE_MODEL(Vehicle vehicle, Hash model);
 ```
 
 ## Parameters

@@ -5,7 +5,7 @@ ns: ENTITY
 
 ```c
 // 0xBACA8FE9C76C124E
-Any GET_ENTITY_BONE_INDEX_BY_NAME(Entity entity, char* boneName);
+int GET_ENTITY_BONE_INDEX_BY_NAME(Entity entity, char* boneName);
 ```
 
 ## Parameters

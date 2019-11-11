@@ -5,6 +5,6 @@ ns: CAM
 
 ```c
 // 0x03A8931ECC8015D6
-Any GET_RENDERING_CAM();
+Cam GET_RENDERING_CAM();
 ```
 

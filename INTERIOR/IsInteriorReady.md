@@ -5,7 +5,7 @@ ns: INTERIOR
 
 ```c
 // 0x941560D2D45DBFC8
-Any IS_INTERIOR_READY(int interiorID);
+BOOL IS_INTERIOR_READY(int interiorID);
 ```
 
 ## Parameters

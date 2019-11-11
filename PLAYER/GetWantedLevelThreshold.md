@@ -5,7 +5,7 @@ ns: PLAYER
 
 ```c
 // 0x1B1A3B358F7D8F07
-Any GET_WANTED_LEVEL_THRESHOLD(int wantedLevel);
+int GET_WANTED_LEVEL_THRESHOLD(int wantedLevel);
 ```
 
 ## Parameters

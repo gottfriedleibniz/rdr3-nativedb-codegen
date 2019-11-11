@@ -5,7 +5,7 @@ ns: TASK
 
 ```c
 // 0x367A09DED4E05B99
-Any IS_SCENARIO_GROUP_ENABLED(char* scenarioGroup);
+BOOL IS_SCENARIO_GROUP_ENABLED(char* scenarioGroup);
 ```
 
 ## Parameters

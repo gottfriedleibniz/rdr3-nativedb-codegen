@@ -5,6 +5,6 @@ ns: NETWORK
 
 ```c
 // 0x90986E8876CE0A83
-Any PARTICIPANT_ID();
+Player PARTICIPANT_ID();
 ```
 

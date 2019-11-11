@@ -5,7 +5,7 @@ ns: OBJECT
 
 ```c
 // 0x80EC48E6679313F9
-Any HAS_PICKUP_BEEN_COLLECTED(Pickup pickup);
+BOOL HAS_PICKUP_BEEN_COLLECTED(Pickup pickup);
 ```
 
 ## Parameters

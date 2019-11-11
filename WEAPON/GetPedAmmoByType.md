@@ -5,7 +5,7 @@ ns: WEAPON
 
 ```c
 // 0x39D22031557946C1
-Any GET_PED_AMMO_BY_TYPE(Ped ped, Any ammoType);
+int GET_PED_AMMO_BY_TYPE(Ped ped, Any ammoType);
 ```
 
 ## Parameters

@@ -5,7 +5,7 @@ ns: OBJECT
 
 ```c
 // 0xE143FA2249364369
-Any GET_CLOSEST_OBJECT_OF_TYPE(float x, float y, float z, float radius, Hash modelHash, BOOL isMission, BOOL p6, BOOL p7);
+Object GET_CLOSEST_OBJECT_OF_TYPE(float x, float y, float z, float radius, Hash modelHash, BOOL isMission, BOOL p6, BOOL p7);
 ```
 
 ## Parameters

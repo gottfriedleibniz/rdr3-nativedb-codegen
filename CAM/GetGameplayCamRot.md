@@ -5,7 +5,7 @@ ns: CAM
 
 ```c
 // 0x0252D2B5582957A6
-Any GET_GAMEPLAY_CAM_ROT(int rotationOrder);
+Vector3 GET_GAMEPLAY_CAM_ROT(int rotationOrder);
 ```
 
 ## Parameters

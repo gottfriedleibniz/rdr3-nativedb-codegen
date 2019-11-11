@@ -5,6 +5,6 @@ ns: MISC
 
 ```c
 // 0xF703E82F3FE14A5F
-Any GET_WIND_DIRECTION();
+Vector3 GET_WIND_DIRECTION();
 ```
 

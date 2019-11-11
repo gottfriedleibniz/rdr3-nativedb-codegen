@@ -5,7 +5,7 @@ ns: PLAYER
 
 ```c
 // 0xAE663DDD99C8A670
-Any GET_PLAYER_TARGET_ENTITY(Player player, Entity* entity);
+BOOL GET_PLAYER_TARGET_ENTITY(Player player, Entity* entity);
 ```
 
 ## Parameters

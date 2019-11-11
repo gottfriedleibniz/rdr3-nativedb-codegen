@@ -5,7 +5,7 @@ ns: ITEMSET
 
 ```c
 // 0xABE74510883C7950
-Any ADD_TO_ITEMSET(Any p0, Any p1);
+BOOL ADD_TO_ITEMSET(Any p0, Any p1);
 ```
 
 ## Parameters

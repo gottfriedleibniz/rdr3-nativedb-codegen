@@ -5,7 +5,7 @@ ns: MISC
 
 ```c
 // 0xC652FD308772D79E
-Any IS_BULLET_IN_AREA(float p0, float p1, float p2, float p3, BOOL p4);
+BOOL IS_BULLET_IN_AREA(float p0, float p1, float p2, float p3, BOOL p4);
 ```
 
 ## Parameters

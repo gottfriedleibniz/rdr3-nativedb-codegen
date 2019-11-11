@@ -5,7 +5,7 @@ ns: WEAPON
 
 ```c
 // 0x7FEAD38B326B9F74
-Any GET_PED_AMMO_TYPE_FROM_WEAPON(Ped ped, Hash weaponHash);
+Hash GET_PED_AMMO_TYPE_FROM_WEAPON(Ped ped, Hash weaponHash);
 ```
 
 ## Parameters

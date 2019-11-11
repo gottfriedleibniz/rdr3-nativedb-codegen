@@ -5,7 +5,7 @@ ns: NETWORK
 
 ```c
 // 0x16160DA74A8E74A2
-Any TEXTURE_DOWNLOAD_REQUEST(int* PlayerHandle, char* FilePath, char* Name, BOOL p3);
+int TEXTURE_DOWNLOAD_REQUEST(int* PlayerHandle, char* FilePath, char* Name, BOOL p3);
 ```
 
 ## Parameters

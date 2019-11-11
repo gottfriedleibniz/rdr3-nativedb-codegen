@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x845333B3150583AB
-Any IS_PED_IN_COVER_FACING_LEFT(Ped ped);
+BOOL IS_PED_IN_COVER_FACING_LEFT(Ped ped);
 ```
 
 ## Parameters

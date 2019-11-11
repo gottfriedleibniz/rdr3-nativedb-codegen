@@ -5,7 +5,7 @@ ns: VEHICLE
 
 ```c
 // 0x1A00961A1BE94E5E
-Any GET_POSITION_OF_VEHICLE_RECORDING_AT_TIME(int p0, float p1, char* p2);
+Vector3 GET_POSITION_OF_VEHICLE_RECORDING_AT_TIME(int p0, float p1, char* p2);
 ```
 
 ## Parameters

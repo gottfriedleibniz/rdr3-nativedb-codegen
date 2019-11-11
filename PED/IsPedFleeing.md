@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0xBBCCE00B381F8482
-Any IS_PED_FLEEING(Ped ped);
+BOOL IS_PED_FLEEING(Ped ped);
 ```
 
 ## Parameters

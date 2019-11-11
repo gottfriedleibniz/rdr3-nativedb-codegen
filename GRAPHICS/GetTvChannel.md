@@ -5,6 +5,6 @@ ns: GRAPHICS
 
 ```c
 // 0xF90FBFD68F3C59AE
-Any GET_TV_CHANNEL();
+int GET_TV_CHANNEL();
 ```
 

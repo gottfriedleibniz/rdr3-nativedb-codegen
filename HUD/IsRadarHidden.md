@@ -5,6 +5,6 @@ ns: HUD
 
 ```c
 // 0x1B82FD5FFA4D666E
-Any IS_RADAR_HIDDEN();
+BOOL IS_RADAR_HIDDEN();
 ```
 

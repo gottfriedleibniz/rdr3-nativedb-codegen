@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0xF162E133B4E7A675
-Any GET_PED_GROUP_INDEX(Ped ped);
+int GET_PED_GROUP_INDEX(Ped ped);
 ```
 
 ## Parameters

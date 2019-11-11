@@ -5,7 +5,7 @@ ns: TASK
 
 ```c
 // 0x717E4D1F2048376D
-Any GET_TASK_MOVE_NETWORK_STATE(Ped ped);
+char* GET_TASK_MOVE_NETWORK_STATE(Ped ped);
 ```
 
 ## Parameters

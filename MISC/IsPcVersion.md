@@ -5,6 +5,6 @@ ns: MISC
 
 ```c
 // 0xB0FB6CFAA5A1C833
-Any IS_PC_VERSION();
+BOOL IS_PC_VERSION();
 ```
 

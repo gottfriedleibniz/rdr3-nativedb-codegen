@@ -5,6 +5,6 @@ ns: DATAFILE
 
 ```c
 // 0x56B7291FB953DD51
-Any DATAFILE_CREATE();
+void DATAFILE_CREATE();
 ```
 

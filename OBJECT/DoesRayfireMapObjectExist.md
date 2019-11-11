@@ -5,7 +5,7 @@ ns: OBJECT
 
 ```c
 // 0x52AF537A0C5B8AAD
-Any DOES_RAYFIRE_MAP_OBJECT_EXIST(Object object);
+BOOL DOES_RAYFIRE_MAP_OBJECT_EXIST(Object object);
 ```
 
 ## Parameters

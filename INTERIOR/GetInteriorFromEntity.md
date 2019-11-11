@@ -5,7 +5,7 @@ ns: INTERIOR
 
 ```c
 // 0xB417689857646F61
-Any GET_INTERIOR_FROM_ENTITY(Entity entity);
+int GET_INTERIOR_FROM_ENTITY(Entity entity);
 ```
 
 ## Parameters

@@ -5,7 +5,7 @@ ns: DECORATOR
 
 ```c
 // 0xFE26E4609B1C3772
-Any DECOR_SET_BOOL(Entity entity, char* propertyName, BOOL value);
+BOOL DECOR_SET_BOOL(Entity entity, char* propertyName, BOOL value);
 ```
 
 ## Parameters

@@ -5,6 +5,6 @@ ns: NETWORK
 
 ```c
 // 0x7A5487FE9FAA6B48
-Any GET_NETWORK_TIME();
+int GET_NETWORK_TIME();
 ```
 

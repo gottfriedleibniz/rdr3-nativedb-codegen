@@ -5,7 +5,7 @@ ns: VEHICLE
 
 ```c
 // 0x424910CD5DE8C246
-Any IS_VEHICLE_VISIBLE(Vehicle vehicle);
+BOOL IS_VEHICLE_VISIBLE(Vehicle vehicle);
 ```
 
 ## Parameters

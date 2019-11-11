@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x7DBDD04862D95F04
-Any GET_PED_RELATIONSHIP_GROUP_HASH(Ped ped);
+Hash GET_PED_RELATIONSHIP_GROUP_HASH(Ped ped);
 ```
 
 ## Parameters

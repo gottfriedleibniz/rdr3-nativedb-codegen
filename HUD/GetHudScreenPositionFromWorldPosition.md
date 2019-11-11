@@ -5,7 +5,7 @@ ns: HUD
 
 ```c
 // 0xB39C81628EF10B42
-Any GET_HUD_SCREEN_POSITION_FROM_WORLD_POSITION(float worldX, float worldY, float worldZ, float* screenX, float* screenY);
+BOOL GET_HUD_SCREEN_POSITION_FROM_WORLD_POSITION(float worldX, float worldY, float worldZ, float* screenX, float* screenY);
 ```
 
 ## Parameters

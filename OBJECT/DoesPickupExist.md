@@ -5,7 +5,7 @@ ns: OBJECT
 
 ```c
 // 0xAFC1CA75AD4074D1
-Any DOES_PICKUP_EXIST(Pickup pickup);
+BOOL DOES_PICKUP_EXIST(Pickup pickup);
 ```
 
 ## Parameters

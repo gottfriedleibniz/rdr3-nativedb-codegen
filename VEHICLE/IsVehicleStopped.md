@@ -5,7 +5,7 @@ ns: VEHICLE
 
 ```c
 // 0x78C3311A73135241
-Any IS_VEHICLE_STOPPED(Vehicle vehicle);
+BOOL IS_VEHICLE_STOPPED(Vehicle vehicle);
 ```
 
 ## Parameters

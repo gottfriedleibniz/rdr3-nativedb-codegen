@@ -5,7 +5,7 @@ ns: CAM
 
 ```c
 // 0xA263DDF694D563F6
-Any PLAY_CAM_ANIM(Cam cam, char* animName, char* animDictionary, float x, float y, float z, float xRot, float yRot, float zRot, BOOL p9, int p10);
+BOOL PLAY_CAM_ANIM(Cam cam, char* animName, char* animDictionary, float x, float y, float z, float xRot, float yRot, float zRot, BOOL p9, int p10);
 ```
 
 ## Parameters

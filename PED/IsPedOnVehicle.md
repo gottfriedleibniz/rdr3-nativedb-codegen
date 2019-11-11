@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x67722AEB798E5FAB
-Any IS_PED_ON_VEHICLE(Ped ped);
+BOOL IS_PED_ON_VEHICLE(Ped ped);
 ```
 
 ## Parameters

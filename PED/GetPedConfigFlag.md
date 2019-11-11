@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x7EE53118C892B513
-Any GET_PED_CONFIG_FLAG(Ped ped, int flagId, BOOL p2);
+BOOL GET_PED_CONFIG_FLAG(Ped ped, int flagId, BOOL p2);
 ```
 
 ## Parameters

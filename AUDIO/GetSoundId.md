@@ -5,6 +5,6 @@ ns: AUDIO
 
 ```c
 // 0x430386FE9BF80B45
-Any GET_SOUND_ID();
+int GET_SOUND_ID();
 ```
 

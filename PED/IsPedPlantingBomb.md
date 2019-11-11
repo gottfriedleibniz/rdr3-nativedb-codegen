@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0xC70B5FAE151982D8
-Any IS_PED_PLANTING_BOMB(Ped ped);
+BOOL IS_PED_PLANTING_BOMB(Ped ped);
 ```
 
 ## Parameters

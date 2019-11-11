@@ -5,7 +5,7 @@ ns: MAP
 
 ```c
 // 0x6D2C41A8BD6D6FD0
-Any GET_BLIP_FROM_ENTITY(Entity entity);
+Blip GET_BLIP_FROM_ENTITY(Entity entity);
 ```
 
 ## Parameters

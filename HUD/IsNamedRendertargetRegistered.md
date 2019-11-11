@@ -5,7 +5,7 @@ ns: HUD
 
 ```c
 // 0x3EE32F7964C40FE6
-Any IS_NAMED_RENDERTARGET_REGISTERED(char* name);
+BOOL IS_NAMED_RENDERTARGET_REGISTERED(char* name);
 ```
 
 ## Parameters

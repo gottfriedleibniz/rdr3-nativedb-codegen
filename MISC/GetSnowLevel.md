@@ -5,6 +5,6 @@ ns: MISC
 
 ```c
 // 0x1E5D727041BE1709
-Any GET_SNOW_LEVEL();
+float GET_SNOW_LEVEL();
 ```
 

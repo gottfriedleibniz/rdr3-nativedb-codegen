@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x5891CAC5D4ACFF74
-Any IS_PED_IN_GROUP(Ped ped);
+BOOL IS_PED_IN_GROUP(Ped ped);
 ```
 
 ## Parameters

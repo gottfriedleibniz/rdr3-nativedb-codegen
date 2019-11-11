@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x083961498679DC9F
-Any IS_ANY_PED_NEAR_POINT(float x, float y, float z, float radius);
+BOOL IS_ANY_PED_NEAR_POINT(float x, float y, float z, float radius);
 ```
 
 ## Parameters

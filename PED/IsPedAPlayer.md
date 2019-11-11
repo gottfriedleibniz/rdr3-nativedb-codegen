@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x12534C348C6CB68B
-Any IS_PED_A_PLAYER(Ped ped);
+BOOL IS_PED_A_PLAYER(Ped ped);
 ```
 
 ## Parameters

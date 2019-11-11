@@ -5,7 +5,7 @@ ns: VEHICLE
 
 ```c
 // 0xC867FD144F2469D3
-Any GET_VEHICLE_DOOR_LOCK_STATUS(Vehicle vehicle);
+int GET_VEHICLE_DOOR_LOCK_STATUS(Vehicle vehicle);
 ```
 
 ## Parameters

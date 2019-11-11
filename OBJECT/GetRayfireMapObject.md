@@ -5,7 +5,7 @@ ns: OBJECT
 
 ```c
 // 0xB48FCED898292E52
-Any GET_RAYFIRE_MAP_OBJECT(float x, float y, float z, float radius, char* name);
+Object GET_RAYFIRE_MAP_OBJECT(float x, float y, float z, float radius, char* name);
 ```
 
 ## Parameters

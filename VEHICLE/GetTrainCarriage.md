@@ -5,7 +5,7 @@ ns: VEHICLE
 
 ```c
 // 0xD0FB093A4CDB932C
-Any GET_TRAIN_CARRIAGE(Vehicle train, int trailerNumber);
+Entity GET_TRAIN_CARRIAGE(Vehicle train, int trailerNumber);
 ```
 
 ## Parameters

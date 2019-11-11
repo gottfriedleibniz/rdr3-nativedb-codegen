@@ -5,7 +5,7 @@ ns: MISC
 
 ```c
 // 0xB2C69E11A37B5AF0
-Any OVERRIDE_SAVE_HOUSE(BOOL p0, float p1, float p2, float p3, float p4, BOOL p5, float p6, float p7);
+BOOL OVERRIDE_SAVE_HOUSE(BOOL p0, float p1, float p2, float p3, float p4, BOOL p5, float p6, float p7);
 ```
 
 ## Parameters

@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x7C2AC9CA66575FBF
-Any GET_PED_STEALTH_MOVEMENT(Ped ped);
+BOOL GET_PED_STEALTH_MOVEMENT(Ped ped);
 ```
 
 ## Parameters

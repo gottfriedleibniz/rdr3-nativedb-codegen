@@ -5,7 +5,7 @@ ns: MISC
 
 ```c
 // 0xD3852F22AB713A1F
-Any ARE_STRINGS_EQUAL(char* string1, char* string2);
+BOOL ARE_STRINGS_EQUAL(char* string1, char* string2);
 ```
 
 ## Parameters

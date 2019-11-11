@@ -5,7 +5,7 @@ ns: _NAMESPACE81
 
 ```c
 // 0x8974647ED222EA5F
-Any TEST_PROBE_AGAINST_ALL_WATER(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
+BOOL TEST_PROBE_AGAINST_ALL_WATER(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
 ```
 
 ## Parameters

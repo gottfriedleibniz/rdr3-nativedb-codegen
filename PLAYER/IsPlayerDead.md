@@ -5,7 +5,7 @@ ns: PLAYER
 
 ```c
 // 0x2E9C3FCB6798F397
-Any IS_PLAYER_DEAD(Player player);
+BOOL IS_PLAYER_DEAD(Player player);
 ```
 
 ## Parameters

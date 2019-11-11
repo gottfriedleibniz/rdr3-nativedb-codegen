@@ -5,6 +5,6 @@ ns: PLAYER
 
 ```c
 // 0x47E385B0D957C8D4
-Any GET_PLAYER_INDEX();
+Player GET_PLAYER_INDEX();
 ```
 

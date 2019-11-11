@@ -5,7 +5,7 @@ ns: PAD
 
 ```c
 // 0xE8A25867FBA3B05E
-Any _SET_CONTROL_NORMAL(int inputGroup, int control, float amount);
+BOOL _SET_CONTROL_NORMAL(int inputGroup, int control, float amount);
 ```
 
 ## Parameters

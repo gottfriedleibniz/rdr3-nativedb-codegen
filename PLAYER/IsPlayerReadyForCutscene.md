@@ -5,7 +5,7 @@ ns: PLAYER
 
 ```c
 // 0xAA67BCB0097F2FA3
-Any IS_PLAYER_READY_FOR_CUTSCENE(Player player);
+BOOL IS_PLAYER_READY_FOR_CUTSCENE(Player player);
 ```
 
 ## Parameters

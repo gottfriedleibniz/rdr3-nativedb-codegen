@@ -5,7 +5,7 @@ ns: ENTITY
 
 ```c
 // 0xAEB40615337EF1E3
-Any HAS_ENTITY_ANIM_FINISHED(Entity entity, char* animDict, char* animName, int p3);
+BOOL HAS_ENTITY_ANIM_FINISHED(Entity entity, char* animDict, char* animName, int p3);
 ```
 
 ## Parameters

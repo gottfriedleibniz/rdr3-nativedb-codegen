@@ -5,7 +5,7 @@ ns: ENTITY
 
 ```c
 // 0xDEE49D5CA6C49148
-Any IS_ENTITY_PLAYING_ANIM(Entity entity, char* animDict, char* animName, int taskFlag);
+BOOL IS_ENTITY_PLAYING_ANIM(Entity entity, char* animDict, char* animName, int taskFlag);
 ```
 
 ## Parameters

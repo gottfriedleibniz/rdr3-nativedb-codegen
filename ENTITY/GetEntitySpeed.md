@@ -5,7 +5,7 @@ ns: ENTITY
 
 ```c
 // 0xFB6BA510A533DF81
-Any GET_ENTITY_SPEED(Entity entity);
+float GET_ENTITY_SPEED(Entity entity);
 ```
 
 ## Parameters

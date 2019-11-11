@@ -5,7 +5,7 @@ ns: _NAMESPACE81
 
 ```c
 // 0xFCA8B23F28813F69
-Any GET_WATER_HEIGHT(float x, float y, float z, float* height);
+BOOL GET_WATER_HEIGHT(float x, float y, float z, float* height);
 ```
 
 ## Parameters

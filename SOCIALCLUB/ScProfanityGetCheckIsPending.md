@@ -5,7 +5,7 @@ ns: SOCIALCLUB
 
 ```c
 // 0x3A10BCD0C8AA0B82
-Any SC_PROFANITY_GET_CHECK_IS_PENDING(int token);
+BOOL SC_PROFANITY_GET_CHECK_IS_PENDING(int token);
 ```
 
 ## Parameters

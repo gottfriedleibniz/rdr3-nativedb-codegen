@@ -5,7 +5,7 @@ ns: ENTITY
 
 ```c
 // 0x20487F0DA9AF164A
-Any DOES_ENTITY_HAVE_DRAWABLE(Entity entity);
+BOOL DOES_ENTITY_HAVE_DRAWABLE(Entity entity);
 ```
 
 ## Parameters

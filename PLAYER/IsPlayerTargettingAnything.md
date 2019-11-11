@@ -5,7 +5,7 @@ ns: PLAYER
 
 ```c
 // 0x4605C66E0F935F83
-Any IS_PLAYER_TARGETTING_ANYTHING(Player player);
+BOOL IS_PLAYER_TARGETTING_ANYTHING(Player player);
 ```
 
 ## Parameters

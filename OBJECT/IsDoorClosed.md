@@ -5,7 +5,7 @@ ns: OBJECT
 
 ```c
 // 0xC531EE8A1145A149
-Any IS_DOOR_CLOSED(Hash doorHash);
+BOOL IS_DOOR_CLOSED(Hash doorHash);
 ```
 
 ## Parameters

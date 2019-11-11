@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x3F69145BBA87BAE7
-Any GET_PED_MONEY(Ped ped);
+int GET_PED_MONEY(Ped ped);
 ```
 
 ## Parameters

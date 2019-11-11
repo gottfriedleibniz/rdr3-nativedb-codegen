@@ -5,7 +5,7 @@ ns: ENTITY
 
 ```c
 // 0xDB0954E9960F6457
-Any GET_ENTITY_FORWARD_X(Entity entity);
+float GET_ENTITY_FORWARD_X(Entity entity);
 ```
 
 ## Parameters

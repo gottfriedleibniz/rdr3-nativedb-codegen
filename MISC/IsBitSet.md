@@ -5,7 +5,7 @@ ns: MISC
 
 ```c
 // 0x4ED6CFDFE8D4131A
-Any IS_BIT_SET(int address, int offset);
+BOOL IS_BIT_SET(int address, int offset);
 ```
 
 ## Parameters

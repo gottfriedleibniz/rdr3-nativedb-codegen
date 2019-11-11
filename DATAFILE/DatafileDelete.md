@@ -5,6 +5,6 @@ ns: DATAFILE
 
 ```c
 // 0x9FB90EEDEA9F2D5C
-Any DATAFILE_DELETE();
+void DATAFILE_DELETE();
 ```
 

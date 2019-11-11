@@ -5,7 +5,7 @@ ns: VEHICLE
 
 ```c
 // 0x3F5029A8FC060C48
-Any IS_VEHICLE_IN_BURNOUT(Vehicle vehicle);
+BOOL IS_VEHICLE_IN_BURNOUT(Vehicle vehicle);
 ```
 
 ## Parameters

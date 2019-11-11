@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x2E0E1C2B4F6CB339
-Any IS_PED_IN_ANY_BOAT(Ped ped);
+BOOL IS_PED_IN_ANY_BOAT(Ped ped);
 ```
 
 ## Parameters

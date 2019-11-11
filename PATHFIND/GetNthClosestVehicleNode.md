@@ -5,7 +5,7 @@ ns: PATHFIND
 
 ```c
 // 0x5A6D8DF6FBC5D0C4
-Any GET_NTH_CLOSEST_VEHICLE_NODE(float x, float y, float z, int nthClosest, Vector3* outPosition, Any unknown1, Any unknown2, Any unknown3);
+BOOL GET_NTH_CLOSEST_VEHICLE_NODE(float x, float y, float z, int nthClosest, Vector3* outPosition, Any unknown1, Any unknown2, Any unknown3);
 ```
 
 ## Parameters

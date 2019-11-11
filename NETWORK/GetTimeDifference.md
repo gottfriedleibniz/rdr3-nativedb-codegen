@@ -5,7 +5,7 @@ ns: NETWORK
 
 ```c
 // 0xA2C6FC031D46FFF0
-Any GET_TIME_DIFFERENCE(int timeA, int timeB);
+int GET_TIME_DIFFERENCE(int timeA, int timeB);
 ```
 
 ## Parameters

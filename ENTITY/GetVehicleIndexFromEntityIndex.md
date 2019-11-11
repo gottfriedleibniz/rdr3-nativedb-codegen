@@ -5,7 +5,7 @@ ns: ENTITY
 
 ```c
 // 0xDF1E5AAC561AFC59
-Any GET_VEHICLE_INDEX_FROM_ENTITY_INDEX(Entity entity);
+Vehicle GET_VEHICLE_INDEX_FROM_ENTITY_INDEX(Entity entity);
 ```
 
 ## Parameters

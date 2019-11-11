@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0xE7E11B8DCBED1058
-Any GET_MOUNT(Ped ped);
+Ped GET_MOUNT(Ped ped);
 ```
 
 ## Parameters

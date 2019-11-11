@@ -5,7 +5,7 @@ ns: TASK
 
 ```c
 // 0x349CE7B56DAFD95C
-Any IS_MOVE_BLEND_RATIO_STILL(Ped ped);
+BOOL IS_MOVE_BLEND_RATIO_STILL(Ped ped);
 ```
 
 ## Parameters

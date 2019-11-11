@@ -5,7 +5,7 @@ ns: CAM
 
 ```c
 // 0x095EDCD24D90033A
-Any GET_CAM_SPLINE_PHASE(Cam cam);
+float GET_CAM_SPLINE_PHASE(Cam cam);
 ```
 
 ## Parameters

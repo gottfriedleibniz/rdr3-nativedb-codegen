@@ -5,7 +5,7 @@ ns: OBJECT
 
 ```c
 // 0xF9C36251F6E48E33
-Any DOES_PICKUP_OF_TYPE_EXIST_IN_AREA(Hash pickupHash, float x, float y, float z, float radius);
+BOOL DOES_PICKUP_OF_TYPE_EXIST_IN_AREA(Hash pickupHash, float x, float y, float z, float radius);
 ```
 
 ## Parameters

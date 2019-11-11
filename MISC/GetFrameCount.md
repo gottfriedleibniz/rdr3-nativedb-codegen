@@ -5,6 +5,6 @@ ns: MISC
 
 ```c
 // 0x77DFA958FCF100C1
-Any GET_FRAME_COUNT();
+int GET_FRAME_COUNT();
 ```
 

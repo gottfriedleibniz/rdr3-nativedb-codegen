@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x18A3E9EE1297FD39
-Any GET_MELEE_TARGET_FOR_PED(Ped ped);
+Ped GET_MELEE_TARGET_FOR_PED(Ped ped);
 ```
 
 ## Parameters

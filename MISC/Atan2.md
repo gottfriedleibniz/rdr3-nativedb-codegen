@@ -5,7 +5,7 @@ ns: MISC
 
 ```c
 // 0x965B220A066E3F07
-Any ATAN2(float p0, float p1);
+float ATAN2(float p0, float p1);
 ```
 
 ## Parameters

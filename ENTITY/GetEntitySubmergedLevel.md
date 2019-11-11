@@ -5,7 +5,7 @@ ns: ENTITY
 
 ```c
 // 0x4A77C3F73FD9E831
-Any GET_ENTITY_SUBMERGED_LEVEL(Entity entity);
+float GET_ENTITY_SUBMERGED_LEVEL(Entity entity);
 ```
 
 ## Parameters

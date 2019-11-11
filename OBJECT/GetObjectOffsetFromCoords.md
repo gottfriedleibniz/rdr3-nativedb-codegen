@@ -5,7 +5,7 @@ ns: OBJECT
 
 ```c
 // 0x163E252DE035A133
-Any _GET_OBJECT_OFFSET_FROM_COORDS(float xPos, float yPos, float zPos, float heading, float xOffset, float yOffset, float zOffset);
+Vector3 _GET_OBJECT_OFFSET_FROM_COORDS(float xPos, float yPos, float zPos, float heading, float xOffset, float yOffset, float zOffset);
 ```
 
 ## Parameters

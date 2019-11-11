@@ -5,6 +5,6 @@ ns: CAM
 
 ```c
 // 0xB4132CA1B0EE1365
-Any _GET_GAMEPLAY_CAM_ZOOM();
+float _GET_GAMEPLAY_CAM_ZOOM();
 ```
 

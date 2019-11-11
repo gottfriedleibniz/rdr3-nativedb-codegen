@@ -5,7 +5,7 @@ ns: PHYSICS
 
 ```c
 // 0x3655F544CD30F0B5
-Any GET_ROPE_VERTEX_COUNT(int ropeId);
+int GET_ROPE_VERTEX_COUNT(int ropeId);
 ```
 
 ## Parameters

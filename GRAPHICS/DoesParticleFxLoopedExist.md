@@ -5,7 +5,7 @@ ns: GRAPHICS
 
 ```c
 // 0x9DD5AFF561E88F2A
-Any DOES_PARTICLE_FX_LOOPED_EXIST(int ptfxHandle);
+BOOL DOES_PARTICLE_FX_LOOPED_EXIST(int ptfxHandle);
 ```
 
 ## Parameters

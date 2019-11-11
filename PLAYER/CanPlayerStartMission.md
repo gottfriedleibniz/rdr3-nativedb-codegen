@@ -5,7 +5,7 @@ ns: PLAYER
 
 ```c
 // 0x2DF170B1185AF777
-Any CAN_PLAYER_START_MISSION(Player player);
+BOOL CAN_PLAYER_START_MISSION(Player player);
 ```
 
 ## Parameters

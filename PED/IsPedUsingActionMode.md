@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x00E73468D085F745
-Any IS_PED_USING_ACTION_MODE(Ped ped);
+BOOL IS_PED_USING_ACTION_MODE(Ped ped);
 ```
 
 ## Parameters

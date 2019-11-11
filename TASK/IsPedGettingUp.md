@@ -5,7 +5,7 @@ ns: TASK
 
 ```c
 // 0x2A74E1D5F2F00EEC
-Any IS_PED_GETTING_UP(Ped ped);
+BOOL IS_PED_GETTING_UP(Ped ped);
 ```
 
 ## Parameters

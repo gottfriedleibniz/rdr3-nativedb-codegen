@@ -5,7 +5,7 @@ ns: TASK
 
 ```c
 // 0x00A9010CFE1E3533
-Any GET_SEQUENCE_PROGRESS(Ped ped);
+int GET_SEQUENCE_PROGRESS(Ped ped);
 ```
 
 ## Parameters

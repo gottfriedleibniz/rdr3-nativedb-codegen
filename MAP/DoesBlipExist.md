@@ -5,7 +5,7 @@ ns: MAP
 
 ```c
 // 0xCD82FA174080B3B1
-Any DOES_BLIP_EXIST(Blip blip);
+BOOL DOES_BLIP_EXIST(Blip blip);
 ```
 
 ## Parameters
