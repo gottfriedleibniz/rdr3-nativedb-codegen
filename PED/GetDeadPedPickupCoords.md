@@ -5,10 +5,10 @@ ns: PED
 
 ```c
 // 0xCD5003B097200F36
-Any GET_DEAD_PED_PICKUP_COORDS(Any p0, Any p1, Any p2);
+Any GET_DEAD_PED_PICKUP_COORDS(Ped ped, float p1, float p2);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:

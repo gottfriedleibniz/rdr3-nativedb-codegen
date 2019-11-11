@@ -5,7 +5,7 @@ ns: CAM
 
 ```c
 // 0xB90411F480457A6C
-void SET_CINEMATIC_BUTTON_ACTIVE(Any p0);
+void SET_CINEMATIC_BUTTON_ACTIVE(BOOL p0);
 ```
 
 ## Parameters

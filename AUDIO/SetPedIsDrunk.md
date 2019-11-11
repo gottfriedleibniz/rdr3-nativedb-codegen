@@ -5,9 +5,9 @@ ns: AUDIO
 
 ```c
 // 0x95D2D383D5396B8A
-void SET_PED_IS_DRUNK(Any p0, Any p1);
+void SET_PED_IS_DRUNK(Ped ped, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **toggle**:

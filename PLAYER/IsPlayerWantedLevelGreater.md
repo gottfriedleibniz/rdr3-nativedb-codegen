@@ -5,9 +5,9 @@ ns: PLAYER
 
 ```c
 // 0xE1C0AD4C24324C36
-Any IS_PLAYER_WANTED_LEVEL_GREATER(Any p0, Any p1);
+Any IS_PLAYER_WANTED_LEVEL_GREATER(Player player, int wantedLevel);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **player**:
+* **wantedLevel**:

@@ -5,8 +5,8 @@ ns: GRAPHICS
 
 ```c
 // 0x593FAF7FC9401A56
-void SET_TV_CHANNEL(Any p0);
+void SET_TV_CHANNEL(int channel);
 ```
 
 ## Parameters
-* **p0**:
+* **channel**:

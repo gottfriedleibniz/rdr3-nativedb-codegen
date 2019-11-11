@@ -5,7 +5,7 @@ ns: MISC
 
 ```c
 // 0xEAB6823B82FBD283
-void SET_DISPATCH_IDEAL_SPAWN_DISTANCE(Any p0);
+void SET_DISPATCH_IDEAL_SPAWN_DISTANCE(float p0);
 ```
 
 ## Parameters

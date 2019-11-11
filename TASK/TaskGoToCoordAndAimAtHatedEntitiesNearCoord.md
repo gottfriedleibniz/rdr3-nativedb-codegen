@@ -5,22 +5,22 @@ ns: TASK
 
 ```c
 // 0xA55547801EB331FC
-void TASK_GO_TO_COORD_AND_AIM_AT_HATED_ENTITIES_NEAR_COORD(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11, Any p12, Any p13, Any p14);
+void TASK_GO_TO_COORD_AND_AIM_AT_HATED_ENTITIES_NEAR_COORD(Ped pedHandle, float goToLocationX, float goToLocationY, float goToLocationZ, float focusLocationX, float focusLocationY, float focusLocationZ, float speed, BOOL shootAtEnemies, float distanceToStopAt, float noRoadsDistance, BOOL unkTrue, int unkFlag, int aimingFlag, Hash firingPattern);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
-* **p7**:
-* **p8**:
-* **p9**:
-* **p10**:
-* **p11**:
-* **p12**:
-* **p13**:
-* **p14**:
+* **pedHandle**:
+* **goToLocationX**:
+* **goToLocationY**:
+* **goToLocationZ**:
+* **focusLocationX**:
+* **focusLocationY**:
+* **focusLocationZ**:
+* **speed**:
+* **shootAtEnemies**:
+* **distanceToStopAt**:
+* **noRoadsDistance**:
+* **unkTrue**:
+* **unkFlag**:
+* **aimingFlag**:
+* **firingPattern**:

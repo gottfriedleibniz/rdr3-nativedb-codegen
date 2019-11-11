@@ -5,19 +5,19 @@ ns: OBJECT
 
 ```c
 // 0xF6DF6E90DE7DF90F
-void SET_OBJECT_PHYSICS_PARAMS(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11);
+void SET_OBJECT_PHYSICS_PARAMS(Object object, float weight, float p2, float p3, float p4, float p5, float gravity, float p7, float p8, float p9, float p10, float buoyancy);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **object**:
+* **weight**:
 * **p2**:
 * **p3**:
 * **p4**:
 * **p5**:
-* **p6**:
+* **gravity**:
 * **p7**:
 * **p8**:
 * **p9**:
 * **p10**:
-* **p11**:
+* **buoyancy**:

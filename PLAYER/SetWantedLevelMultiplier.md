@@ -5,8 +5,8 @@ ns: PLAYER
 
 ```c
 // 0xD7FA719CB54866C2
-void SET_WANTED_LEVEL_MULTIPLIER(Any p0);
+void SET_WANTED_LEVEL_MULTIPLIER(float multiplier);
 ```
 
 ## Parameters
-* **p0**:
+* **multiplier**:

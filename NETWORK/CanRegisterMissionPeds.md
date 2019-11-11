@@ -5,8 +5,8 @@ ns: NETWORK
 
 ```c
 // 0xBCBF4FEF9FA5D781
-Any CAN_REGISTER_MISSION_PEDS(Any p0);
+Any CAN_REGISTER_MISSION_PEDS(int amount);
 ```
 
 ## Parameters
-* **p0**:
+* **amount**:

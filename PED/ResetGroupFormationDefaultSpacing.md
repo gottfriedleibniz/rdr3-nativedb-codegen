@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x63DAB4CCB3273205
-void RESET_GROUP_FORMATION_DEFAULT_SPACING(Any p0);
+void RESET_GROUP_FORMATION_DEFAULT_SPACING(int groupHandle);
 ```
 
 ## Parameters
-* **p0**:
+* **groupHandle**:

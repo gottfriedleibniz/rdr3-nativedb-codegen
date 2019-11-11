@@ -5,8 +5,8 @@ ns: PLAYER
 
 ```c
 // 0x2DF170B1185AF777
-Any CAN_PLAYER_START_MISSION(Any p0);
+Any CAN_PLAYER_START_MISSION(Player player);
 ```
 
 ## Parameters
-* **p0**:
+* **player**:

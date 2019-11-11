@@ -5,8 +5,8 @@ ns: AUDIO
 
 ```c
 // 0xCC9AA18DCC7084F4
-Any IS_SCRIPTED_SPEECH_PLAYING(Any p0);
+Any IS_SCRIPTED_SPEECH_PLAYING(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

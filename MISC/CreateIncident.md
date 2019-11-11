@@ -5,16 +5,16 @@ ns: MISC
 
 ```c
 // 0x3F892CAF67444AE7
-Any CREATE_INCIDENT(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8);
+Any CREATE_INCIDENT(int dispatchService, float x, float y, float z, int numUnits, float radius, int* outIncidentID, Any p7, Any p8);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
+* **dispatchService**:
+* **x**:
+* **y**:
+* **z**:
+* **numUnits**:
+* **radius**:
+* **outIncidentID**:
 * **p7**:
 * **p8**:

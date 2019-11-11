@@ -5,8 +5,8 @@ ns: VEHICLE
 
 ```c
 // 0x79811282A9D1AE56
-void SET_VEHICLE_FIXED(Any p0);
+void SET_VEHICLE_FIXED(Vehicle vehicle);
 ```
 
 ## Parameters
-* **p0**:
+* **vehicle**:

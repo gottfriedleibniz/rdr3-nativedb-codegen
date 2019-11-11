@@ -5,10 +5,10 @@ ns: VEHICLE
 
 ```c
 // 0xC6B9BF123B9463B6
-void _SET_VEHICLE_EXCLUSIVE_DRIVER_2(Any p0, Any p1, Any p2);
+void _SET_VEHICLE_EXCLUSIVE_DRIVER_2(Vehicle vehicle, Ped ped, int index);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **vehicle**:
+* **ped**:
+* **index**:

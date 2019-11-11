@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x35AD938C74CACD6A
-void MODIFY_VEHICLE_TOP_SPEED(Any p0, Any p1);
+void MODIFY_VEHICLE_TOP_SPEED(Vehicle vehicle, float value);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **value**:

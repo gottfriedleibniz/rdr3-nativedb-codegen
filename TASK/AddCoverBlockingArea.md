@@ -5,16 +5,16 @@ ns: TASK
 
 ```c
 // 0x45C597097DD7CB81
-void ADD_COVER_BLOCKING_AREA(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9);
+void ADD_COVER_BLOCKING_AREA(float playerX, float playerY, float playerZ, float radiusX, float radiusY, float radiusZ, BOOL p6, BOOL p7, BOOL p8, BOOL p9);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
+* **playerX**:
+* **playerY**:
+* **playerZ**:
+* **radiusX**:
+* **radiusY**:
+* **radiusZ**:
 * **p6**:
 * **p7**:
 * **p8**:

@@ -5,8 +5,8 @@ ns: SCRIPTS
 
 ```c
 // 0x5CB83156AA038F95
-void SET_NO_LOADING_SCREEN(Any p0);
+void SET_NO_LOADING_SCREEN(BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
+* **toggle**:

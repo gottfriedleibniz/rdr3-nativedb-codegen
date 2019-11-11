@@ -5,9 +5,9 @@ ns: CAM
 
 ```c
 // 0x87295BCA613800C8
-void SET_CAM_ACTIVE(Any p0, Any p1);
+void SET_CAM_ACTIVE(Cam cam, BOOL active);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **cam**:
+* **active**:

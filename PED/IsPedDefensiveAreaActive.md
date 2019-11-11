@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0xBA63D9FE45412247
-Any IS_PED_DEFENSIVE_AREA_ACTIVE(Any p0, Any p1);
+Any IS_PED_DEFENSIVE_AREA_ACTIVE(Ped ped, BOOL p1);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:

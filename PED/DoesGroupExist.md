@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x7C6B0C22F9F40BBE
-Any DOES_GROUP_EXIST(Any p0);
+Any DOES_GROUP_EXIST(int groupId);
 ```
 
 ## Parameters
-* **p0**:
+* **groupId**:

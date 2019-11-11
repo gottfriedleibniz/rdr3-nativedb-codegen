@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x2BC338A7B21F4608
-void REQUEST_PED_VEHICLE_VISIBILITY_TRACKING(Any p0, Any p1);
+void REQUEST_PED_VEHICLE_VISIBILITY_TRACKING(Ped ped, BOOL p1);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:

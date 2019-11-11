@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0xAEAB044F05B92659
-void SET_BOAT_ANCHOR(Any p0, Any p1);
+void SET_BOAT_ANCHOR(Vehicle vehicle, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **toggle**:

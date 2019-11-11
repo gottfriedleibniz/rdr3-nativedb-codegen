@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0xCC0EF140F99365C5
-void DELETE_PED(Any p0);
+void DELETE_PED(Ped* ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

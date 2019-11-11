@@ -5,9 +5,9 @@ ns: ENTITY
 
 ```c
 // 0x5851CC48405F4A07
-Any HAS_ANIM_EVENT_FIRED(Any p0, Any p1);
+Any HAS_ANIM_EVENT_FIRED(Entity entity, Hash actionHash);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **entity**:
+* **actionHash**:

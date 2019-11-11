@@ -5,11 +5,11 @@ ns: VEHICLE
 
 ```c
 // 0x550CE392A4672412
-void SET_VEHICLE_DOOR_OPEN(Any p0, Any p1, Any p2, Any p3);
+void SET_VEHICLE_DOOR_OPEN(Vehicle vehicle, int doorIndex, BOOL loose, BOOL openInstantly);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **vehicle**:
+* **doorIndex**:
+* **loose**:
+* **openInstantly**:

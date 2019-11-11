@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0xC80A74AC829DDD92
-void SET_PED_RELATIONSHIP_GROUP_HASH(Any p0, Any p1);
+void SET_PED_RELATIONSHIP_GROUP_HASH(Ped ped, Hash hash);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **hash**:

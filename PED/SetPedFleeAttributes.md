@@ -5,10 +5,10 @@ ns: PED
 
 ```c
 // 0x70A2D1137C8ED7C9
-void SET_PED_FLEE_ATTRIBUTES(Any p0, Any p1, Any p2);
+void SET_PED_FLEE_ATTRIBUTES(Ped ped, int attributeFlags, BOOL enable);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **ped**:
+* **attributeFlags**:
+* **enable**:

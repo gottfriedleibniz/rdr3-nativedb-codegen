@@ -5,9 +5,9 @@ ns: ENTITY
 
 ```c
 // 0x740CB4F3F602C9F4
-void _SET_ENTITY_SOMETHING(Any p0, Any p1);
+void _SET_ENTITY_SOMETHING(Entity entity, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **entity**:
+* **toggle**:

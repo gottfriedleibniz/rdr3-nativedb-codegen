@@ -5,11 +5,11 @@ ns: TASK
 
 ```c
 // 0x944F30DCB7096BDE
-void TASK_COMBAT_PED_TIMED(Any p0, Any p1, Any p2, Any p3);
+void TASK_COMBAT_PED_TIMED(Any p0, Ped ped, int p2, Any p3);
 ```
 
 ## Parameters
 * **p0**:
-* **p1**:
+* **ped**:
 * **p2**:
 * **p3**:

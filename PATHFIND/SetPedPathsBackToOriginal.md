@@ -5,14 +5,14 @@ ns: PATHFIND
 
 ```c
 // 0xE04B48F2CC926253
-void SET_PED_PATHS_BACK_TO_ORIGINAL(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6);
+void SET_PED_PATHS_BACK_TO_ORIGINAL(float x1, float y1, float z1, float x2, float y2, float z2, BOOL p6);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
+* **x1**:
+* **y1**:
+* **z1**:
+* **x2**:
+* **y2**:
+* **z2**:
 * **p6**:

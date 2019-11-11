@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x4D9CA1009AFBD057
-void SET_PED_COMBAT_MOVEMENT(Any p0, Any p1);
+void SET_PED_COMBAT_MOVEMENT(Ped ped, int combatMovement);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **combatMovement**:

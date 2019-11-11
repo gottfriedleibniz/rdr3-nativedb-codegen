@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x74D4E028107450A9
-void REMOVE_PED_DEFENSIVE_AREA(Any p0, Any p1);
+void REMOVE_PED_DEFENSIVE_AREA(Ped ped, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **toggle**:

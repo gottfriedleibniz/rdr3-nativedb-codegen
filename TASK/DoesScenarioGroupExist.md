@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0xF9034C136C9E00D3
-Any DOES_SCENARIO_GROUP_EXIST(Any p0);
+Any DOES_SCENARIO_GROUP_EXIST(char* scenarioGroup);
 ```
 
 ## Parameters
-* **p0**:
+* **scenarioGroup**:

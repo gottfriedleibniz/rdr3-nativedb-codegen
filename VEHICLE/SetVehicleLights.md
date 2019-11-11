@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x629F0A0E952CAE7D
-void SET_VEHICLE_LIGHTS(Any p0, Any p1);
+void SET_VEHICLE_LIGHTS(Vehicle vehicle, int state);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **state**:

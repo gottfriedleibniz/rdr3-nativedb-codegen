@@ -5,11 +5,11 @@ ns: VEHICLE
 
 ```c
 // 0xD57F10EBBA814ECF
-void SET_VEHICLE_DOOR_CONTROL(Any p0, Any p1, Any p2, Any p3);
+void SET_VEHICLE_DOOR_CONTROL(Vehicle vehicle, int doorIndex, int speed, float angle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **vehicle**:
+* **doorIndex**:
+* **speed**:
+* **angle**:

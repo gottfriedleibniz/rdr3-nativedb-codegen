@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0xDFBA6BBFF7CCAFBB
-void SET_TRAIN_SPEED(Any p0, Any p1);
+void SET_TRAIN_SPEED(Vehicle train, float speed);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **train**:
+* **speed**:

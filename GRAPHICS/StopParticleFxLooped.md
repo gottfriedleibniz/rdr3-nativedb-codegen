@@ -5,9 +5,9 @@ ns: GRAPHICS
 
 ```c
 // 0x22970F3A088B133B
-void STOP_PARTICLE_FX_LOOPED(Any p0, Any p1);
+void STOP_PARTICLE_FX_LOOPED(int ptfxHandle, BOOL p1);
 ```
 
 ## Parameters
-* **p0**:
+* **ptfxHandle**:
 * **p1**:

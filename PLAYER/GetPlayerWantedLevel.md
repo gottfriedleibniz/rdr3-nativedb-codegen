@@ -5,8 +5,8 @@ ns: PLAYER
 
 ```c
 // 0xABC532F9098BFD9D
-Any GET_PLAYER_WANTED_LEVEL(Any p0);
+Any GET_PLAYER_WANTED_LEVEL(Player player);
 ```
 
 ## Parameters
-* **p0**:
+* **player**:

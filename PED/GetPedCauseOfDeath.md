@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x16FFE42AB2D2DC59
-Any GET_PED_CAUSE_OF_DEATH(Any p0);
+Any GET_PED_CAUSE_OF_DEATH(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

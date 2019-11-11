@@ -5,9 +5,9 @@ ns: PLAYER
 
 ```c
 // 0x34630A768925B852
-void SET_EVERYONE_IGNORE_PLAYER(Any p0, Any p1);
+void SET_EVERYONE_IGNORE_PLAYER(Player player, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **player**:
+* **toggle**:

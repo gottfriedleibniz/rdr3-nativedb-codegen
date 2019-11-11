@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0x0F16D042BD640EA3
-Any GET_PED_INDEX_FROM_ENTITY_INDEX(Any p0);
+Any GET_PED_INDEX_FROM_ENTITY_INDEX(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

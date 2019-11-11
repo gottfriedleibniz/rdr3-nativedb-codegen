@@ -5,8 +5,8 @@ ns: PLAYER
 
 ```c
 // 0x16C8D205DD5A2E90
-Any HAS_PLAYER_DAMAGED_AT_LEAST_ONE_NON_ANIMAL_PED(Any p0);
+Any HAS_PLAYER_DAMAGED_AT_LEAST_ONE_NON_ANIMAL_PED(Player player);
 ```
 
 ## Parameters
-* **p0**:
+* **player**:

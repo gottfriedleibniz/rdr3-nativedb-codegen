@@ -5,14 +5,14 @@ ns: GRAPHICS
 
 ```c
 // 0xD3A4A95FC94FE83B
-void SET_PARTICLE_FX_LOOPED_OFFSETS(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6);
+void SET_PARTICLE_FX_LOOPED_OFFSETS(int ptfxHandle, float x, float y, float z, float rotX, float rotY, float rotZ);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
+* **ptfxHandle**:
+* **x**:
+* **y**:
+* **z**:
+* **rotX**:
+* **rotY**:
+* **rotZ**:

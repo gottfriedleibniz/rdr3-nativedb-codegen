@@ -5,8 +5,8 @@ ns: INTERIOR
 
 ```c
 // 0xB417689857646F61
-Any GET_INTERIOR_FROM_ENTITY(Any p0);
+Any GET_INTERIOR_FROM_ENTITY(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

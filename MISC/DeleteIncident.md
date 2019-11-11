@@ -5,8 +5,8 @@ ns: MISC
 
 ```c
 // 0x5CFD0F0D6AAE0AEE
-void DELETE_INCIDENT(Any p0);
+void DELETE_INCIDENT(int incidentId);
 ```
 
 ## Parameters
-* **p0**:
+* **incidentId**:

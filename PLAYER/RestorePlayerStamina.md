@@ -5,9 +5,9 @@ ns: PLAYER
 
 ```c
 // 0xC41F4B6E23FE6A4A
-void RESTORE_PLAYER_STAMINA(Any p0, Any p1);
+void RESTORE_PLAYER_STAMINA(Player player, float p1);
 ```
 
 ## Parameters
-* **p0**:
+* **player**:
 * **p1**:

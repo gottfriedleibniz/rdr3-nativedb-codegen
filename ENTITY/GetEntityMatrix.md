@@ -5,12 +5,12 @@ ns: ENTITY
 
 ```c
 // 0x3A9B1120AF13FBF2
-void GET_ENTITY_MATRIX(Any p0, Any p1, Any p2, Any p3, Any p4);
+void GET_ENTITY_MATRIX(Entity entity, Vector3* rightVector, Vector3* forwardVector, Vector3* upVector, Vector3* position);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
+* **entity**:
+* **rightVector**:
+* **forwardVector**:
+* **upVector**:
+* **position**:

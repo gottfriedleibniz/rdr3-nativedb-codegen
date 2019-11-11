@@ -5,10 +5,10 @@ ns: PED
 
 ```c
 // 0x1913FE4CBF41C463
-void SET_PED_CONFIG_FLAG(Any p0, Any p1, Any p2);
+void SET_PED_CONFIG_FLAG(Ped ped, int flagId, BOOL value);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **ped**:
+* **flagId**:
+* **value**:

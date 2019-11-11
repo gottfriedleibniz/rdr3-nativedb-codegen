@@ -5,12 +5,12 @@ ns: HUD
 
 ```c
 // 0xB39C81628EF10B42
-Any GET_HUD_SCREEN_POSITION_FROM_WORLD_POSITION(Any p0, Any p1, Any p2, Any p3, Any p4);
+Any GET_HUD_SCREEN_POSITION_FROM_WORLD_POSITION(float worldX, float worldY, float worldZ, float* screenX, float* screenY);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
+* **worldX**:
+* **worldY**:
+* **worldZ**:
+* **screenX**:
+* **screenY**:

@@ -5,8 +5,8 @@ ns: HUD
 
 ```c
 // 0xD63FE3AF9FB3D53F
-void DISPLAY_HUD(Any p0);
+void DISPLAY_HUD(BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
+* **toggle**:

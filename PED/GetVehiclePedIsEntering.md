@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0xF92691AED837A5FC
-Any GET_VEHICLE_PED_IS_ENTERING(Any p0);
+Any GET_VEHICLE_PED_IS_ENTERING(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

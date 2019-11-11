@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x45BBCBA77C29A841
-void KNOCK_PED_OFF_VEHICLE(Any p0);
+void KNOCK_PED_OFF_VEHICLE(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

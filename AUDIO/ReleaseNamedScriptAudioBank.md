@@ -5,8 +5,8 @@ ns: AUDIO
 
 ```c
 // 0x77ED170667F50170
-void RELEASE_NAMED_SCRIPT_AUDIO_BANK(Any p0);
+void RELEASE_NAMED_SCRIPT_AUDIO_BANK(char* audioBank);
 ```
 
 ## Parameters
-* **p0**:
+* **audioBank**:

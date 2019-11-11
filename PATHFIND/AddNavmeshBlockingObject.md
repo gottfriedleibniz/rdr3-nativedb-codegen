@@ -5,16 +5,16 @@ ns: PATHFIND
 
 ```c
 // 0xFCD5C8E06E502F5A
-Any ADD_NAVMESH_BLOCKING_OBJECT(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8);
+Any ADD_NAVMESH_BLOCKING_OBJECT(float x, float y, float z, float scaleX, float scaleY, float scaleZ, float heading, BOOL p7, Any p8);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
+* **x**:
+* **y**:
+* **z**:
+* **scaleX**:
+* **scaleY**:
+* **scaleZ**:
+* **heading**:
 * **p7**:
 * **p8**:

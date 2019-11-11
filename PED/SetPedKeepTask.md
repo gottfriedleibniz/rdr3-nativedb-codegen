@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x971D38760FBC02EF
-void SET_PED_KEEP_TASK(Any p0, Any p1);
+void SET_PED_KEEP_TASK(Ped ped, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **toggle**:

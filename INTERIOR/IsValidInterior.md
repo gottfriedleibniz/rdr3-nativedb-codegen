@@ -5,8 +5,8 @@ ns: INTERIOR
 
 ```c
 // 0x017C1B3159F79F6C
-Any IS_VALID_INTERIOR(Any p0);
+Any IS_VALID_INTERIOR(int interiorID);
 ```
 
 ## Parameters
-* **p0**:
+* **interiorID**:

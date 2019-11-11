@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x34616828CD07F1A1
-Any IS_PED_SHOOTING(Any p0);
+Any IS_PED_SHOOTING(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

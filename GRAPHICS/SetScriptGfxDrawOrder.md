@@ -5,8 +5,8 @@ ns: GRAPHICS
 
 ```c
 // 0xCFCC78391C8B3814
-void SET_SCRIPT_GFX_DRAW_ORDER(Any p0);
+void SET_SCRIPT_GFX_DRAW_ORDER(int drawOrder);
 ```
 
 ## Parameters
-* **p0**:
+* **drawOrder**:

@@ -5,12 +5,12 @@ ns: CAM
 
 ```c
 // 0x63DFA6810AD78719
-void SET_CAM_ROT(Any p0, Any p1, Any p2, Any p3, Any p4);
+void SET_CAM_ROT(Cam cam, float rotX, float rotY, float rotZ, int rotationOrder);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
+* **cam**:
+* **rotX**:
+* **rotY**:
+* **rotZ**:
+* **rotationOrder**:

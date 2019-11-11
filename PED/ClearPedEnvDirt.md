@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x6585D955A68452A5
-void CLEAR_PED_ENV_DIRT(Any p0);
+void CLEAR_PED_ENV_DIRT(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

@@ -5,8 +5,8 @@ ns: GRAPHICS
 
 ```c
 // 0x73A97068787D7231
-void SET_TV_VOLUME(Any p0);
+void SET_TV_VOLUME(float volume);
 ```
 
 ## Parameters
-* **p0**:
+* **volume**:

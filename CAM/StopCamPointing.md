@@ -5,8 +5,8 @@ ns: CAM
 
 ```c
 // 0xCA1B30A3357C71F1
-void STOP_CAM_POINTING(Any p0);
+void STOP_CAM_POINTING(Cam cam);
 ```
 
 ## Parameters
-* **p0**:
+* **cam**:

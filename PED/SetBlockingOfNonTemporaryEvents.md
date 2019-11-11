@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x9F8AA94D6D97DBF4
-void SET_BLOCKING_OF_NON_TEMPORARY_EVENTS(Any p0, Any p1);
+void SET_BLOCKING_OF_NON_TEMPORARY_EVENTS(Ped ped, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **toggle**:

@@ -5,7 +5,7 @@ ns: OBJECT
 
 ```c
 // 0x2A70BAE8883E4C81
-Any IS_POINT_IN_ANGLED_AREA(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11);
+Any IS_POINT_IN_ANGLED_AREA(float p0, float p1, float p2, float p3, float p4, float p5, float p6, float p7, float p8, float p9, BOOL p10, BOOL p11);
 ```
 
 ## Parameters

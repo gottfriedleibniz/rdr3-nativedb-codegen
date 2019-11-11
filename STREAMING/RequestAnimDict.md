@@ -5,8 +5,8 @@ ns: STREAMING
 
 ```c
 // 0xA862A2AD321F94B4
-void REQUEST_ANIM_DICT(Any p0);
+void REQUEST_ANIM_DICT(char* animDict);
 ```
 
 ## Parameters
-* **p0**:
+* **animDict**:

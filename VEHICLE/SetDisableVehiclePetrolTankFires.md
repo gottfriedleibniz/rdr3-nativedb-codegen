@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0xB70986AB19B04AFF
-void SET_DISABLE_VEHICLE_PETROL_TANK_FIRES(Any p0, Any p1);
+void SET_DISABLE_VEHICLE_PETROL_TANK_FIRES(Vehicle vehicle, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **toggle**:

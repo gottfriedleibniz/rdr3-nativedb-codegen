@@ -5,8 +5,8 @@ ns: GRAPHICS
 
 ```c
 // 0x40866A418EB8EFDE
-void ATTACH_TV_AUDIO_TO_ENTITY(Any p0);
+void ATTACH_TV_AUDIO_TO_ENTITY(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

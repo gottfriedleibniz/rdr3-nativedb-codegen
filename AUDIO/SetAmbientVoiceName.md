@@ -5,9 +5,9 @@ ns: AUDIO
 
 ```c
 // 0x6C8065A3B780185B
-void SET_AMBIENT_VOICE_NAME(Any p0, Any p1);
+void SET_AMBIENT_VOICE_NAME(Ped ped, char* name);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **name**:

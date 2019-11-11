@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x5CD3CB88A7F8850D
-Any IS_PED_HEADTRACKING_PED(Any p0, Any p1);
+Any IS_PED_HEADTRACKING_PED(Ped ped1, Ped ped2);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped1**:
+* **ped2**:

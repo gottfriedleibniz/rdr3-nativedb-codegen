@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0xF3B9A78A178572B1
-void TASK_ARREST_PED(Any p0, Any p1);
+void TASK_ARREST_PED(Ped ped, Ped target);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **target**:

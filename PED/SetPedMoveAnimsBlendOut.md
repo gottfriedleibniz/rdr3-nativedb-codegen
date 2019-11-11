@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x9E8C908F41584ECD
-void SET_PED_MOVE_ANIMS_BLEND_OUT(Any p0);
+void SET_PED_MOVE_ANIMS_BLEND_OUT(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

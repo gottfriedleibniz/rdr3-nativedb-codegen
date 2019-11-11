@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0xDEB6D52126E7D640
-Any IS_PED_IN_WRITHE(Any p0);
+Any IS_PED_IN_WRITHE(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

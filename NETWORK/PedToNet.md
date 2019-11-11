@@ -5,8 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x0EDEC3C276198689
-Any PED_TO_NET(Any p0);
+Any PED_TO_NET(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

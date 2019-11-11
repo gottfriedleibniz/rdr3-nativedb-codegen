@@ -5,8 +5,8 @@ ns: MAP
 
 ```c
 // 0x1B3DA717B9AFF828
-void DISPLAY_RADAR(Any p0);
+void DISPLAY_RADAR(BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
+* **toggle**:

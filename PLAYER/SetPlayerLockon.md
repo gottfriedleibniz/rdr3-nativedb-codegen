@@ -5,9 +5,9 @@ ns: PLAYER
 
 ```c
 // 0x462AA1973CBBA75E
-void SET_PLAYER_LOCKON(Any p0, Any p1);
+void SET_PLAYER_LOCKON(Player player, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **player**:
+* **toggle**:

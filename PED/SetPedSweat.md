@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x27B0405F59637D1F
-void SET_PED_SWEAT(Any p0, Any p1);
+void SET_PED_SWEAT(Ped ped, float sweat);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **sweat**:

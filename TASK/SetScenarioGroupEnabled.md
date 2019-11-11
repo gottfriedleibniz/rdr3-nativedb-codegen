@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0x02C8E5B49848664E
-void SET_SCENARIO_GROUP_ENABLED(Any p0, Any p1);
+void SET_SCENARIO_GROUP_ENABLED(char* scenarioGroup, BOOL p1);
 ```
 
 ## Parameters
-* **p0**:
+* **scenarioGroup**:
 * **p1**:

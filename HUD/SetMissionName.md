@@ -5,9 +5,9 @@ ns: HUD
 
 ```c
 // 0x402669A4BDAA72DA
-void SET_MISSION_NAME(Any p0, Any p1);
+void SET_MISSION_NAME(BOOL p0, char* name);
 ```
 
 ## Parameters
 * **p0**:
-* **p1**:
+* **name**:

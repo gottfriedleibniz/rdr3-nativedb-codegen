@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0x8785E6E40C7A8818
-Any IS_DRIVEBY_TASK_UNDERNEATH_DRIVING_TASK(Any p0);
+Any IS_DRIVEBY_TASK_UNDERNEATH_DRIVING_TASK(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

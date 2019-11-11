@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0xEE08C992D238C5D1
-void STOP_ANIM_PLAYBACK(Any p0, Any p1, Any p2);
+void STOP_ANIM_PLAYBACK(Ped ped, int p1, BOOL p2);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:

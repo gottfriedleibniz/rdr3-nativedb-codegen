@@ -5,10 +5,10 @@ ns: WEAPON
 
 ```c
 // 0xA38DCFFCEA8962FA
-Any GET_MAX_AMMO_IN_CLIP(Any p0, Any p1, Any p2);
+Any GET_MAX_AMMO_IN_CLIP(Ped ped, Hash weaponHash, BOOL p2);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **weaponHash**:
 * **p2**:

@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0x2FB897405C90B361
-Any WAYPOINT_RECORDING_GET_COORD(Any p0, Any p1, Any p2);
+Any WAYPOINT_RECORDING_GET_COORD(char* name, int point, Vector3* coord);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **name**:
+* **point**:
+* **coord**:

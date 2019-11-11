@@ -5,10 +5,10 @@ ns: CAM
 
 ```c
 // 0xF9A7BCF5D050D4E7
-void SHAKE_CAM(Any p0, Any p1, Any p2);
+void SHAKE_CAM(Cam cam, char* type, float amplitude);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **cam**:
+* **type**:
+* **amplitude**:

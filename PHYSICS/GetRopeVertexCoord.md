@@ -5,9 +5,9 @@ ns: PHYSICS
 
 ```c
 // 0xEA61CA8E80F09E4D
-Any GET_ROPE_VERTEX_COORD(Any p0, Any p1);
+Any GET_ROPE_VERTEX_COORD(int ropeId, int vertex);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ropeId**:
+* **vertex**:

@@ -5,9 +5,9 @@ ns: ENTITY
 
 ```c
 // 0xCF2B9C0645C4651B
-void SET_ENTITY_HEADING(Any p0, Any p1);
+void SET_ENTITY_HEADING(Entity entity, float heading);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **entity**:
+* **heading**:

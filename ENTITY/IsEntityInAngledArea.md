@@ -5,18 +5,18 @@ ns: ENTITY
 
 ```c
 // 0xD3151E53134595E5
-Any IS_ENTITY_IN_ANGLED_AREA(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10);
+Any IS_ENTITY_IN_ANGLED_AREA(Entity entity, float originX, float originY, float originZ, float edgeX, float edgeY, float edgeZ, float angle, BOOL p8, BOOL p9, Any p10);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
-* **p7**:
+* **entity**:
+* **originX**:
+* **originY**:
+* **originZ**:
+* **edgeX**:
+* **edgeY**:
+* **edgeZ**:
+* **angle**:
 * **p8**:
 * **p9**:
 * **p10**:

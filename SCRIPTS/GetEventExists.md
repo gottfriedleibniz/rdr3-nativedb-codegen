@@ -5,9 +5,9 @@ ns: SCRIPTS
 
 ```c
 // 0xC9F59C0A710ECD34
-Any GET_EVENT_EXISTS(Any p0, Any p1);
+Any GET_EVENT_EXISTS(int eventGroup, int eventIndex);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **eventGroup**:
+* **eventIndex**:

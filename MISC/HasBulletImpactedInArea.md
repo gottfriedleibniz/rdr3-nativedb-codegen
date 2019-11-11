@@ -5,13 +5,13 @@ ns: MISC
 
 ```c
 // 0xC153E5BCCF411814
-Any HAS_BULLET_IMPACTED_IN_AREA(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5);
+Any HAS_BULLET_IMPACTED_IN_AREA(float x, float y, float z, float p3, BOOL p4, BOOL p5);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **x**:
+* **y**:
+* **z**:
 * **p3**:
 * **p4**:
 * **p5**:

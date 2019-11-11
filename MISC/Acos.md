@@ -5,7 +5,7 @@ ns: MISC
 
 ```c
 // 0x586690F0176DC575
-Any ACOS(Any p0);
+Any ACOS(float p0);
 ```
 
 ## Parameters

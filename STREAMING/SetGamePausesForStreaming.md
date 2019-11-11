@@ -5,8 +5,8 @@ ns: STREAMING
 
 ```c
 // 0xB3BC8250F4FE8B63
-void SET_GAME_PAUSES_FOR_STREAMING(Any p0);
+void SET_GAME_PAUSES_FOR_STREAMING(BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
+* **toggle**:

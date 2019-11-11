@@ -5,8 +5,8 @@ ns: BRAIN
 
 ```c
 // 0x1CF6E5C6750EADBD
-void ENABLE_SCRIPT_BRAIN_SET(Any p0);
+void ENABLE_SCRIPT_BRAIN_SET(int brainSet);
 ```
 
 ## Parameters
-* **p0**:
+* **brainSet**:

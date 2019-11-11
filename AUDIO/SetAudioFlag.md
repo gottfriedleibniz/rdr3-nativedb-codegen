@@ -5,9 +5,9 @@ ns: AUDIO
 
 ```c
 // 0xB9EFD5C25018725A
-void SET_AUDIO_FLAG(Any p0, Any p1);
+void SET_AUDIO_FLAG(char* flagName, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **flagName**:
+* **toggle**:

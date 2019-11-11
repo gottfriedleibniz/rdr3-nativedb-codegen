@@ -5,8 +5,8 @@ ns: CAM
 
 ```c
 // 0x578F8F1CAA17BD2B
-Any IS_CAM_INTERPOLATING(Any p0);
+Any IS_CAM_INTERPOLATING(Cam cam);
 ```
 
 ## Parameters
-* **p0**:
+* **cam**:

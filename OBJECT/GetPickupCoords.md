@@ -5,8 +5,8 @@ ns: OBJECT
 
 ```c
 // 0x225B8B35C88029B3
-Any GET_PICKUP_COORDS(Any p0);
+Any GET_PICKUP_COORDS(Pickup pickup);
 ```
 
 ## Parameters
-* **p0**:
+* **pickup**:

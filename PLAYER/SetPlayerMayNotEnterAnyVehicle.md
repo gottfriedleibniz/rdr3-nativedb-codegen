@@ -5,8 +5,8 @@ ns: PLAYER
 
 ```c
 // 0xBEC463B3A11C909E
-void SET_PLAYER_MAY_NOT_ENTER_ANY_VEHICLE(Any p0);
+void SET_PLAYER_MAY_NOT_ENTER_ANY_VEHICLE(Player player);
 ```
 
 ## Parameters
-* **p0**:
+* **player**:

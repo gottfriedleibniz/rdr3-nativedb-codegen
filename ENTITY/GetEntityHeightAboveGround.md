@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0x0D3B5BAEA08F63E9
-Any GET_ENTITY_HEIGHT_ABOVE_GROUND(Any p0);
+Any GET_ENTITY_HEIGHT_ABOVE_GROUND(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

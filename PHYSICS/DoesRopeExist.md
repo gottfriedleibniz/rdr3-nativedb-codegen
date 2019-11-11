@@ -5,8 +5,8 @@ ns: PHYSICS
 
 ```c
 // 0xFD5448BE3111ED96
-Any DOES_ROPE_EXIST(Any p0);
+Any DOES_ROPE_EXIST(int* ropeId);
 ```
 
 ## Parameters
-* **p0**:
+* **ropeId**:

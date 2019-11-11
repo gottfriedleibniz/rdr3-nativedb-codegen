@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0xF9F92AF49F12F6E7
-void SET_VEHICLE_FORWARD_SPEED(Any p0, Any p1);
+void SET_VEHICLE_FORWARD_SPEED(Vehicle vehicle, float speed);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **speed**:

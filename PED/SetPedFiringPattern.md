@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x9AC577F5A12AD8A9
-void SET_PED_FIRING_PATTERN(Any p0, Any p1);
+void SET_PED_FIRING_PATTERN(Ped ped, Hash patternHash);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **patternHash**:

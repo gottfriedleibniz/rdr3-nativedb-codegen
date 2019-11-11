@@ -5,8 +5,8 @@ ns: CAM
 
 ```c
 // 0x153AD457764FD704
-Any DOES_CAM_EXIST(Any p0);
+Any DOES_CAM_EXIST(Cam cam);
 ```
 
 ## Parameters
-* **p0**:
+* **cam**:

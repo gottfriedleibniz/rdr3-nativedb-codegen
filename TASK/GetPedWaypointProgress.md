@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0x2720AAA75001E094
-Any GET_PED_WAYPOINT_PROGRESS(Any p0);
+Any GET_PED_WAYPOINT_PROGRESS(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

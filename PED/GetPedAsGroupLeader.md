@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x5CCE68DBD5FE93EC
-Any GET_PED_AS_GROUP_LEADER(Any p0);
+Any GET_PED_AS_GROUP_LEADER(int groupID);
 ```
 
 ## Parameters
-* **p0**:
+* **groupID**:

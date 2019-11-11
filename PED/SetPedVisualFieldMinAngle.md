@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x2DB492222FB21E26
-void SET_PED_VISUAL_FIELD_MIN_ANGLE(Any p0, Any p1);
+void SET_PED_VISUAL_FIELD_MIN_ANGLE(Ped ped, float value);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **value**:

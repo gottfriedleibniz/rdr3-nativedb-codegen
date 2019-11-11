@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0x3AE22DEB5BA5A3E6
-void SET_OBJECT_AS_NO_LONGER_NEEDED(Any p0);
+void SET_OBJECT_AS_NO_LONGER_NEEDED(Object* object);
 ```
 
 ## Parameters
-* **p0**:
+* **object**:

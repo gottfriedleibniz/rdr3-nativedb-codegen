@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x81A15811460FAB3A
-void REQUEST_VEHICLE_ASSET(Any p0, Any p1);
+void REQUEST_VEHICLE_ASSET(Hash vehicleHash, int vehicleAsset);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicleHash**:
+* **vehicleAsset**:

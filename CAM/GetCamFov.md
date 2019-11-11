@@ -5,8 +5,8 @@ ns: CAM
 
 ```c
 // 0x8101D32A0A6B0F60
-Any GET_CAM_FOV(Any p0);
+Any GET_CAM_FOV(Cam cam);
 ```
 
 ## Parameters
-* **p0**:
+* **cam**:

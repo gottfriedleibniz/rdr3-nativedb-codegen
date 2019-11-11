@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x01A898D26E2333DD
-void SET_PED_MIN_MOVE_BLEND_RATIO(Any p0, Any p1);
+void SET_PED_MIN_MOVE_BLEND_RATIO(Ped ped, float value);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **value**:

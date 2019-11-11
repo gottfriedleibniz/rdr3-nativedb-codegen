@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0xE5DA8615A6180789
-void TASK_STAY_IN_COVER(Any p0);
+void TASK_STAY_IN_COVER(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

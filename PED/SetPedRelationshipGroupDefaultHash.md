@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0xADB3F206518799E8
-void SET_PED_RELATIONSHIP_GROUP_DEFAULT_HASH(Any p0, Any p1);
+void SET_PED_RELATIONSHIP_GROUP_DEFAULT_HASH(Ped ped, Hash hash);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **hash**:

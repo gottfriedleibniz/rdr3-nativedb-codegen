@@ -5,9 +5,9 @@ ns: NETWORK
 
 ```c
 // 0x12B37D54667DB0B8
-void SET_PLAYER_INVISIBLE_LOCALLY(Any p0, Any p1);
+void SET_PLAYER_INVISIBLE_LOCALLY(Player player, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **player**:
+* **toggle**:

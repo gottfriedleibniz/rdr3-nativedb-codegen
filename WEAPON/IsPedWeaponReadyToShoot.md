@@ -5,8 +5,8 @@ ns: WEAPON
 
 ```c
 // 0xB80CA294F2F26749
-Any IS_PED_WEAPON_READY_TO_SHOOT(Any p0);
+Any IS_PED_WEAPON_READY_TO_SHOOT(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

@@ -5,9 +5,9 @@ ns: DECORATOR
 
 ```c
 // 0x2BA7F5877A088A1D
-Any DECOR_REMOVE(Any p0, Any p1);
+Any DECOR_REMOVE(Entity entity, char* propertyName);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **entity**:
+* **propertyName**:

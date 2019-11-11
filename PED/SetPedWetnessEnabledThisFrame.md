@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0xB5485E4907B53019
-void SET_PED_WETNESS_ENABLED_THIS_FRAME(Any p0);
+void SET_PED_WETNESS_ENABLED_THIS_FRAME(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

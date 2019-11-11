@@ -5,17 +5,17 @@ ns: PED
 
 ```c
 // 0xC32779C16FCEECD9
-void SET_IK_TARGET(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9);
+void SET_IK_TARGET(Ped ped, int ikIndex, Entity entityLookAt, int boneLookAt, float offsetX, float offsetY, float offsetZ, Any p7, int blendInDuration, int blendOutDuration);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
+* **ped**:
+* **ikIndex**:
+* **entityLookAt**:
+* **boneLookAt**:
+* **offsetX**:
+* **offsetY**:
+* **offsetZ**:
 * **p7**:
-* **p8**:
-* **p9**:
+* **blendInDuration**:
+* **blendOutDuration**:

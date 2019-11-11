@@ -5,8 +5,8 @@ ns: SOCIALCLUB
 
 ```c
 // 0x08C8052AF40C4247
-Any SC_PROFANITY_GET_CHECK_IS_VALID(Any p0);
+Any SC_PROFANITY_GET_CHECK_IS_VALID(int token);
 ```
 
 ## Parameters
-* **p0**:
+* **token**:

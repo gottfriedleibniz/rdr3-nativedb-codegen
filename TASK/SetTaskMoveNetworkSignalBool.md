@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0xB0A6CFD2C69C1088
-void SET_TASK_MOVE_NETWORK_SIGNAL_BOOL(Any p0, Any p1, Any p2);
+void SET_TASK_MOVE_NETWORK_SIGNAL_BOOL(Ped ped, char* signalName, BOOL value);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **ped**:
+* **signalName**:
+* **value**:

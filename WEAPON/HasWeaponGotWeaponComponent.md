@@ -5,9 +5,9 @@ ns: WEAPON
 
 ```c
 // 0x76A18844E743BF91
-Any HAS_WEAPON_GOT_WEAPON_COMPONENT(Any p0, Any p1);
+Any HAS_WEAPON_GOT_WEAPON_COMPONENT(Object weapon, Hash addonHash);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **weapon**:
+* **addonHash**:

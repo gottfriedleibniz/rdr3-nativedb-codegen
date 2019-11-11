@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0x5ABA3986D90D8A3B
-void TASK_PERFORM_SEQUENCE(Any p0, Any p1);
+void TASK_PERFORM_SEQUENCE(Ped ped, int taskSequenceId);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **taskSequenceId**:

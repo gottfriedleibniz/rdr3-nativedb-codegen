@@ -5,8 +5,8 @@ ns: PLAYER
 
 ```c
 // 0x270B63A641BE32F2
-void CLEAR_PLAYER_HAS_DAMAGED_AT_LEAST_ONE_PED(Any p0);
+void CLEAR_PLAYER_HAS_DAMAGED_AT_LEAST_ONE_PED(Player player);
 ```
 
 ## Parameters
-* **p0**:
+* **player**:

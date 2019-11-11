@@ -5,8 +5,8 @@ ns: VEHICLE
 
 ```c
 // 0xFE9AB3354ACE6C9C
-Any _REMOVE_SPEED_ZONE(Any p0);
+Any _REMOVE_SPEED_ZONE(int speedzone);
 ```
 
 ## Parameters
-* **p0**:
+* **speedzone**:

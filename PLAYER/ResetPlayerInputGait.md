@@ -5,8 +5,8 @@ ns: PLAYER
 
 ```c
 // 0x61A2EECAB274829B
-void RESET_PLAYER_INPUT_GAIT(Any p0);
+void RESET_PLAYER_INPUT_GAIT(Player player);
 ```
 
 ## Parameters
-* **p0**:
+* **player**:

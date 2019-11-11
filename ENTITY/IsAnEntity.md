@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0x27CFF3E5A286D3DF
-Any IS_AN_ENTITY(Any p0);
+Any IS_AN_ENTITY(int handle);
 ```
 
 ## Parameters
-* **p0**:
+* **handle**:

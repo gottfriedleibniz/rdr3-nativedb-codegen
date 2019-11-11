@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0x3548536485DD792B
-void ASSISTED_MOVEMENT_REMOVE_ROUTE(Any p0);
+void ASSISTED_MOVEMENT_REMOVE_ROUTE(char* route);
 ```
 
 ## Parameters
-* **p0**:
+* **route**:

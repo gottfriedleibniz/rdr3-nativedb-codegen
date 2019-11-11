@@ -5,9 +5,9 @@ ns: MISC
 
 ```c
 // 0x7ACF124C12A2B045
-void _REMOVE_STEALTH_KILL(Any p0, Any p1);
+void _REMOVE_STEALTH_KILL(Hash hash, BOOL p1);
 ```
 
 ## Parameters
-* **p0**:
+* **hash**:
 * **p1**:

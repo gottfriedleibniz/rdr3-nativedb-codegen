@@ -5,8 +5,8 @@ ns: GRAPHICS
 
 ```c
 // 0xFB8972BAE0013140
-void REMOVE_DECALS_FROM_OBJECT(Any p0);
+void REMOVE_DECALS_FROM_OBJECT(Object obj);
 ```
 
 ## Parameters
-* **p0**:
+* **obj**:

@@ -5,10 +5,10 @@ ns: DECORATOR
 
 ```c
 // 0x238F8B0C1C7FE834
-Any DECOR_SET_FLOAT(Any p0, Any p1, Any p2);
+Any DECOR_SET_FLOAT(Entity entity, char* propertyName, float value);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **entity**:
+* **propertyName**:
+* **value**:

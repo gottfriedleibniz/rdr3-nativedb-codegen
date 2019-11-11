@@ -5,7 +5,7 @@ ns: MAP
 
 ```c
 // 0xF6CEF599FC470B33
-void SET_GPS_CUSTOM_ROUTE_RENDER(Any p0, Any p1, Any p2);
+void SET_GPS_CUSTOM_ROUTE_RENDER(BOOL p0, int p1, int p2);
 ```
 
 ## Parameters

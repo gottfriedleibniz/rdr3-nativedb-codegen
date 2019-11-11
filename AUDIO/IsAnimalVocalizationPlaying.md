@@ -5,8 +5,8 @@ ns: AUDIO
 
 ```c
 // 0xC265DF9FB44A9FBD
-Any IS_ANIMAL_VOCALIZATION_PLAYING(Any p0);
+Any IS_ANIMAL_VOCALIZATION_PLAYING(Ped pedHandle);
 ```
 
 ## Parameters
-* **p0**:
+* **pedHandle**:

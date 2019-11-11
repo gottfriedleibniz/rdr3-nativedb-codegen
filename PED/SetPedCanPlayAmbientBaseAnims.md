@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x0EB0585D15254740
-void SET_PED_CAN_PLAY_AMBIENT_BASE_ANIMS(Any p0, Any p1);
+void SET_PED_CAN_PLAY_AMBIENT_BASE_ANIMS(Ped ped, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **toggle**:

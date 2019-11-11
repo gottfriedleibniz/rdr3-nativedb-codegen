@@ -5,10 +5,10 @@ ns: VEHICLE
 
 ```c
 // 0xA9F1D75195CC40F6
-void _SET_VEHICLE_DOOR_DESTROY_TYPE(Any p0, Any p1, Any p2);
+void _SET_VEHICLE_DOOR_DESTROY_TYPE(Vehicle vehicle, int doorIndex, int destroyType);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **vehicle**:
+* **doorIndex**:
+* **destroyType**:

@@ -5,8 +5,8 @@ ns: HUD
 
 ```c
 // 0x707032835FF09AE7
-Any IS_NAMED_RENDERTARGET_LINKED(Any p0);
+Any IS_NAMED_RENDERTARGET_LINKED(Hash modelHash);
 ```
 
 ## Parameters
-* **p0**:
+* **modelHash**:

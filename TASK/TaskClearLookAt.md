@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0x0F804F1DB19B9689
-void TASK_CLEAR_LOOK_AT(Any p0);
+void TASK_CLEAR_LOOK_AT(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

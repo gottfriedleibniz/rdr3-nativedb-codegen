@@ -5,9 +5,9 @@ ns: MISC
 
 ```c
 // 0xE29F927A961F8AAA
-Any GET_RANDOM_FLOAT_IN_RANGE(Any p0, Any p1);
+Any GET_RANDOM_FLOAT_IN_RANGE(float startRange, float endRange);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **startRange**:
+* **endRange**:

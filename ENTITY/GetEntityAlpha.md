@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0x1BB501624FAF2BEA
-Any GET_ENTITY_ALPHA(Any p0);
+Any GET_ENTITY_ALPHA(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

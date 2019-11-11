@@ -5,9 +5,9 @@ ns: PLAYER
 
 ```c
 // 0xC7FE774412046825
-void SET_PLAYER_CAN_BE_HASSLED_BY_GANGS(Any p0, Any p1);
+void SET_PLAYER_CAN_BE_HASSLED_BY_GANGS(Player player, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **player**:
+* **toggle**:

@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x826AA586EDB9FEF8
-Any IS_PED_SITTING_IN_ANY_VEHICLE(Any p0);
+Any IS_PED_SITTING_IN_ANY_VEHICLE(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

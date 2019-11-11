@@ -5,7 +5,7 @@ ns: MAP
 
 ```c
 // 0x5DE61C90DDECFA2D
-void SET_GPS_FLAGS(Any p0, Any p1);
+void SET_GPS_FLAGS(int p0, float p1);
 ```
 
 ## Parameters

@@ -5,9 +5,9 @@ ns: PLAYER
 
 ```c
 // 0xD0D9317DFEEF9A66
-void SET_PLAYER_CLOTH_PIN_FRAMES(Any p0, Any p1);
+void SET_PLAYER_CLOTH_PIN_FRAMES(Player player, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **player**:
+* **toggle**:

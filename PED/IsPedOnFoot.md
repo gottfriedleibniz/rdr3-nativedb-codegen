@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x01FEE67DB37F59B2
-Any IS_PED_ON_FOOT(Any p0);
+Any IS_PED_ON_FOOT(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

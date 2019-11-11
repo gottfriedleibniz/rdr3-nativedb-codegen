@@ -5,10 +5,10 @@ ns: PAD
 
 ```c
 // 0x351220255D64C155
-void ENABLE_CONTROL_ACTION(Any p0, Any p1, Any p2);
+void ENABLE_CONTROL_ACTION(int inputGroup, int control, BOOL enable);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **inputGroup**:
+* **control**:
+* **enable**:

@@ -5,8 +5,8 @@ ns: NETWORK
 
 ```c
 // 0xBDCD95FC216A8B3E
-Any NET_TO_PED(Any p0);
+Any NET_TO_PED(int netHandle);
 ```
 
 ## Parameters
-* **p0**:
+* **netHandle**:

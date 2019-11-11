@@ -5,9 +5,9 @@ ns: MISC
 
 ```c
 // 0xF73FBE4845C43B5B
-void SET_BIT(Any p0, Any p1);
+void SET_BIT(int* address, int offset);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **address**:
+* **offset**:

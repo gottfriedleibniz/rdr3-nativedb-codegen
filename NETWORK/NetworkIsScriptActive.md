@@ -5,11 +5,11 @@ ns: NETWORK
 
 ```c
 // 0x9D40DF90FAD26098
-Any NETWORK_IS_SCRIPT_ACTIVE(Any p0, Any p1, Any p2, Any p3);
+Any NETWORK_IS_SCRIPT_ACTIVE(char* scriptName, Player player, BOOL p2, Any p3);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **scriptName**:
+* **player**:
 * **p2**:
 * **p3**:

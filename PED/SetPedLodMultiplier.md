@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0xDC2C5C242AAC342B
-void SET_PED_LOD_MULTIPLIER(Any p0, Any p1);
+void SET_PED_LOD_MULTIPLIER(Ped ped, float multiplier);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **multiplier**:

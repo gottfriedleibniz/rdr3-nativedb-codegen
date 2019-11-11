@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0x8517D4A6CA8513ED
-Any GET_PED_DESIRED_MOVE_BLEND_RATIO(Any p0);
+Any GET_PED_DESIRED_MOVE_BLEND_RATIO(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

@@ -5,9 +5,9 @@ ns: ENTITY
 
 ```c
 // 0x154A3C529497053E
-Any IS_ENTITY_ATTACHED_TO_ENTITY(Any p0, Any p1);
+Any IS_ENTITY_ATTACHED_TO_ENTITY(Entity from, Entity to);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **from**:
+* **to**:

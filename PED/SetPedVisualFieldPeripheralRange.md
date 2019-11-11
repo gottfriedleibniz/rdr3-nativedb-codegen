@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x9C74B0BC831B753A
-void SET_PED_VISUAL_FIELD_PERIPHERAL_RANGE(Any p0, Any p1);
+void SET_PED_VISUAL_FIELD_PERIPHERAL_RANGE(Ped ped, float range);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **range**:

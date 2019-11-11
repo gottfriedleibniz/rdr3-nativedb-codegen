@@ -5,7 +5,7 @@ ns: MISC
 
 ```c
 // 0x8C13DB96497B7ABF
-Any TAN(Any p0);
+Any TAN(float p0);
 ```
 
 ## Parameters

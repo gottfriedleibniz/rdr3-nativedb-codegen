@@ -5,9 +5,9 @@ ns: ENTITY
 
 ```c
 // 0x166E7CF68597D8B5
-void SET_ENTITY_MAX_HEALTH(Any p0, Any p1);
+void SET_ENTITY_MAX_HEALTH(Entity entity, int value);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **entity**:
+* **value**:

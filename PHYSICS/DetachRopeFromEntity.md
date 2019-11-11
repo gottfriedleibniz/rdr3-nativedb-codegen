@@ -5,9 +5,9 @@ ns: PHYSICS
 
 ```c
 // 0xBCF3026912A8647D
-void DETACH_ROPE_FROM_ENTITY(Any p0, Any p1);
+void DETACH_ROPE_FROM_ENTITY(int ropeId, Entity entity);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ropeId**:
+* **entity**:

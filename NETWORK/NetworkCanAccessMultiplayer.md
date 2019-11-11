@@ -5,8 +5,8 @@ ns: NETWORK
 
 ```c
 // 0xAF50DA1A3F8B1BA4
-Any NETWORK_CAN_ACCESS_MULTIPLAYER(Any p0);
+Any NETWORK_CAN_ACCESS_MULTIPLAYER(int* loadingState);
 ```
 
 ## Parameters
-* **p0**:
+* **loadingState**:

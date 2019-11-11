@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0xCF8176912DDA4EA5
-Any IS_ENTITY_A_PED(Any p0);
+Any IS_ENTITY_A_PED(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

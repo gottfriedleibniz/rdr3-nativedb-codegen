@@ -5,8 +5,8 @@ ns: PLAYER
 
 ```c
 // 0xB78350754157C00F
-Any IS_PLAYER_SCRIPT_CONTROL_ON(Any p0);
+Any IS_PLAYER_SCRIPT_CONTROL_ON(Player player);
 ```
 
 ## Parameters
-* **p0**:
+* **player**:

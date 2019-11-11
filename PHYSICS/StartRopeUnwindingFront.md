@@ -5,8 +5,8 @@ ns: PHYSICS
 
 ```c
 // 0x538D1179EC1AA9A9
-void START_ROPE_UNWINDING_FRONT(Any p0);
+void START_ROPE_UNWINDING_FRONT(int ropeId);
 ```
 
 ## Parameters
-* **p0**:
+* **ropeId**:

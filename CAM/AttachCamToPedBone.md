@@ -5,14 +5,14 @@ ns: CAM
 
 ```c
 // 0xDFC1E4A44C0324CA
-void ATTACH_CAM_TO_PED_BONE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6);
+void ATTACH_CAM_TO_PED_BONE(Cam cam, Ped ped, int boneIndex, float x, float y, float z, BOOL heading);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
+* **cam**:
+* **ped**:
+* **boneIndex**:
+* **x**:
+* **y**:
+* **z**:
+* **heading**:

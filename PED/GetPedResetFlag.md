@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0xAF9E59B1B1FBF2A0
-Any GET_PED_RESET_FLAG(Any p0, Any p1);
+Any GET_PED_RESET_FLAG(Ped ped, int flagId);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **flagId**:

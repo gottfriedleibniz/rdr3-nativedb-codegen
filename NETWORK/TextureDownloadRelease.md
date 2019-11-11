@@ -5,7 +5,7 @@ ns: NETWORK
 
 ```c
 // 0x487EB90B98E9FB19
-void TEXTURE_DOWNLOAD_RELEASE(Any p0);
+void TEXTURE_DOWNLOAD_RELEASE(int p0);
 ```
 
 ## Parameters

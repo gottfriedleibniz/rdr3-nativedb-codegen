@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x51AC07A44D4F5B8A
-Any CAN_KNOCK_PED_OFF_VEHICLE(Any p0);
+Any CAN_KNOCK_PED_OFF_VEHICLE(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

@@ -5,19 +5,19 @@ ns: TASK
 
 ```c
 // 0x15C86013127CE63F
-void TASK_BOAT_MISSION(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11);
+void TASK_BOAT_MISSION(Ped pedDriver, Vehicle boat, Any p2, Any p3, float x, float y, float z, Any p7, float maxSpeed, int drivingStyle, float p10, Any p11);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **pedDriver**:
+* **boat**:
 * **p2**:
 * **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
+* **x**:
+* **y**:
+* **z**:
 * **p7**:
-* **p8**:
-* **p9**:
+* **maxSpeed**:
+* **drivingStyle**:
 * **p10**:
 * **p11**:

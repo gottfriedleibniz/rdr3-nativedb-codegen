@@ -5,8 +5,8 @@ ns: GRAPHICS
 
 ```c
 // 0xFDB74C9CC54C3F37
-void SET_TIMECYCLE_MODIFIER_STRENGTH(Any p0);
+void SET_TIMECYCLE_MODIFIER_STRENGTH(float strength);
 ```
 
 ## Parameters
-* **p0**:
+* **strength**:

@@ -5,8 +5,8 @@ ns: CAM
 
 ```c
 // 0x63EFCC7E1810B8E6
-Any IS_CAM_ACTIVE(Any p0);
+Any IS_CAM_ACTIVE(Cam cam);
 ```
 
 ## Parameters
-* **p0**:
+* **cam**:

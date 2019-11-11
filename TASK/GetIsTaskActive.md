@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0xB0760331C7AA4155
-Any GET_IS_TASK_ACTIVE(Any p0, Any p1);
+Any GET_IS_TASK_ACTIVE(Ped ped, int taskIndex);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **taskIndex**:

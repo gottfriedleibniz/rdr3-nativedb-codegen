@@ -5,10 +5,10 @@ ns: WEAPON
 
 ```c
 // 0xDCD2A934D65CB497
-Any SET_AMMO_IN_CLIP(Any p0, Any p1, Any p2);
+Any SET_AMMO_IN_CLIP(Ped ped, Hash weaponHash, int ammo);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **ped**:
+* **weaponHash**:
+* **ammo**:

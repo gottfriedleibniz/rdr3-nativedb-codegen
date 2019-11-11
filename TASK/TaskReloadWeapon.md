@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0x62D2916F56B9CD2D
-void TASK_RELOAD_WEAPON(Any p0, Any p1);
+void TASK_RELOAD_WEAPON(Ped ped, BOOL unused);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **unused**:

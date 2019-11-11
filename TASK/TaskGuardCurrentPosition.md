@@ -5,7 +5,7 @@ ns: TASK
 
 ```c
 // 0x4A58A47A72E3FCB4
-void TASK_GUARD_CURRENT_POSITION(Any p0, Any p1, Any p2, Any p3);
+void TASK_GUARD_CURRENT_POSITION(Ped p0, float p1, float p2, BOOL p3);
 ```
 
 ## Parameters

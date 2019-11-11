@@ -5,8 +5,8 @@ ns: VEHICLE
 
 ```c
 // 0x1156C6EE7E82A98A
-void SET_RANDOM_TRAINS(Any p0);
+void SET_RANDOM_TRAINS(BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
+* **toggle**:

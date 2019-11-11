@@ -5,8 +5,8 @@ ns: MISC
 
 ```c
 // 0x9682AF6050854856
-void SET_TIME_SCALE(Any p0);
+void SET_TIME_SCALE(float timeScale);
 ```
 
 ## Parameters
-* **p0**:
+* **timeScale**:

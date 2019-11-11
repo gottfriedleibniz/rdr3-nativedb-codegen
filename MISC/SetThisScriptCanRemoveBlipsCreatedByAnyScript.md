@@ -5,8 +5,8 @@ ns: MISC
 
 ```c
 // 0x8ABD939C2E5D00ED
-void SET_THIS_SCRIPT_CAN_REMOVE_BLIPS_CREATED_BY_ANY_SCRIPT(Any p0);
+void SET_THIS_SCRIPT_CAN_REMOVE_BLIPS_CREATED_BY_ANY_SCRIPT(BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
+* **toggle**:

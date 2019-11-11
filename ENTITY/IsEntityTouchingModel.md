@@ -5,9 +5,9 @@ ns: ENTITY
 
 ```c
 // 0x2AE3EBC8DEB9768B
-Any IS_ENTITY_TOUCHING_MODEL(Any p0, Any p1);
+Any IS_ENTITY_TOUCHING_MODEL(Entity entity, Hash modelHash);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **entity**:
+* **modelHash**:

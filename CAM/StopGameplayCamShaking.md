@@ -5,7 +5,7 @@ ns: CAM
 
 ```c
 // 0xE0DE43D290FB65F9
-void STOP_GAMEPLAY_CAM_SHAKING(Any p0);
+void STOP_GAMEPLAY_CAM_SHAKING(BOOL p0);
 ```
 
 ## Parameters

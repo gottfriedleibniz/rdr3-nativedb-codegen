@@ -5,13 +5,13 @@ ns: CAM
 
 ```c
 // 0xFDC0DF7F6FB0A592
-void ATTACH_CAM_TO_ENTITY(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5);
+void ATTACH_CAM_TO_ENTITY(Cam cam, Entity entity, float xOffset, float yOffset, float zOffset, BOOL isRelative);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
+* **cam**:
+* **entity**:
+* **xOffset**:
+* **yOffset**:
+* **zOffset**:
+* **isRelative**:

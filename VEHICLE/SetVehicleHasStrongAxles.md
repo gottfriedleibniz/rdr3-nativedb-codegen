@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x252253C8A45AA1FC
-void SET_VEHICLE_HAS_STRONG_AXLES(Any p0, Any p1);
+void SET_VEHICLE_HAS_STRONG_AXLES(Vehicle vehicle, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **toggle**:

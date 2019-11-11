@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0x4455517B28441E60
-void SET_PED_PATH_AVOID_FIRE(Any p0, Any p1);
+void SET_PED_PATH_AVOID_FIRE(Ped ped, BOOL avoidFire);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **avoidFire**:

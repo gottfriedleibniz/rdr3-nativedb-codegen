@@ -5,8 +5,8 @@ ns: FIRE
 
 ```c
 // 0x1BD7C371CE257C3E
-Any IS_ENTITY_ON_FIRE(Any p0);
+Any IS_ENTITY_ON_FIRE(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

@@ -5,9 +5,9 @@ ns: SCRIPTS
 
 ```c
 // 0xA85E614430EFF816
-Any GET_EVENT_AT_INDEX(Any p0, Any p1);
+Any GET_EVENT_AT_INDEX(int eventGroup, int eventIndex);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **eventGroup**:
+* **eventIndex**:

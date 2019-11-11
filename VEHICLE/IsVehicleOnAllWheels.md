@@ -5,8 +5,8 @@ ns: VEHICLE
 
 ```c
 // 0x0D5D119529654EE0
-Any IS_VEHICLE_ON_ALL_WHEELS(Any p0);
+Any IS_VEHICLE_ON_ALL_WHEELS(Vehicle vehicle);
 ```
 
 ## Parameters
-* **p0**:
+* **vehicle**:

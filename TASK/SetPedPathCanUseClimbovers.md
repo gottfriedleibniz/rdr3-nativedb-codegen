@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0x8E06A6FE76C9EFF4
-void SET_PED_PATH_CAN_USE_CLIMBOVERS(Any p0, Any p1);
+void SET_PED_PATH_CAN_USE_CLIMBOVERS(Ped ped, BOOL Toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **Toggle**:

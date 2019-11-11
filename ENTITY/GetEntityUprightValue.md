@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0x56398BE65160C3BE
-Any GET_ENTITY_UPRIGHT_VALUE(Any p0);
+Any GET_ENTITY_UPRIGHT_VALUE(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0xD0FB093A4CDB932C
-Any GET_TRAIN_CARRIAGE(Any p0, Any p1);
+Any GET_TRAIN_CARRIAGE(Vehicle train, int trailerNumber);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **train**:
+* **trailerNumber**:

@@ -5,9 +5,9 @@ ns: DECORATOR
 
 ```c
 // 0x44DB62727762FD9B
-Any DECOR_GET_INT(Any p0, Any p1);
+Any DECOR_GET_INT(Entity entity, char* propertyName);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **entity**:
+* **propertyName**:

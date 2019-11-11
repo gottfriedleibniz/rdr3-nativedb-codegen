@@ -5,8 +5,8 @@ ns: MISC
 
 ```c
 // 0xFD340785ADF8CFB7
-Any GET_HASH_KEY(Any p0);
+Any GET_HASH_KEY(char* string);
 ```
 
 ## Parameters
-* **p0**:
+* **string**:

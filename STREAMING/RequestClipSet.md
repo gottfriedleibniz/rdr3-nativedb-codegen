@@ -5,8 +5,8 @@ ns: STREAMING
 
 ```c
 // 0xEF7611B57A820126
-void REQUEST_CLIP_SET(Any p0);
+void REQUEST_CLIP_SET(char* clipSet);
 ```
 
 ## Parameters
-* **p0**:
+* **clipSet**:

@@ -5,8 +5,8 @@ ns: PLAYER
 
 ```c
 // 0x12917931C31F1750
-void RESET_PLAYER_ARREST_STATE(Any p0);
+void RESET_PLAYER_ARREST_STATE(Player player);
 ```
 
 ## Parameters
-* **p0**:
+* **player**:

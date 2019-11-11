@@ -5,8 +5,8 @@ ns: STREAMING
 
 ```c
 // 0x537F44CB0D7F150D
-Any DOES_ANIM_DICT_EXIST(Any p0);
+Any DOES_ANIM_DICT_EXIST(char* animDict);
 ```
 
 ## Parameters
-* **p0**:
+* **animDict**:

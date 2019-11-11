@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0xEB47EC4E34FB7EE1
-void SET_SCENARIO_TYPE_ENABLED(Any p0, Any p1);
+void SET_SCENARIO_TYPE_ENABLED(char* scenarioType, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **scenarioType**:
+* **toggle**:

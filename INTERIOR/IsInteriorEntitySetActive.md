@@ -5,9 +5,9 @@ ns: INTERIOR
 
 ```c
 // 0x32810CA2125F5842
-Any IS_INTERIOR_ENTITY_SET_ACTIVE(Any p0, Any p1);
+Any IS_INTERIOR_ENTITY_SET_ACTIVE(int interior, char* entitySetName);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **interior**:
+* **entitySetName**:

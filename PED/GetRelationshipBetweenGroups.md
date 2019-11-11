@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x9E6B70061662AE5C
-Any GET_RELATIONSHIP_BETWEEN_GROUPS(Any p0, Any p1);
+Any GET_RELATIONSHIP_BETWEEN_GROUPS(Hash group1, Hash group2);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **group1**:
+* **group2**:

@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x53E8CB4F48BFE623
-Any IS_PED_CLIMBING(Any p0);
+Any IS_PED_CLIMBING(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

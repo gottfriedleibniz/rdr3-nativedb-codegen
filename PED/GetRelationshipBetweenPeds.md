@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0xEBA5AD3A0EAF7121
-Any GET_RELATIONSHIP_BETWEEN_PEDS(Any p0, Any p1);
+Any GET_RELATIONSHIP_BETWEEN_PEDS(Ped ped1, Ped ped2);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped1**:
+* **ped2**:

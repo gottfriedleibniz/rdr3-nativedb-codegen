@@ -5,8 +5,8 @@ ns: MAP
 
 ```c
 // 0x4B8F743A4A6D2FF8
-void _SET_MINIMAP_REVEALED(Any p0);
+void _SET_MINIMAP_REVEALED(BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
+* **toggle**:

@@ -5,17 +5,17 @@ ns: TASK
 
 ```c
 // 0x2F8AF0E82773A171
-void TASK_DRIVE_BY(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9);
+void TASK_DRIVE_BY(Ped driverPed, Ped targetPed, Vehicle targetVehicle, float targetX, float targetY, float targetZ, float distanceToShoot, int pedAccuracy, BOOL p8, Hash firingPattern);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
-* **p7**:
+* **driverPed**:
+* **targetPed**:
+* **targetVehicle**:
+* **targetX**:
+* **targetY**:
+* **targetZ**:
+* **distanceToShoot**:
+* **pedAccuracy**:
 * **p8**:
-* **p9**:
+* **firingPattern**:

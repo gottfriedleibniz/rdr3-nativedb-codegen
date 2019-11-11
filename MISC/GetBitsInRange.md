@@ -5,10 +5,10 @@ ns: MISC
 
 ```c
 // 0x68E1352AF48F905D
-Any GET_BITS_IN_RANGE(Any p0, Any p1, Any p2);
+Any GET_BITS_IN_RANGE(int var, int rangeStart, int rangeEnd);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **var**:
+* **rangeStart**:
+* **rangeEnd**:

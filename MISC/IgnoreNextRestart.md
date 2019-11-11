@@ -5,8 +5,8 @@ ns: MISC
 
 ```c
 // 0x6C9FF40FF1B69F8F
-void IGNORE_NEXT_RESTART(Any p0);
+void IGNORE_NEXT_RESTART(BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
+* **toggle**:

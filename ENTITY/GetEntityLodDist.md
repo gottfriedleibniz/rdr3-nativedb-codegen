@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0xDF240D0C2A948683
-Any GET_ENTITY_LOD_DIST(Any p0);
+Any GET_ENTITY_LOD_DIST(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

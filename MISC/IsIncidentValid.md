@@ -5,8 +5,8 @@ ns: MISC
 
 ```c
 // 0x39F2B1BAD412246A
-Any IS_INCIDENT_VALID(Any p0);
+Any IS_INCIDENT_VALID(int incidentId);
 ```
 
 ## Parameters
-* **p0**:
+* **incidentId**:

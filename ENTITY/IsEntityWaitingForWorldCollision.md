@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0x5E1CC2E8DC3111DD
-Any IS_ENTITY_WAITING_FOR_WORLD_COLLISION(Any p0);
+Any IS_ENTITY_WAITING_FOR_WORLD_COLLISION(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

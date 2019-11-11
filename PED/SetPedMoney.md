@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0xA9C8960E8684C1B5
-void SET_PED_MONEY(Any p0, Any p1);
+void SET_PED_MONEY(Ped ped, int amount);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **amount**:

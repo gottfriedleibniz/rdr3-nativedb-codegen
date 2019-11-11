@@ -5,9 +5,9 @@ ns: ENTITY
 
 ```c
 // 0x0D06D522B90E861F
-void SET_ENTITY_CAN_BE_DAMAGED(Any p0, Any p1);
+void SET_ENTITY_CAN_BE_DAMAGED(Entity entity, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **entity**:
+* **toggle**:

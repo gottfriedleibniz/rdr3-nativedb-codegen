@@ -5,9 +5,9 @@ ns: MISC
 
 ```c
 // 0xD53343AA4FB7DD28
-Any GET_RANDOM_INT_IN_RANGE(Any p0, Any p1);
+Any GET_RANDOM_INT_IN_RANGE(int startRange, int endRange);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **startRange**:
+* **endRange**:

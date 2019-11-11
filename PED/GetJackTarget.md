@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x5486A79D9FBD342D
-Any GET_JACK_TARGET(Any p0);
+Any GET_JACK_TARGET(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

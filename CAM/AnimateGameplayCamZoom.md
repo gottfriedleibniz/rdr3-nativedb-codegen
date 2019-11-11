@@ -5,9 +5,9 @@ ns: CAM
 
 ```c
 // 0x2126C740A4AC370B
-void _ANIMATE_GAMEPLAY_CAM_ZOOM(Any p0, Any p1);
+void _ANIMATE_GAMEPLAY_CAM_ZOOM(float p0, float distance);
 ```
 
 ## Parameters
 * **p0**:
-* **p1**:
+* **distance**:

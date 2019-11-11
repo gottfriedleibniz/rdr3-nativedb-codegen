@@ -5,8 +5,8 @@ ns: VEHICLE
 
 ```c
 // 0xB935F3154BC913C8
-Any HAS_VEHICLE_ASSET_LOADED(Any p0);
+Any HAS_VEHICLE_ASSET_LOADED(int vehicleAsset);
 ```
 
 ## Parameters
-* **p0**:
+* **vehicleAsset**:

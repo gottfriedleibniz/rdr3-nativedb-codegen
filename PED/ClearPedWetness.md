@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x9C720776DAA43E7E
-void CLEAR_PED_WETNESS(Any p0);
+void CLEAR_PED_WETNESS(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

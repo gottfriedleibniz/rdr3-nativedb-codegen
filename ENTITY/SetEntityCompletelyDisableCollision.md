@@ -5,10 +5,10 @@ ns: ENTITY
 
 ```c
 // 0xE0580EC84813875A
-void SET_ENTITY_COMPLETELY_DISABLE_COLLISION(Any p0, Any p1, Any p2);
+void SET_ENTITY_COMPLETELY_DISABLE_COLLISION(Entity entity, BOOL p1, BOOL p2);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:
 * **p1**:
 * **p2**:

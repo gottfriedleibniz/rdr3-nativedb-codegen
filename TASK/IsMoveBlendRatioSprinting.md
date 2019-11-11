@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0x24A2AD74FA9814E2
-Any IS_MOVE_BLEND_RATIO_SPRINTING(Any p0);
+Any IS_MOVE_BLEND_RATIO_SPRINTING(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

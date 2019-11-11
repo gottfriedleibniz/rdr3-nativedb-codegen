@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0x4CD38C78BD19A497
-void DELETE_ENTITY(Any p0);
+void DELETE_ENTITY(Entity* entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

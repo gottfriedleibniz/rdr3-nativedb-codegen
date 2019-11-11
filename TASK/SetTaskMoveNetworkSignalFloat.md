@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0xD5BB4025AE449A4E
-void SET_TASK_MOVE_NETWORK_SIGNAL_FLOAT(Any p0, Any p1, Any p2);
+void SET_TASK_MOVE_NETWORK_SIGNAL_FLOAT(Ped ped, char* signalName, float value);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **ped**:
+* **signalName**:
+* **value**:

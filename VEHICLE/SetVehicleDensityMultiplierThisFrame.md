@@ -5,8 +5,8 @@ ns: VEHICLE
 
 ```c
 // 0x606374EBFC27B133
-void SET_VEHICLE_DENSITY_MULTIPLIER_THIS_FRAME(Any p0);
+void SET_VEHICLE_DENSITY_MULTIPLIER_THIS_FRAME(float multiplier);
 ```
 
 ## Parameters
-* **p0**:
+* **multiplier**:

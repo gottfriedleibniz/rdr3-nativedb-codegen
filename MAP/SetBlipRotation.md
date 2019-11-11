@@ -5,9 +5,9 @@ ns: MAP
 
 ```c
 // 0x6049966A94FBE706
-void SET_BLIP_ROTATION(Any p0, Any p1);
+void SET_BLIP_ROTATION(Blip blip, int rotation);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **blip**:
+* **rotation**:

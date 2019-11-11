@@ -5,8 +5,8 @@ ns: HUD
 
 ```c
 // 0xE550CDE128D56757
-void SET_TEXT_RENDER_ID(Any p0);
+void SET_TEXT_RENDER_ID(int renderId);
 ```
 
 ## Parameters
-* **p0**:
+* **renderId**:

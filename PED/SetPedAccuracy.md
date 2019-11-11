@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x7AEFB85C1D49DEB6
-void SET_PED_ACCURACY(Any p0, Any p1);
+void SET_PED_ACCURACY(Ped ped, int accuracy);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **accuracy**:

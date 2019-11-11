@@ -5,9 +5,9 @@ ns: CAM
 
 ```c
 // 0x57CDF879EA466C46
-Any CREATE_CAMERA(Any p0, Any p1);
+Any CREATE_CAMERA(Hash camHash, BOOL p1);
 ```
 
 ## Parameters
-* **p0**:
+* **camHash**:
 * **p1**:

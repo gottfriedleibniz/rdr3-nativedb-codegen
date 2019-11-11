@@ -5,8 +5,8 @@ ns: AUDIO
 
 ```c
 // 0x353FC880830B88FA
-void RELEASE_SOUND_ID(Any p0);
+void RELEASE_SOUND_ID(int soundId);
 ```
 
 ## Parameters
-* **p0**:
+* **soundId**:

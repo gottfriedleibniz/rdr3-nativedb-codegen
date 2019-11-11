@@ -5,10 +5,10 @@ ns: ENTITY
 
 ```c
 // 0xF66F820909453B8C
-void SET_ENTITY_COLLISION(Any p0, Any p1, Any p2);
+void SET_ENTITY_COLLISION(Entity entity, BOOL toggle, BOOL keepPhysics);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **entity**:
+* **toggle**:
+* **keepPhysics**:

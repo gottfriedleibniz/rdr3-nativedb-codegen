@@ -5,8 +5,8 @@ ns: AUDIO
 
 ```c
 // 0x9D6BFC12B05C6121
-Any IS_HORN_ACTIVE(Any p0);
+Any IS_HORN_ACTIVE(Vehicle vehicle);
 ```
 
 ## Parameters
-* **p0**:
+* **vehicle**:

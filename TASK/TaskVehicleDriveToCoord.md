@@ -5,18 +5,18 @@ ns: TASK
 
 ```c
 // 0xE2A2AA2F659D77A7
-void TASK_VEHICLE_DRIVE_TO_COORD(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10);
+void TASK_VEHICLE_DRIVE_TO_COORD(Ped ped, Vehicle vehicle, float x, float y, float z, float speed, Any p6, Hash vehicleModel, int drivingMode, float stopRange, float p10);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
+* **ped**:
+* **vehicle**:
+* **x**:
+* **y**:
+* **z**:
+* **speed**:
 * **p6**:
-* **p7**:
-* **p8**:
-* **p9**:
+* **vehicleModel**:
+* **drivingMode**:
+* **stopRange**:
 * **p10**:

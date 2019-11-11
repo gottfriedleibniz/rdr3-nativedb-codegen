@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0x67406F2C8F87FC4F
-void UNCUFF_PED(Any p0);
+void UNCUFF_PED(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

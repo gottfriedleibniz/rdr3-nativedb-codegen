@@ -5,16 +5,16 @@ ns: TASK
 
 ```c
 // 0x15D3A79D4E44B913
-void TASK_FOLLOW_NAV_MESH_TO_COORD(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8);
+void TASK_FOLLOW_NAV_MESH_TO_COORD(Ped ped, float x, float y, float z, float speed, int timeout, float stoppingRange, BOOL persistFollowing, float unk);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
-* **p7**:
-* **p8**:
+* **ped**:
+* **x**:
+* **y**:
+* **z**:
+* **speed**:
+* **timeout**:
+* **stoppingRange**:
+* **persistFollowing**:
+* **unk**:

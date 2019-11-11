@@ -5,8 +5,8 @@ ns: SCRIPTS
 
 ```c
 // 0xA5D8E0C2F3C7EEBC
-Any HAS_SCRIPT_WITH_NAME_HASH_LOADED(Any p0);
+Any HAS_SCRIPT_WITH_NAME_HASH_LOADED(Hash scriptHash);
 ```
 
 ## Parameters
-* **p0**:
+* **scriptHash**:

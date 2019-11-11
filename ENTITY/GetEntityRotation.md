@@ -5,9 +5,9 @@ ns: ENTITY
 
 ```c
 // 0xE09CAF86C32CB48F
-Any GET_ENTITY_ROTATION(Any p0, Any p1);
+Any GET_ENTITY_ROTATION(Entity entity, int rotationOrder);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **entity**:
+* **rotationOrder**:

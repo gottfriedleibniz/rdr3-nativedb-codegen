@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0x594A1028FC2A3E85
-Any GET_SCRIPTED_COVER_POINT_COORDS(Any p0);
+Any GET_SCRIPTED_COVER_POINT_COORDS(ScrHandle coverpoint);
 ```
 
 ## Parameters
-* **p0**:
+* **coverpoint**:

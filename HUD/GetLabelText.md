@@ -5,8 +5,8 @@ ns: HUD
 
 ```c
 // 0xCFEDCCAD3C5BA90D
-char* _GET_LABEL_TEXT(char* label);
+char* _GET_LABEL_TEXT(char* labelName);
 ```
 
 ## Parameters
-* **label**:
+* **labelName**:

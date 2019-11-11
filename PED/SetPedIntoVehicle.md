@@ -5,10 +5,10 @@ ns: PED
 
 ```c
 // 0xF75B0D629E1C063D
-void SET_PED_INTO_VEHICLE(Any p0, Any p1, Any p2);
+void SET_PED_INTO_VEHICLE(Ped ped, Vehicle vehicle, int seatIndex);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **ped**:
+* **vehicle**:
+* **seatIndex**:

@@ -5,9 +5,9 @@ ns: PLAYER
 
 ```c
 // 0xB5EC6BDAEBCA454C
-void SET_PLAYER_NOISE_MULTIPLIER(Any p0, Any p1);
+void SET_PLAYER_NOISE_MULTIPLIER(Player player, float multiplier);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **player**:
+* **multiplier**:

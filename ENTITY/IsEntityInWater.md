@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0xDDE5C125AC446723
-Any IS_ENTITY_IN_WATER(Any p0);
+Any IS_ENTITY_IN_WATER(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

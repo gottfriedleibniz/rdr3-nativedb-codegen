@@ -5,12 +5,12 @@ ns: OBJECT
 
 ```c
 // 0xF9C36251F6E48E33
-Any DOES_PICKUP_OF_TYPE_EXIST_IN_AREA(Any p0, Any p1, Any p2, Any p3, Any p4);
+Any DOES_PICKUP_OF_TYPE_EXIST_IN_AREA(Hash pickupHash, float x, float y, float z, float radius);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
+* **pickupHash**:
+* **x**:
+* **y**:
+* **z**:
+* **radius**:

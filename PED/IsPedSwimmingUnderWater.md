@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0xC024869A53992F34
-Any IS_PED_SWIMMING_UNDER_WATER(Any p0);
+Any IS_PED_SWIMMING_UNDER_WATER(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

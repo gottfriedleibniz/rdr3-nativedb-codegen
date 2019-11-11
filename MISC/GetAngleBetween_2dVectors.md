@@ -5,11 +5,11 @@ ns: MISC
 
 ```c
 // 0xD0DFE1C486097BBB
-Any GET_ANGLE_BETWEEN_2D_VECTORS(Any p0, Any p1, Any p2, Any p3);
+Any GET_ANGLE_BETWEEN_2D_VECTORS(float x1, float y1, float x2, float y2);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **x1**:
+* **y1**:
+* **x2**:
+* **y2**:

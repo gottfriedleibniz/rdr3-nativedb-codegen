@@ -5,9 +5,9 @@ ns: STREAMING
 
 ```c
 // 0x3CACC83F6FED837C
-void SET_MAPDATACULLBOX_ENABLED(Any p0, Any p1);
+void SET_MAPDATACULLBOX_ENABLED(char* name, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **name**:
+* **toggle**:

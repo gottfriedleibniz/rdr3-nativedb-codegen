@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0x695D7C26DE65C423
-Any HAS_ENTITY_BEEN_DAMAGED_BY_ANY_VEHICLE(Any p0);
+Any HAS_ENTITY_BEEN_DAMAGED_BY_ANY_VEHICLE(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

@@ -5,8 +5,8 @@ ns: VEHICLE
 
 ```c
 // 0x9A578736FF3A17C3
-Any GET_VEHICLE_MODEL_NUMBER_OF_SEATS(Any p0);
+Any GET_VEHICLE_MODEL_NUMBER_OF_SEATS(Hash modelHash);
 ```
 
 ## Parameters
-* **p0**:
+* **modelHash**:

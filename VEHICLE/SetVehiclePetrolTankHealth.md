@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x6AB2918EE3BEC94C
-void SET_VEHICLE_PETROL_TANK_HEALTH(Any p0, Any p1);
+void SET_VEHICLE_PETROL_TANK_HEALTH(Vehicle vehicle, float health);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **health**:

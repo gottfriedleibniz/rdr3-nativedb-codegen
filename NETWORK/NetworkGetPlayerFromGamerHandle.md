@@ -5,8 +5,8 @@ ns: NETWORK
 
 ```c
 // 0xCE5F689CF5A0A49D
-Any NETWORK_GET_PLAYER_FROM_GAMER_HANDLE(Any p0);
+Any NETWORK_GET_PLAYER_FROM_GAMER_HANDLE(int* networkHandle);
 ```
 
 ## Parameters
-* **p0**:
+* **networkHandle**:

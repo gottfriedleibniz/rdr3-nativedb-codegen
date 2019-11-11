@@ -5,7 +5,7 @@ ns: TASK
 
 ```c
 // 0x244F70C84C547D2D
-void WAYPOINT_PLAYBACK_RESUME(Any p0, Any p1, Any p2, Any p3);
+void WAYPOINT_PLAYBACK_RESUME(Any p0, BOOL p1, Any p2, Any p3);
 ```
 
 ## Parameters

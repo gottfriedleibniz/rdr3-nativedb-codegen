@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x66460DEDDD417254
-void SET_AI_MELEE_WEAPON_DAMAGE_MODIFIER(Any p0);
+void SET_AI_MELEE_WEAPON_DAMAGE_MODIFIER(float modifier);
 ```
 
 ## Parameters
-* **p0**:
+* **modifier**:

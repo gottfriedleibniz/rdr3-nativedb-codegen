@@ -5,8 +5,8 @@ ns: STREAMING
 
 ```c
 // 0x354837E5A5BAA5AF
-void PREFETCH_SRL(Any p0);
+void PREFETCH_SRL(char* srl);
 ```
 
 ## Parameters
-* **p0**:
+* **srl**:

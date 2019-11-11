@@ -5,12 +5,12 @@ ns: PED
 
 ```c
 // 0x17C07FC640E86B4E
-Any GET_PED_BONE_COORDS(Any p0, Any p1, Any p2, Any p3, Any p4);
+Any GET_PED_BONE_COORDS(Ped ped, int boneId, float offsetX, float offsetY, float offsetZ);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
+* **ped**:
+* **boneId**:
+* **offsetX**:
+* **offsetY**:
+* **offsetZ**:

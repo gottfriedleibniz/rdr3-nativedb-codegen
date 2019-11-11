@@ -5,9 +5,9 @@ ns: ENTITY
 
 ```c
 // 0xACAD101E1FB66689
-void SET_ENTITY_ALWAYS_PRERENDER(Any p0, Any p1);
+void SET_ENTITY_ALWAYS_PRERENDER(Entity entity, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **entity**:
+* **toggle**:

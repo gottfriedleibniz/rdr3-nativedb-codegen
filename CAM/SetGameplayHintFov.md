@@ -5,8 +5,8 @@ ns: CAM
 
 ```c
 // 0x661E58BC6F00A49A
-void SET_GAMEPLAY_HINT_FOV(Any p0);
+void SET_GAMEPLAY_HINT_FOV(float fov);
 ```
 
 ## Parameters
-* **p0**:
+* **fov**:

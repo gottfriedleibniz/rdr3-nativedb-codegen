@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x758C3460EE915D0A
-void SET_VEHICLE_DIRT_LEVEL(Any p0, Any p1);
+void SET_VEHICLE_DIRT_LEVEL(Vehicle vehicle, float dirtLevel);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **dirtLevel**:

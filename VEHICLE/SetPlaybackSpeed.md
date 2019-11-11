@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0xD78084EED4CD94C6
-void SET_PLAYBACK_SPEED(Any p0, Any p1);
+void SET_PLAYBACK_SPEED(Vehicle vehicle, float speed);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **speed**:

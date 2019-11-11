@@ -5,11 +5,11 @@ ns: VEHICLE
 
 ```c
 // 0xB4E3BFC39CA16057
-void START_VEHICLE_HORN(Any p0, Any p1, Any p2, Any p3);
+void START_VEHICLE_HORN(Vehicle vehicle, int duration, Hash mode, BOOL forever);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **vehicle**:
+* **duration**:
+* **mode**:
+* **forever**:

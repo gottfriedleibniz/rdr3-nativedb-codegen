@@ -5,8 +5,8 @@ ns: GRAPHICS
 
 ```c
 // 0x92884B4A49D81325
-void REMOVE_PARTICLE_FX_FROM_ENTITY(Any p0);
+void REMOVE_PARTICLE_FX_FROM_ENTITY(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

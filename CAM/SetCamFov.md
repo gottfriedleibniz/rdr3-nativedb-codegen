@@ -5,9 +5,9 @@ ns: CAM
 
 ```c
 // 0x27666E5988D9D429
-void SET_CAM_FOV(Any p0, Any p1);
+void SET_CAM_FOV(Cam cam, float fieldOfView);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **cam**:
+* **fieldOfView**:

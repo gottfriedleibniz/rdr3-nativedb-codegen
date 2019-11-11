@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0xF372BC22FCB88606
-Any ADD_RELATIONSHIP_GROUP(Any p0, Any p1);
+Any ADD_RELATIONSHIP_GROUP(char* name, Hash* groupHash);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **name**:
+* **groupHash**:

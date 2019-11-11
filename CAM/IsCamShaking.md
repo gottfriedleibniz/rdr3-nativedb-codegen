@@ -5,8 +5,8 @@ ns: CAM
 
 ```c
 // 0x2EEB402BD7320159
-Any IS_CAM_SHAKING(Any p0);
+Any IS_CAM_SHAKING(Cam cam);
 ```
 
 ## Parameters
-* **p0**:
+* **cam**:

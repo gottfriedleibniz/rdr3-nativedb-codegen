@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0x82368787EA73C0F7
-Any GET_ENTITY_HEALTH(Any p0);
+Any GET_ENTITY_HEALTH(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

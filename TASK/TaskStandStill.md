@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0x919BE13EED931959
-void TASK_STAND_STILL(Any p0, Any p1);
+void TASK_STAND_STILL(Ped ped, int time);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **time**:

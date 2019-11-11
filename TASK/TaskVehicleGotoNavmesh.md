@@ -5,15 +5,15 @@ ns: TASK
 
 ```c
 // 0x195AEEB13CEFE2EE
-void TASK_VEHICLE_GOTO_NAVMESH(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
+void TASK_VEHICLE_GOTO_NAVMESH(Ped ped, Vehicle vehicle, float x, float y, float z, float speed, int behaviorFlag, float stoppingRange);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
-* **p7**:
+* **ped**:
+* **vehicle**:
+* **x**:
+* **y**:
+* **z**:
+* **speed**:
+* **behaviorFlag**:
+* **stoppingRange**:

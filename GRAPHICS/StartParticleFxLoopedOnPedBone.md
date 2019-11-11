@@ -5,20 +5,20 @@ ns: GRAPHICS
 
 ```c
 // 0xE689C1B1432BB8AF
-Any START_PARTICLE_FX_LOOPED_ON_PED_BONE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11, Any p12);
+Any START_PARTICLE_FX_LOOPED_ON_PED_BONE(char* effectName, Ped ped, float xOffset, float yOffset, float zOffset, float xRot, float yRot, float zRot, int boneIndex, float scale, BOOL xAxis, BOOL yAxis, BOOL zAxis);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
-* **p7**:
-* **p8**:
-* **p9**:
-* **p10**:
-* **p11**:
-* **p12**:
+* **effectName**:
+* **ped**:
+* **xOffset**:
+* **yOffset**:
+* **zOffset**:
+* **xRot**:
+* **yRot**:
+* **zRot**:
+* **boneIndex**:
+* **scale**:
+* **xAxis**:
+* **yAxis**:
+* **zAxis**:

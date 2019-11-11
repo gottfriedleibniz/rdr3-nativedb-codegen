@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0xD5002D78B7162E1B
-void ASSISTED_MOVEMENT_SET_ROUTE_PROPERTIES(Any p0, Any p1);
+void ASSISTED_MOVEMENT_SET_ROUTE_PROPERTIES(char* route, int props);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **route**:
+* **props**:

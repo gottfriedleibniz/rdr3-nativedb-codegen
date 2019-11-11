@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x5527B8246FEF9B11
-Any IS_PED_DIVING(Any p0);
+Any IS_PED_DIVING(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

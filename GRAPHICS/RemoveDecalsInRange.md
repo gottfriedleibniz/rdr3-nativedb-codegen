@@ -5,11 +5,11 @@ ns: GRAPHICS
 
 ```c
 // 0x86DE59FA02902B40
-void REMOVE_DECALS_IN_RANGE(Any p0, Any p1, Any p2, Any p3);
+void REMOVE_DECALS_IN_RANGE(float x, float y, float z, float range);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **x**:
+* **y**:
+* **z**:
+* **range**:

@@ -5,10 +5,10 @@ ns: PED
 
 ```c
 // 0xBF25EB89375A37AD
-void SET_RELATIONSHIP_BETWEEN_GROUPS(Any p0, Any p1, Any p2);
+void SET_RELATIONSHIP_BETWEEN_GROUPS(int relationship, Hash group1, Hash group2);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **relationship**:
+* **group1**:
+* **group2**:

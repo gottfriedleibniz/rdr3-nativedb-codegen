@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x726256CC1EEB182F
-void CLEAR_FACIAL_IDLE_ANIM_OVERRIDE(Any p0);
+void CLEAR_FACIAL_IDLE_ANIM_OVERRIDE(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

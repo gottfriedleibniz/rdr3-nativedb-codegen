@@ -5,10 +5,10 @@ ns: AUDIO
 
 ```c
 // 0xBDA07E5950085E46
-void SET_AMBIENT_ZONE_STATE(Any p0, Any p1, Any p2);
+void SET_AMBIENT_ZONE_STATE(char* zoneName, BOOL p1, BOOL p2);
 ```
 
 ## Parameters
-* **p0**:
+* **zoneName**:
 * **p1**:
 * **p2**:

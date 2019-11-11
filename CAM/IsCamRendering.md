@@ -5,8 +5,8 @@ ns: CAM
 
 ```c
 // 0x4415F8A6C536D39F
-Any IS_CAM_RENDERING(Any p0);
+Any IS_CAM_RENDERING(Cam cam);
 ```
 
 ## Parameters
-* **p0**:
+* **cam**:

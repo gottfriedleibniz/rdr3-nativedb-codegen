@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0xDE4C184B2B9B071A
-Any IS_PED_WALKING(Any p0);
+Any IS_PED_WALKING(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

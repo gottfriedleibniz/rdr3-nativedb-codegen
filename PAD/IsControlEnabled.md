@@ -5,9 +5,9 @@ ns: PAD
 
 ```c
 // 0x1CEA6BFDF248E5D9
-Any IS_CONTROL_ENABLED(Any p0, Any p1);
+Any IS_CONTROL_ENABLED(int inputGroup, int control);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **inputGroup**:
+* **control**:

@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0x2412D9C05BB09B97
-Any GET_ENTITY_FORWARD_VECTOR(Any p0);
+Any GET_ENTITY_FORWARD_VECTOR(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

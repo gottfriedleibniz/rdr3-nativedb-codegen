@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0xED74007FFB146BC2
-void REMOVE_PED_FROM_GROUP(Any p0);
+void REMOVE_PED_FROM_GROUP(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

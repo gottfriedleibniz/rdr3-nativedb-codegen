@@ -5,14 +5,14 @@ ns: PED
 
 ```c
 // 0xAE99FB955581844A
-Any SET_PED_TO_RAGDOLL(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6);
+Any SET_PED_TO_RAGDOLL(Ped ped, int time1, int time2, int ragdollType, BOOL p4, BOOL p5, BOOL p6);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **ped**:
+* **time1**:
+* **time2**:
+* **ragdollType**:
 * **p4**:
 * **p5**:
 * **p6**:

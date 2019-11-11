@@ -5,8 +5,8 @@ ns: INTERIOR
 
 ```c
 // 0x27D7B6F79E1F4603
-Any GET_KEY_FOR_ENTITY_IN_ROOM(Any p0);
+Any GET_KEY_FOR_ENTITY_IN_ROOM(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

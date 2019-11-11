@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0xC474CF16EDA45DC9
-void REQUEST_VEHICLE_RECORDING(Any p0, Any p1);
+void REQUEST_VEHICLE_RECORDING(int i, char* name);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **i**:
+* **name**:

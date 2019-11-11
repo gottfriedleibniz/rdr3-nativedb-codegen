@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x8D8ACD8388CD99CE
-void REVIVE_INJURED_PED(Any p0);
+void REVIVE_INJURED_PED(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

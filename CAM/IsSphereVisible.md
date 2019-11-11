@@ -5,11 +5,11 @@ ns: CAM
 
 ```c
 // 0x2E941B5FFA2989C6
-Any IS_SPHERE_VISIBLE(Any p0, Any p1, Any p2, Any p3);
+Any IS_SPHERE_VISIBLE(float x, float y, float z, float radius);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **x**:
+* **y**:
+* **z**:
+* **radius**:

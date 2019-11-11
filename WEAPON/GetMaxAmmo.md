@@ -5,10 +5,10 @@ ns: WEAPON
 
 ```c
 // 0xDC16122C7A20C933
-Any GET_MAX_AMMO(Any p0, Any p1, Any p2);
+Any GET_MAX_AMMO(Ped ped, Hash weaponHash, int* ammo);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **ped**:
+* **weaponHash**:
+* **ammo**:

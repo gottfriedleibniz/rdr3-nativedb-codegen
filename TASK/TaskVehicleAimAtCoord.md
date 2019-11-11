@@ -5,11 +5,11 @@ ns: TASK
 
 ```c
 // 0x447C1E9EF844BC0F
-void TASK_VEHICLE_AIM_AT_COORD(Any p0, Any p1, Any p2, Any p3);
+void TASK_VEHICLE_AIM_AT_COORD(Ped ped, float x, float y, float z);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **ped**:
+* **x**:
+* **y**:
+* **z**:

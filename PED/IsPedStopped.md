@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x530944F6F4B8A214
-Any IS_PED_STOPPED(Any p0);
+Any IS_PED_STOPPED(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

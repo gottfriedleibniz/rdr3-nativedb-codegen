@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0x90A09F3A45FED688
-Any IS_PED_BEING_ARRESTED(Any p0);
+Any IS_PED_BEING_ARRESTED(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

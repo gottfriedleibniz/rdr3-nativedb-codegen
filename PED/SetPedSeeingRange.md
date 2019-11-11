@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0xF29CF591C4BF6CEE
-void SET_PED_SEEING_RANGE(Any p0, Any p1);
+void SET_PED_SEEING_RANGE(Ped ped, float value);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **value**:

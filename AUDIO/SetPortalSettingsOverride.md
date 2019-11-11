@@ -5,7 +5,7 @@ ns: AUDIO
 
 ```c
 // 0x044DBAD7A7FA2BE5
-void SET_PORTAL_SETTINGS_OVERRIDE(Any p0, Any p1);
+void SET_PORTAL_SETTINGS_OVERRIDE(char* p0, char* p1);
 ```
 
 ## Parameters

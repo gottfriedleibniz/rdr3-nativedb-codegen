@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0xD839450756ED5A80
-Any IS_PED_FATALLY_INJURED(Any p0);
+Any IS_PED_FATALLY_INJURED(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

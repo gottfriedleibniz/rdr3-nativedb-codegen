@@ -5,9 +5,9 @@ ns: PAD
 
 ```c
 // 0x11E65974A982637C
-Any GET_DISABLED_CONTROL_NORMAL(Any p0, Any p1);
+Any GET_DISABLED_CONTROL_NORMAL(int inputGroup, int control);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **inputGroup**:
+* **control**:

@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x9A9112A0FE9A4713
-Any GET_VEHICLE_PED_IS_IN(Any p0, Any p1);
+Any GET_VEHICLE_PED_IS_IN(Ped ped, BOOL lastVehicle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **lastVehicle**:

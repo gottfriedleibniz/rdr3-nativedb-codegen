@@ -5,11 +5,11 @@ ns: STREAMING
 
 ```c
 // 0xB88B905AFA35CB4D
-void SET_HD_AREA(Any p0, Any p1, Any p2, Any p3);
+void SET_HD_AREA(float x, float y, float z, float radius);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **x**:
+* **y**:
+* **z**:
+* **radius**:

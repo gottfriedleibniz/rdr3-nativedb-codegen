@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x7263332501E07F52
-Any SET_VEHICLE_ON_GROUND_PROPERLY(Any p0, Any p1);
+Any SET_VEHICLE_ON_GROUND_PROPERLY(Vehicle vehicle, float p1);
 ```
 
 ## Parameters
-* **p0**:
+* **vehicle**:
 * **p1**:

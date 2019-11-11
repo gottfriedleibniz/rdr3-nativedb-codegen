@@ -5,9 +5,9 @@ ns: GRAPHICS
 
 ```c
 // 0xBE711A169E9C7E95
-void SET_PARTICLE_FX_OVERRIDE(Any p0, Any p1);
+void SET_PARTICLE_FX_OVERRIDE(char* oldAsset, char* newAsset);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **oldAsset**:
+* **newAsset**:

@@ -5,9 +5,9 @@ ns: AUDIO
 
 ```c
 // 0x9D64D7405520E3D3
-void STOP_PED_SPEAKING(Any p0, Any p1);
+void STOP_PED_SPEAKING(Ped ped, BOOL shaking);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **shaking**:

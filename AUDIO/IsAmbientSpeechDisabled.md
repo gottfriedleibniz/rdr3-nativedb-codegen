@@ -5,8 +5,8 @@ ns: AUDIO
 
 ```c
 // 0x932C2D096A2C3FFF
-Any IS_AMBIENT_SPEECH_DISABLED(Any p0);
+Any IS_AMBIENT_SPEECH_DISABLED(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

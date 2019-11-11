@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0x005622AEBC33ACA9
-Any WAYPOINT_RECORDING_GET_SPEED_AT_POINT(Any p0, Any p1);
+Any WAYPOINT_RECORDING_GET_SPEED_AT_POINT(char* name, int point);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **name**:
+* **point**:

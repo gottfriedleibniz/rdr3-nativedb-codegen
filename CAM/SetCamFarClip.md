@@ -5,9 +5,9 @@ ns: CAM
 
 ```c
 // 0x5E32817BF6302111
-void SET_CAM_FAR_CLIP(Any p0, Any p1);
+void SET_CAM_FAR_CLIP(Cam cam, float farClip);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **cam**:
+* **farClip**:

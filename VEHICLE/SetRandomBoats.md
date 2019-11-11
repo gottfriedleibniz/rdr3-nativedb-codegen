@@ -5,8 +5,8 @@ ns: VEHICLE
 
 ```c
 // 0xF44D446D4E36DB87
-void SET_RANDOM_BOATS(Any p0);
+void SET_RANDOM_BOATS(BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
+* **toggle**:

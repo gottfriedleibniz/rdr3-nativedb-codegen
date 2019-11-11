@@ -5,11 +5,11 @@ ns: GRAPHICS
 
 ```c
 // 0x87B5905ECA623B68
-void REMOVE_PARTICLE_FX_IN_RANGE(Any p0, Any p1, Any p2, Any p3);
+void REMOVE_PARTICLE_FX_IN_RANGE(float X, float Y, float Z, float radius);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **X**:
+* **Y**:
+* **Z**:
+* **radius**:

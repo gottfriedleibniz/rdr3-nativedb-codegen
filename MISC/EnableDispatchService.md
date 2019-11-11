@@ -5,9 +5,9 @@ ns: MISC
 
 ```c
 // 0x50E52637EF70EF77
-void ENABLE_DISPATCH_SERVICE(Any p0, Any p1);
+void ENABLE_DISPATCH_SERVICE(int dispatchService, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **dispatchService**:
+* **toggle**:

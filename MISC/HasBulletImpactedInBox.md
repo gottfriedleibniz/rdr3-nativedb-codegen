@@ -5,7 +5,7 @@ ns: MISC
 
 ```c
 // 0x3B6A4C05FB2B33AC
-Any HAS_BULLET_IMPACTED_IN_BOX(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
+Any HAS_BULLET_IMPACTED_IN_BOX(float p0, float p1, float p2, float p3, float p4, float p5, BOOL p6, BOOL p7);
 ```
 
 ## Parameters

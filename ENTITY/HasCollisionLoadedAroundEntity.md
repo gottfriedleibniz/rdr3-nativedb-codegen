@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0xBEB1600952B9CF5C
-Any HAS_COLLISION_LOADED_AROUND_ENTITY(Any p0);
+Any HAS_COLLISION_LOADED_AROUND_ENTITY(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

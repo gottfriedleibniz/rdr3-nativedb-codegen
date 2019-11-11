@@ -5,9 +5,9 @@ ns: CAM
 
 ```c
 // 0xD9B31B4650520529
-void SHAKE_GAMEPLAY_CAM(Any p0, Any p1);
+void SHAKE_GAMEPLAY_CAM(char* shakeName, float intensity);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **shakeName**:
+* **intensity**:

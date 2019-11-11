@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0x8A4E6AC373666BC5
-void VEHICLE_WAYPOINT_PLAYBACK_PAUSE(Any p0);
+void VEHICLE_WAYPOINT_PLAYBACK_PAUSE(Vehicle vehicle);
 ```
 
 ## Parameters
-* **p0**:
+* **vehicle**:

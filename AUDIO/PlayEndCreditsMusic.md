@@ -5,8 +5,8 @@ ns: AUDIO
 
 ```c
 // 0xCD536C4D33DCC900
-void PLAY_END_CREDITS_MUSIC(Any p0);
+void PLAY_END_CREDITS_MUSIC(BOOL play);
 ```
 
 ## Parameters
-* **p0**:
+* **play**:

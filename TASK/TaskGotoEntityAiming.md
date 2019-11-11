@@ -5,11 +5,11 @@ ns: TASK
 
 ```c
 // 0xA9DA48FAB8A76C12
-void TASK_GOTO_ENTITY_AIMING(Any p0, Any p1, Any p2, Any p3);
+void TASK_GOTO_ENTITY_AIMING(Ped ped, Entity target, float distanceToStopAt, float StartAimingDist);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **ped**:
+* **target**:
+* **distanceToStopAt**:
+* **StartAimingDist**:

@@ -5,8 +5,8 @@ ns: INTERIOR
 
 ```c
 // 0x941560D2D45DBFC8
-Any IS_INTERIOR_READY(Any p0);
+Any IS_INTERIOR_READY(int interiorID);
 ```
 
 ## Parameters
-* **p0**:
+* **interiorID**:

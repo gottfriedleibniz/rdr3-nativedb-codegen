@@ -5,10 +5,10 @@ ns: ENTITY
 
 ```c
 // 0xDC19C288082E586E
-void SET_ENTITY_AS_MISSION_ENTITY(Any p0, Any p1, Any p2);
+void SET_ENTITY_AS_MISSION_ENTITY(Entity entity, BOOL p1, BOOL p2);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:
 * **p1**:
 * **p2**:

@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x98EFA132A4117BE1
-void SET_PED_NAME_DEBUG(Any p0, Any p1);
+void SET_PED_NAME_DEBUG(Ped ped, char* name);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **name**:

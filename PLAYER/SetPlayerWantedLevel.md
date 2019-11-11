@@ -5,10 +5,10 @@ ns: PLAYER
 
 ```c
 // 0x384D4765395E006C
-void SET_PLAYER_WANTED_LEVEL(Any p0, Any p1, Any p2);
+void SET_PLAYER_WANTED_LEVEL(Player player, int wantedLevel, BOOL disableNoMission);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **player**:
+* **wantedLevel**:
+* **disableNoMission**:

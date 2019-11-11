@@ -5,8 +5,8 @@ ns: OBJECT
 
 ```c
 // 0xD9EFB6DBF7DAAEA3
-Any DOES_PICKUP_OBJECT_EXIST(Any p0);
+Any DOES_PICKUP_OBJECT_EXIST(Object pickupObject);
 ```
 
 ## Parameters
-* **p0**:
+* **pickupObject**:

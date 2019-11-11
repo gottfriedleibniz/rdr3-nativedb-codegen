@@ -5,13 +5,13 @@ ns: WEAPON
 
 ```c
 // 0x208A1888007FC0E6
-void SET_PED_DROPS_INVENTORY_WEAPON(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5);
+void SET_PED_DROPS_INVENTORY_WEAPON(Ped ped, Hash weaponHash, float xOffset, float yOffset, float zOffset, int ammoCount);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
+* **ped**:
+* **weaponHash**:
+* **xOffset**:
+* **yOffset**:
+* **zOffset**:
+* **ammoCount**:

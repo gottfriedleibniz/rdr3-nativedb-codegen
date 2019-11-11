@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0x306C1F6178F01AB3
-Any IS_ENTITY_ATTACHED_TO_ANY_OBJECT(Any p0);
+Any IS_ENTITY_ATTACHED_TO_ANY_OBJECT(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

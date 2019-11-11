@@ -5,8 +5,8 @@ ns: HUD
 
 ```c
 // 0x481FBF588B0B76DB
-Any GET_LENGTH_OF_LITERAL_STRING(Any p0);
+Any GET_LENGTH_OF_LITERAL_STRING(char* string);
 ```
 
 ## Parameters
-* **p0**:
+* **string**:

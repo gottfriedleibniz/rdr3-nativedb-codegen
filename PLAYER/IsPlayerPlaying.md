@@ -5,8 +5,8 @@ ns: PLAYER
 
 ```c
 // 0xBFFB35986CAAE58C
-Any IS_PLAYER_PLAYING(Any p0);
+Any IS_PLAYER_PLAYING(Player player);
 ```
 
 ## Parameters
-* **p0**:
+* **player**:

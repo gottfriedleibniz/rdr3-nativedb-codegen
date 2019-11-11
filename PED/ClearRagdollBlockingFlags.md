@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0xD86D101FCFD00A4B
-void CLEAR_RAGDOLL_BLOCKING_FLAGS(Any p0, Any p1);
+void CLEAR_RAGDOLL_BLOCKING_FLAGS(Ped ped, int flags);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **flags**:

@@ -5,8 +5,8 @@ ns: CAM
 
 ```c
 // 0x570E35F5C4A44838
-void SET_GAMEPLAY_CAM_SHAKE_AMPLITUDE(Any p0);
+void SET_GAMEPLAY_CAM_SHAKE_AMPLITUDE(float amplitude);
 ```
 
 ## Parameters
-* **p0**:
+* **amplitude**:

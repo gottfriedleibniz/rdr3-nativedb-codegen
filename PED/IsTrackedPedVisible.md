@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x91C8E617F64188AC
-Any IS_TRACKED_PED_VISIBLE(Any p0);
+Any IS_TRACKED_PED_VISIBLE(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

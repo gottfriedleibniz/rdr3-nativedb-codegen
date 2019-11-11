@@ -5,8 +5,8 @@ ns: PLAYER
 
 ```c
 // 0x80B00EB26D9521C7
-Any GET_WANTED_LEVEL_RADIUS(Any p0);
+Any GET_WANTED_LEVEL_RADIUS(Player player);
 ```
 
 ## Parameters
-* **p0**:
+* **player**:

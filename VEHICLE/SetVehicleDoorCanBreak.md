@@ -5,10 +5,10 @@ ns: VEHICLE
 
 ```c
 // 0x081FB9D6422F804C
-void _SET_VEHICLE_DOOR_CAN_BREAK(Any p0, Any p1, Any p2);
+void _SET_VEHICLE_DOOR_CAN_BREAK(Vehicle vehicle, int doorIndex, BOOL isBreakable);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **vehicle**:
+* **doorIndex**:
+* **isBreakable**:

@@ -5,11 +5,11 @@ ns: FIRE
 
 ```c
 // 0xF9617BC6FAE61E08
-Any GET_NUMBER_OF_FIRES_IN_RANGE(Any p0, Any p1, Any p2, Any p3);
+Any GET_NUMBER_OF_FIRES_IN_RANGE(float x, float y, float z, float radius);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **x**:
+* **y**:
+* **z**:
+* **radius**:

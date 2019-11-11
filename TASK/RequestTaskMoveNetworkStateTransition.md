@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0xD01015C7316AE176
-void REQUEST_TASK_MOVE_NETWORK_STATE_TRANSITION(Any p0, Any p1);
+void REQUEST_TASK_MOVE_NETWORK_STATE_TRANSITION(Ped ped, char* name);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **name**:

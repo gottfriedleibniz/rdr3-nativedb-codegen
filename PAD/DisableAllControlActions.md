@@ -5,8 +5,8 @@ ns: PAD
 
 ```c
 // 0x5F4B6931816E599B
-void DISABLE_ALL_CONTROL_ACTIONS(Any p0);
+void DISABLE_ALL_CONTROL_ACTIONS(int inputGroup);
 ```
 
 ## Parameters
-* **p0**:
+* **inputGroup**:

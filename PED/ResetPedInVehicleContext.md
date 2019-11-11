@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x22EF8FF8778030EB
-void RESET_PED_IN_VEHICLE_CONTEXT(Any p0);
+void RESET_PED_IN_VEHICLE_CONTEXT(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

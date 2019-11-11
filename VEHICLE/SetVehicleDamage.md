@@ -5,14 +5,14 @@ ns: VEHICLE
 
 ```c
 // 0x1D7678F81452BB41
-void SET_VEHICLE_DAMAGE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6);
+void SET_VEHICLE_DAMAGE(Vehicle vehicle, float xOffset, float yOffset, float zOffset, float damage, float radius, BOOL p6);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
+* **vehicle**:
+* **xOffset**:
+* **yOffset**:
+* **zOffset**:
+* **damage**:
+* **radius**:
 * **p6**:

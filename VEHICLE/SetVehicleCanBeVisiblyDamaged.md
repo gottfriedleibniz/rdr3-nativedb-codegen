@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x4BF8131AE811541C
-void SET_VEHICLE_CAN_BE_VISIBLY_DAMAGED(Any p0, Any p1);
+void SET_VEHICLE_CAN_BE_VISIBLY_DAMAGED(Vehicle vehicle, BOOL state);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **state**:

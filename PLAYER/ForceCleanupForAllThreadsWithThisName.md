@@ -5,9 +5,9 @@ ns: PLAYER
 
 ```c
 // 0xDAACAF8B687F2353
-void FORCE_CLEANUP_FOR_ALL_THREADS_WITH_THIS_NAME(Any p0, Any p1);
+void FORCE_CLEANUP_FOR_ALL_THREADS_WITH_THIS_NAME(char* name, int cleanupFlags);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **name**:
+* **cleanupFlags**:

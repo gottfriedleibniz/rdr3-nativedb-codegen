@@ -5,9 +5,9 @@ ns: GRAPHICS
 
 ```c
 // 0x66773C92835D0909
-void GET_SCREEN_RESOLUTION(Any p0, Any p1);
+void GET_SCREEN_RESOLUTION(int* x, int* y);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **x**:
+* **y**:

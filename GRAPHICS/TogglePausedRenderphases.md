@@ -5,8 +5,8 @@ ns: GRAPHICS
 
 ```c
 // 0xEF9E1C45732F55FA
-void TOGGLE_PAUSED_RENDERPHASES(Any p0);
+void TOGGLE_PAUSED_RENDERPHASES(BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
+* **toggle**:

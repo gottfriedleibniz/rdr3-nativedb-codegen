@@ -5,9 +5,9 @@ ns: AUDIO
 
 ```c
 // 0x1F1F957154EC51DF
-Any LOAD_STREAM(Any p0, Any p1);
+Any LOAD_STREAM(char* streamName, char* soundSet);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **streamName**:
+* **soundSet**:

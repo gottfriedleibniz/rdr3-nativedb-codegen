@@ -5,10 +5,10 @@ ns: ENTITY
 
 ```c
 // 0x0DF7692B1D9E7BA7
-void SET_ENTITY_ALPHA(Any p0, Any p1, Any p2);
+void SET_ENTITY_ALPHA(Entity entity, int alphaLevel, BOOL skin);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **entity**:
+* **alphaLevel**:
+* **skin**:

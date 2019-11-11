@@ -5,8 +5,8 @@ ns: VEHICLE
 
 ```c
 // 0xFC08C8F8C1EDF174
-Any IS_THIS_MODEL_A_TRAIN(Any p0);
+Any IS_THIS_MODEL_A_TRAIN(Hash model);
 ```
 
 ## Parameters
-* **p0**:
+* **model**:

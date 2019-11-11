@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x57AB4A3080F85143
-Any IS_PED_USING_ANY_SCENARIO(Any p0);
+Any IS_PED_USING_ANY_SCENARIO(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

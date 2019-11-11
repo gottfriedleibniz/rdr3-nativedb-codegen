@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x23298B468F7D88B6
-void RESET_VEHICLE_STUCK_TIMER(Any p0, Any p1);
+void RESET_VEHICLE_STUCK_TIMER(Vehicle vehicle, int nullAttributes);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **nullAttributes**:

@@ -5,8 +5,8 @@ ns: HUD
 
 ```c
 // 0xCE47C21C0687EBC2
-void SET_FRONTEND_ACTIVE(Any p0);
+void SET_FRONTEND_ACTIVE(BOOL active);
 ```
 
 ## Parameters
-* **p0**:
+* **active**:

@@ -5,9 +5,9 @@ ns: PAD
 
 ```c
 // 0x648EE3E7F38877DD
-Any IS_CONTROL_RELEASED(Any p0, Any p1);
+Any IS_CONTROL_RELEASED(int inputGroup, int control);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **inputGroup**:
+* **control**:

@@ -5,7 +5,7 @@ ns: _NAMESPACE81
 
 ```c
 // 0x4BEF8DD75AF6C71C
-void _REMOVE_CURRENT_RISE(Any p0);
+void _REMOVE_CURRENT_RISE(int p0);
 ```
 
 ## Parameters

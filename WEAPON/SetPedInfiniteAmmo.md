@@ -5,10 +5,10 @@ ns: WEAPON
 
 ```c
 // 0x3EDCB0505123623B
-void SET_PED_INFINITE_AMMO(Any p0, Any p1, Any p2);
+void SET_PED_INFINITE_AMMO(Ped ped, BOOL toggle, Hash weaponHash);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **ped**:
+* **toggle**:
+* **weaponHash**:

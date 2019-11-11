@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0x109DE3DA41AAD94A
-Any IS_ENTITY_UPSIDEDOWN(Any p0);
+Any IS_ENTITY_UPSIDEDOWN(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

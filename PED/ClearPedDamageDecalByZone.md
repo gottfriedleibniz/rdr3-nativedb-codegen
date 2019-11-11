@@ -5,10 +5,10 @@ ns: PED
 
 ```c
 // 0x523C79AEEFCC4A2A
-void CLEAR_PED_DAMAGE_DECAL_BY_ZONE(Any p0, Any p1, Any p2);
+void CLEAR_PED_DAMAGE_DECAL_BY_ZONE(Ped ped, int p1, char* p2);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:

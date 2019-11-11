@@ -5,8 +5,8 @@ ns: MAP
 
 ```c
 // 0x201C319797BDA603
-Any GET_BLIP_COORDS(Any p0);
+Any GET_BLIP_COORDS(Blip blip);
 ```
 
 ## Parameters
-* **p0**:
+* **blip**:

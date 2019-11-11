@@ -5,10 +5,10 @@ ns: INTERIOR
 
 ```c
 // 0xBC29A9894C976945
-void FORCE_ROOM_FOR_ENTITY(Any p0, Any p1, Any p2);
+void FORCE_ROOM_FOR_ENTITY(Entity entity, int interior, Hash roomHashKey);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **entity**:
+* **interior**:
+* **roomHashKey**:

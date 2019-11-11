@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0xF213C724E77F321A
-Any IS_ENTITY_VISIBLE_TO_SCRIPT(Any p0);
+Any IS_ENTITY_VISIBLE_TO_SCRIPT(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

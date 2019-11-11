@@ -5,12 +5,12 @@ ns: GRAPHICS
 
 ```c
 // 0xF6FDA3D4404D4F2C
-void SET_TRACKED_POINT_INFO(Any p0, Any p1, Any p2, Any p3, Any p4);
+void SET_TRACKED_POINT_INFO(int point, float x, float y, float z, float radius);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
+* **point**:
+* **x**:
+* **y**:
+* **z**:
+* **radius**:

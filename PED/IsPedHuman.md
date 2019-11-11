@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0xB980061DA992779D
-Any IS_PED_HUMAN(Any p0);
+Any IS_PED_HUMAN(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

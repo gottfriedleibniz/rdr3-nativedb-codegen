@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0xFF059E1E4C01E63C
-Any GET_PED_TYPE(Any p0);
+Any GET_PED_TYPE(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

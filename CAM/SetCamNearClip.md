@@ -5,9 +5,9 @@ ns: CAM
 
 ```c
 // 0xA924028272A61364
-void SET_CAM_NEAR_CLIP(Any p0, Any p1);
+void SET_CAM_NEAR_CLIP(Cam cam, float nearClip);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **cam**:
+* **nearClip**:

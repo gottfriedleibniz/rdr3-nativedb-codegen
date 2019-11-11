@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x43C851690662113D
-void SET_PED_MAX_TIME_IN_WATER(Any p0, Any p1);
+void SET_PED_MAX_TIME_IN_WATER(Ped ped, float value);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **value**:

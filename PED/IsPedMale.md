@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x6D9F5FAA7488BA46
-Any IS_PED_MALE(Any p0);
+Any IS_PED_MALE(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

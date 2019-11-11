@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x24B100C68C645951
-Any IS_PED_RELOADING(Any p0);
+Any IS_PED_RELOADING(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

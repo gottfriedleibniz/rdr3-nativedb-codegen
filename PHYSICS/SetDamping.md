@@ -5,10 +5,10 @@ ns: PHYSICS
 
 ```c
 // 0xEEA3B200A6FEB65B
-void SET_DAMPING(Any p0, Any p1, Any p2);
+void SET_DAMPING(Entity entity, int vertex, float value);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **entity**:
+* **vertex**:
+* **value**:

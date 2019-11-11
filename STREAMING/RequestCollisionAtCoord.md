@@ -5,10 +5,10 @@ ns: STREAMING
 
 ```c
 // 0x0A3720F162A033C9
-void REQUEST_COLLISION_AT_COORD(Any p0, Any p1, Any p2);
+void REQUEST_COLLISION_AT_COORD(float x, float y, float z);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **x**:
+* **y**:
+* **z**:

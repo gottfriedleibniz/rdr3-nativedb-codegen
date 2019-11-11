@@ -5,9 +5,9 @@ ns: PLAYER
 
 ```c
 // 0x8899C244EBCF70DE
-void SET_PLAYER_HEALTH_RECHARGE_MULTIPLIER(Any p0, Any p1);
+void SET_PLAYER_HEALTH_RECHARGE_MULTIPLIER(Player player, float regenRate);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **player**:
+* **regenRate**:

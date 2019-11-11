@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0x39E72BC99E6360CB
-void CLOSE_SEQUENCE_TASK(Any p0);
+void CLOSE_SEQUENCE_TASK(int taskSequenceId);
 ```
 
 ## Parameters
-* **p0**:
+* **taskSequenceId**:

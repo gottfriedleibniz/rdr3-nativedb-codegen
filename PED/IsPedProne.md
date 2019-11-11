@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0xD6A86331A537A7B9
-Any IS_PED_PRONE(Any p0);
+Any IS_PED_PRONE(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

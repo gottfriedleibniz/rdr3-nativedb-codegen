@@ -5,15 +5,15 @@ ns: PED
 
 ```c
 // 0xA0D3D71EA1086C55
-Any IS_ANY_PED_SHOOTING_IN_AREA(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
+Any IS_ANY_PED_SHOOTING_IN_AREA(float x1, float y1, float z1, float x2, float y2, float z2, BOOL p6, BOOL p7);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
+* **x1**:
+* **y1**:
+* **z1**:
+* **x2**:
+* **y2**:
+* **z2**:
 * **p6**:
 * **p7**:

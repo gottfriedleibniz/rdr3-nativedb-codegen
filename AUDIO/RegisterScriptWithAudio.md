@@ -5,7 +5,7 @@ ns: AUDIO
 
 ```c
 // 0xC6ED9D5092438D91
-void REGISTER_SCRIPT_WITH_AUDIO(Any p0);
+void REGISTER_SCRIPT_WITH_AUDIO(int p0);
 ```
 
 ## Parameters

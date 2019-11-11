@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x42FDD0F017B1E38E
-Any GET_PED_RELATIONSHIP_GROUP_DEFAULT_HASH(Any p0);
+Any GET_PED_RELATIONSHIP_GROUP_DEFAULT_HASH(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

@@ -5,8 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x3CA58F6CB7CBD784
-Any NETWORK_IS_PLAYER_A_PARTICIPANT(Any p0);
+Any NETWORK_IS_PLAYER_A_PARTICIPANT(Player player);
 ```
 
 ## Parameters
-* **p0**:
+* **player**:

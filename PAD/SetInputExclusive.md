@@ -5,9 +5,9 @@ ns: PAD
 
 ```c
 // 0xEDE476E5EE29EDB1
-void SET_INPUT_EXCLUSIVE(Any p0, Any p1);
+void SET_INPUT_EXCLUSIVE(int inputGroup, int control);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **inputGroup**:
+* **control**:

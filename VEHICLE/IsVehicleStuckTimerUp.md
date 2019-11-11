@@ -5,10 +5,10 @@ ns: VEHICLE
 
 ```c
 // 0x1ABA9753939503C5
-Any IS_VEHICLE_STUCK_TIMER_UP(Any p0, Any p1, Any p2);
+Any IS_VEHICLE_STUCK_TIMER_UP(Vehicle vehicle, int p1, int p2);
 ```
 
 ## Parameters
-* **p0**:
+* **vehicle**:
 * **p1**:
 * **p2**:

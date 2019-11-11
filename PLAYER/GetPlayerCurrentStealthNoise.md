@@ -5,8 +5,8 @@ ns: PLAYER
 
 ```c
 // 0xD7ECC25E176ECBA5
-Any GET_PLAYER_CURRENT_STEALTH_NOISE(Any p0);
+Any GET_PLAYER_CURRENT_STEALTH_NOISE(Player player);
 ```
 
 ## Parameters
-* **p0**:
+* **player**:

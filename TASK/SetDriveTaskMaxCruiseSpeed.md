@@ -5,7 +5,7 @@ ns: TASK
 
 ```c
 // 0x404A5AA9B9F0B746
-void SET_DRIVE_TASK_MAX_CRUISE_SPEED(Any p0, Any p1);
+void SET_DRIVE_TASK_MAX_CRUISE_SPEED(Any p0, float p1);
 ```
 
 ## Parameters

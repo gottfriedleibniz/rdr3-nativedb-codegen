@@ -5,9 +5,9 @@ ns: ENTITY
 
 ```c
 // 0x9FFAF4940A54CC09
-Any GET_ANIM_DURATION(Any p0, Any p1);
+Any GET_ANIM_DURATION(char* animDict, char* animName);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **animDict**:
+* **animName**:

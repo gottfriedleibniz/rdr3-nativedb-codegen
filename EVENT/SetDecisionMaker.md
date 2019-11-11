@@ -5,9 +5,9 @@ ns: EVENT
 
 ```c
 // 0x8AE2F981CDDB8FA4
-void SET_DECISION_MAKER(Any p0, Any p1);
+void SET_DECISION_MAKER(Ped ped, Hash name);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **name**:

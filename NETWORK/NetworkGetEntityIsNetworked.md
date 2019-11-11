@@ -5,8 +5,8 @@ ns: NETWORK
 
 ```c
 // 0xC7827959479DCC78
-Any NETWORK_GET_ENTITY_IS_NETWORKED(Any p0);
+Any NETWORK_GET_ENTITY_IS_NETWORKED(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

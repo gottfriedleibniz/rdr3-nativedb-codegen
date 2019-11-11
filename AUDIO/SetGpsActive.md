@@ -5,8 +5,8 @@ ns: AUDIO
 
 ```c
 // 0x3BD3F52BA9B1E4E8
-void SET_GPS_ACTIVE(Any p0);
+void SET_GPS_ACTIVE(BOOL active);
 ```
 
 ## Parameters
-* **p0**:
+* **active**:

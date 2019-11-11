@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0xC841153DED2CA89A
-Any IS_ENTITY_ATTACHED_TO_ANY_PED(Any p0);
+Any IS_ENTITY_ATTACHED_TO_ANY_PED(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x47E4E977581C5B55
-Any IS_PED_RAGDOLL(Any p0);
+Any IS_PED_RAGDOLL(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

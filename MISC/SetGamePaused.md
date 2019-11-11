@@ -5,8 +5,8 @@ ns: MISC
 
 ```c
 // 0xFAEC088D28B1DE4A
-void SET_GAME_PAUSED(Any p0);
+void SET_GAME_PAUSED(BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
+* **toggle**:

@@ -5,10 +5,10 @@ ns: ENTITY
 
 ```c
 // 0x6C1F6AA2F0ADD104
-void SET_ENTITY_ONLY_DAMAGED_BY_RELATIONSHIP_GROUP(Any p0, Any p1, Any p2);
+void SET_ENTITY_ONLY_DAMAGED_BY_RELATIONSHIP_GROUP(Entity entity, BOOL p1, Hash p2);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:
 * **p1**:
 * **p2**:

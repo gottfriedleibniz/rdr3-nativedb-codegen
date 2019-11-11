@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x96F78A6A075D55D9
-void SET_VEHICLE_DOORS_LOCKED(Any p0, Any p1);
+void SET_VEHICLE_DOORS_LOCKED(Vehicle vehicle, int doorLockStatus);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **doorLockStatus**:

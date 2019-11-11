@@ -5,9 +5,9 @@ ns: PHYSICS
 
 ```c
 // 0x5CEC1A84620E7D5B
-void SET_DISABLE_BREAKING(Any p0, Any p1);
+void SET_DISABLE_BREAKING(Object object, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **object**:
+* **toggle**:

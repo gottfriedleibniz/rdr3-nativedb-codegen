@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0xCE2F5FC3AF7E8C1E
-void SET_GROUP_FORMATION(Any p0, Any p1);
+void SET_GROUP_FORMATION(int groupId, int formationType);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **groupId**:
+* **formationType**:

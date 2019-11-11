@@ -5,8 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x0F10B05DDF8D16E9
-Any NETWORK_IS_GAMER_IN_MY_SESSION(Any p0);
+Any NETWORK_IS_GAMER_IN_MY_SESSION(int* networkHandle);
 ```
 
 ## Parameters
-* **p0**:
+* **networkHandle**:

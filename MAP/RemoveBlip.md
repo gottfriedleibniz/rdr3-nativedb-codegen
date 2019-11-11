@@ -5,8 +5,8 @@ ns: MAP
 
 ```c
 // 0xF2C3C9DA47AAA54A
-void REMOVE_BLIP(Any p0);
+void REMOVE_BLIP(Blip* blip);
 ```
 
 ## Parameters
-* **p0**:
+* **blip**:

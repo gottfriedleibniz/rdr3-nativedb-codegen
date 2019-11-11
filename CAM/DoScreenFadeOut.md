@@ -5,8 +5,8 @@ ns: CAM
 
 ```c
 // 0x40C719A5E410B9E4
-void DO_SCREEN_FADE_OUT(Any p0);
+void DO_SCREEN_FADE_OUT(int duration);
 ```
 
 ## Parameters
-* **p0**:
+* **duration**:

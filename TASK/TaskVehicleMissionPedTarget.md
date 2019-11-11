@@ -5,16 +5,16 @@ ns: TASK
 
 ```c
 // 0x9454528DF15D657A
-void TASK_VEHICLE_MISSION_PED_TARGET(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8);
+void TASK_VEHICLE_MISSION_PED_TARGET(Ped ped, Vehicle vehicle, Ped pedTarget, int mode, float maxSpeed, int drivingStyle, float minDistance, float p7, BOOL p8);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
+* **ped**:
+* **vehicle**:
+* **pedTarget**:
+* **mode**:
+* **maxSpeed**:
+* **drivingStyle**:
+* **minDistance**:
 * **p7**:
 * **p8**:

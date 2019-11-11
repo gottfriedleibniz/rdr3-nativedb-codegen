@@ -5,8 +5,8 @@ ns: OBJECT
 
 ```c
 // 0xC153C43EA202C8C1
-Any IS_DOOR_REGISTERED_WITH_SYSTEM(Any p0);
+Any IS_DOOR_REGISTERED_WITH_SYSTEM(Hash doorHash);
 ```
 
 ## Parameters
-* **p0**:
+* **doorHash**:

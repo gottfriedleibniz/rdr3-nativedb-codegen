@@ -5,10 +5,10 @@ ns: DECORATOR
 
 ```c
 // 0xE88F4D7F52A6090F
-Any DECOR_SET_INT(Any p0, Any p1, Any p2);
+Any DECOR_SET_INT(Entity entity, char* propertyName, int value);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **entity**:
+* **propertyName**:
+* **value**:

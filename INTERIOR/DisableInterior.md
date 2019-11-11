@@ -5,9 +5,9 @@ ns: INTERIOR
 
 ```c
 // 0x3C2B92A1A07D4FCE
-void DISABLE_INTERIOR(Any p0, Any p1);
+void DISABLE_INTERIOR(int interiorID, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **interiorID**:
+* **toggle**:

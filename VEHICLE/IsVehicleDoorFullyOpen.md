@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x7AE191143C7A9107
-Any IS_VEHICLE_DOOR_FULLY_OPEN(Any p0, Any p1);
+Any IS_VEHICLE_DOOR_FULLY_OPEN(Vehicle vehicle, int doorIndex);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **doorIndex**:

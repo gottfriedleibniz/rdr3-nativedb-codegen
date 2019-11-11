@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0x12DF6E0D2E736749
-Any IS_ENTITY_ATTACHED_TO_ANY_VEHICLE(Any p0);
+Any IS_ENTITY_ATTACHED_TO_ANY_VEHICLE(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

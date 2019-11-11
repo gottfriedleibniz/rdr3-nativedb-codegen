@@ -5,8 +5,8 @@ ns: SCRIPTS
 
 ```c
 // 0x46ED607DDD40D7FE
-void REQUEST_SCRIPT(Any p0);
+void REQUEST_SCRIPT(char* scriptName);
 ```
 
 ## Parameters
-* **p0**:
+* **scriptName**:

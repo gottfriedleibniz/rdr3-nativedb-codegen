@@ -5,9 +5,9 @@ ns: ENTITY
 
 ```c
 // 0x7D9EFB7AD6B19754
-void FREEZE_ENTITY_POSITION(Any p0, Any p1);
+void FREEZE_ENTITY_POSITION(Entity entity, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **entity**:
+* **toggle**:

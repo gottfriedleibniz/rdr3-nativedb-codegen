@@ -5,9 +5,9 @@ ns: CAM
 
 ```c
 // 0xFB760AF4F537B8BF
-void SET_GAMEPLAY_CAM_RELATIVE_PITCH(Any p0, Any p1);
+void SET_GAMEPLAY_CAM_RELATIVE_PITCH(float x, float Value2);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **x**:
+* **Value2**:

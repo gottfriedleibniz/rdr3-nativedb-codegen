@@ -5,9 +5,9 @@ ns: CAM
 
 ```c
 // 0x45FD891364181F9E
-void SET_CAM_MOTION_BLUR_STRENGTH(Any p0, Any p1);
+void SET_CAM_MOTION_BLUR_STRENGTH(Cam cam, float strength);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **cam**:
+* **strength**:

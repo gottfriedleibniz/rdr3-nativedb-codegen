@@ -5,7 +5,7 @@ ns: TASK
 
 ```c
 // 0xA5B769058763E497
-Any GET_WAYPOINT_DISTANCE_ALONG_ROUTE(Any p0, Any p1);
+Any GET_WAYPOINT_DISTANCE_ALONG_ROUTE(char* p0, int p1);
 ```
 
 ## Parameters

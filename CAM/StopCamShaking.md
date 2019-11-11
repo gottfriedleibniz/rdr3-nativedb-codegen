@@ -5,9 +5,9 @@ ns: CAM
 
 ```c
 // 0xB78CC4B4706614B0
-void STOP_CAM_SHAKING(Any p0, Any p1);
+void STOP_CAM_SHAKING(Cam cam, BOOL p1);
 ```
 
 ## Parameters
-* **p0**:
+* **cam**:
 * **p1**:

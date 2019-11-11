@@ -5,16 +5,16 @@ ns: GRAPHICS
 
 ```c
 // 0xC0A145540254A840
-void DRAW_TV_CHANNEL(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8);
+void DRAW_TV_CHANNEL(float xPos, float yPos, float xScale, float yScale, float rotation, int red, int green, int blue, int alpha);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
-* **p7**:
-* **p8**:
+* **xPos**:
+* **yPos**:
+* **xScale**:
+* **yScale**:
+* **rotation**:
+* **red**:
+* **green**:
+* **blue**:
+* **alpha**:

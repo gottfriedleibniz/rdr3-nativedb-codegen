@@ -5,8 +5,8 @@ ns: STREAMING
 
 ```c
 // 0xF20866829E1C81A2
-void REMOVE_NAMED_PTFX_ASSET(Any p0);
+void REMOVE_NAMED_PTFX_ASSET(char* fxName);
 ```
 
 ## Parameters
-* **p0**:
+* **fxName**:

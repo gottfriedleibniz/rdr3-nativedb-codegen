@@ -5,13 +5,13 @@ ns: TASK
 
 ```c
 // 0x659427E0EF36BCDE
-void TASK_VEHICLE_MISSION(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8);
+void TASK_VEHICLE_MISSION(int p0, int p1, Vehicle veh, Any p3, float p4, Any p5, float p6, float p7, BOOL p8);
 ```
 
 ## Parameters
 * **p0**:
 * **p1**:
-* **p2**:
+* **veh**:
 * **p3**:
 * **p4**:
 * **p5**:

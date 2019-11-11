@@ -5,8 +5,8 @@ ns: STREAMING
 
 ```c
 // 0xF1767BE37F661551
-void REQUEST_COLLISION_FOR_MODEL(Any p0);
+void REQUEST_COLLISION_FOR_MODEL(Hash model);
 ```
 
 ## Parameters
-* **p0**:
+* **model**:

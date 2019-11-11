@@ -5,8 +5,8 @@ ns: PHYSICS
 
 ```c
 // 0x21BB0FBD3E217C2D
-Any GET_ROPE_LAST_VERTEX_COORD(Any p0);
+Any GET_ROPE_LAST_VERTEX_COORD(int ropeId);
 ```
 
 ## Parameters
-* **p0**:
+* **ropeId**:

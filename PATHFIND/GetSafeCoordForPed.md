@@ -5,13 +5,13 @@ ns: PATHFIND
 
 ```c
 // 0xB61C8E878A4199CA
-Any GET_SAFE_COORD_FOR_PED(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5);
+Any GET_SAFE_COORD_FOR_PED(float x, float y, float z, BOOL onGround, Vector3* outPosition, int flags);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
+* **x**:
+* **y**:
+* **z**:
+* **onGround**:
+* **outPosition**:
+* **flags**:

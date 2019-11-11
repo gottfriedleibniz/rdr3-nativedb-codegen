@@ -5,11 +5,11 @@ ns: ENTITY
 
 ```c
 // 0xAEB40615337EF1E3
-Any HAS_ENTITY_ANIM_FINISHED(Any p0, Any p1, Any p2, Any p3);
+Any HAS_ENTITY_ANIM_FINISHED(Entity entity, char* animDict, char* animName, int p3);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **entity**:
+* **animDict**:
+* **animName**:
 * **p3**:

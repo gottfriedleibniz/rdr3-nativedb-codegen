@@ -5,8 +5,8 @@ ns: STREAMING
 
 ```c
 // 0x4AD96EF928BD4F9A
-void SET_MODEL_AS_NO_LONGER_NEEDED(Any p0);
+void SET_MODEL_AS_NO_LONGER_NEEDED(Hash model);
 ```
 
 ## Parameters
-* **p0**:
+* **model**:

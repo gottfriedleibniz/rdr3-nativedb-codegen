@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0xFFC96ECB7FA404CA
-Any IS_ENTITY_VISIBLE(Any p0);
+Any IS_ENTITY_VISIBLE(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

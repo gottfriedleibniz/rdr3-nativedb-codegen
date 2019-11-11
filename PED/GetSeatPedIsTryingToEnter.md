@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x6F4C85ACD641BCD2
-Any GET_SEAT_PED_IS_TRYING_TO_ENTER(Any p0);
+Any GET_SEAT_PED_IS_TRYING_TO_ENTER(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

@@ -5,10 +5,10 @@ ns: PED
 
 ```c
 // 0x9F7794730795E019
-void SET_PED_COMBAT_ATTRIBUTES(Any p0, Any p1, Any p2);
+void SET_PED_COMBAT_ATTRIBUTES(Ped ped, int attributeIndex, BOOL enabled);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **ped**:
+* **attributeIndex**:
+* **enabled**:

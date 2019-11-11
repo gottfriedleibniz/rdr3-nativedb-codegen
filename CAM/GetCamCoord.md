@@ -5,8 +5,8 @@ ns: CAM
 
 ```c
 // 0x6B12F11C2A9F0344
-Any GET_CAM_COORD(Any p0);
+Any GET_CAM_COORD(Cam cam);
 ```
 
 ## Parameters
-* **p0**:
+* **cam**:

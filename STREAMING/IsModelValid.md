@@ -5,8 +5,8 @@ ns: STREAMING
 
 ```c
 // 0x392C8D8E07B70EFC
-Any IS_MODEL_VALID(Any p0);
+Any IS_MODEL_VALID(Hash model);
 ```
 
 ## Parameters
-* **p0**:
+* **model**:

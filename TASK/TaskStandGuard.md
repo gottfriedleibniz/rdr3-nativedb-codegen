@@ -5,13 +5,13 @@ ns: TASK
 
 ```c
 // 0xAE032F8BBA959E90
-void TASK_STAND_GUARD(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5);
+void TASK_STAND_GUARD(Ped ped, float x, float y, float z, float heading, char* scenarioName);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
+* **ped**:
+* **x**:
+* **y**:
+* **z**:
+* **heading**:
+* **scenarioName**:

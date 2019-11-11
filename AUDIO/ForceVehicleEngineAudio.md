@@ -5,9 +5,9 @@ ns: AUDIO
 
 ```c
 // 0x4F0C413926060B38
-void _FORCE_VEHICLE_ENGINE_AUDIO(Any p0, Any p1);
+void _FORCE_VEHICLE_ENGINE_AUDIO(Vehicle vehicle, char* audioName);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **audioName**:

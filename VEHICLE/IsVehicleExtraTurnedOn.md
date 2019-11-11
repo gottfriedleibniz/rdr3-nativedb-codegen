@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0xFA9A55D9C4351625
-Any IS_VEHICLE_EXTRA_TURNED_ON(Any p0, Any p1);
+Any IS_VEHICLE_EXTRA_TURNED_ON(Vehicle vehicle, int extraId);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **extraId**:

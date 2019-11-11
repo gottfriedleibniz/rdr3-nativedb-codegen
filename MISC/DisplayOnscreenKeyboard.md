@@ -5,15 +5,15 @@ ns: MISC
 
 ```c
 // 0x044131118D8DB3CD
-void DISPLAY_ONSCREEN_KEYBOARD(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
+void DISPLAY_ONSCREEN_KEYBOARD(int p0, char* windowTitle, char* p2, char* defaultText, char* defaultConcat1, char* defaultConcat2, char* defaultConcat3, int maxInputLength);
 ```
 
 ## Parameters
 * **p0**:
-* **p1**:
+* **windowTitle**:
 * **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
-* **p7**:
+* **defaultText**:
+* **defaultConcat1**:
+* **defaultConcat2**:
+* **defaultConcat3**:
+* **maxInputLength**:

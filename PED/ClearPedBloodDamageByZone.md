@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x56E3B78C5408D9F4
-void CLEAR_PED_BLOOD_DAMAGE_BY_ZONE(Any p0, Any p1);
+void CLEAR_PED_BLOOD_DAMAGE_BY_ZONE(Ped ped, int p1);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:

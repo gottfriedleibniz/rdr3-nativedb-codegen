@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x6F972C1AB75A1ED0
-Any IS_PED_IN_ANY_TRAIN(Any p0);
+Any IS_PED_IN_ANY_TRAIN(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x6E884BAB713A2A94
-void SET_VEHICLE_UNDRIVEABLE(Any p0, Any p1);
+void SET_VEHICLE_UNDRIVEABLE(Vehicle vehicle, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **toggle**:

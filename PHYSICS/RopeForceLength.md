@@ -5,9 +5,9 @@ ns: PHYSICS
 
 ```c
 // 0xD009F759A723DB1B
-void ROPE_FORCE_LENGTH(Any p0, Any p1);
+void ROPE_FORCE_LENGTH(int ropeId, float length);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ropeId**:
+* **length**:

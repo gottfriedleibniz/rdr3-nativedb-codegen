@@ -5,8 +5,8 @@ ns: MISC
 
 ```c
 // 0xB56C4F5F57A45600
-void SET_WIND_DIRECTION(Any p0);
+void SET_WIND_DIRECTION(float direction);
 ```
 
 ## Parameters
-* **p0**:
+* **direction**:

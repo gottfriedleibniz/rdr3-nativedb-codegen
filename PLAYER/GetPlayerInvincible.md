@@ -5,8 +5,8 @@ ns: PLAYER
 
 ```c
 // 0x0CBBCB2CCFA7DC4E
-Any GET_PLAYER_INVINCIBLE(Any p0);
+Any GET_PLAYER_INVINCIBLE(Player player);
 ```
 
 ## Parameters
-* **p0**:
+* **player**:

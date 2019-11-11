@@ -5,8 +5,8 @@ ns: MISC
 
 ```c
 // 0x602102324604D96B
-Any IS_STRING_NULL(Any p0);
+Any IS_STRING_NULL(char* string);
 ```
 
 ## Parameters
-* **p0**:
+* **string**:

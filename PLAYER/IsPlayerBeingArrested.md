@@ -5,9 +5,9 @@ ns: PLAYER
 
 ```c
 // 0xC8183AE963C58374
-Any IS_PLAYER_BEING_ARRESTED(Any p0, Any p1);
+Any IS_PLAYER_BEING_ARRESTED(Player player, BOOL atArresting);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **player**:
+* **atArresting**:

@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0xAF5E7E9A7620FFB5
-Any DOES_EXTRA_EXIST(Any p0, Any p1);
+Any DOES_EXTRA_EXIST(Vehicle vehicle, int extraId);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **extraId**:

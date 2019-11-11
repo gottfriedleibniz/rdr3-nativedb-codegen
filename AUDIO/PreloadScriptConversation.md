@@ -5,7 +5,7 @@ ns: AUDIO
 
 ```c
 // 0x3B3CAD6166916D87
-void PRELOAD_SCRIPT_CONVERSATION(Any p0, Any p1, Any p2, Any p3);
+void PRELOAD_SCRIPT_CONVERSATION(BOOL p0, BOOL p1, BOOL p2, BOOL p3);
 ```
 
 ## Parameters

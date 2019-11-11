@@ -5,9 +5,9 @@ ns: WEAPON
 
 ```c
 // 0x6F6981D2253C208F
-void HIDE_PED_WEAPON_FOR_SCRIPTED_CUTSCENE(Any p0, Any p1);
+void HIDE_PED_WEAPON_FOR_SCRIPTED_CUTSCENE(Ped ped, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **toggle**:

@@ -5,10 +5,10 @@ ns: PED
 
 ```c
 // 0xFF41B4B141ED981C
-void SET_COMBAT_FLOAT(Any p0, Any p1, Any p2);
+void SET_COMBAT_FLOAT(Ped ped, int combatType, float p2);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **combatType**:
 * **p2**:

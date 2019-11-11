@@ -5,8 +5,8 @@ ns: MISC
 
 ```c
 // 0xD00C2D82DC04A99F
-void SET_WIND_SPEED(Any p0);
+void SET_WIND_SPEED(float speed);
 ```
 
 ## Parameters
-* **p0**:
+* **speed**:

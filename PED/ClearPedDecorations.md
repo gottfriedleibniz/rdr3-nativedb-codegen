@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x0E5173C163976E38
-void CLEAR_PED_DECORATIONS(Any p0);
+void CLEAR_PED_DECORATIONS(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

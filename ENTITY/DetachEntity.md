@@ -5,10 +5,10 @@ ns: ENTITY
 
 ```c
 // 0x64CDE9D6BF8ECAD3
-void DETACH_ENTITY(Any p0, Any p1, Any p2);
+void DETACH_ENTITY(Entity entity, BOOL p1, BOOL collision);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:
 * **p1**:
-* **p2**:
+* **collision**:

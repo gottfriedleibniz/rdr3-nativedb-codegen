@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x2D05CED3A38D0F3A
-void EXPLODE_PED_HEAD(Any p0, Any p1);
+void EXPLODE_PED_HEAD(Ped ped, Hash weaponHash);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **weaponHash**:

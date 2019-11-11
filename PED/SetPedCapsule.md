@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x364DF566EC833DE2
-void SET_PED_CAPSULE(Any p0, Any p1);
+void SET_PED_CAPSULE(Ped ped, float value);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **value**:

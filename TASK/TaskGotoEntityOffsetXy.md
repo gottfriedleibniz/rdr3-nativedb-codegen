@@ -5,13 +5,13 @@ ns: TASK
 
 ```c
 // 0x338E7EF52B6095A9
-void TASK_GOTO_ENTITY_OFFSET_XY(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
+void TASK_GOTO_ENTITY_OFFSET_XY(Ped ped, Entity entity, int duration, float p3, float p4, float p5, float p6, BOOL p7);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **ped**:
+* **entity**:
+* **duration**:
 * **p3**:
 * **p4**:
 * **p5**:

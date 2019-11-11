@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x37F4AD56ECBC0CD6
-Any GET_PED_ACCURACY(Any p0);
+Any GET_PED_ACCURACY(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

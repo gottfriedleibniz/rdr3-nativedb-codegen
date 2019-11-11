@@ -5,9 +5,9 @@ ns: GRAPHICS
 
 ```c
 // 0x459598F579C98929
-void REMOVE_PARTICLE_FX(Any p0, Any p1);
+void REMOVE_PARTICLE_FX(int ptfxHandle, BOOL p1);
 ```
 
 ## Parameters
-* **p0**:
+* **ptfxHandle**:
 * **p1**:

@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x102E68B2024D536D
-void SET_CREATE_RANDOM_COPS(Any p0);
+void SET_CREATE_RANDOM_COPS(BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
+* **toggle**:

@@ -5,8 +5,8 @@ ns: STREAMING
 
 ```c
 // 0x1283B8B89DD5D1B6
-Any HAS_MODEL_LOADED(Any p0);
+Any HAS_MODEL_LOADED(Hash model);
 ```
 
 ## Parameters
-* **p0**:
+* **model**:

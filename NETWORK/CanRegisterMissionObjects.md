@@ -5,8 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x800DD4721A8B008B
-Any CAN_REGISTER_MISSION_OBJECTS(Any p0);
+Any CAN_REGISTER_MISSION_OBJECTS(int amount);
 ```
 
 ## Parameters
-* **p0**:
+* **amount**:

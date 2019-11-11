@@ -5,15 +5,15 @@ ns: ENTITY
 
 ```c
 // 0x06843DA7060A026B
-void SET_ENTITY_COORDS(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
+void SET_ENTITY_COORDS(Entity entity, float xPos, float yPos, float zPos, BOOL xAxis, BOOL yAxis, BOOL zAxis, BOOL clearArea);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
-* **p7**:
+* **entity**:
+* **xPos**:
+* **yPos**:
+* **zPos**:
+* **xAxis**:
+* **yAxis**:
+* **zAxis**:
+* **clearArea**:

@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0xBF966536FA8B6879
-Any GET_ENTITY_ROLL(Any p0);
+Any GET_ENTITY_ROLL(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

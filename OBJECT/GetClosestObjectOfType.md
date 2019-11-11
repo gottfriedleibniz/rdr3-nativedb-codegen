@@ -5,15 +5,15 @@ ns: OBJECT
 
 ```c
 // 0xE143FA2249364369
-Any GET_CLOSEST_OBJECT_OF_TYPE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
+Any GET_CLOSEST_OBJECT_OF_TYPE(float x, float y, float z, float radius, Hash modelHash, BOOL isMission, BOOL p6, BOOL p7);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
+* **x**:
+* **y**:
+* **z**:
+* **radius**:
+* **modelHash**:
+* **isMission**:
 * **p6**:
 * **p7**:

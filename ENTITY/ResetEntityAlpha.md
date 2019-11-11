@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0x744B9EF44779D9AB
-void RESET_ENTITY_ALPHA(Any p0);
+void RESET_ENTITY_ALPHA(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

@@ -5,8 +5,8 @@ ns: GRAPHICS
 
 ```c
 // 0x4D562223E0EB65F3
-Any _IS_TV_PLAYLIST_ITEM_PLAYING(Any p0);
+Any _IS_TV_PLAYLIST_ITEM_PLAYING(Hash videoCliphash);
 ```
 
 ## Parameters
-* **p0**:
+* **videoCliphash**:

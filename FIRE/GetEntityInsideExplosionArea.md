@@ -5,15 +5,15 @@ ns: FIRE
 
 ```c
 // 0x8002DDAB58594D78
-Any _GET_ENTITY_INSIDE_EXPLOSION_AREA(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
+Any _GET_ENTITY_INSIDE_EXPLOSION_AREA(int explosionType, float x1, float y1, float z1, float x2, float y2, float z2, float radius);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
-* **p7**:
+* **explosionType**:
+* **x1**:
+* **y1**:
+* **z1**:
+* **x2**:
+* **y2**:
+* **z2**:
+* **radius**:

@@ -5,7 +5,7 @@ ns: VEHICLE
 
 ```c
 // 0x139E35755418F6AA
-void REMOVE_VEHICLE_RECORDING(Any p0, Any p1);
+void REMOVE_VEHICLE_RECORDING(Any p0, Any* p1);
 ```
 
 ## Parameters

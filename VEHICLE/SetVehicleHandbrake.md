@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x91BE51AEC4E99710
-void SET_VEHICLE_HANDBRAKE(Any p0, Any p1);
+void SET_VEHICLE_HANDBRAKE(Vehicle vehicle, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **toggle**:

@@ -5,9 +5,9 @@ ns: ENTITY
 
 ```c
 // 0x516C6ABD18322B63
-void SET_ENTITY_MOTION_BLUR(Any p0, Any p1);
+void SET_ENTITY_MOTION_BLUR(Entity entity, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **entity**:
+* **toggle**:

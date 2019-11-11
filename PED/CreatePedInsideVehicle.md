@@ -5,13 +5,13 @@ ns: PED
 
 ```c
 // 0x7DD959874C1FD534
-Any CREATE_PED_INSIDE_VEHICLE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5);
+Any CREATE_PED_INSIDE_VEHICLE(Vehicle vehicle, int pedType, Hash modelHash, int seat, BOOL isNetwork, BOOL thisScriptCheck);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
+* **vehicle**:
+* **pedType**:
+* **modelHash**:
+* **seat**:
+* **isNetwork**:
+* **thisScriptCheck**:

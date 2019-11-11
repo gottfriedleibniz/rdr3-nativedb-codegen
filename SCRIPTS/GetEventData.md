@@ -5,11 +5,11 @@ ns: SCRIPTS
 
 ```c
 // 0x57EC5FA4D4D6AFCA
-Any GET_EVENT_DATA(Any p0, Any p1, Any p2, Any p3);
+Any GET_EVENT_DATA(int eventGroup, int eventIndex, int* argStruct, int argStructSize);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **eventGroup**:
+* **eventIndex**:
+* **argStruct**:
+* **argStructSize**:

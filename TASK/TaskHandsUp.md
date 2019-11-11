@@ -5,12 +5,12 @@ ns: TASK
 
 ```c
 // 0xF2EAB31979A7F910
-void TASK_HANDS_UP(Any p0, Any p1, Any p2, Any p3, Any p4);
+void TASK_HANDS_UP(Ped ped, int duration, Ped facingPed, int p3, BOOL p4);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **ped**:
+* **duration**:
+* **facingPed**:
 * **p3**:
 * **p4**:

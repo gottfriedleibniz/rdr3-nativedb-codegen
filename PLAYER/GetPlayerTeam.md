@@ -5,8 +5,8 @@ ns: PLAYER
 
 ```c
 // 0xB464EB6A40C7975B
-Any GET_PLAYER_TEAM(Any p0);
+Any GET_PLAYER_TEAM(Player player);
 ```
 
 ## Parameters
-* **p0**:
+* **player**:

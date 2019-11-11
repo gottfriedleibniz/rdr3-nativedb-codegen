@@ -5,17 +5,17 @@ ns: CAM
 
 ```c
 // 0x40C23491CE83708E
-Any CREATE_CAM_WITH_PARAMS(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9);
+Any CREATE_CAM_WITH_PARAMS(char* camName, float posX, float posY, float posZ, float rotX, float rotY, float rotZ, float fov, BOOL p8, int p9);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
-* **p7**:
+* **camName**:
+* **posX**:
+* **posY**:
+* **posZ**:
+* **rotX**:
+* **rotY**:
+* **rotZ**:
+* **fov**:
 * **p8**:
 * **p9**:

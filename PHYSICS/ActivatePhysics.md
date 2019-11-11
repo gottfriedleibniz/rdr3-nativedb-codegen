@@ -5,8 +5,8 @@ ns: PHYSICS
 
 ```c
 // 0x710311ADF0E20730
-void ACTIVATE_PHYSICS(Any p0);
+void ACTIVATE_PHYSICS(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

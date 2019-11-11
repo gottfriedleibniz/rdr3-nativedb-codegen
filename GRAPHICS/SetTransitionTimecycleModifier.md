@@ -5,9 +5,9 @@ ns: GRAPHICS
 
 ```c
 // 0xFF927A09F481D80C
-void SET_TRANSITION_TIMECYCLE_MODIFIER(Any p0, Any p1);
+void SET_TRANSITION_TIMECYCLE_MODIFIER(char* modifierName, float transition);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **modifierName**:
+* **transition**:

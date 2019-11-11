@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0x93B93A37987F1F3D
-void TASK_ACHIEVE_HEADING(Any p0, Any p1, Any p2);
+void TASK_ACHIEVE_HEADING(Ped ped, float heading, int timeout);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **ped**:
+* **heading**:
+* **timeout**:

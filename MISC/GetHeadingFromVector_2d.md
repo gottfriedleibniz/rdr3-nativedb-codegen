@@ -5,9 +5,9 @@ ns: MISC
 
 ```c
 // 0x38D5202FF9271C62
-Any GET_HEADING_FROM_VECTOR_2D(Any p0, Any p1);
+Any GET_HEADING_FROM_VECTOR_2D(float dx, float dy);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **dx**:
+* **dy**:

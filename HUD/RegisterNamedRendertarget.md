@@ -5,9 +5,9 @@ ns: HUD
 
 ```c
 // 0x98AF2BB6F62BD588
-Any REGISTER_NAMED_RENDERTARGET(Any p0, Any p1);
+Any REGISTER_NAMED_RENDERTARGET(char* name, BOOL p1);
 ```
 
 ## Parameters
-* **p0**:
+* **name**:
 * **p1**:

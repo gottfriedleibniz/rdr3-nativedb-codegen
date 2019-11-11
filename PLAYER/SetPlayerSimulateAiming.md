@@ -5,9 +5,9 @@ ns: PLAYER
 
 ```c
 // 0xE0447DEF81CCDFD2
-void SET_PLAYER_SIMULATE_AIMING(Any p0, Any p1);
+void SET_PLAYER_SIMULATE_AIMING(Player player, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **player**:
+* **toggle**:

@@ -5,8 +5,8 @@ ns: OBJECT
 
 ```c
 // 0xADBE4809F19F927A
-void _MARK_OBJECT_FOR_DELETION(Any p0);
+void _MARK_OBJECT_FOR_DELETION(Object object);
 ```
 
 ## Parameters
-* **p0**:
+* **object**:

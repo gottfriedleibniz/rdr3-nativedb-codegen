@@ -5,8 +5,8 @@ ns: SOCIALCLUB
 
 ```c
 // 0x0CF3BFB99EBBE5B1
-Any SC_PROFANITY_GET_STRING_STATUS(Any p0);
+Any SC_PROFANITY_GET_STRING_STATUS(int token);
 ```
 
 ## Parameters
-* **p0**:
+* **token**:

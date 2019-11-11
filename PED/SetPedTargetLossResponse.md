@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x0703B9079823DA4A
-void SET_PED_TARGET_LOSS_RESPONSE(Any p0, Any p1);
+void SET_PED_TARGET_LOSS_RESPONSE(Ped ped, int responseType);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **responseType**:

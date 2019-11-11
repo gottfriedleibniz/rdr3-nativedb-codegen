@@ -5,9 +5,9 @@ ns: PLAYER
 
 ```c
 // 0x5EDA520F7A3BAF4E
-void SET_PLAYER_CAN_USE_COVER(Any p0, Any p1);
+void SET_PLAYER_CAN_USE_COVER(Player player, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **player**:
+* **toggle**:

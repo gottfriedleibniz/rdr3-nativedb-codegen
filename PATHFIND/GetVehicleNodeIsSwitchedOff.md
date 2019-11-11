@@ -5,8 +5,8 @@ ns: PATHFIND
 
 ```c
 // 0x28533DBDDF7C2C97
-Any GET_VEHICLE_NODE_IS_SWITCHED_OFF(Any p0);
+Any GET_VEHICLE_NODE_IS_SWITCHED_OFF(int nodeID);
 ```
 
 ## Parameters
-* **p0**:
+* **nodeID**:

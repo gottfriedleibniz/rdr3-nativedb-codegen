@@ -5,11 +5,11 @@ ns: _NAMESPACE81
 
 ```c
 // 0xDCF3690AA262C03F
-Any GET_WATER_HEIGHT_NO_WAVES(Any p0, Any p1, Any p2, Any p3);
+Any GET_WATER_HEIGHT_NO_WAVES(float x, float y, float z, float* height);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **x**:
+* **y**:
+* **z**:
+* **height**:

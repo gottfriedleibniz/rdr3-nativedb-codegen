@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x01021EB2E96B793C
-void SET_TRAIN_CRUISE_SPEED(Any p0, Any p1);
+void SET_TRAIN_CRUISE_SPEED(Vehicle train, float speed);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **train**:
+* **speed**:

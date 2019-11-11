@@ -5,8 +5,8 @@ ns: GRAPHICS
 
 ```c
 // 0x3E4B4E5CF5D3EEB5
-Any IS_DECAL_ALIVE(Any p0);
+Any IS_DECAL_ALIVE(int decal);
 ```
 
 ## Parameters
-* **p0**:
+* **decal**:

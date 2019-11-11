@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0xC35B5CDB2824CF69
-void CLEAR_DRIVEBY_TASK_UNDERNEATH_DRIVING_TASK(Any p0);
+void CLEAR_DRIVEBY_TASK_UNDERNEATH_DRIVING_TASK(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

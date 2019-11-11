@@ -5,8 +5,8 @@ ns: SCRIPTS
 
 ```c
 // 0x87ED52AE40EA1A52
-void TERMINATE_THREAD(Any p0);
+void TERMINATE_THREAD(int threadId);
 ```
 
 ## Parameters
-* **p0**:
+* **threadId**:

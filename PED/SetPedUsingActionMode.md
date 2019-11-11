@@ -5,11 +5,11 @@ ns: PED
 
 ```c
 // 0xD75ACCF5E0FB5367
-void SET_PED_USING_ACTION_MODE(Any p0, Any p1, Any p2, Any p3);
+void SET_PED_USING_ACTION_MODE(Ped ped, BOOL p1, int p2, char* action);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:
-* **p3**:
+* **action**:

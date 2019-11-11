@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0xDF18751EC74F90FF
-Any HAS_ENTITY_COLLIDED_WITH_ANYTHING(Any p0);
+Any HAS_ENTITY_COLLIDED_WITH_ANYTHING(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

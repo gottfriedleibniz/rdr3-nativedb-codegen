@@ -5,8 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x38CE16C96BD11344
-Any NETWORK_DOES_NETWORK_ID_EXIST(Any p0);
+Any NETWORK_DOES_NETWORK_ID_EXIST(int netID);
 ```
 
 ## Parameters
-* **p0**:
+* **netID**:

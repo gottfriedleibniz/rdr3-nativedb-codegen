@@ -5,7 +5,7 @@ ns: MISC
 
 ```c
 // 0x928431F4133CD3D4
-Any IS_PROJECTILE_TYPE_IN_ANGLED_AREA(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8);
+Any IS_PROJECTILE_TYPE_IN_ANGLED_AREA(float p0, float p1, float p2, float p3, float p4, float p5, float p6, Any p7, BOOL p8);
 ```
 
 ## Parameters

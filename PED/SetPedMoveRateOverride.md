@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x085BF80FA50A39D1
-void SET_PED_MOVE_RATE_OVERRIDE(Any p0, Any p1);
+void SET_PED_MOVE_RATE_OVERRIDE(Ped ped, float value);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **value**:

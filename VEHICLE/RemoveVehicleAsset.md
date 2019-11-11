@@ -5,8 +5,8 @@ ns: VEHICLE
 
 ```c
 // 0x888A4E675B38F5AD
-void REMOVE_VEHICLE_ASSET(Any p0);
+void REMOVE_VEHICLE_ASSET(int vehicleAsset);
 ```
 
 ## Parameters
-* **p0**:
+* **vehicleAsset**:

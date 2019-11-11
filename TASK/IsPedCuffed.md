@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0x74E559B3BC910685
-Any IS_PED_CUFFED(Any p0);
+Any IS_PED_CUFFED(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

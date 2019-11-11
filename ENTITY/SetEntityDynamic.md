@@ -5,9 +5,9 @@ ns: ENTITY
 
 ```c
 // 0xFBFC4473F66CE344
-void SET_ENTITY_DYNAMIC(Any p0, Any p1);
+void SET_ENTITY_DYNAMIC(Entity entity, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **entity**:
+* **toggle**:

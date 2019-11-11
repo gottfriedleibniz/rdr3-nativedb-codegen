@@ -5,8 +5,8 @@ ns: GRAPHICS
 
 ```c
 // 0xA10DB07FC234DD12
-void USE_PARTICLE_FX_ASSET(Any p0);
+void USE_PARTICLE_FX_ASSET(char* name);
 ```
 
 ## Parameters
-* **p0**:
+* **name**:

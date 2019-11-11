@@ -5,11 +5,11 @@ ns: CAM
 
 ```c
 // 0x948B39341C3A40C2
-void POINT_CAM_AT_COORD(Any p0, Any p1, Any p2, Any p3);
+void POINT_CAM_AT_COORD(Cam cam, float x, float y, float z);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **cam**:
+* **x**:
+* **y**:
+* **z**:

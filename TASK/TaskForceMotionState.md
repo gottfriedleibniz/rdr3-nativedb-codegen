@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0x4F056E1AFFEF17AB
-void TASK_FORCE_MOTION_STATE(Any p0, Any p1, Any p2);
+void TASK_FORCE_MOTION_STATE(Ped ped, Hash state, BOOL p2);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **state**:
 * **p2**:

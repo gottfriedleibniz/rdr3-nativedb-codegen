@@ -5,11 +5,11 @@ ns: TASK
 
 ```c
 // 0xC429DCEEB339E129
-void TASK_VEHICLE_TEMP_ACTION(Any p0, Any p1, Any p2, Any p3);
+void TASK_VEHICLE_TEMP_ACTION(Ped driver, Vehicle vehicle, int action, int time);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **driver**:
+* **vehicle**:
+* **action**:
+* **time**:

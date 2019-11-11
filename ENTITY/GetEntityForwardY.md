@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0x9A5C073ECBDA7EE7
-Any GET_ENTITY_FORWARD_Y(Any p0);
+Any GET_ENTITY_FORWARD_Y(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

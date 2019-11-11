@@ -5,8 +5,8 @@ ns: MISC
 
 ```c
 // 0x5CD7A49104AFCB6B
-void SET_RANDOM_SEED(Any p0);
+void SET_RANDOM_SEED(int seed);
 ```
 
 ## Parameters
-* **p0**:
+* **seed**:

@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0xB6BA2444AB393DA2
-void REMOVE_RELATIONSHIP_GROUP(Any p0);
+void REMOVE_RELATIONSHIP_GROUP(Hash groupHash);
 ```
 
 ## Parameters
-* **p0**:
+* **groupHash**:

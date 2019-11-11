@@ -5,10 +5,10 @@ ns: VEHICLE
 
 ```c
 // 0xBB6F89150BC9D16B
-void SET_VEHICLE_EXTRA(Any p0, Any p1, Any p2);
+void SET_VEHICLE_EXTRA(Vehicle vehicle, int extraId, BOOL disable);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **vehicle**:
+* **extraId**:
+* **disable**:

@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x4859F1FC66A6278E
-Any IS_PED_IN_COMBAT(Any p0, Any p1);
+Any IS_PED_IN_COMBAT(Ped ped, Ped target);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **target**:

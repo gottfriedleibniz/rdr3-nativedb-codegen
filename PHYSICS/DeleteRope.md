@@ -5,8 +5,8 @@ ns: PHYSICS
 
 ```c
 // 0x52B4829281364649
-void DELETE_ROPE(Any p0);
+void DELETE_ROPE(int* ropeId);
 ```
 
 ## Parameters
-* **p0**:
+* **ropeId**:

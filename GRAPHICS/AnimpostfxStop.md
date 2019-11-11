@@ -5,8 +5,8 @@ ns: GRAPHICS
 
 ```c
 // 0xB4FD7446BAB2F394
-void ANIMPOSTFX_STOP(Any p0);
+void ANIMPOSTFX_STOP(char* effectName);
 ```
 
 ## Parameters
-* **p0**:
+* **effectName**:

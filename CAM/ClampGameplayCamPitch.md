@@ -5,9 +5,9 @@ ns: CAM
 
 ```c
 // 0x326C7AA308F3DF6A
-void _CLAMP_GAMEPLAY_CAM_PITCH(Any p0, Any p1);
+void _CLAMP_GAMEPLAY_CAM_PITCH(float minimum, float maximum);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **minimum**:
+* **maximum**:

@@ -5,13 +5,13 @@ ns: PATHFIND
 
 ```c
 // 0x132F52BBA570FE92
-Any GET_CLOSEST_ROAD(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10);
+Any GET_CLOSEST_ROAD(float x, float y, float z, float p3, int p4, Vector3* p5, Vector3* p6, Any* p7, Any* p8, float* p9, BOOL p10);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **x**:
+* **y**:
+* **z**:
 * **p3**:
 * **p4**:
 * **p5**:

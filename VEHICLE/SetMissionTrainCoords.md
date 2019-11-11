@@ -5,11 +5,11 @@ ns: VEHICLE
 
 ```c
 // 0x7632755962AB9922
-void SET_MISSION_TRAIN_COORDS(Any p0, Any p1, Any p2, Any p3);
+void SET_MISSION_TRAIN_COORDS(Vehicle train, float x, float y, float z);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **train**:
+* **x**:
+* **y**:
+* **z**:

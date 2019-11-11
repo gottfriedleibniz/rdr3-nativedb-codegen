@@ -5,8 +5,8 @@ ns: ENTITY
 
 ```c
 // 0xC230DD956E2F5507
-Any GET_ENTITY_HEADING(Any p0);
+Any GET_ENTITY_HEADING(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

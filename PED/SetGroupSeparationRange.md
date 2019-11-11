@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x4102C7858CFEE4E4
-void SET_GROUP_SEPARATION_RANGE(Any p0, Any p1);
+void SET_GROUP_SEPARATION_RANGE(int groupHandle, float separationRange);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **groupHandle**:
+* **separationRange**:

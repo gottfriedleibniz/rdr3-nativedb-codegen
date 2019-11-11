@@ -5,13 +5,13 @@ ns: TASK
 
 ```c
 // 0x2D537BA194896636
-void TASK_MOVE_NETWORK_BY_NAME(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5);
+void TASK_MOVE_NETWORK_BY_NAME(Ped ped, char* task, float multiplier, BOOL p3, char* animDict, int flags);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **ped**:
+* **task**:
+* **multiplier**:
 * **p3**:
-* **p4**:
-* **p5**:
+* **animDict**:
+* **flags**:
