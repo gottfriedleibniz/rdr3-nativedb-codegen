@@ -5,8 +5,8 @@ ns: STREAMING
 
 ```c
 // 0xF2B2353BBC0D4E8F
-void REQUEST_NAMED_PTFX_ASSET(char* assetName);
+void REQUEST_NAMED_PTFX_ASSET(char* fxName);
 ```
 
 ## Parameters
-* **assetName**:
+* **fxName**:

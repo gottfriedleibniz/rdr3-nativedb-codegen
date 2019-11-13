@@ -5,8 +5,8 @@ ns: STREAMING
 
 ```c
 // 0x65BB72F29138F5D6
-BOOL HAS_NAMED_PTFX_ASSET_LOADED(char* assetName);
+BOOL HAS_NAMED_PTFX_ASSET_LOADED(char* fxName);
 ```
 
 ## Parameters
-* **assetName**:
+* **fxName**:
