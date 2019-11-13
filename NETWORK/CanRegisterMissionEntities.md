@@ -5,6 +5,11 @@ ns: NETWORK
 
 ```c
 // 0x69778E7564BADE6D
-Any CAN_REGISTER_MISSION_ENTITIES();
+BOOL CAN_REGISTER_MISSION_ENTITIES(int ped_amt, int vehicle_amt, int object_amt, int pickup_amt);
 ```
 
+## Parameters
+* **ped_amt**:
+* **vehicle_amt**:
+* **object_amt**:
+* **pickup_amt**:

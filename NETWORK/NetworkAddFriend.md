@@ -5,6 +5,9 @@ ns: NETWORK
 
 ```c
 // 0x8E02D73914064223
-Any NETWORK_ADD_FRIEND();
+BOOL NETWORK_ADD_FRIEND(int* networkHandle, char* message);
 ```
 
+## Parameters
+* **networkHandle**:
+* **message**:

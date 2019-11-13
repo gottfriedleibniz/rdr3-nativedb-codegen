@@ -5,6 +5,8 @@ ns: MISSIONDATA
 
 ```c
 // 0x9AABABF8313C3516
-Any MISSIONDATA_GET_HIGH_SCORE();
+Any MISSIONDATA_GET_HIGH_SCORE(Any p0);
 ```
 
+## Parameters
+* **p0**:

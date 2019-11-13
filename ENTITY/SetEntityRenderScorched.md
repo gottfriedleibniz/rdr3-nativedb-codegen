@@ -5,6 +5,9 @@ ns: ENTITY
 
 ```c
 // 0x85B8A7534E44BC23
-Any SET_ENTITY_RENDER_SCORCHED();
+void SET_ENTITY_RENDER_SCORCHED(Entity entity, BOOL toggle);
 ```
 
+## Parameters
+* **entity**:
+* **toggle**:

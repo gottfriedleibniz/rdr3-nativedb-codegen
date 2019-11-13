@@ -5,6 +5,12 @@ ns: GRAPHICS
 
 ```c
 // 0x99AFF17222D4DEB4
-Any _SET_CHECKPOINT_ICON_RGBA();
+void _SET_CHECKPOINT_ICON_RGBA(int checkpoint, int red, int green, int blue, int alpha);
 ```
 
+## Parameters
+* **checkpoint**:
+* **red**:
+* **green**:
+* **blue**:
+* **alpha**:

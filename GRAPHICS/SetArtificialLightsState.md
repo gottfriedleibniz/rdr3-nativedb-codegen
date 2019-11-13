@@ -5,6 +5,8 @@ ns: GRAPHICS
 
 ```c
 // 0xB2797619A7C7747B
-Any SET_ARTIFICIAL_LIGHTS_STATE();
+void SET_ARTIFICIAL_LIGHTS_STATE(BOOL state);
 ```
 
+## Parameters
+* **state**:

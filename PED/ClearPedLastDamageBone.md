@@ -5,6 +5,8 @@ ns: PED
 
 ```c
 // 0x8EF6B7AC68E2F01B
-Any CLEAR_PED_LAST_DAMAGE_BONE();
+void CLEAR_PED_LAST_DAMAGE_BONE(Ped ped);
 ```
 
+## Parameters
+* **ped**:

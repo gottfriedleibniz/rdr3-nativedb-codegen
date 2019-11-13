@@ -5,6 +5,8 @@ ns: PED
 
 ```c
 // 0xAF61B3CD8C3B82C3
-Any _0xAF61B3CD8C3B82C3();
+Any _0xAF61B3CD8C3B82C3(Any p0);
 ```
 
+## Parameters
+* **p0**:

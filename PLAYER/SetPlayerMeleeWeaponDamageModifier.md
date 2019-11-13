@@ -5,6 +5,9 @@ ns: PLAYER
 
 ```c
 // 0xE4CB5A3F18170381
-Any SET_PLAYER_MELEE_WEAPON_DAMAGE_MODIFIER();
+void SET_PLAYER_MELEE_WEAPON_DAMAGE_MODIFIER(Any p0, Any p1);
 ```
 
+## Parameters
+* **p0**:
+* **p1**:

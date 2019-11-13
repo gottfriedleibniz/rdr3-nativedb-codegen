@@ -5,6 +5,9 @@ ns: NETWORK
 
 ```c
 // 0xD45B1FFCCD52FF19
-Any ACTIVATE_DAMAGE_TRACKER_ON_NETWORK_ID();
+void ACTIVATE_DAMAGE_TRACKER_ON_NETWORK_ID(int netID, BOOL toggle);
 ```
 
+## Parameters
+* **netID**:
+* **toggle**:

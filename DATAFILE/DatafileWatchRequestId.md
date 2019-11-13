@@ -5,6 +5,8 @@ ns: DATAFILE
 
 ```c
 // 0xA5834834CA8FD7FC
-Any DATAFILE_WATCH_REQUEST_ID();
+void DATAFILE_WATCH_REQUEST_ID(int id);
 ```
 
+## Parameters
+* **id**:

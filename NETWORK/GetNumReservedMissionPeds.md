@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x1F13D5AE5CB17E17
-Any GET_NUM_RESERVED_MISSION_PEDS();
+int GET_NUM_RESERVED_MISSION_PEDS(Any p0);
 ```
 
+## Parameters
+* **p0**:

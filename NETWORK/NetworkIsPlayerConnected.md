@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x93DC1BE4E1ABE9D1
-Any NETWORK_IS_PLAYER_CONNECTED();
+BOOL NETWORK_IS_PLAYER_CONNECTED(Player player);
 ```
 
+## Parameters
+* **player**:

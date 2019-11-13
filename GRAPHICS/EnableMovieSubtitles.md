@@ -5,6 +5,8 @@ ns: GRAPHICS
 
 ```c
 // 0x6FC9B065229C0787
-Any ENABLE_MOVIE_SUBTITLES();
+void ENABLE_MOVIE_SUBTITLES(BOOL toggle);
 ```
 
+## Parameters
+* **toggle**:

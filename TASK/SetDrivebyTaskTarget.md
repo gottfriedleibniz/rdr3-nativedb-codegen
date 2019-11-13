@@ -5,6 +5,13 @@ ns: TASK
 
 ```c
 // 0xE5B302114D8162EE
-Any SET_DRIVEBY_TASK_TARGET();
+void SET_DRIVEBY_TASK_TARGET(Ped shootingPed, Ped targetPed, Vehicle targetVehicle, float x, float y, float z);
 ```
 
+## Parameters
+* **shootingPed**:
+* **targetPed**:
+* **targetVehicle**:
+* **x**:
+* **y**:
+* **z**:

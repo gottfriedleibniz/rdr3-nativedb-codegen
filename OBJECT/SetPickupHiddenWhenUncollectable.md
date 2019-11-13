@@ -5,6 +5,9 @@ ns: OBJECT
 
 ```c
 // 0x81218CE01B672219
-Any SET_PICKUP_HIDDEN_WHEN_UNCOLLECTABLE();
+void SET_PICKUP_HIDDEN_WHEN_UNCOLLECTABLE(Any p0, Any p1);
 ```
 
+## Parameters
+* **p0**:
+* **p1**:

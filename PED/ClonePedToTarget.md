@@ -5,6 +5,9 @@ ns: PED
 
 ```c
 // 0xE952D6431689AD9A
-Any CLONE_PED_TO_TARGET();
+void CLONE_PED_TO_TARGET(Ped ped, Ped targetPed);
 ```
 
+## Parameters
+* **ped**:
+* **targetPed**:

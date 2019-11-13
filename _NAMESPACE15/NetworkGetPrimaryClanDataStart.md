@@ -5,6 +5,9 @@ ns: _NAMESPACE15
 
 ```c
 // 0xCE86D8191B762107
-Any NETWORK_GET_PRIMARY_CLAN_DATA_START();
+BOOL NETWORK_GET_PRIMARY_CLAN_DATA_START(Any* p0, Any p1);
 ```
 
+## Parameters
+* **p0**:
+* **p1**:

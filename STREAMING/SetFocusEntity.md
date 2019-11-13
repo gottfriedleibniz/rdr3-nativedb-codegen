@@ -5,6 +5,8 @@ ns: STREAMING
 
 ```c
 // 0x955AEDD58F4BD309
-Any SET_FOCUS_ENTITY();
+void SET_FOCUS_ENTITY(Entity entity);
 ```
 
+## Parameters
+* **entity**:

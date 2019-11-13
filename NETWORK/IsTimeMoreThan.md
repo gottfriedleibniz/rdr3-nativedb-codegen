@@ -5,6 +5,9 @@ ns: NETWORK
 
 ```c
 // 0xDE350F8651E4346C
-Any IS_TIME_MORE_THAN();
+BOOL IS_TIME_MORE_THAN(int timeA, int timeB);
 ```
 
+## Parameters
+* **timeA**:
+* **timeB**:

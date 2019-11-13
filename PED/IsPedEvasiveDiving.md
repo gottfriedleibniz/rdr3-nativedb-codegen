@@ -5,6 +5,9 @@ ns: PED
 
 ```c
 // 0x414641C26E105898
-Any IS_PED_EVASIVE_DIVING();
+BOOL IS_PED_EVASIVE_DIVING(Ped ped, Entity* evadingEntity);
 ```
 
+## Parameters
+* **ped**:
+* **evadingEntity**:

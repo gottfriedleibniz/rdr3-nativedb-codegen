@@ -5,6 +5,10 @@ ns: NETWORK
 
 ```c
 // 0x8BE1146DFD5D4468
-Any NETWORK_ACCESS_TUNABLE_INT();
+BOOL NETWORK_ACCESS_TUNABLE_INT(char* tunableContext, char* tunableName, int* value);
 ```
 
+## Parameters
+* **tunableContext**:
+* **tunableName**:
+* **value**:

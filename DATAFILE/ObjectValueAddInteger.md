@@ -5,6 +5,10 @@ ns: DATAFILE
 
 ```c
 // 0x26FDF5E99AA2F3E9
-Any _OBJECT_VALUE_ADD_INTEGER();
+void _OBJECT_VALUE_ADD_INTEGER(Any* objectData, char* key, int value);
 ```
 
+## Parameters
+* **objectData**:
+* **key**:
+* **value**:

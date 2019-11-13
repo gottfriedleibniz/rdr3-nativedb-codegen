@@ -5,6 +5,9 @@ ns: CAM
 
 ```c
 // 0xF1898A68E7C15636
-Any SET_CAM_SPLINE_PHASE();
+void SET_CAM_SPLINE_PHASE(Cam cam, float p1);
 ```
 
+## Parameters
+* **cam**:
+* **p1**:

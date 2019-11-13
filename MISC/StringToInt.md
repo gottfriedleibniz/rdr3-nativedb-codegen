@@ -5,6 +5,9 @@ ns: MISC
 
 ```c
 // 0xF2DD2298B3AF23E2
-Any STRING_TO_INT();
+BOOL STRING_TO_INT(char* string, int* outInteger);
 ```
 
+## Parameters
+* **string**:
+* **outInteger**:

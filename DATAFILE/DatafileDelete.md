@@ -5,6 +5,8 @@ ns: DATAFILE
 
 ```c
 // 0x9FB90EEDEA9F2D5C
-void DATAFILE_DELETE();
+void DATAFILE_DELETE(Any p0);
 ```
 
+## Parameters
+* **p0**:

@@ -5,6 +5,8 @@ ns: PED
 
 ```c
 // 0x2AFE52F782F25775
-Any IS_PED_RUNNING_MOBILE_PHONE_TASK();
+BOOL IS_PED_RUNNING_MOBILE_PHONE_TASK(Ped ped);
 ```
 
+## Parameters
+* **ped**:

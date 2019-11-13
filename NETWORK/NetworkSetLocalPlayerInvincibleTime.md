@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x2D95C7E2D7E07307
-Any NETWORK_SET_LOCAL_PLAYER_INVINCIBLE_TIME();
+void NETWORK_SET_LOCAL_PLAYER_INVINCIBLE_TIME(int time);
 ```
 
+## Parameters
+* **time**:

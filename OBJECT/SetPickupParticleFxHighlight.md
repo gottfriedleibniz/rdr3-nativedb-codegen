@@ -5,6 +5,9 @@ ns: OBJECT
 
 ```c
 // 0x1607C7D9B3021DF5
-Any SET_PICKUP_PARTICLE_FX_HIGHLIGHT();
+void SET_PICKUP_PARTICLE_FX_HIGHLIGHT(Any p0, Any p1);
 ```
 
+## Parameters
+* **p0**:
+* **p1**:

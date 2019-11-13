@@ -5,7 +5,7 @@ ns: VEHICLE
 
 ```c
 // 0xBA958F68031DDBFC
-Any _0xBA958F68031DDBFC(Any p0, Any p1);
+Vector3 _0xBA958F68031DDBFC(Any p0, Any p1);
 ```
 
 ## Parameters

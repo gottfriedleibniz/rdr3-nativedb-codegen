@@ -5,12 +5,13 @@ ns: AUDIO
 
 ```c
 // 0x7FF4944CC209192D
-void PLAY_SOUND(Any p0, Any p1, Any p2, Any p3, Any p4);
+void PLAY_SOUND(int soundId, char* audioName, char* audioRef, BOOL p3, Any p4, BOOL p5);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **soundId**:
+* **audioName**:
+* **audioRef**:
 * **p3**:
 * **p4**:
+* **p5**:

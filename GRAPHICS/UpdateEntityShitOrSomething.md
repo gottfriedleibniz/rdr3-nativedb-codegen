@@ -5,8 +5,8 @@ ns: GRAPHICS
 
 ```c
 // 0xBDBACB52A03CC760
-void _UPDATE_ENTITY_SHIT_OR_SOMETHING(Any p0);
+void _UPDATE_ENTITY_SHIT_OR_SOMETHING(Object object);
 ```
 
 ## Parameters
-* **p0**:
+* **object**:

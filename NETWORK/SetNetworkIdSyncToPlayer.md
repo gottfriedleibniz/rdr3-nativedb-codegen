@@ -5,6 +5,10 @@ ns: NETWORK
 
 ```c
 // 0xA8A024587329F36A
-Any _SET_NETWORK_ID_SYNC_TO_PLAYER();
+void _SET_NETWORK_ID_SYNC_TO_PLAYER(int netId, Player player, BOOL toggle);
 ```
 
+## Parameters
+* **netId**:
+* **player**:
+* **toggle**:

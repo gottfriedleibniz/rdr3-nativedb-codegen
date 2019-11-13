@@ -5,6 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x48E4C137A71C2688
-Any SET_VEHICLE_ENGINE_CAN_DEGRADE();
+void SET_VEHICLE_ENGINE_CAN_DEGRADE(Vehicle vehicle, BOOL toggle);
 ```
 
+## Parameters
+* **vehicle**:
+* **toggle**:

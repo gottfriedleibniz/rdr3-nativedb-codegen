@@ -5,6 +5,8 @@ ns: TASK
 
 ```c
 // 0xBDFEEB7600BCD938
-Any _0xBDFEEB7600BCD938();
+void _0xBDFEEB7600BCD938(Any p0);
 ```
 
+## Parameters
+* **p0**:

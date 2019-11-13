@@ -5,6 +5,10 @@ ns: STATS
 
 ```c
 // 0x86922D8C02FB7703
-Any CHAL_ADD_GOAL_PROGRESS_FLOAT();
+void CHAL_ADD_GOAL_PROGRESS_FLOAT(Any p0, Any p1, Any p2);
 ```
 
+## Parameters
+* **p0**:
+* **p1**:
+* **p2**:

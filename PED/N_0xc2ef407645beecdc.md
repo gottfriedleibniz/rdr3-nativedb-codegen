@@ -5,6 +5,8 @@ ns: PED
 
 ```c
 // 0xC2EF407645BEECDC
-Any _0xC2EF407645BEECDC();
+Any _0xC2EF407645BEECDC(Any p0);
 ```
 
+## Parameters
+* **p0**:

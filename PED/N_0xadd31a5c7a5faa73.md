@@ -5,6 +5,9 @@ ns: PED
 
 ```c
 // 0xADD31A5C7A5FAA73
-Any _0xADD31A5C7A5FAA73();
+void _0xADD31A5C7A5FAA73(Any p0, Any p1);
 ```
 
+## Parameters
+* **p0**:
+* **p1**:

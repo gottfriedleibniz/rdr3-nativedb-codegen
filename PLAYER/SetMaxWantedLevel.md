@@ -5,6 +5,8 @@ ns: PLAYER
 
 ```c
 // 0x28A4BD2CEE236E19
-Any SET_MAX_WANTED_LEVEL();
+void SET_MAX_WANTED_LEVEL(int maxWantedLevel);
 ```
 
+## Parameters
+* **maxWantedLevel**:

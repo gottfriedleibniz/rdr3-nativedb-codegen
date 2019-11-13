@@ -5,6 +5,8 @@ ns: _NAMESPACE32
 
 ```c
 // 0x597F571DDEE3FFAC
-Any _0x597F571DDEE3FFAC();
+void _0x597F571DDEE3FFAC(Any p0);
 ```
 
+## Parameters
+* **p0**:

@@ -5,6 +5,8 @@ ns: GRAPHICS
 
 ```c
 // 0xCE4774E0F9AD48D1
-Any _CASCADESHADOWS_SET_TYPE();
+void _CASCADESHADOWS_SET_TYPE(char* type);
 ```
 
+## Parameters
+* **type**:

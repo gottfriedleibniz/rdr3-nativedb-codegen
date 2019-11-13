@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x99BFDC94A603E541
-Any OBJ_TO_NET();
+int OBJ_TO_NET(Object object);
 ```
 
+## Parameters
+* **object**:

@@ -5,6 +5,9 @@ ns: PED
 
 ```c
 // 0xEAD42DE3610D0721
-Any CAN_PED_IN_COMBAT_SEE_TARGET();
+BOOL CAN_PED_IN_COMBAT_SEE_TARGET(Ped ped, Ped target);
 ```
 
+## Parameters
+* **ped**:
+* **target**:

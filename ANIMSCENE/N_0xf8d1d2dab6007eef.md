@@ -5,6 +5,9 @@ ns: ANIMSCENE
 
 ```c
 // 0xF8D1D2DAB6007EEF
-Any _0xF8D1D2DAB6007EEF();
+Any _0xF8D1D2DAB6007EEF(Any p0, Any p1);
 ```
 
+## Parameters
+* **p0**:
+* **p1**:

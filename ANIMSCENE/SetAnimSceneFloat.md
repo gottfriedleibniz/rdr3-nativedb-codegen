@@ -5,7 +5,7 @@ ns: ANIMSCENE
 
 ```c
 // 0x6BC5104E68CBEFE8
-void SET_ANIM_SCENE_FLOAT(Any p0, Any p1, Any p2, Any p3);
+void SET_ANIM_SCENE_FLOAT(Any p0, Any p1, Any p2, Any p3, Any p4);
 ```
 
 ## Parameters
@@ -13,3 +13,4 @@ void SET_ANIM_SCENE_FLOAT(Any p0, Any p1, Any p2, Any p3);
 * **p1**:
 * **p2**:
 * **p3**:
+* **p4**:

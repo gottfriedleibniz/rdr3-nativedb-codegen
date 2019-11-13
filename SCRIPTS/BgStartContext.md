@@ -5,6 +5,6 @@ ns: SCRIPTS
 
 ```c
 // 0x49BA5678BA040CA7
-Any BG_START_CONTEXT();
+void BG_START_CONTEXT();
 ```
 

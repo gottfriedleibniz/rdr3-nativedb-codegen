@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0xBC1D768F2F5D6C05
-Any NETWORK_HASH_FROM_PLAYER_HANDLE();
+Hash NETWORK_HASH_FROM_PLAYER_HANDLE(Player player);
 ```
 
+## Parameters
+* **player**:

@@ -5,7 +5,7 @@ ns: AUDIO
 
 ```c
 // 0xD79DEEFB53455EBA
-Any STOP_SCRIPTED_CONVERSATION(Any p0, Any p1, Any p2);
+int STOP_SCRIPTED_CONVERSATION(Any p0, Any p1, Any p2);
 ```
 
 ## Parameters

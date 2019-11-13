@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x367B936610BA360C
-Any NET_TO_VEH();
+Vehicle NET_TO_VEH(int netHandle);
 ```
 
+## Parameters
+* **netHandle**:

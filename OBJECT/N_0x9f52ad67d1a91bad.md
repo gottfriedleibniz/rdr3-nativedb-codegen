@@ -5,6 +5,9 @@ ns: OBJECT
 
 ```c
 // 0x9F52AD67D1A91BAD
-Any _0x9F52AD67D1A91BAD();
+Any _0x9F52AD67D1A91BAD(Any p0, Any p1);
 ```
 
+## Parameters
+* **p0**:
+* **p1**:

@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x62A6D317A011EA1D
-void _SET_BOAT_EXPLODES_ON_WRECKED_ACTION(Any p0, Any p1);
+void _SET_BOAT_EXPLODES_ON_WRECKED_ACTION(Vehicle vehicle, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **toggle**:

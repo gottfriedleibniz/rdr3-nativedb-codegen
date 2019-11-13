@@ -5,6 +5,8 @@ ns: _NAMESPACE26
 
 ```c
 // 0xA9CEAE8D6637FBAD
-Any _0xA9CEAE8D6637FBAD();
+void _0xA9CEAE8D6637FBAD(Any p0);
 ```
 
+## Parameters
+* **p0**:

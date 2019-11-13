@@ -5,6 +5,9 @@ ns: NETWORK
 
 ```c
 // 0xF1CA12B18AEF5298
-Any _NETWORK_SET_ENTITY_INVISIBLE_TO_NETWORK();
+void _NETWORK_SET_ENTITY_INVISIBLE_TO_NETWORK(Entity entity, BOOL toggle);
 ```
 
+## Parameters
+* **entity**:
+* **toggle**:

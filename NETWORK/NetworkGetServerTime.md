@@ -5,6 +5,10 @@ ns: NETWORK
 
 ```c
 // 0x6D03BFBD643B2A02
-Any _NETWORK_GET_SERVER_TIME();
+void _NETWORK_GET_SERVER_TIME(int* hours, int* minutes, int* seconds);
 ```
 
+## Parameters
+* **hours**:
+* **minutes**:
+* **seconds**:

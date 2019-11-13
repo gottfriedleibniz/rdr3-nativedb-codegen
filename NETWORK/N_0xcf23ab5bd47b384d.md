@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0xCF23AB5BD47B384D
-Any _0xCF23AB5BD47B384D();
+void _0xCF23AB5BD47B384D(Any p0);
 ```
 
+## Parameters
+* **p0**:

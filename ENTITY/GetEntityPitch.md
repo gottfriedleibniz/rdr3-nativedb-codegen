@@ -5,6 +5,8 @@ ns: ENTITY
 
 ```c
 // 0xEF355ABEFF7F5005
-Any GET_ENTITY_PITCH();
+float GET_ENTITY_PITCH(Entity entity);
 ```
 
+## Parameters
+* **entity**:

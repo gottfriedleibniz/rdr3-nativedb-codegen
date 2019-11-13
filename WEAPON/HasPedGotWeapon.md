@@ -5,7 +5,7 @@ ns: WEAPON
 
 ```c
 // 0x8DECB02F88F428BC
-Any HAS_PED_GOT_WEAPON(Any p0, Any p1, Any p2, Any p3);
+BOOL HAS_PED_GOT_WEAPON(Any p0, Any p1, Any p2, Any p3);
 ```
 
 ## Parameters

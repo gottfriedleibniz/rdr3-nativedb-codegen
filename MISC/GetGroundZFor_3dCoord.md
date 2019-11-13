@@ -5,7 +5,7 @@ ns: MISC
 
 ```c
 // 0x24FA4267BB8D2431
-Any GET_GROUND_Z_FOR_3D_COORD(Any p0, Any p1, Any p2, Any p3, Any p4);
+BOOL GET_GROUND_Z_FOR_3D_COORD(Any p0, Any p1, Any p2, Any p3, Any p4);
 ```
 
 ## Parameters

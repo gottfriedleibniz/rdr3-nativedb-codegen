@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0xE86051786B66CD8E
-Any NETWORK_GET_LOCAL_HANDLE();
+void NETWORK_GET_LOCAL_HANDLE(Any p0);
 ```
 
+## Parameters
+* **p0**:

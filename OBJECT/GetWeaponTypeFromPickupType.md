@@ -5,6 +5,8 @@ ns: OBJECT
 
 ```c
 // 0x08F96CA6C551AD51
-Any GET_WEAPON_TYPE_FROM_PICKUP_TYPE();
+Hash GET_WEAPON_TYPE_FROM_PICKUP_TYPE(Hash pickupHash);
 ```
 
+## Parameters
+* **pickupHash**:

@@ -5,6 +5,12 @@ ns: HUD
 
 ```c
 // 0x1BE39DBAA7263CA5
-Any SET_TEXT_DROPSHADOW();
+void SET_TEXT_DROPSHADOW(int distance, int r, int g, int b, int a);
 ```
 
+## Parameters
+* **distance**:
+* **r**:
+* **g**:
+* **b**:
+* **a**:

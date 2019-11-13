@@ -5,6 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0xEBD0A4E935106FE5
-Any SET_VEHICLE_TYRES_CAN_BURST();
+void SET_VEHICLE_TYRES_CAN_BURST(Vehicle vehicle, BOOL toggle);
 ```
 
+## Parameters
+* **vehicle**:
+* **toggle**:

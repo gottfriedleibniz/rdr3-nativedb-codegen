@@ -5,7 +5,7 @@ ns: ENTITY
 
 ```c
 // 0x7D5B1F88E7504BBA
-Any IS_ENTITY_DEAD(Any p0);
+BOOL IS_ENTITY_DEAD(Any p0);
 ```
 
 ## Parameters

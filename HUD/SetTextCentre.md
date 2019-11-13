@@ -5,6 +5,8 @@ ns: HUD
 
 ```c
 // 0xBE5261939FBECB8C
-Any SET_TEXT_CENTRE();
+void SET_TEXT_CENTRE(BOOL align);
 ```
 
+## Parameters
+* **align**:

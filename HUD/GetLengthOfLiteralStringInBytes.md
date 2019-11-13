@@ -5,6 +5,8 @@ ns: HUD
 
 ```c
 // 0xDC5AD6B7AB8184F5
-Any GET_LENGTH_OF_LITERAL_STRING_IN_BYTES();
+int GET_LENGTH_OF_LITERAL_STRING_IN_BYTES(char* string);
 ```
 
+## Parameters
+* **string**:

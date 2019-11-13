@@ -5,6 +5,10 @@ ns: NETWORK
 
 ```c
 // 0x3658E8CD94FC121A
-Any NETWORK_GET_NUM_SCRIPT_PARTICIPANTS();
+int NETWORK_GET_NUM_SCRIPT_PARTICIPANTS(Any* p0, Any p1, Any p2);
 ```
 
+## Parameters
+* **p0**:
+* **p1**:
+* **p2**:

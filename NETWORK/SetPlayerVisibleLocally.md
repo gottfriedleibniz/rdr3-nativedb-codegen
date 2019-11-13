@@ -5,6 +5,9 @@ ns: NETWORK
 
 ```c
 // 0xFAA10F1FAFB11AF2
-Any SET_PLAYER_VISIBLE_LOCALLY();
+void SET_PLAYER_VISIBLE_LOCALLY(Player player, BOOL toggle);
 ```
 
+## Parameters
+* **player**:
+* **toggle**:

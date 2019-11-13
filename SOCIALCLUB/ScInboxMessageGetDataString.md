@@ -5,6 +5,10 @@ ns: SOCIALCLUB
 
 ```c
 // 0x66F77FD58506FF6B
-Any SC_INBOX_MESSAGE_GET_DATA_STRING();
+BOOL SC_INBOX_MESSAGE_GET_DATA_STRING(int p0, char* context, char* out);
 ```
 
+## Parameters
+* **p0**:
+* **context**:
+* **out**:

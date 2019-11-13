@@ -5,8 +5,8 @@ ns: SCRIPTS
 
 ```c
 // 0x8E34C953364A76DD
-Any _GET_NUMBER_OF_REFERENCES_OF_SCRIPT_WITH_NAME_HASH(Any p0);
+int _GET_NUMBER_OF_REFERENCES_OF_SCRIPT_WITH_NAME_HASH(Hash scriptHash);
 ```
 
 ## Parameters
-* **p0**:
+* **scriptHash**:

@@ -5,6 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x7892685BF6D9775E
-Any IS_SEAT_WARP_ONLY();
+BOOL IS_SEAT_WARP_ONLY(Vehicle vehicle, int seatIndex);
 ```
 
+## Parameters
+* **vehicle**:
+* **seatIndex**:

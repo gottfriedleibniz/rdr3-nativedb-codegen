@@ -5,6 +5,8 @@ ns: _NAMESPACE30
 
 ```c
 // 0x7F5858AAB5A58CCE
-Any _SET_MOUSE_CURSOR_SPRITE();
+void _SET_MOUSE_CURSOR_SPRITE(int spriteId);
 ```
 
+## Parameters
+* **spriteId**:

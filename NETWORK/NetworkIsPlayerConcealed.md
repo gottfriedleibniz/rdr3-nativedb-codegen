@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x919B3C98ED8292F9
-Any NETWORK_IS_PLAYER_CONCEALED();
+BOOL NETWORK_IS_PLAYER_CONCEALED(Player player);
 ```
 
+## Parameters
+* **player**:

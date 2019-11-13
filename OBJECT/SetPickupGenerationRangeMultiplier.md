@@ -5,6 +5,8 @@ ns: OBJECT
 
 ```c
 // 0x318516E02DE3ECE2
-Any SET_PICKUP_GENERATION_RANGE_MULTIPLIER();
+void SET_PICKUP_GENERATION_RANGE_MULTIPLIER(float multiplier);
 ```
 
+## Parameters
+* **multiplier**:

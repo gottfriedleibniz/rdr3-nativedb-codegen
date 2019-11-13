@@ -5,7 +5,7 @@ ns: PLAYER
 
 ```c
 // 0xD5FCC166AEB2FD0F
-void SET_PLAYER_FORCED_AIM(Any p0, Any p1, Any p2, Any p3);
+void SET_PLAYER_FORCED_AIM(Any p0, Any p1, Any p2, Any p3, Any p4);
 ```
 
 ## Parameters
@@ -13,3 +13,4 @@ void SET_PLAYER_FORCED_AIM(Any p0, Any p1, Any p2, Any p3);
 * **p1**:
 * **p2**:
 * **p3**:
+* **p4**:

@@ -5,6 +5,8 @@ ns: VEHICLE
 
 ```c
 // 0xA0A424505A1B6429
-Any ARE_ANY_VEHICLE_SEATS_FREE();
+BOOL ARE_ANY_VEHICLE_SEATS_FREE(Vehicle vehicle);
 ```
 
+## Parameters
+* **vehicle**:

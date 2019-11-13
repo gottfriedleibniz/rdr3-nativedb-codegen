@@ -5,6 +5,9 @@ ns: PLAYER
 
 ```c
 // 0xDA35A134038557EC
-Any SET_PLAYER_MAY_ONLY_ENTER_THIS_VEHICLE();
+void SET_PLAYER_MAY_ONLY_ENTER_THIS_VEHICLE(Player player, Vehicle vehicle);
 ```
 
+## Parameters
+* **player**:
+* **vehicle**:

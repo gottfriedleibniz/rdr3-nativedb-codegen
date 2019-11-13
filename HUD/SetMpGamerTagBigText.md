@@ -5,6 +5,9 @@ ns: HUD
 
 ```c
 // 0xA0D7CE5F83259663
-Any SET_MP_GAMER_TAG_BIG_TEXT();
+void SET_MP_GAMER_TAG_BIG_TEXT(int gamerTagId, char* string);
 ```
 
+## Parameters
+* **gamerTagId**:
+* **string**:

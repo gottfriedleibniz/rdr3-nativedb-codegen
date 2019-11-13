@@ -5,6 +5,6 @@ ns: PED
 
 ```c
 // 0xBFA6B7731C3BAF02
-Any _0xBFA6B7731C3BAF02();
+void _0xBFA6B7731C3BAF02();
 ```
 

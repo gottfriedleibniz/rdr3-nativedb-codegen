@@ -5,6 +5,9 @@ ns: STATS
 
 ```c
 // 0x7D675C9DDDB365BE
-Any WEEKLY_COLLECTIBLE_GET_NUM_ITEMS_IN_SET();
+Any WEEKLY_COLLECTIBLE_GET_NUM_ITEMS_IN_SET(Any p0, Any p1);
 ```
 
+## Parameters
+* **p0**:
+* **p1**:

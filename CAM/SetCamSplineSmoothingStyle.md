@@ -5,6 +5,9 @@ ns: CAM
 
 ```c
 // 0x84B3645618E726B0
-Any SET_CAM_SPLINE_SMOOTHING_STYLE();
+void SET_CAM_SPLINE_SMOOTHING_STYLE(Cam cam, int smoothingStyle);
 ```
 
+## Parameters
+* **cam**:
+* **smoothingStyle**:

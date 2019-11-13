@@ -5,6 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0xCF867A239EC30741
-Any GET_VEHICLE_TRAILER_VEHICLE();
+BOOL GET_VEHICLE_TRAILER_VEHICLE(Vehicle vehicle, Vehicle* trailer);
 ```
 
+## Parameters
+* **vehicle**:
+* **trailer**:

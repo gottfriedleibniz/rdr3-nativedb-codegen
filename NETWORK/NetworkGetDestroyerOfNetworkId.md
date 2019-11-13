@@ -5,6 +5,9 @@ ns: NETWORK
 
 ```c
 // 0x7A1ADEEF01740A24
-Any NETWORK_GET_DESTROYER_OF_NETWORK_ID();
+int NETWORK_GET_DESTROYER_OF_NETWORK_ID(int netId, Hash* weaponHash);
 ```
 
+## Parameters
+* **netId**:
+* **weaponHash**:

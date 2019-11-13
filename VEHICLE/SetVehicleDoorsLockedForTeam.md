@@ -5,6 +5,10 @@ ns: VEHICLE
 
 ```c
 // 0xE712BC978770F105
-Any SET_VEHICLE_DOORS_LOCKED_FOR_TEAM();
+void SET_VEHICLE_DOORS_LOCKED_FOR_TEAM(Vehicle vehicle, int team, BOOL toggle);
 ```
 
+## Parameters
+* **vehicle**:
+* **team**:
+* **toggle**:

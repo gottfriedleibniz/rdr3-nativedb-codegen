@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x5BC9495F0B3B6FA6
-Any NETWORK_HAS_CONTROL_OF_PICKUP();
+BOOL NETWORK_HAS_CONTROL_OF_PICKUP(Pickup pickup);
 ```
 
+## Parameters
+* **pickup**:

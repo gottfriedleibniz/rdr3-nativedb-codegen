@@ -5,6 +5,11 @@ ns: PED
 
 ```c
 // 0xFECA2081F61ED2CD
-Any _0xFECA2081F61ED2CD();
+void _0xFECA2081F61ED2CD(Any p0, Any p1, Any p2, Any p3);
 ```
 
+## Parameters
+* **p0**:
+* **p1**:
+* **p2**:
+* **p3**:

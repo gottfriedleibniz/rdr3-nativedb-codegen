@@ -5,6 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x2381977DA948F8DC
-Any SET_VEHICLE_DOORS_LOCKED_FOR_ALL_PLAYERS();
+void SET_VEHICLE_DOORS_LOCKED_FOR_ALL_PLAYERS(Vehicle vehicle, BOOL toggle);
 ```
 
+## Parameters
+* **vehicle**:
+* **toggle**:

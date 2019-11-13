@@ -1,5 +1,5 @@
 ---
-ns: _NAMESPACE56
+ns: RECORDING
 ---
 ## _STOP_RECORDING_THIS_FRAME
 

@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0xBFFEAB45A9A9094A
-Any NET_TO_ENT();
+Entity NET_TO_ENT(int netHandle);
 ```
 
+## Parameters
+* **netHandle**:

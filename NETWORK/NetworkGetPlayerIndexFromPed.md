@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x6C0E2E0125610278
-Any NETWORK_GET_PLAYER_INDEX_FROM_PED();
+Player NETWORK_GET_PLAYER_INDEX_FROM_PED(Ped ped);
 ```
 
+## Parameters
+* **ped**:

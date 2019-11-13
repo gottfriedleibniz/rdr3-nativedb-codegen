@@ -5,6 +5,8 @@ ns: PATHFIND
 
 ```c
 // 0x72751156E7678833
-Any SET_IGNORE_NO_GPS_FLAG();
+void SET_IGNORE_NO_GPS_FLAG(BOOL toggle);
 ```
 
+## Parameters
+* **toggle**:

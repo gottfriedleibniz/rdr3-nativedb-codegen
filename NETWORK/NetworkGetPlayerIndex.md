@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x24FB80D107371267
-Any NETWORK_GET_PLAYER_INDEX();
+int NETWORK_GET_PLAYER_INDEX(Player player);
 ```
 
+## Parameters
+* **player**:

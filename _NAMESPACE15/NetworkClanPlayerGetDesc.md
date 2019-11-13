@@ -5,6 +5,10 @@ ns: _NAMESPACE15
 
 ```c
 // 0xEEE6EACBE8874FBA
-Any NETWORK_CLAN_PLAYER_GET_DESC();
+BOOL NETWORK_CLAN_PLAYER_GET_DESC(int* clanDesc, int bufferSize, int* networkHandle);
 ```
 
+## Parameters
+* **clanDesc**:
+* **bufferSize**:
+* **networkHandle**:

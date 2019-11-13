@@ -5,6 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0xDBC28A8C683CD80B
-Any COPY_VEHICLE_DAMAGES();
+void COPY_VEHICLE_DAMAGES(Vehicle sourceVehicle, Vehicle targetVehicle);
 ```
 
+## Parameters
+* **sourceVehicle**:
+* **targetVehicle**:

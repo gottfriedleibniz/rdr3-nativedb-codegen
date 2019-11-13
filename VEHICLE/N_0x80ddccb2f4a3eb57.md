@@ -5,12 +5,12 @@ ns: VEHICLE
 
 ```c
 // 0x80DDCCB2F4A3EB57
-Any _0x80DDCCB2F4A3EB57(Any p0, Any p1, Any p2, Any p3, Any p4);
+BOOL _0x80DDCCB2F4A3EB57(Ped ped, Vehicle vehicle, BOOL p2, BOOL p3, BOOL p4);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **vehicle**:
 * **p2**:
 * **p3**:
 * **p4**:

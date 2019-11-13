@@ -5,6 +5,6 @@ ns: MAP
 
 ```c
 // 0xA1B4052C2A3DCC1E
-Any _0xA1B4052C2A3DCC1E();
+void _0xA1B4052C2A3DCC1E();
 ```
 

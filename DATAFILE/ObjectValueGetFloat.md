@@ -5,6 +5,9 @@ ns: DATAFILE
 
 ```c
 // 0x814643ECA258ADF5
-Any _OBJECT_VALUE_GET_FLOAT();
+float _OBJECT_VALUE_GET_FLOAT(Any* objectData, char* key);
 ```
 
+## Parameters
+* **objectData**:
+* **key**:

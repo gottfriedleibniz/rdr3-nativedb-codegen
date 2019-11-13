@@ -5,6 +5,8 @@ ns: VEHICLE
 
 ```c
 // 0x90DBFFAC43B22081
-Any GET_VEHICLE_ENGINE_HEALTH();
+float GET_VEHICLE_ENGINE_HEALTH(Vehicle vehicle);
 ```
 
+## Parameters
+* **vehicle**:

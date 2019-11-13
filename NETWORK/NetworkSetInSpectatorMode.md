@@ -5,6 +5,9 @@ ns: NETWORK
 
 ```c
 // 0x423DE3854BB50894
-Any NETWORK_SET_IN_SPECTATOR_MODE();
+void NETWORK_SET_IN_SPECTATOR_MODE(BOOL toggle, Ped playerPed);
 ```
 
+## Parameters
+* **toggle**:
+* **playerPed**:

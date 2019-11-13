@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x7277F1F2E085EE74
-Any CAN_REGISTER_MISSION_VEHICLES();
+BOOL CAN_REGISTER_MISSION_VEHICLES(int amount);
 ```
 
+## Parameters
+* **amount**:

@@ -5,6 +5,9 @@ ns: DECORATOR
 
 ```c
 // 0x72355278C069F272
-Any DECOR_IS_REGISTERED_AS_TYPE();
+BOOL DECOR_IS_REGISTERED_AS_TYPE(char* propertyName, int type);
 ```
 
+## Parameters
+* **propertyName**:
+* **type**:

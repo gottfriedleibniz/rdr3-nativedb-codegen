@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0x88E32DB8C1A4AA4B
-void _0x88E32DB8C1A4AA4B(Any p0, Any p1);
+void _0x88E32DB8C1A4AA4B(Ped ped, float p1);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:

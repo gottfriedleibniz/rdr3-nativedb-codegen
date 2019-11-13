@@ -5,6 +5,8 @@ ns: GRAPHICS
 
 ```c
 // 0xEDA5CBECF56E1386
-Any _0xEDA5CBECF56E1386();
+void _0xEDA5CBECF56E1386(Any p0);
 ```
 
+## Parameters
+* **p0**:

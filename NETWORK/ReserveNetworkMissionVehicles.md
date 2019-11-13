@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x76B02E21ED27A469
-Any RESERVE_NETWORK_MISSION_VEHICLES();
+void RESERVE_NETWORK_MISSION_VEHICLES(int amount);
 ```
 
+## Parameters
+* **amount**:

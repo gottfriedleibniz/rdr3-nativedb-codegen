@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x0BE73DA6984A6E33
-Any NETWORK_IS_PENDING_FRIEND();
+BOOL NETWORK_IS_PENDING_FRIEND(Any p0);
 ```
 
+## Parameters
+* **p0**:

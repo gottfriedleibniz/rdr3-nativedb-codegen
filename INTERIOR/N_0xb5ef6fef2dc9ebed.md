@@ -5,6 +5,8 @@ ns: INTERIOR
 
 ```c
 // 0xB5EF6FEF2DC9EBED
-Any _0xB5EF6FEF2DC9EBED();
+Any _0xB5EF6FEF2DC9EBED(int interior);
 ```
 
+## Parameters
+* **interior**:

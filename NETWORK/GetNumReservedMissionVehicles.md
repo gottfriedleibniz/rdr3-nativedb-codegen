@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0xCF3A965906452031
-Any GET_NUM_RESERVED_MISSION_VEHICLES();
+int GET_NUM_RESERVED_MISSION_VEHICLES(Any p0);
 ```
 
+## Parameters
+* **p0**:

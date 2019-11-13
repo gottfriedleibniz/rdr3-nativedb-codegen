@@ -5,6 +5,8 @@ ns: STREAMING
 
 ```c
 // 0xF87DE697E9A06EC6
-Any IS_ENTITY_FOCUS();
+BOOL IS_ENTITY_FOCUS(Entity entity);
 ```
 
+## Parameters
+* **entity**:

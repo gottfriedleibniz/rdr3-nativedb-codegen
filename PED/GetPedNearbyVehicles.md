@@ -5,6 +5,9 @@ ns: PED
 
 ```c
 // 0xCFF869CBFA210D82
-Any GET_PED_NEARBY_VEHICLES();
+int GET_PED_NEARBY_VEHICLES(Ped ped, int* sizeAndVehs);
 ```
 
+## Parameters
+* **ped**:
+* **sizeAndVehs**:

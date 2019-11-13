@@ -5,6 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0xFA2CDDFEB8BC898B
-Any GET_VEHICLE_DOORS_LOCKED_FOR_PLAYER();
+BOOL GET_VEHICLE_DOORS_LOCKED_FOR_PLAYER(Vehicle vehicle, Player player);
 ```
 
+## Parameters
+* **vehicle**:
+* **player**:

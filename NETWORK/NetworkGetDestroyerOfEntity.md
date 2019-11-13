@@ -5,6 +5,10 @@ ns: NETWORK
 
 ```c
 // 0x4CACA84440FA26F6
-Any _NETWORK_GET_DESTROYER_OF_ENTITY();
+BOOL _NETWORK_GET_DESTROYER_OF_ENTITY(Any p0, Any p1, Hash* weaponHash);
 ```
 
+## Parameters
+* **p0**:
+* **p1**:
+* **weaponHash**:

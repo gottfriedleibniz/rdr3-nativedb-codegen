@@ -5,6 +5,9 @@ ns: INTERIOR
 
 ```c
 // 0x115B4AA8FB28AB43
-Any FORCE_ROOM_FOR_GAME_VIEWPORT();
+void FORCE_ROOM_FOR_GAME_VIEWPORT(int interiorID, Hash roomHashKey);
 ```
 
+## Parameters
+* **interiorID**:
+* **roomHashKey**:

@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x23F8F5FC7E8C4A6B
-Any GET_PED_NEARBY_PEDS(Any p0, Any p1, Any p2, Any p3);
+int GET_PED_NEARBY_PEDS(Any p0, Any p1, Any p2, Any p3);
 ```
 
 ## Parameters

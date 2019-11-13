@@ -5,8 +5,8 @@ ns: MISC
 
 ```c
 // 0xCBC9A21F6A2A679C
-void _SHOOT_SINGLE_BULLET_BETWEEN_COORDS_IGNORE_ENTITY_NEW(Any* data);
+void _SHOOT_SINGLE_BULLET_BETWEEN_COORDS_IGNORE_ENTITY_NEW(Any p0);
 ```
 
 ## Parameters
-* **data**:
+* **p0**:

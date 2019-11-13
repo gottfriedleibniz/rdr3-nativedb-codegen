@@ -5,6 +5,8 @@ ns: MISC
 
 ```c
 // 0x03BA619C81A646B3
-Any DOES_POP_MULTIPLIER_AREA_EXIST();
+BOOL DOES_POP_MULTIPLIER_AREA_EXIST(int id);
 ```
 
+## Parameters
+* **id**:

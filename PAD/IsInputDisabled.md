@@ -5,6 +5,8 @@ ns: PAD
 
 ```c
 // 0xA571D46727E2B718
-Any _IS_INPUT_DISABLED();
+BOOL _IS_INPUT_DISABLED(int inputGroup);
 ```
 
+## Parameters
+* **inputGroup**:

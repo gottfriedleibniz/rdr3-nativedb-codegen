@@ -5,7 +5,7 @@ ns: TASK
 
 ```c
 // 0x77F1BEB8863288D5
-Any GET_SCRIPT_TASK_STATUS(Any p0, Any p1, Any p2);
+int GET_SCRIPT_TASK_STATUS(Any p0, Any p1, Any p2);
 ```
 
 ## Parameters

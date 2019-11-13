@@ -5,6 +5,9 @@ ns: OBJECT
 
 ```c
 // 0x8DC39368BDD57755
-Any ATTACH_PORTABLE_PICKUP_TO_PED();
+void ATTACH_PORTABLE_PICKUP_TO_PED(Ped ped, Any p1);
 ```
 
+## Parameters
+* **ped**:
+* **p1**:

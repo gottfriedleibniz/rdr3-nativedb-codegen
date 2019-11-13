@@ -5,6 +5,12 @@ ns: SHAPETEST
 
 ```c
 // 0x9839013D8B6014F1
-Any _START_SHAPE_TEST_SURROUNDING_COORDS();
+int _START_SHAPE_TEST_SURROUNDING_COORDS(Vector3* pVec1, Vector3* pVec2, int flag, Entity entity, int flag2);
 ```
 
+## Parameters
+* **pVec1**:
+* **pVec2**:
+* **flag**:
+* **entity**:
+* **flag2**:

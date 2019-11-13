@@ -5,6 +5,8 @@ ns: PLAYER
 
 ```c
 // 0x7C32191D9FB2BDEA
-Any _0x7C32191D9FB2BDEA();
+void _0x7C32191D9FB2BDEA(Any p0);
 ```
 
+## Parameters
+* **p0**:

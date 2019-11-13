@@ -5,6 +5,8 @@ ns: PED
 
 ```c
 // 0xFF287323B0E2C69A
-Any _FREEZE_PED_CAMERA_ROTATION();
+void _FREEZE_PED_CAMERA_ROTATION(Ped ped);
 ```
 
+## Parameters
+* **ped**:

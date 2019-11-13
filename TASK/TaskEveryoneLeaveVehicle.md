@@ -5,6 +5,9 @@ ns: TASK
 
 ```c
 // 0x7F93691AB4B92272
-Any TASK_EVERYONE_LEAVE_VEHICLE();
+void TASK_EVERYONE_LEAVE_VEHICLE(Any p0, Any p1);
 ```
 
+## Parameters
+* **p0**:
+* **p1**:

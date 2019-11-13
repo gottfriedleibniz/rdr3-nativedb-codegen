@@ -5,7 +5,7 @@ ns: PAD
 
 ```c
 // 0xD7D22F5592AED8BA
-Any _0xD7D22F5592AED8BA(Any p0);
+int _0xD7D22F5592AED8BA(int p0);
 ```
 
 ## Parameters

@@ -5,7 +5,7 @@ ns: AUDIO
 
 ```c
 // 0x2F844A8B08D76685
-Any REQUEST_SCRIPT_AUDIO_BANK(Any p0);
+BOOL REQUEST_SCRIPT_AUDIO_BANK(Any p0);
 ```
 
 ## Parameters

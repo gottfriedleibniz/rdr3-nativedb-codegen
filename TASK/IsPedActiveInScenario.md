@@ -5,7 +5,7 @@ ns: TASK
 
 ```c
 // 0xAA135F9482C82CC3
-Any IS_PED_ACTIVE_IN_SCENARIO(Any p0, Any p1);
+BOOL IS_PED_ACTIVE_IN_SCENARIO(Any p0, Any p1);
 ```
 
 ## Parameters

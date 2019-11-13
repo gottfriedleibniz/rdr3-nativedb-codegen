@@ -5,10 +5,10 @@ ns: HUD
 
 ```c
 // 0xD79334A4BB99BAD1
-void _DRAW_TEXT(Any text, float xPos, float yPos);
+void _DRAW_TEXT(Any p0, Any p1, Any p2);
 ```
 
 ## Parameters
-* **text**:
-* **xPos**:
-* **yPos**:
+* **p0**:
+* **p1**:
+* **p2**:

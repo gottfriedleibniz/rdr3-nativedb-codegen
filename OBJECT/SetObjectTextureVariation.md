@@ -5,9 +5,9 @@ ns: OBJECT
 
 ```c
 // 0x971DA0055324D033
-void _SET_OBJECT_TEXTURE_VARIATION(Any p0, Any p1);
+void _SET_OBJECT_TEXTURE_VARIATION(Object object, int textureVariation);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **object**:
+* **textureVariation**:

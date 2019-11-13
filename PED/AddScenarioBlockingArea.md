@@ -5,7 +5,7 @@ ns: PED
 
 ```c
 // 0x1B5C85C612E5256E
-Any ADD_SCENARIO_BLOCKING_AREA(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
+int ADD_SCENARIO_BLOCKING_AREA(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
 ```
 
 ## Parameters

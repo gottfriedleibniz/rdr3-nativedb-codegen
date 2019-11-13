@@ -5,7 +5,7 @@ ns: AUDIO
 
 ```c
 // 0x049E937F18F4020C
-Any IS_PED_IN_CURRENT_CONVERSATION(Any p0, Any p1, Any p2);
+BOOL IS_PED_IN_CURRENT_CONVERSATION(Any p0, Any p1, Any p2);
 ```
 
 ## Parameters

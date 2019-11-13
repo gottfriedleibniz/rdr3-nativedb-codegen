@@ -5,6 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x84DAAE11E9EE4FC3
-Any SET_VEHICLE_STEER_BIAS();
+void SET_VEHICLE_STEER_BIAS(Vehicle vehicle, float value);
 ```
 
+## Parameters
+* **vehicle**:
+* **value**:

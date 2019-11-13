@@ -5,6 +5,11 @@ ns: TASK
 
 ```c
 // 0x4F158205E0C74385
-Any WAYPOINT_PLAYBACK_START_AIMING_AT_ENTITY();
+void WAYPOINT_PLAYBACK_START_AIMING_AT_ENTITY(Any p0, Any p1, Any p2, Any p3);
 ```
 
+## Parameters
+* **p0**:
+* **p1**:
+* **p2**:
+* **p3**:

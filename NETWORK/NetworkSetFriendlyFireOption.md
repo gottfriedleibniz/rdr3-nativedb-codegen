@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0xF808475FA571D823
-Any NETWORK_SET_FRIENDLY_FIRE_OPTION();
+void NETWORK_SET_FRIENDLY_FIRE_OPTION(BOOL toggle);
 ```
 
+## Parameters
+* **toggle**:

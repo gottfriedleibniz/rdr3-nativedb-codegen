@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x8F75941C86EEBFCA
-void _0x8F75941C86EEBFCA(Any p0, Any p1);
+void _0x8F75941C86EEBFCA(Vehicle vehicle, BOOL p1);
 ```
 
 ## Parameters
-* **p0**:
+* **vehicle**:
 * **p1**:

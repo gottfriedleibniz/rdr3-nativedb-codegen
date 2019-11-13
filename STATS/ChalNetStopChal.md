@@ -5,6 +5,8 @@ ns: STATS
 
 ```c
 // 0x43B0163154A50C86
-Any CHAL_NET_STOP_CHAL();
+void CHAL_NET_STOP_CHAL(Any p0);
 ```
 
+## Parameters
+* **p0**:

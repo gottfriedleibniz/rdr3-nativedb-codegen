@@ -5,6 +5,9 @@ ns: DATAFILE
 
 ```c
 // 0xB6790A8FF80F889F
-Any _ARRAY_VALUE_GET_STRING();
+char* _ARRAY_VALUE_GET_STRING(Any* arrayData, int arrayIndex);
 ```
 
+## Parameters
+* **arrayData**:
+* **arrayIndex**:

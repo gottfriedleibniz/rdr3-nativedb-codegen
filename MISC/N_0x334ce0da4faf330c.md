@@ -5,6 +5,6 @@ ns: MISC
 
 ```c
 // 0x334CE0DA4FAF330C
-Any _0x334CE0DA4FAF330C();
+void _0x334CE0DA4FAF330C();
 ```
 

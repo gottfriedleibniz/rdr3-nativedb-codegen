@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x1B84DF6AF2A46938
-Any NETWORK_GET_PARTICIPANT_INDEX();
+int NETWORK_GET_PARTICIPANT_INDEX(int index);
 ```
 
+## Parameters
+* **index**:

@@ -5,6 +5,8 @@ ns: MISSIONDATA
 
 ```c
 // 0x8C32D86E9556ED86
-Any MISSIONDATA_GET_REPLAY_STATE();
+Any MISSIONDATA_GET_REPLAY_STATE(Any p0);
 ```
 
+## Parameters
+* **p0**:

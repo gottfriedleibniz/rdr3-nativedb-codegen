@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x524FF0AEFF9C3973
-Any NETWORK_SET_LOCAL_PLAYER_SYNC_LOOK_AT();
+void NETWORK_SET_LOCAL_PLAYER_SYNC_LOOK_AT(BOOL toggle);
 ```
 
+## Parameters
+* **toggle**:

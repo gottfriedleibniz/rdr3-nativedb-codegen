@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0xAA81B5F10BC43AC2
-Any GET_NUM_RESERVED_MISSION_OBJECTS();
+int GET_NUM_RESERVED_MISSION_OBJECTS(Any p0);
 ```
 
+## Parameters
+* **p0**:

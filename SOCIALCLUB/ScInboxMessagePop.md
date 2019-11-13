@@ -5,6 +5,8 @@ ns: SOCIALCLUB
 
 ```c
 // 0x63CAC501FFF66DC4
-Any _SC_INBOX_MESSAGE_POP();
+BOOL _SC_INBOX_MESSAGE_POP(int p0);
 ```
 
+## Parameters
+* **p0**:

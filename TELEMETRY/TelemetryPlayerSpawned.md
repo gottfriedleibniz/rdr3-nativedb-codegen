@@ -5,6 +5,8 @@ ns: TELEMETRY
 
 ```c
 // 0x5DA4718DF897EB25
-Any _TELEMETRY_PLAYER_SPAWNED();
+void _TELEMETRY_PLAYER_SPAWNED(Any p0);
 ```
 
+## Parameters
+* **p0**:

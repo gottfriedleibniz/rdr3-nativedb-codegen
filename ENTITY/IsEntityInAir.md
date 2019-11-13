@@ -5,7 +5,7 @@ ns: ENTITY
 
 ```c
 // 0x886E37EC497200B6
-Any IS_ENTITY_IN_AIR(Any p0, Any p1);
+BOOL IS_ENTITY_IN_AIR(Any p0, Any p1);
 ```
 
 ## Parameters

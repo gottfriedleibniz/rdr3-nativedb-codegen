@@ -5,6 +5,10 @@ ns: HUD
 
 ```c
 // 0x9D7E12EC6A1EE4E5
-Any _GET_TEXT_SUBSTRING();
+char* _GET_TEXT_SUBSTRING(char* text, int position, int length);
 ```
 
+## Parameters
+* **text**:
+* **position**:
+* **length**:

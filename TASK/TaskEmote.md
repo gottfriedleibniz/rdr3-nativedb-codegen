@@ -5,6 +5,15 @@ ns: TASK
 
 ```c
 // 0xB31A277C1AC7B7FF
-Any _TASK_EMOTE();
+void _TASK_EMOTE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
 ```
 
+## Parameters
+* **p0**:
+* **p1**:
+* **p2**:
+* **p3**:
+* **p4**:
+* **p5**:
+* **p6**:
+* **p7**:

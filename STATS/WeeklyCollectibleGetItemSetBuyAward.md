@@ -5,6 +5,9 @@ ns: STATS
 
 ```c
 // 0x610783F646894D25
-Any WEEKLY_COLLECTIBLE_GET_ITEM_SET_BUY_AWARD();
+Any WEEKLY_COLLECTIBLE_GET_ITEM_SET_BUY_AWARD(Any p0, Any p1);
 ```
 
+## Parameters
+* **p0**:
+* **p1**:

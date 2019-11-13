@@ -5,7 +5,7 @@ ns: GRAPHICS
 
 ```c
 // 0x8DCCC98DC0DBF9E4
-void _0x8DCCC98DC0DBF9E4(Any p0);
+void _0x8DCCC98DC0DBF9E4(float p0);
 ```
 
 ## Parameters

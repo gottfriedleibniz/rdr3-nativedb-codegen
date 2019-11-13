@@ -5,6 +5,9 @@ ns: _NAMESPACE15
 
 ```c
 // 0x48DE78AF2C8885B8
-Any NETWORK_CLAN_GET_MEMBERSHIP_DESC();
+BOOL NETWORK_CLAN_GET_MEMBERSHIP_DESC(int* memberDesc, int p1);
 ```
 
+## Parameters
+* **memberDesc**:
+* **p1**:

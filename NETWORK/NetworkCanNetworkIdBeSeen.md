@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0xA1607996431332DF
-Any _NETWORK_CAN_NETWORK_ID_BE_SEEN();
+BOOL _NETWORK_CAN_NETWORK_ID_BE_SEEN(int netId);
 ```
 
+## Parameters
+* **netId**:

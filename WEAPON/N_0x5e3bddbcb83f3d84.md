@@ -5,7 +5,7 @@ ns: WEAPON
 
 ```c
 // 0x5E3BDDBCB83F3D84
-Any _0x5E3BDDBCB83F3D84(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11);
+Any _0x5E3BDDBCB83F3D84(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11, Any p12);
 ```
 
 ## Parameters
@@ -21,3 +21,4 @@ Any _0x5E3BDDBCB83F3D84(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, 
 * **p9**:
 * **p10**:
 * **p11**:
+* **p12**:

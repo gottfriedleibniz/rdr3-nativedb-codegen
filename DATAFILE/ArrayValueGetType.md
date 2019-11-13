@@ -5,6 +5,9 @@ ns: DATAFILE
 
 ```c
 // 0x151DAFE6B3B9888F
-Any _ARRAY_VALUE_GET_TYPE();
+int _ARRAY_VALUE_GET_TYPE(Any* arrayData, int arrayIndex);
 ```
 
+## Parameters
+* **arrayData**:
+* **arrayIndex**:

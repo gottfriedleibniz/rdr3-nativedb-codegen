@@ -5,6 +5,8 @@ ns: PLAYER
 
 ```c
 // 0x5C880F9056D784C8
-Any GET_PLAYER_PED_SCRIPT_INDEX();
+Ped GET_PLAYER_PED_SCRIPT_INDEX(Player player);
 ```
 
+## Parameters
+* **player**:

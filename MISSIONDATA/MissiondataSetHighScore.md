@@ -5,6 +5,9 @@ ns: MISSIONDATA
 
 ```c
 // 0x3A04F0169DA87A9D
-Any MISSIONDATA_SET_HIGH_SCORE();
+void MISSIONDATA_SET_HIGH_SCORE(Any p0, Any p1);
 ```
 
+## Parameters
+* **p0**:
+* **p1**:

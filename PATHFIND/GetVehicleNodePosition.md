@@ -5,6 +5,9 @@ ns: PATHFIND
 
 ```c
 // 0x8E8D72FF24DEE1FB
-Any GET_VEHICLE_NODE_POSITION();
+void GET_VEHICLE_NODE_POSITION(int nodeId, Vector3* outPosition);
 ```
 
+## Parameters
+* **nodeId**:
+* **outPosition**:

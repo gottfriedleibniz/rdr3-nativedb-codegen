@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0xA11700682F3AD45C
-Any NETWORK_GET_NETWORK_ID_FROM_ENTITY();
+int NETWORK_GET_NETWORK_ID_FROM_ENTITY(Entity entity);
 ```
 
+## Parameters
+* **entity**:

@@ -5,6 +5,8 @@ ns: PLAYER
 
 ```c
 // 0xC932F57F31EA9152
-Any HAS_PLAYER_BEEN_SPOTTED_IN_STOLEN_VEHICLE();
+BOOL HAS_PLAYER_BEEN_SPOTTED_IN_STOLEN_VEHICLE(Player player);
 ```
 
+## Parameters
+* **player**:

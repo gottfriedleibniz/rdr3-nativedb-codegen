@@ -5,6 +5,9 @@ ns: _NAMESPACE53
 
 ```c
 // 0xC08CFF658B2E51DA
-Any _0xC08CFF658B2E51DA();
+Any _0xC08CFF658B2E51DA(Any p0, Any p1);
 ```
 
+## Parameters
+* **p0**:
+* **p1**:

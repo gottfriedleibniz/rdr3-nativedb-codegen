@@ -5,6 +5,8 @@ ns: SOCIALCLUB
 
 ```c
 // 0xFF92537C4DDC1241
-Any _SC_INBOX_MESSAGE_INIT();
+Hash _SC_INBOX_MESSAGE_INIT(int p0);
 ```
 
+## Parameters
+* **p0**:

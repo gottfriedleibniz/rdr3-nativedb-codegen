@@ -5,6 +5,8 @@ ns: PLAYER
 
 ```c
 // 0x062D14F18E8B0CAE
-Any RESET_WANTED_LEVEL_DIFFICULTY();
+void RESET_WANTED_LEVEL_DIFFICULTY(Player player);
 ```
 
+## Parameters
+* **player**:

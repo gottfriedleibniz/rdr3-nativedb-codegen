@@ -5,6 +5,9 @@ ns: DATAFILE
 
 ```c
 // 0x175E915A486EE548
-Any _OBJECT_VALUE_GET_BOOLEAN();
+BOOL _OBJECT_VALUE_GET_BOOLEAN(Any* objectData, char* key);
 ```
 
+## Parameters
+* **objectData**:
+* **key**:

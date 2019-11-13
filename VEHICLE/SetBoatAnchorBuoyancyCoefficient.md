@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0xE3261532550D6A9F
-void _SET_BOAT_ANCHOR_BUOYANCY_COEFFICIENT(Any p0, Any p1);
+void _SET_BOAT_ANCHOR_BUOYANCY_COEFFICIENT(Vehicle vehicle, float value);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **value**:

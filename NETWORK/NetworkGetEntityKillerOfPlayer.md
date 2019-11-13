@@ -5,6 +5,9 @@ ns: NETWORK
 
 ```c
 // 0x42B2DAA6B596F5F8
-Any NETWORK_GET_ENTITY_KILLER_OF_PLAYER();
+Entity NETWORK_GET_ENTITY_KILLER_OF_PLAYER(Player player, Hash* weaponHash);
 ```
 
+## Parameters
+* **player**:
+* **weaponHash**:

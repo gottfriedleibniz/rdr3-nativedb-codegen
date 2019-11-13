@@ -5,6 +5,10 @@ ns: PED
 
 ```c
 // 0x112942C6E708F70B
-Any SET_PED_TO_INFORM_RESPECTED_FRIENDS();
+void SET_PED_TO_INFORM_RESPECTED_FRIENDS(Ped ped, float radius, int maxFriends);
 ```
 
+## Parameters
+* **ped**:
+* **radius**:
+* **maxFriends**:

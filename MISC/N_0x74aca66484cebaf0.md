@@ -5,6 +5,8 @@ ns: MISC
 
 ```c
 // 0x74ACA66484CEBAF0
-Any _0x74ACA66484CEBAF0();
+void _0x74ACA66484CEBAF0(Any p0);
 ```
 
+## Parameters
+* **p0**:

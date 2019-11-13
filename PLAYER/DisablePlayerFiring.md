@@ -5,6 +5,9 @@ ns: PLAYER
 
 ```c
 // 0x2970929FD5F9FC89
-Any DISABLE_PLAYER_FIRING();
+void DISABLE_PLAYER_FIRING(Player player, BOOL toggle);
 ```
 
+## Parameters
+* **player**:
+* **toggle**:

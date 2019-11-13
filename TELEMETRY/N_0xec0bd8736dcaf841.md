@@ -5,6 +5,8 @@ ns: TELEMETRY
 
 ```c
 // 0xEC0BD8736DCAF841
-Any _0xEC0BD8736DCAF841();
+void _0xEC0BD8736DCAF841(Any p0);
 ```
 
+## Parameters
+* **p0**:

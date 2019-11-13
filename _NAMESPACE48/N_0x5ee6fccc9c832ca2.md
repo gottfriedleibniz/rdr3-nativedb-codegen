@@ -5,7 +5,7 @@ ns: _NAMESPACE48
 
 ```c
 // 0x5EE6FCCC9C832CA2
-Any _0x5EE6FCCC9C832CA2(Any p0);
+Vector3 _0x5EE6FCCC9C832CA2(Any p0);
 ```
 
 ## Parameters

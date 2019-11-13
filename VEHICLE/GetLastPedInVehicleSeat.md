@@ -5,6 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0x74583B19FEEAFDA7
-Any GET_LAST_PED_IN_VEHICLE_SEAT();
+Ped GET_LAST_PED_IN_VEHICLE_SEAT(Vehicle vehicle, int seatIndex);
 ```
 
+## Parameters
+* **vehicle**:
+* **seatIndex**:

@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x5E0165278F6339EE
-Any UGC_REQUEST_CACHED_DESCRIPTION();
+int UGC_REQUEST_CACHED_DESCRIPTION(int p0);
 ```
 
+## Parameters
+* **p0**:

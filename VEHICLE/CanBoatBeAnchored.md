@@ -5,6 +5,8 @@ ns: VEHICLE
 
 ```c
 // 0xC075176CFB8B4128
-Any _CAN_BOAT_BE_ANCHORED();
+BOOL _CAN_BOAT_BE_ANCHORED(Vehicle vehicle);
 ```
 
+## Parameters
+* **vehicle**:

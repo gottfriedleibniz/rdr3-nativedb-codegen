@@ -5,6 +5,8 @@ ns: GRAPHICS
 
 ```c
 // 0x906B86E6D7896B9E
-Any SET_SCRIPT_GFX_DRAW_BEHIND_PAUSEMENU();
+void SET_SCRIPT_GFX_DRAW_BEHIND_PAUSEMENU(BOOL toggle);
 ```
 
+## Parameters
+* **toggle**:

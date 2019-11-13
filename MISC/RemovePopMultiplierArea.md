@@ -5,6 +5,9 @@ ns: MISC
 
 ```c
 // 0x88CB484364EFB37A
-Any REMOVE_POP_MULTIPLIER_AREA();
+void REMOVE_POP_MULTIPLIER_AREA(int id, BOOL p1);
 ```
 
+## Parameters
+* **id**:
+* **p1**:

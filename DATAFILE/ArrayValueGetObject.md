@@ -5,6 +5,9 @@ ns: DATAFILE
 
 ```c
 // 0xA010655985853485
-Any _ARRAY_VALUE_GET_OBJECT();
+Any* _ARRAY_VALUE_GET_OBJECT(Any* arrayData, int arrayIndex);
 ```
 
+## Parameters
+* **arrayData**:
+* **arrayIndex**:

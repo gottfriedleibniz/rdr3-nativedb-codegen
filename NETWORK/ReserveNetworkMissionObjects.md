@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x4E5C93BD0C32FBF8
-Any RESERVE_NETWORK_MISSION_OBJECTS();
+void RESERVE_NETWORK_MISSION_OBJECTS(int amount);
 ```
 
+## Parameters
+* **amount**:

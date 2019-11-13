@@ -5,6 +5,8 @@ ns: PLAYER
 
 ```c
 // 0xD66A941F401E7302
-Any SET_PLAYER_TARGETING_MODE();
+void SET_PLAYER_TARGETING_MODE(int targetMode);
 ```
 
+## Parameters
+* **targetMode**:

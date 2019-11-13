@@ -5,6 +5,8 @@ ns: PLAYER
 
 ```c
 // 0x58FF971FC8F2702C
-Any INT_TO_PARTICIPANTINDEX();
+int INT_TO_PARTICIPANTINDEX(int value);
 ```
 
+## Parameters
+* **value**:

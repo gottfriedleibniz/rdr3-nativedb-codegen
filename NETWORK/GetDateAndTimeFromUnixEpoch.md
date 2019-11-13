@@ -5,6 +5,9 @@ ns: NETWORK
 
 ```c
 // 0xAC97AF97FA68E5D5
-Any _GET_DATE_AND_TIME_FROM_UNIX_EPOCH();
+void _GET_DATE_AND_TIME_FROM_UNIX_EPOCH(int unixEpoch, Any* timeStructure);
 ```
 
+## Parameters
+* **unixEpoch**:
+* **timeStructure**:

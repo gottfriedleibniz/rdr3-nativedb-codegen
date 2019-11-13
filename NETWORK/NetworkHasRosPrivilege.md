@@ -5,6 +5,8 @@ ns: NETWORK
 
 ```c
 // 0xA699957E60D80214
-Any NETWORK_HAS_ROS_PRIVILEGE();
+BOOL NETWORK_HAS_ROS_PRIVILEGE(int index);
 ```
 
+## Parameters
+* **index**:

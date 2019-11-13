@@ -5,7 +5,7 @@ ns: CAM
 
 ```c
 // 0xA47BBFFFB83D4D0A
-void SET_CAM_PARAMS(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11, Any p12);
+void SET_CAM_PARAMS(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11, Any p12, Any p13);
 ```
 
 ## Parameters
@@ -22,3 +22,4 @@ void SET_CAM_PARAMS(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any 
 * **p10**:
 * **p11**:
 * **p12**:
+* **p13**:

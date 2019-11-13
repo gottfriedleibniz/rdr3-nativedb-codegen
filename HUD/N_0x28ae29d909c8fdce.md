@@ -5,6 +5,8 @@ ns: HUD
 
 ```c
 // 0x28AE29D909C8FDCE
-Any _0x28AE29D909C8FDCE();
+Any _0x28AE29D909C8FDCE(Any p0);
 ```
 
+## Parameters
+* **p0**:

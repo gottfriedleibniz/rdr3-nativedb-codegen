@@ -5,6 +5,8 @@ ns: OBJECT
 
 ```c
 // 0xCF463D1E9A0AECB1
-Any DETACH_PORTABLE_PICKUP_FROM_PED();
+void DETACH_PORTABLE_PICKUP_FROM_PED(Ped ped);
 ```
 
+## Parameters
+* **ped**:

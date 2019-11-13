@@ -5,6 +5,8 @@ ns: PED
 
 ```c
 // 0x6A3975DEA89F9A17
-Any GET_PLAYER_PED_IS_FOLLOWING();
+Player GET_PLAYER_PED_IS_FOLLOWING(Ped ped);
 ```
 
+## Parameters
+* **ped**:
