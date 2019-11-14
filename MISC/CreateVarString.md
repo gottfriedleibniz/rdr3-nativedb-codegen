@@ -5,7 +5,7 @@ ns: MISC
 
 ```c
 // 0xFA925AC00EB830B9
-Any _CREATE_VAR_STRING(int p0, char* p1, Any variadic);
+char* _CREATE_VAR_STRING(int p0, char* p1, Any variadic);
 ```
 
 ## Parameters

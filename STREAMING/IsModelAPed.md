@@ -1,12 +1,12 @@
 ---
 ns: STREAMING
 ---
-## _0xC3F09DE9D6D17DDA
+## IS_MODEL_A_PED
 
 ```c
 // 0xC3F09DE9D6D17DDA
-Any _0xC3F09DE9D6D17DDA(Any p0);
+BOOL IS_MODEL_A_PED(Hash model);
 ```
 
 ## Parameters
-* **p0**:
+* **model**:

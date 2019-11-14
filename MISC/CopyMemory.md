@@ -5,10 +5,10 @@ ns: MISC
 
 ```c
 // 0xF7AC7DC0DEE7C9BE
-void _COPY_MEMORY(Any* dst, Any* src, int size);
+void _COPY_MEMORY(Any p0, Any p1, Any p2);
 ```
 
 ## Parameters
-* **dst**:
-* **src**:
-* **size**:
+* **p0**:
+* **p1**:
+* **p2**:

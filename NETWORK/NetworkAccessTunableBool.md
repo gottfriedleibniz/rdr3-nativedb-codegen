@@ -5,7 +5,7 @@ ns: NETWORK
 
 ```c
 // 0xAA6A47A573ABB75A
-BOOL NETWORK_ACCESS_TUNABLE_BOOL(char* tunableContext, char* tunableName);
+BOOL NETWORK_ACCESS_TUNABLE_BOOL(Hash tunableContext, Hash tunableName);
 ```
 
 ## Parameters

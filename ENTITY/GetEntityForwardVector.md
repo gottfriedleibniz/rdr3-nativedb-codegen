@@ -5,7 +5,7 @@ ns: ENTITY
 
 ```c
 // 0x2412D9C05BB09B97
-Vector3 GET_ENTITY_FORWARD_VECTOR(Entity entity);
+Vector3 GET_ENTITY_FORWARD_VECTOR(Hash entity);
 ```
 
 ## Parameters

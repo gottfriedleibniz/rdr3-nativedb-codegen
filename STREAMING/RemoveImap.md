@@ -1,12 +1,12 @@
 ---
 ns: STREAMING
 ---
-## _0x5A3E5CF7B4014B96
+## _REMOVE_IMAP
 
 ```c
 // 0x5A3E5CF7B4014B96
-void _0x5A3E5CF7B4014B96(Any p0);
+void _REMOVE_IMAP(Hash imapHash);
 ```
 
 ## Parameters
-* **p0**:
+* **imapHash**:

@@ -5,9 +5,9 @@ ns: PAD
 
 ```c
 // 0xE2587F8CBBD87B1D
-BOOL IS_DISABLED_CONTROL_PRESSED(int inputGroup, int control);
+BOOL IS_DISABLED_CONTROL_PRESSED(int padIndex, Hash control);
 ```
 
 ## Parameters
-* **inputGroup**:
+* **padIndex**:
 * **control**:

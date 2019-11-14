@@ -5,7 +5,7 @@ ns: HUD
 
 ```c
 // 0x53CB4B502E1C57EA
-int CREATE_FAKE_MP_GAMER_TAG(Ped ped, char* username, BOOL pointedClanTag, BOOL isRockstarClan, char* clanTag, int p5);
+int CREATE_FAKE_MP_GAMER_TAG(Ped ped, char* username, BOOL pointedClanTag, BOOL isRockstarClan, char* clanTag, Any p5);
 ```
 
 ## Parameters

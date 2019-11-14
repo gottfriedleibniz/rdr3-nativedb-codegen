@@ -1,12 +1,12 @@
 ---
 ns: STREAMING
 ---
-## _0x59767C5A7A9AE6DA
+## _REQUEST_IMAP
 
 ```c
 // 0x59767C5A7A9AE6DA
-void _0x59767C5A7A9AE6DA(Any p0);
+void _REQUEST_IMAP(Hash imapHash);
 ```
 
 ## Parameters
-* **p0**:
+* **imapHash**:

@@ -5,9 +5,9 @@ ns: PAD
 
 ```c
 // 0xD95E79E8686D2C27
-int GET_CONTROL_VALUE(int inputGroup, int control);
+int GET_CONTROL_VALUE(int padIndex, Hash control);
 ```
 
 ## Parameters
-* **inputGroup**:
+* **padIndex**:
 * **control**:

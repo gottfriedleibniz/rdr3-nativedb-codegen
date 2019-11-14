@@ -5,8 +5,8 @@ ns: OBJECT
 
 ```c
 // 0x5EAAD83F8CFB4575
-Hash _GET_PICKUP_HASH(int pickupIndex);
+Hash _GET_PICKUP_HASH(Hash pickupHash);
 ```
 
 ## Parameters
-* **pickupIndex**:
+* **pickupHash**:

@@ -5,9 +5,9 @@ ns: PAD
 
 ```c
 // 0x50F940259D3841E6
-BOOL IS_CONTROL_JUST_RELEASED(int inputGroup, int control);
+BOOL IS_CONTROL_JUST_RELEASED(int padIndex, Hash control);
 ```
 
 ## Parameters
-* **inputGroup**:
+* **padIndex**:
 * **control**:

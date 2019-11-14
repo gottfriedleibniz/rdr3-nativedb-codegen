@@ -5,8 +5,8 @@ ns: CAM
 
 ```c
 // 0x1BCEC33D54CFCA8A
-void STOP_GAMEPLAY_HINT(BOOL instant);
+void STOP_GAMEPLAY_HINT(BOOL p0);
 ```
 
 ## Parameters
-* **instant**:
+* **p0**:

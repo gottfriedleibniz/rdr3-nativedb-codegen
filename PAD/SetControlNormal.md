@@ -5,10 +5,10 @@ ns: PAD
 
 ```c
 // 0xE8A25867FBA3B05E
-BOOL _SET_CONTROL_NORMAL(int inputGroup, int control, float amount);
+BOOL _SET_CONTROL_NORMAL(int padIndex, Hash control, float amount);
 ```
 
 ## Parameters
-* **inputGroup**:
+* **padIndex**:
 * **control**:
 * **amount**:

@@ -5,9 +5,9 @@ ns: STREAMING
 
 ```c
 // 0xFA28FE3A6246FC30
-void REQUEST_MODEL(Any p0, Any p1);
+void REQUEST_MODEL(Hash model, BOOL p1);
 ```
 
 ## Parameters
-* **p0**:
+* **model**:
 * **p1**:
