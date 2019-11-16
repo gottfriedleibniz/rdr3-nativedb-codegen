@@ -1,14 +1,17 @@
 ---
 ns: TASK
 ---
-## TASK_DISEMBARK_VEHICLE
+## _TASK_DISEMBARK_VEHICLE
 
 ```c
-// 0x0A11F3BDEC03ED5F
-void TASK_DISEMBARK_VEHICLE(Any p0, Any p1, Any p2);
+// 0xA7C6854BB5A4192A
+void _TASK_DISEMBARK_VEHICLE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5);
 ```
 
 ## Parameters
 * **p0**:
 * **p1**:
 * **p2**:
+* **p3**:
+* **p4**:
+* **p5**:

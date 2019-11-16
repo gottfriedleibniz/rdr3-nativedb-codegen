@@ -1,11 +1,11 @@
 ---
 ns: TASK
 ---
-## TASK_BOARD_VEHICLE
+## _TASK_BOARD_VEHICLE
 
 ```c
-// 0xE41A09C8DDFF7AA4
-void TASK_BOARD_VEHICLE(Any p0, Any p1, Any p2, Any p3, Any p4);
+// 0xE53D17AD837CBF7C
+void _TASK_BOARD_VEHICLE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5);
 ```
 
 ## Parameters
@@ -14,3 +14,4 @@ void TASK_BOARD_VEHICLE(Any p0, Any p1, Any p2, Any p3, Any p4);
 * **p2**:
 * **p3**:
 * **p4**:
+* **p5**:
