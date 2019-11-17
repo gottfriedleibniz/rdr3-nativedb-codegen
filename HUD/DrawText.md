@@ -5,7 +5,7 @@ ns: HUD
 
 ```c
 // 0xD79334A4BB99BAD1
-void _DRAW_TEXT(char* text, float xPos, float yPos);
+void _DRAW_TEXT(long text, float xPos, float yPos);
 ```
 
 ```
