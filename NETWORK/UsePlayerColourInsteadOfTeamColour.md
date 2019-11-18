@@ -5,8 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x5FFE9B4144F9712F
-void USE_PLAYER_COLOUR_INSTEAD_OF_TEAM_COLOUR(Any p0);
+void USE_PLAYER_COLOUR_INSTEAD_OF_TEAM_COLOUR(BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
+* **toggle**:
