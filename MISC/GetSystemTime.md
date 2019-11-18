@@ -5,6 +5,6 @@ ns: MISC
 
 ```c
 // 0xBE7F225417E35A7C
-Any _GET_SYSTEM_TIME();
+int _GET_SYSTEM_TIME();
 ```
 
