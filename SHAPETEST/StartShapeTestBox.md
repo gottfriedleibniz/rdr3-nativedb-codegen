@@ -4,7 +4,7 @@ ns: SHAPETEST
 ## START_SHAPE_TEST_BOX
 
 ```c
-// 0xFE466162C4401D18
+// 0xFE466162C4401D18 0x249BC876
 int START_SHAPE_TEST_BOX(float x, float y, float z, float x1, float y2, float z2, float rotX, float rotY, float rotZ, Any p9, Any p10, Any entity, Any p12);
 ```
 

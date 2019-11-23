@@ -4,7 +4,7 @@ ns: TASK
 ## TASK_SEEK_COVER_TO_COORDS
 
 ```c
-// 0x39246A6958EF072C
+// 0x39246A6958EF072C 0xFFFE754E
 void TASK_SEEK_COVER_TO_COORDS(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10);
 ```
 

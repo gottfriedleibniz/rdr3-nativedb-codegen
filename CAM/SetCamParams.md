@@ -4,7 +4,7 @@ ns: CAM
 ## SET_CAM_PARAMS
 
 ```c
-// 0xA47BBFFFB83D4D0A
+// 0xA47BBFFFB83D4D0A 0x2167CEBF
 void SET_CAM_PARAMS(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11, Any p12, Any p13);
 ```
 

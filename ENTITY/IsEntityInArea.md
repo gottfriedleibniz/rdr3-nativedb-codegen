@@ -4,7 +4,7 @@ ns: ENTITY
 ## IS_ENTITY_IN_AREA
 
 ```c
-// 0x0C2634C40A16193E
+// 0x0C2634C40A16193E 0x8C2DFA9D
 BOOL IS_ENTITY_IN_AREA(Entity entity, float x1, float y1, float z1, float x2, float y2, float z2, BOOL p7, BOOL p8, Any p9);
 ```
 

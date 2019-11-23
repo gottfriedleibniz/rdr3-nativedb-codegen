@@ -4,7 +4,7 @@ ns: PHYSICS
 ## ADD_ROPE
 
 ```c
-// 0xE832D760399EB220
+// 0xE832D760399EB220 0xA592EC74
 int ADD_ROPE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11, Any p12, Any p13, Any p14, Any p15, Any p16, Any p17);
 ```
 

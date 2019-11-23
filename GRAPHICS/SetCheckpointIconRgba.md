@@ -4,7 +4,7 @@ ns: GRAPHICS
 ## _SET_CHECKPOINT_ICON_RGBA
 
 ```c
-// 0x99AFF17222D4DEB4
+// 0x99AFF17222D4DEB4 0xA5456DBB
 void _SET_CHECKPOINT_ICON_RGBA(int checkpoint, int red, int green, int blue, int alpha);
 ```
 

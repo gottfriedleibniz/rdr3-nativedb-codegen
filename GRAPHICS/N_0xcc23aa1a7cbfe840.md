@@ -4,7 +4,7 @@ ns: GRAPHICS
 ## _0xCC23AA1A7CBFE840
 
 ```c
-// 0xCC23AA1A7CBFE840
+// 0xCC23AA1A7CBFE840 0x513D444B
 void _0xCC23AA1A7CBFE840(BOOL p0, BOOL p1, float p2, float p3, float p4, float p5);
 ```
 

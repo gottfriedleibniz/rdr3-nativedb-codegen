@@ -4,7 +4,7 @@ ns: MISC
 ## CREATE_INCIDENT
 
 ```c
-// 0x3F892CAF67444AE7
+// 0x3F892CAF67444AE7 0xFC5FF7B3
 BOOL CREATE_INCIDENT(int dispatchService, float x, float y, float z, int numUnits, float radius, int* outIncidentID, Any p7, Any p8);
 ```
 

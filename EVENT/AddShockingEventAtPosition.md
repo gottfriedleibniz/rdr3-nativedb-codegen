@@ -4,7 +4,7 @@ ns: EVENT
 ## ADD_SHOCKING_EVENT_AT_POSITION
 
 ```c
-// 0xD9F8455409B525E9
+// 0xD9F8455409B525E9 0x0B30F779
 ScrHandle ADD_SHOCKING_EVENT_AT_POSITION(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10);
 ```
 

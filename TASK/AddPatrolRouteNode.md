@@ -4,7 +4,7 @@ ns: TASK
 ## ADD_PATROL_ROUTE_NODE
 
 ```c
-// 0x8EDF950167586B7C
+// 0x8EDF950167586B7C 0x21B48F10
 void ADD_PATROL_ROUTE_NODE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9);
 ```
 

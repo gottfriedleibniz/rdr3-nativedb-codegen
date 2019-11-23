@@ -4,7 +4,7 @@ ns: BUILTIN
 ## VDIST2
 
 ```c
-// 0xB7A628320EFF8E47
+// 0xB7A628320EFF8E47 0xC85DEF1F
 float VDIST2(float x1, float y1, float z1, float x2, float y2, float z2);
 ```
 

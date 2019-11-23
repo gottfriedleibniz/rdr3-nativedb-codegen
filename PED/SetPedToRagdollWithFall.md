@@ -4,7 +4,7 @@ ns: PED
 ## SET_PED_TO_RAGDOLL_WITH_FALL
 
 ```c
-// 0xD76632D99E4966C8
+// 0xD76632D99E4966C8 0xFA12E286
 BOOL SET_PED_TO_RAGDOLL_WITH_FALL(Ped ped, int time, int p2, int ragdollType, float x, float y, float z, float p7, float p8, float p9, float p10, float p11, float p12, float p13);
 ```
 

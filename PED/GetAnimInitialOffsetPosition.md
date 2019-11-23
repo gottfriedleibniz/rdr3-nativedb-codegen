@@ -4,7 +4,7 @@ ns: PED
 ## GET_ANIM_INITIAL_OFFSET_POSITION
 
 ```c
-// 0xBE22B26DD764C040
+// 0xBE22B26DD764C040 0xC59D4268
 Vector3 GET_ANIM_INITIAL_OFFSET_POSITION(char* animDict, char* animName, float x, float y, float z, float xRot, float yRot, float zRot, float p8, int p9);
 ```
 

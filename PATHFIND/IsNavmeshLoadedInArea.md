@@ -4,7 +4,7 @@ ns: PATHFIND
 ## IS_NAVMESH_LOADED_IN_AREA
 
 ```c
-// 0xF813C7E63F9062A5
+// 0xF813C7E63F9062A5 0x4C2BA99E
 BOOL IS_NAVMESH_LOADED_IN_AREA(float x1, float y1, float z1, float x2, float y2, float z2);
 ```
 

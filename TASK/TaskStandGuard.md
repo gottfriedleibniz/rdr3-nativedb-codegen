@@ -4,7 +4,7 @@ ns: TASK
 ## TASK_STAND_GUARD
 
 ```c
-// 0xAE032F8BBA959E90
+// 0xAE032F8BBA959E90 0xD130F636
 void TASK_STAND_GUARD(Ped ped, float x, float y, float z, float heading, char* scenarioName);
 ```
 

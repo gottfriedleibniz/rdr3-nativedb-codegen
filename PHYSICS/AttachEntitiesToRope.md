@@ -4,7 +4,7 @@ ns: PHYSICS
 ## ATTACH_ENTITIES_TO_ROPE
 
 ```c
-// 0x3D95EC8B6D940AC3
+// 0x3D95EC8B6D940AC3 0x7508668F
 void ATTACH_ENTITIES_TO_ROPE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11, Any p12, Any p13, Any p14, Any p15, Any p16, Any p17, Any p18, Any p19, Any p20);
 ```
 

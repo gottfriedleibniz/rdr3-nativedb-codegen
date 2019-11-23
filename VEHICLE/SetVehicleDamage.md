@@ -4,7 +4,7 @@ ns: VEHICLE
 ## SET_VEHICLE_DAMAGE
 
 ```c
-// 0x1D7678F81452BB41
+// 0x1D7678F81452BB41 0x21B458B2
 void SET_VEHICLE_DAMAGE(Vehicle vehicle, float xOffset, float yOffset, float zOffset, float damage, float radius, BOOL p6);
 ```
 

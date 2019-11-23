@@ -4,7 +4,7 @@ ns: TASK
 ## TASK_FOLLOW_NAV_MESH_TO_COORD_ADVANCED
 
 ```c
-// 0x17F58B88D085DBAC
+// 0x17F58B88D085DBAC 0x6BF6E296
 void TASK_FOLLOW_NAV_MESH_TO_COORD_ADVANCED(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11, Any p12);
 ```
 

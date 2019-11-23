@@ -4,7 +4,7 @@ ns: TASK
 ## TASK_FOLLOW_TO_OFFSET_OF_ENTITY
 
 ```c
-// 0x304AE42E357B8C7E
+// 0x304AE42E357B8C7E 0x2DF5A6AC
 void TASK_FOLLOW_TO_OFFSET_OF_ENTITY(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11, Any p12);
 ```
 

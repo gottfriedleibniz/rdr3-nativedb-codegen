@@ -4,7 +4,7 @@ ns: VEHICLE
 ## _ADD_SPEED_ZONE_FOR_COORD
 
 ```c
-// 0x4C221BAC54D735C3
+// 0x4C221BAC54D735C3 0xD6685803
 int _ADD_SPEED_ZONE_FOR_COORD(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10);
 ```
 
