@@ -5,9 +5,9 @@ ns: SOCIALCLUBFEED
 
 ```c
 // 0xEFB64240F6B17817
-Any _SC_FEED_SUBMIT_PRESET_MESSAGE(Any p0, Any p1);
+int _SC_FEED_SUBMIT_PRESET_MESSAGE(int type, int subType);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **type**:
+* **subType**:

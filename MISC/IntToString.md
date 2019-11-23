@@ -8,6 +8,10 @@ ns: MISC
 void _INT_TO_STRING(int value, char* format, char* buffer);
 ```
 
+```
+Note: the buffer should be exactly 32 bytes long
+```
+
 ## Parameters
 * **value**:
 * **format**:

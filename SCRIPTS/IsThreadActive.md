@@ -5,9 +5,9 @@ ns: SCRIPTS
 
 ```c
 // 0x46E9AE36D8FA6417
-BOOL IS_THREAD_ACTIVE(Any p0, Any p1);
+BOOL IS_THREAD_ACTIVE(int threadId, BOOL p1);
 ```
 
 ## Parameters
-* **p0**:
+* **threadId**:
 * **p1**:
