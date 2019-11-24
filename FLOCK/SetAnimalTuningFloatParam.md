@@ -5,10 +5,10 @@ ns: FLOCK
 
 ```c
 // 0xCBDA22C87977244F
-void SET_ANIMAL_TUNING_FLOAT_PARAM(Any p0, Any p1, Any p2);
+void SET_ANIMAL_TUNING_FLOAT_PARAM(Ped animal, int p1, float p2);
 ```
 
 ## Parameters
-* **p0**:
+* **animal**:
 * **p1**:
 * **p2**:

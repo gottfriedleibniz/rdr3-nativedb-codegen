@@ -5,9 +5,9 @@ ns: FLOCK
 
 ```c
 // 0x1C1993824A396603
-Any GET_ANIMAL_TUNING_BOOL_PARAM(Any p0, Any p1);
+BOOL GET_ANIMAL_TUNING_BOOL_PARAM(Ped animal, int p1);
 ```
 
 ## Parameters
-* **p0**:
+* **animal**:
 * **p1**:

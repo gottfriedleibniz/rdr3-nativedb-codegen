@@ -5,9 +5,9 @@ ns: UNLOCK
 
 ```c
 // 0xA6D79C7AEF870A99
-void _UNLOCK_SET_NEW(Any p0, Any p1);
+void _UNLOCK_SET_NEW(Hash unlockHash, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **unlockHash**:
+* **toggle**:

@@ -5,8 +5,8 @@ ns: ITEMSET
 
 ```c
 // 0xD30765D153EF5C76 0xD201FC29
-BOOL IS_ITEMSET_VALID(Any p0);
+BOOL IS_ITEMSET_VALID(int itemset);
 ```
 
 ## Parameters
-* **p0**:
+* **itemset**:

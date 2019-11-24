@@ -5,8 +5,8 @@ ns: ITEMSET
 
 ```c
 // 0x55F2E375AC6018A9 0x2B31F41A
-Any GET_ITEMSET_SIZE(ScrHandle x);
+Any GET_ITEMSET_SIZE(int itemset);
 ```
 
 ## Parameters
-* **x**:
+* **itemset**:

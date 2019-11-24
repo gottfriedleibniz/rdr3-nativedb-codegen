@@ -5,9 +5,9 @@ ns: UNLOCK
 
 ```c
 // 0x46B901A8ECDB5A61
-void _UNLOCK_SET_VISIBLE(Any p0, Any p1);
+void _UNLOCK_SET_VISIBLE(Hash unlockHash, BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **unlockHash**:
+* **toggle**:

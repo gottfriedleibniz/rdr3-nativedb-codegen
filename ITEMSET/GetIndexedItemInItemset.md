@@ -5,9 +5,9 @@ ns: ITEMSET
 
 ```c
 // 0x275A2E2C0FAB7612 0x3F712874
-Any GET_INDEXED_ITEM_IN_ITEMSET(Any p0, Any p1);
+Any GET_INDEXED_ITEM_IN_ITEMSET(int itemset, Any p1);
 ```
 
 ## Parameters
-* **p0**:
+* **itemset**:
 * **p1**:

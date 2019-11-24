@@ -5,9 +5,9 @@ ns: FLOCK
 
 ```c
 // 0x4BC3ECFDA0297E27
-Any GET_ANIMAL_TUNING_FLOAT_PARAM(Any p0, Any p1);
+float GET_ANIMAL_TUNING_FLOAT_PARAM(Ped animal, int p1);
 ```
 
 ## Parameters
-* **p0**:
+* **animal**:
 * **p1**:

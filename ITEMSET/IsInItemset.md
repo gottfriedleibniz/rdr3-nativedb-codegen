@@ -5,9 +5,9 @@ ns: ITEMSET
 
 ```c
 // 0xD1503C2EE2FE688C 0x0D4B9730
-BOOL IS_IN_ITEMSET(Any p0, Any p1);
+BOOL IS_IN_ITEMSET(int itemset, Any p1);
 ```
 
 ## Parameters
-* **p0**:
+* **itemset**:
 * **p1**:

@@ -5,14 +5,14 @@ ns: OBJECT
 
 ```c
 // 0x9A294B2138ABB884 0x58040420
-Object CREATE_OBJECT_NO_OFFSET(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
+Object CREATE_OBJECT_NO_OFFSET(Hash modelHash, float x, float y, float z, BOOL p4, BOOL p5, BOOL p6, BOOL p7);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **modelHash**:
+* **x**:
+* **y**:
+* **z**:
 * **p4**:
 * **p5**:
 * **p6**:

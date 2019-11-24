@@ -5,7 +5,7 @@ ns: FLOCK
 
 ```c
 // 0x963240B6C252BA49
-void SET_SPECIES_TUNING_FLOAT_PARAM(Any p0, Any p1, Any p2, Any p3);
+void SET_SPECIES_TUNING_FLOAT_PARAM(Hash p0, int p1, int p2, float p3);
 ```
 
 ## Parameters

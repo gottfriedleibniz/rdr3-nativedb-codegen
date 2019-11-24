@@ -5,8 +5,8 @@ ns: UNLOCK
 
 ```c
 // 0x644166BA7AA49DEA
-Any _UNLOCK_IS_NEW(Any p0);
+BOOL _UNLOCK_IS_NEW(Hash unlockHash);
 ```
 
 ## Parameters
-* **p0**:
+* **unlockHash**:

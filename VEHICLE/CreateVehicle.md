@@ -5,15 +5,15 @@ ns: VEHICLE
 
 ```c
 // 0xAF35D0D2583051B0 0xDD75460A
-Vehicle CREATE_VEHICLE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8);
+Vehicle CREATE_VEHICLE(Hash modelHash, float x, float y, float z, float heading, BOOL p5, BOOL p6, BOOL p7, BOOL p8);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
+* **modelHash**:
+* **x**:
+* **y**:
+* **z**:
+* **heading**:
 * **p5**:
 * **p6**:
 * **p7**:
