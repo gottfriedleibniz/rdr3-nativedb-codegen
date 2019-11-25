@@ -5,9 +5,9 @@ ns: HUD
 
 ```c
 // 0x832CB510DE546282
-void _PROMPT_SET_SPINNER_POSITION(Any p0, Any p1);
+void _PROMPT_SET_SPINNER_POSITION(int prompt, Any p1);
 ```
 
 ## Parameters
-* **p0**:
+* **prompt**:
 * **p1**:

@@ -5,8 +5,8 @@ ns: HUD
 
 ```c
 // 0x1A17B9ECFF617562
-Any _PROMPT_HAS_PRESSED_TIMED_MODE_FAILED(Any p0);
+Any _PROMPT_HAS_PRESSED_TIMED_MODE_FAILED(int prompt);
 ```
 
 ## Parameters
-* **p0**:
+* **prompt**:

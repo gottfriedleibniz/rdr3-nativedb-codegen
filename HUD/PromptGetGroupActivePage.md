@@ -5,8 +5,8 @@ ns: HUD
 
 ```c
 // 0xC1FCC36C3F7286C8
-Any _PROMPT_GET_GROUP_ACTIVE_PAGE(Any p0);
+int _PROMPT_GET_GROUP_ACTIVE_PAGE(Hash hash);
 ```
 
 ## Parameters
-* **p0**:
+* **hash**:

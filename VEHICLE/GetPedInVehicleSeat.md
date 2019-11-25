@@ -5,9 +5,9 @@ ns: VEHICLE
 
 ```c
 // 0xBB40DD2270B65366 0x388FDE9A
-Ped GET_PED_IN_VEHICLE_SEAT(Any p0, Any p1);
+Ped GET_PED_IN_VEHICLE_SEAT(Vehicle vehicle, int seatIndex);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **vehicle**:
+* **seatIndex**:

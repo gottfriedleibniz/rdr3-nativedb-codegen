@@ -1,0 +1,10 @@
+---
+ns: HUD
+---
+## _PROMPT_REGISTER_BEGIN
+
+```c
+// 0x04F97DE45A519419
+int _PROMPT_REGISTER_BEGIN();
+```
+

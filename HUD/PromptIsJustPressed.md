@@ -5,8 +5,8 @@ ns: HUD
 
 ```c
 // 0x2787CC611D3FACC5
-Any _PROMPT_IS_JUST_PRESSED(Any p0);
+BOOL _PROMPT_IS_JUST_PRESSED(int prompt);
 ```
 
 ## Parameters
-* **p0**:
+* **prompt**:

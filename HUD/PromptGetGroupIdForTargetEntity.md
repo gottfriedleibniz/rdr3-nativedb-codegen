@@ -5,8 +5,8 @@ ns: HUD
 
 ```c
 // 0xB796970BD125FCE8
-Any _PROMPT_GET_GROUP_ID_FOR_TARGET_ENTITY(Any p0);
+int _PROMPT_GET_GROUP_ID_FOR_TARGET_ENTITY(Entity entity);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:

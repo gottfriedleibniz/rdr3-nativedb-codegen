@@ -5,9 +5,9 @@ ns: HUD
 
 ```c
 // 0x71215ACCFDE075EE
-void _PROMPT_SET_VISIBLE(Any p0, Any p1);
+void _PROMPT_SET_VISIBLE(int prompt, Any p1);
 ```
 
 ## Parameters
-* **p0**:
+* **prompt**:
 * **p1**:

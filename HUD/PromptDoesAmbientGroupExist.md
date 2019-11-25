@@ -5,8 +5,8 @@ ns: HUD
 
 ```c
 // 0xEB550B927B34A1BB
-Any _PROMPT_DOES_AMBIENT_GROUP_EXIST(Any p0);
+BOOL _PROMPT_DOES_AMBIENT_GROUP_EXIST(Hash hash);
 ```
 
 ## Parameters
-* **p0**:
+* **hash**:

@@ -5,8 +5,8 @@ ns: HUD
 
 ```c
 // 0x25B18E530CF39D6F
-Any _PROMPT_HAS_MASH_MODE_FAILED(Any p0);
+BOOL _PROMPT_HAS_MASH_MODE_FAILED(int prompt);
 ```
 
 ## Parameters
-* **p0**:
+* **prompt**:

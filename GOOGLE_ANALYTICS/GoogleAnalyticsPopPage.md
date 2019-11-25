@@ -5,8 +5,8 @@ ns: GOOGLE_ANALYTICS
 
 ```c
 // 0xC6DE040378364798
-void _GOOGLE_ANALYTICS_POP_PAGE(Any p0);
+void _GOOGLE_ANALYTICS_POP_PAGE(char* pageName);
 ```
 
 ## Parameters
-* **p0**:
+* **pageName**:

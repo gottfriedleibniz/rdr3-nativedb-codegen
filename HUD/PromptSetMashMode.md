@@ -5,9 +5,9 @@ ns: HUD
 
 ```c
 // 0xDF6423BF071C7F71
-void _PROMPT_SET_MASH_MODE(Any p0, Any p1);
+void _PROMPT_SET_MASH_MODE(int prompt, Any p1);
 ```
 
 ## Parameters
-* **p0**:
+* **prompt**:
 * **p1**:

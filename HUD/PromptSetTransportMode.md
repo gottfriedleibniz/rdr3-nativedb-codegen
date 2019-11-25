@@ -5,9 +5,9 @@ ns: HUD
 
 ```c
 // 0x876E4A35C73A6655
-void _PROMPT_SET_TRANSPORT_MODE(Any p0, Any p1);
+void _PROMPT_SET_TRANSPORT_MODE(int prompt, Any p1);
 ```
 
 ## Parameters
-* **p0**:
+* **prompt**:
 * **p1**:

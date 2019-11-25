@@ -5,11 +5,11 @@ ns: WEAPON
 
 ```c
 // 0x4899CB088EDF59B8 0x9C37F220
-void REMOVE_WEAPON_FROM_PED(Any p0, Any p1, Any p2, Any p3);
+void REMOVE_WEAPON_FROM_PED(Ped ped, Hash weaponHash, BOOL p2, Hash p3);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **weaponHash**:
 * **p2**:
 * **p3**:

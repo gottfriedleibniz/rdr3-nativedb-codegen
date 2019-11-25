@@ -5,11 +5,11 @@ ns: ENTITY
 
 ```c
 // 0x5A5526BC09C06623
-Any IS_ENTITY_IN_VOLUME(Any p0, Any p1, Any p2, Any p3);
+BOOL IS_ENTITY_IN_VOLUME(Entity entity, ScrHandle volume, BOOL p2, int p3);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **entity**:
+* **volume**:
 * **p2**:
 * **p3**:

@@ -5,9 +5,9 @@ ns: HUD
 
 ```c
 // 0x2F385ECC5200938D
-void _PROMPT_SET_ORDERING_AS_INPUT_TYPE(Any p0, Any p1);
+void _PROMPT_SET_ORDERING_AS_INPUT_TYPE(int prompt, Any p1);
 ```
 
 ## Parameters
-* **p0**:
+* **prompt**:
 * **p1**:

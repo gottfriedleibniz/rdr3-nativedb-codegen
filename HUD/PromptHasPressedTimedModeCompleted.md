@@ -5,8 +5,8 @@ ns: HUD
 
 ```c
 // 0x3CE854D250A88DAF
-Any _PROMPT_HAS_PRESSED_TIMED_MODE_COMPLETED(Any p0);
+Any _PROMPT_HAS_PRESSED_TIMED_MODE_COMPLETED(int prompt);
 ```
 
 ## Parameters
-* **p0**:
+* **prompt**:

@@ -5,9 +5,9 @@ ns: HUD
 
 ```c
 // 0x5DD02A8318420DD7
-void _PROMPT_SET_TEXT(Any p0, Any p1);
+void _PROMPT_SET_TEXT(int prompt, Any p1);
 ```
 
 ## Parameters
-* **p0**:
+* **prompt**:
 * **p1**:

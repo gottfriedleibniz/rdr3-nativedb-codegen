@@ -1,0 +1,12 @@
+---
+ns: HUD
+---
+## _PROMPT_ENABLE_PROMPT_TYPE_THIS_FRAME
+
+```c
+// 0x06565032897BA861
+void _PROMPT_ENABLE_PROMPT_TYPE_THIS_FRAME(Any p0);
+```
+
+## Parameters
+* **p0**:

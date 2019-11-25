@@ -5,12 +5,12 @@ ns: WEAPON
 
 ```c
 // 0x3A87E44BB9A01D54 0xB0237302
-BOOL GET_CURRENT_PED_WEAPON(Any p0, Any p1, Any p2, Any p3, Any p4);
+BOOL GET_CURRENT_PED_WEAPON(Ped ped, Hash* weaponHash, BOOL p2, int p3, BOOL p4);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **weaponHash**:
 * **p2**:
 * **p3**:
 * **p4**:

@@ -5,8 +5,8 @@ ns: HUD
 
 ```c
 // 0x7B66E89312727274
-void _PROMPT_SET_MASH_INDEFINITELY_MODE(Any p0);
+void _PROMPT_SET_MASH_INDEFINITELY_MODE(int prompt);
 ```
 
 ## Parameters
-* **p0**:
+* **prompt**:

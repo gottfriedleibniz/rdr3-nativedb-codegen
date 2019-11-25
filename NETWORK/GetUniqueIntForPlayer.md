@@ -5,8 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x07F723401B9D921C
-Any GET_UNIQUE_INT_FOR_PLAYER(Any p0);
+int GET_UNIQUE_INT_FOR_PLAYER(Player player);
 ```
 
 ## Parameters
-* **p0**:
+* **player**:

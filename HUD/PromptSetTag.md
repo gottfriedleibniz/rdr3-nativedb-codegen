@@ -5,9 +5,9 @@ ns: HUD
 
 ```c
 // 0xDEC85C174751292B
-void _PROMPT_SET_TAG(Any p0, Any p1);
+void _PROMPT_SET_TAG(int prompt, Any p1);
 ```
 
 ## Parameters
-* **p0**:
+* **prompt**:
 * **p1**:

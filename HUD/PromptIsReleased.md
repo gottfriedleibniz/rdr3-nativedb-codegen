@@ -5,8 +5,8 @@ ns: HUD
 
 ```c
 // 0xAFC887BA7A7756D6
-Any _PROMPT_IS_RELEASED(Any p0);
+BOOL _PROMPT_IS_RELEASED(int prompt);
 ```
 
 ## Parameters
-* **p0**:
+* **prompt**:

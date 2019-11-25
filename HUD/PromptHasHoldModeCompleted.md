@@ -5,8 +5,8 @@ ns: HUD
 
 ```c
 // 0xE0F65F0640EF0617
-Any _PROMPT_HAS_HOLD_MODE_COMPLETED(Any p0);
+BOOL _PROMPT_HAS_HOLD_MODE_COMPLETED(int prompt);
 ```
 
 ## Parameters
-* **p0**:
+* **prompt**:

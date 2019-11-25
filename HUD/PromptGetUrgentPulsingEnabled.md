@@ -5,8 +5,8 @@ ns: HUD
 
 ```c
 // 0x1FBA0DABECDDB52B
-Any _PROMPT_GET_URGENT_PULSING_ENABLED(Any p0);
+BOOL _PROMPT_GET_URGENT_PULSING_ENABLED(int prompt);
 ```
 
 ## Parameters
-* **p0**:
+* **prompt**:

@@ -5,9 +5,9 @@ ns: HUD
 
 ```c
 // 0xCC6656799977741B
-void _PROMPT_SET_STANDARD_MODE(Any p0, Any p1);
+void _PROMPT_SET_STANDARD_MODE(int prompt, Any p1);
 ```
 
 ## Parameters
-* **p0**:
+* **prompt**:
 * **p1**:
