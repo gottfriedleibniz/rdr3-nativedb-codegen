@@ -5,8 +5,8 @@ ns: ANIMSCENE
 
 ```c
 // 0x6843A1AA3A336DFF
-void DETACH_ANIM_SCENE(Hash animSceneHash);
+void DETACH_ANIM_SCENE(int animScene);
 ```
 
 ## Parameters
-* **animSceneHash**:
+* **animScene**:

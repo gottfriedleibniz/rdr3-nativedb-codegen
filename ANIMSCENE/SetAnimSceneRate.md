@@ -5,9 +5,9 @@ ns: ANIMSCENE
 
 ```c
 // 0x75820B801CFF262A
-void SET_ANIM_SCENE_RATE(Any p0, Any p1);
+void SET_ANIM_SCENE_RATE(int animScene, Any p1);
 ```
 
 ## Parameters
-* **p0**:
+* **animScene**:
 * **p1**:

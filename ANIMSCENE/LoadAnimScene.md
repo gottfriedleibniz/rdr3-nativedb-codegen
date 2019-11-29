@@ -5,8 +5,8 @@ ns: ANIMSCENE
 
 ```c
 // 0xAF068580194D9DC7
-void LOAD_ANIM_SCENE(Hash animSceneHash);
+void LOAD_ANIM_SCENE(int animScene);
 ```
 
 ## Parameters
-* **animSceneHash**:
+* **animScene**:

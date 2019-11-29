@@ -5,9 +5,9 @@ ns: ANIMSCENE
 
 ```c
 // 0x323E3AD772BA5D57
-void FADE_ANIM_SCENE_AUDIO_OUT(Hash animSceneHash, float p1);
+void FADE_ANIM_SCENE_AUDIO_OUT(int animScene, float p1);
 ```
 
 ## Parameters
-* **animSceneHash**:
+* **animScene**:
 * **p1**:

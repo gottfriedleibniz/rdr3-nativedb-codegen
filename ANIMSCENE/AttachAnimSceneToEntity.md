@@ -5,10 +5,10 @@ ns: ANIMSCENE
 
 ```c
 // 0xDC418495DBA327A1
-void ATTACH_ANIM_SCENE_TO_ENTITY(Hash animSceneHash, Entity entity, int p2);
+void ATTACH_ANIM_SCENE_TO_ENTITY(int animScene, Entity entity, int p2);
 ```
 
 ## Parameters
-* **animSceneHash**:
+* **animScene**:
 * **entity**:
 * **p2**:

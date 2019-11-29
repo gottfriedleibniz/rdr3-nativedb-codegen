@@ -5,11 +5,11 @@ ns: ANIMSCENE
 
 ```c
 // 0x519E96C2C68B404B
-void SET_ANIM_SCENE_BOOL(Any p0, Any p1, Any p2, Any p3);
+void SET_ANIM_SCENE_BOOL(int animScene, Any p1, Any p2, Any p3);
 ```
 
 ## Parameters
-* **p0**:
+* **animScene**:
 * **p1**:
 * **p2**:
 * **p3**:

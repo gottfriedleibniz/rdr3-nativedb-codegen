@@ -5,9 +5,9 @@ ns: POPULATION
 
 ```c
 // 0x3E6A49D9B519E85C
-void SET_POPZONE_POPULATION_SET(Any p0, Any p1);
+void SET_POPZONE_POPULATION_SET(int popZone, Hash populationSetHash);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **popZone**:
+* **populationSetHash**:
