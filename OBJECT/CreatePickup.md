@@ -5,17 +5,17 @@ ns: OBJECT
 
 ```c
 // 0xFBA08C503DD5FA58 0x5E14DF68
-Pickup CREATE_PICKUP(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9);
+Pickup CREATE_PICKUP(Hash pickupHash, float x, float y, float z, int flags, int p5, BOOL p6, Hash modelHash, int p8, float p9);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
+* **pickupHash**:
+* **x**:
+* **y**:
+* **z**:
+* **flags**:
 * **p5**:
 * **p6**:
-* **p7**:
+* **modelHash**:
 * **p8**:
 * **p9**:
