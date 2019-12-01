@@ -5,9 +5,13 @@ ns: STATS
 
 ```c
 // 0x8B0FACEFC36C824C
-Any STAT_ID_GET_DATE(Any p0, Any p1);
+BOOL STAT_ID_GET_DATE(Any* statId, Any* date);
+```
+
+```
+statId: see 0xC48FE1971C9743FF
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **statId**:
+* **date**:

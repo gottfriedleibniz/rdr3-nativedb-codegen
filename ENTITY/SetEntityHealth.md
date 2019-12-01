@@ -5,7 +5,7 @@ ns: ENTITY
 
 ```c
 // 0xAC2767ED8BDFAB15
-void _SET_ENTITY_HEALTH(Ped target, int healthAmount, Entity p2);
+void _SET_ENTITY_HEALTH(Entity entity, int healthAmount, Entity p2);
 ```
 
 ```
@@ -13,6 +13,6 @@ Sets the entity's health. healthAmount sets the health value to that, and sets t
 ```
 
 ## Parameters
-* **target**:
+* **entity**:
 * **healthAmount**:
 * **p2**:

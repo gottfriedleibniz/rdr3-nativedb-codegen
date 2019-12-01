@@ -5,8 +5,8 @@ ns: DATAFILE
 
 ```c
 // 0x9FB90EEDEA9F2D5C 0xDEF31B0A
-void DATAFILE_DELETE(Any p0);
+void DATAFILE_DELETE(int index);
 ```
 
 ## Parameters
-* **p0**:
+* **index**:

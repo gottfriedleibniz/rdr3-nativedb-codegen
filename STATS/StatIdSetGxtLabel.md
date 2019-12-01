@@ -5,10 +5,14 @@ ns: STATS
 
 ```c
 // 0x05060A54834F2382
-Any STAT_ID_SET_GXT_LABEL(Any p0, Any p1, Any p2);
+BOOL STAT_ID_SET_GXT_LABEL(Any* statId, char* label, BOOL p2);
+```
+
+```
+statId: see 0xC48FE1971C9743FF
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **statId**:
+* **label**:
 * **p2**:

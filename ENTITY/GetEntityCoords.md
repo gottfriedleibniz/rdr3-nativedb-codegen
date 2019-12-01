@@ -5,10 +5,10 @@ ns: ENTITY
 
 ```c
 // 0xA86D5F069399F44D 0x1647F1CB
-Vector3 GET_ENTITY_COORDS(Any p0, Any p1, Any p2);
+Vector3 GET_ENTITY_COORDS(Entity entity, BOOL p1, BOOL p2);
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:
 * **p1**:
 * **p2**:

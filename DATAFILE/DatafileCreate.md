@@ -5,8 +5,8 @@ ns: DATAFILE
 
 ```c
 // 0x56B7291FB953DD51 0x95F8A221
-void DATAFILE_CREATE(Any p0);
+void DATAFILE_CREATE(int index);
 ```
 
 ## Parameters
-* **p0**:
+* **index**:
