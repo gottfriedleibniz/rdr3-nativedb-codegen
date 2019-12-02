@@ -5,10 +5,10 @@ ns: MAP
 
 ```c
 // 0x74F74D3207ED525C 0x8DBBB0B9
-void SET_BLIP_SPRITE(Any p0, Any p1, Any p2);
+void SET_BLIP_SPRITE(Blip blip, Hash hash, BOOL p2);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **blip**:
+* **hash**:
 * **p2**:
