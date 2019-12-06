@@ -5,9 +5,9 @@ ns: UIAPPS
 
 ```c
 // 0x7B2027BAC5C8EC89
-Any _LAUNCH_APP_WITH_ENTRY(Any p0, Any p1);
+int _LAUNCH_APP_WITH_ENTRY(char* appName, char* entry);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **appName**:
+* **entry**:

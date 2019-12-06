@@ -5,8 +5,12 @@ ns: MAP
 
 ```c
 // 0xA657EC9DBC6CC900
-void _0xA657EC9DBC6CC900(Any p0);
+void _0xA657EC9DBC6CC900(Hash hash);
+```
+
+```
+hash can be the hash of "guarma" or "world".
 ```
 
 ## Parameters
-* **p0**:
+* **hash**:

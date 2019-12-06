@@ -5,8 +5,8 @@ ns: UIAPPS
 
 ```c
 // 0x25B7A0206BDFAC76
-Any _IS_APP_ACTIVE(Any p0);
+BOOL _IS_APP_ACTIVE(Hash appNameHash);
 ```
 
 ## Parameters
-* **p0**:
+* **appNameHash**:

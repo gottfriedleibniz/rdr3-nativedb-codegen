@@ -5,8 +5,8 @@ ns: UIAPPS
 
 ```c
 // 0x2FF10C9C3F92277E
-void _CLOSE_APP_BY_HASH(Any p0);
+void _CLOSE_APP_BY_HASH(Hash appNameHash);
 ```
 
 ## Parameters
-* **p0**:
+* **appNameHash**:

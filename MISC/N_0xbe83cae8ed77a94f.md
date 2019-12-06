@@ -5,8 +5,8 @@ ns: MISC
 
 ```c
 // 0xBE83CAE8ED77A94F
-void _0xBE83CAE8ED77A94F(Any p0);
+void _0xBE83CAE8ED77A94F(Hash weatherType);
 ```
 
 ## Parameters
-* **p0**:
+* **weatherType**:

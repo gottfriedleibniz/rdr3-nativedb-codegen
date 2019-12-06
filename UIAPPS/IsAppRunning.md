@@ -5,8 +5,8 @@ ns: UIAPPS
 
 ```c
 // 0x4E511D093A86AD49
-Any _IS_APP_RUNNING(Any p0);
+BOOL _IS_APP_RUNNING(Hash appNameHash);
 ```
 
 ## Parameters
-* **p0**:
+* **appNameHash**:

@@ -1,0 +1,12 @@
+---
+ns: UISTATEMACHINE
+---
+## _UISTATEMACHINE_EXISTS
+
+```c
+// 0x5D15569C0FEBF757
+Any _UISTATEMACHINE_EXISTS(Any p0);
+```
+
+## Parameters
+* **p0**:

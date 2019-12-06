@@ -1,0 +1,12 @@
+---
+ns: HUD
+---
+## _UIPROMPT_WAS_BEAT_MODE_PRESSED_IN_TIME_WINDOW
+
+```c
+// 0x1FE4788AB1430C55
+BOOL _UIPROMPT_WAS_BEAT_MODE_PRESSED_IN_TIME_WINDOW(int prompt);
+```
+
+## Parameters
+* **prompt**:

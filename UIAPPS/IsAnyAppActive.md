@@ -1,0 +1,10 @@
+---
+ns: UIAPPS
+---
+## _IS_ANY_APP_ACTIVE
+
+```c
+// 0xAC959AB99AAF3D9F
+BOOL _IS_ANY_APP_ACTIVE();
+```
+

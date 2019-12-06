@@ -4,9 +4,9 @@ ns: UIAPPS
 ## _CLOSE_APP
 
 ```c
-// 0x3015635426D1B17C
-void _CLOSE_APP(Any p0);
+// 0x818C6CA9B659E8EC
+void _CLOSE_APP(char* appName);
 ```
 
 ## Parameters
-* **p0**:
+* **appName**:

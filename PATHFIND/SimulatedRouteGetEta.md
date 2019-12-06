@@ -5,7 +5,7 @@ ns: PATHFIND
 
 ```c
 // 0x2DD5F78D73B24172
-Any SIMULATED_ROUTE_GET_ETA(Any p0);
+float SIMULATED_ROUTE_GET_ETA(Any p0);
 ```
 
 ## Parameters

@@ -5,8 +5,8 @@ ns: UIAPPS
 
 ```c
 // 0xE555EC27D65EDE80
-Any _CAN_LAUNCH_APP_BY_HASH(Any p0);
+BOOL _CAN_LAUNCH_APP_BY_HASH(Hash appNameHash);
 ```
 
 ## Parameters
-* **p0**:
+* **appNameHash**:

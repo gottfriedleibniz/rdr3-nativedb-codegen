@@ -5,12 +5,12 @@ ns: ANIMSCENE
 
 ```c
 // 0x6BC5104E68CBEFE8
-void SET_ANIM_SCENE_FLOAT(int animScene, Any p1, Any p2, Any p3, Any p4);
+void SET_ANIM_SCENE_FLOAT(int animScene, char* name, float value, BOOL p3, BOOL p4);
 ```
 
 ## Parameters
 * **animScene**:
-* **p1**:
-* **p2**:
+* **name**:
+* **value**:
 * **p3**:
 * **p4**:

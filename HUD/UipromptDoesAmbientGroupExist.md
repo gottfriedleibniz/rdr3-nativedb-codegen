@@ -1,0 +1,12 @@
+---
+ns: HUD
+---
+## _UIPROMPT_DOES_AMBIENT_GROUP_EXIST
+
+```c
+// 0xEB550B927B34A1BB
+BOOL _UIPROMPT_DOES_AMBIENT_GROUP_EXIST(Hash hash);
+```
+
+## Parameters
+* **hash**:
