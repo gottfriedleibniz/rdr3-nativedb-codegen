@@ -9,7 +9,9 @@ void _SET_SNOW_COVERAGE_TYPE(int type);
 ```
 
 ```
-0 = default, 1 = ???, 2 = xmas
+0 = Primary
+1 = Secondary
+2 = Xmas
 ```
 
 ## Parameters

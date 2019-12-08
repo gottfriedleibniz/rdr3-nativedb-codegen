@@ -5,9 +5,9 @@ ns: ANIMSCENE
 
 ```c
 // 0xAB5E7CAB074D6B84
-void SET_ANIM_SCENE_PLAYBACK_LIST(int animScene, Any p1);
+void SET_ANIM_SCENE_PLAYBACK_LIST(int animScene, char* playbackListName);
 ```
 
 ## Parameters
 * **animScene**:
-* **p1**:
+* **playbackListName**:

@@ -5,9 +5,9 @@ ns: LAW
 
 ```c
 // 0xDAEFDFDB2AEECE37
-Any _0xDAEFDFDB2AEECE37(Any p0, Any p1);
+int _0xDAEFDFDB2AEECE37(Hash crimeType, Any p1);
 ```
 
 ## Parameters
-* **p0**:
+* **crimeType**:
 * **p1**:
