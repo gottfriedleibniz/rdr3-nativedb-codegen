@@ -5,21 +5,21 @@ ns: MISC
 
 ```c
 // 0x867654CBC7606F2C 0xCB7415AC
-void SHOOT_SINGLE_BULLET_BETWEEN_COORDS(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11, Any p12, Any p13);
+void SHOOT_SINGLE_BULLET_BETWEEN_COORDS(float x1, float y1, float z1, float x2, float y2, float z2, int damage, BOOL p7, Hash weaponHash, Ped ownerPed, BOOL isAudible, BOOL isInvisible, float speed, BOOL p13);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
+* **x1**:
+* **y1**:
+* **z1**:
+* **x2**:
+* **y2**:
+* **z2**:
+* **damage**:
 * **p7**:
-* **p8**:
-* **p9**:
-* **p10**:
-* **p11**:
-* **p12**:
+* **weaponHash**:
+* **ownerPed**:
+* **isAudible**:
+* **isInvisible**:
+* **speed**:
 * **p13**:
