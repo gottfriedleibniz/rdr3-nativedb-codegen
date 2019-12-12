@@ -8,5 +8,9 @@ ns: GRAPHICS
 void ENABLE_MOVIE_SUBTITLES(BOOL toggle);
 ```
 
+```
+nullsub, doesn't do anything
+```
+
 ## Parameters
 * **toggle**:

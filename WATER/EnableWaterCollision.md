@@ -1,0 +1,10 @@
+---
+ns: WATER
+---
+## _ENABLE_WATER_COLLISION
+
+```c
+// 0x754616EC6965D1BF
+void _ENABLE_WATER_COLLISION();
+```
+
