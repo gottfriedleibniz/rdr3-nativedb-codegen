@@ -5,7 +5,7 @@ ns: OBJECT
 
 ```c
 // 0x891804727E0A98B7 0xF015BFE2
-Pickup CREATE_PICKUP_ROTATE(Hash pickupHash, float posX, float posY, float posZ, float rotX, float rotY, float rotZ, int flags, int p8, int p9, BOOL p10, Hash modelHash, int p12, float p13);
+Pickup CREATE_PICKUP_ROTATE(Hash pickupHash, float posX, float posY, float posZ, float rotX, float rotY, float rotZ, int flags, int p8, int p9, BOOL p10, Hash modelHash, int p12, float p13, Any p14);
 ```
 
 ## Parameters
@@ -23,3 +23,4 @@ Pickup CREATE_PICKUP_ROTATE(Hash pickupHash, float posX, float posY, float posZ,
 * **modelHash**:
 * **p12**:
 * **p13**:
+* **p14**:

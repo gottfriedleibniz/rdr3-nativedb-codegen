@@ -12,6 +12,7 @@ void _SET_SNOW_COVERAGE_TYPE(int type);
 0 = Primary
 1 = Secondary
 2 = Xmas
+3 = XmasSecondary (since b1232)
 ```
 
 ## Parameters
