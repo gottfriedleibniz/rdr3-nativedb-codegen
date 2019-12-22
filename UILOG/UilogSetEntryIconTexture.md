@@ -5,7 +5,7 @@ ns: UILOG
 
 ```c
 // 0x6965469934958D8F
-void _UILOG_SET_ENTRY_ICON_TEXTURE(Any p0, Any p1, Any p2, Any p3);
+void _UILOG_SET_ENTRY_ICON_TEXTURE(int p0, Hash p1, Hash p2, Hash p3);
 ```
 
 ## Parameters

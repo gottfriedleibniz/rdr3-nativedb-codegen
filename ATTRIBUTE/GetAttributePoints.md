@@ -5,9 +5,9 @@ ns: ATTRIBUTE
 
 ```c
 // 0x219DA04BAA9CB065
-Any GET_ATTRIBUTE_POINTS(Any p0, Any p1);
+int GET_ATTRIBUTE_POINTS(Ped ped, int coreIndex);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **coreIndex**:

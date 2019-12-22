@@ -5,12 +5,12 @@ ns: TASK
 
 ```c
 // 0x524B54361229154F
-void _TASK_START_SCENARIO_IN_PLACE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6);
+void _TASK_START_SCENARIO_IN_PLACE(Ped ped, Hash scenarioHash, int p2, BOOL p3, Any p4, float p5, BOOL p6);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **scenarioHash**:
 * **p2**:
 * **p3**:
 * **p4**:

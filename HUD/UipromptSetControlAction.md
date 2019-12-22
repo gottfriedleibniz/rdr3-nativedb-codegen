@@ -5,9 +5,9 @@ ns: HUD
 
 ```c
 // 0xB5352B7494A08258
-Any _UIPROMPT_SET_CONTROL_ACTION(int prompt, Any p1);
+Any _UIPROMPT_SET_CONTROL_ACTION(int prompt, Hash control);
 ```
 
 ## Parameters
 * **prompt**:
-* **p1**:
+* **control**:

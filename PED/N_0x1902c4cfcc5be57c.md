@@ -5,9 +5,9 @@ ns: PED
 
 ```c
 // 0x1902C4CFCC5BE57C
-void _0x1902C4CFCC5BE57C(Any p0, Any p1);
+void _0x1902C4CFCC5BE57C(Ped ped, Hash hash);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **hash**:

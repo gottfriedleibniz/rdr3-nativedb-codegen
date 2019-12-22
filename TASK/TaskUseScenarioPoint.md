@@ -5,11 +5,11 @@ ns: TASK
 
 ```c
 // 0xCCDAE6324B6A821C
-void _TASK_USE_SCENARIO_POINT(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9);
+void _TASK_USE_SCENARIO_POINT(Ped ped, Any p1, char* p2, int p3, BOOL p4, BOOL p5, Hash p6, BOOL p7, float p8, BOOL p9);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:
 * **p3**:

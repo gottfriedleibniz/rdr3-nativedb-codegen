@@ -5,10 +5,10 @@ ns: ATTRIBUTE
 
 ```c
 // 0x920F9488BD115EFB
-void SET_ATTRIBUTE_BONUS_RANK(Any p0, Any p1, Any p2);
+void SET_ATTRIBUTE_BONUS_RANK(Ped ped, int coreIndex, int p2);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **coreIndex**:
 * **p2**:

@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0x38FE1EC73743793C 0x0EA39A29
-void SET_PED_PATH_PREFER_TO_AVOID_WATER(Any p0, Any p1, Any p2);
+void SET_PED_PATH_PREFER_TO_AVOID_WATER(Ped ped, BOOL avoidWater, float p2);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **avoidWater**:
 * **p2**:

@@ -5,11 +5,11 @@ ns: TASK
 
 ```c
 // 0x2BBA30B854534A0C 0xF127AD6A
-void TASK_COMBAT_HATED_TARGETS_AROUND_PED_TIMED(Any p0, float p1, Any p2, Any p3);
+void TASK_COMBAT_HATED_TARGETS_AROUND_PED_TIMED(Ped ped, float radius, float p2, Any p3);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **radius**:
 * **p2**:
 * **p3**:

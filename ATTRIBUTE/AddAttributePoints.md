@@ -5,10 +5,10 @@ ns: ATTRIBUTE
 
 ```c
 // 0x75415EE0CB583760
-void ADD_ATTRIBUTE_POINTS(Any p0, Any p1, Any p2);
+void ADD_ATTRIBUTE_POINTS(Ped ped, int coreIndex, int p2);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **coreIndex**:
 * **p2**:

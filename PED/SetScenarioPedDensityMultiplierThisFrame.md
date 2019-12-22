@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0x7A556143A1C03898 0x2909ABF0
-void SET_SCENARIO_PED_DENSITY_MULTIPLIER_THIS_FRAME(Any p0);
+void SET_SCENARIO_PED_DENSITY_MULTIPLIER_THIS_FRAME(float multiplier);
 ```
 
 ## Parameters
-* **p0**:
+* **multiplier**:

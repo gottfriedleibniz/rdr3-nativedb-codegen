@@ -5,9 +5,9 @@ ns: HUD
 
 ```c
 // 0x5DD02A8318420DD7
-void _UIPROMPT_SET_TEXT(int prompt, Any p1);
+void _UIPROMPT_SET_TEXT(int prompt, char* text);
 ```
 
 ## Parameters
 * **prompt**:
-* **p1**:
+* **text**:

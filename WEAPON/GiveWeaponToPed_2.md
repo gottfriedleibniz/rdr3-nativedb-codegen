@@ -5,7 +5,7 @@ ns: WEAPON
 
 ```c
 // 0x5E3BDDBCB83F3D84
-BOOL _GIVE_WEAPON_TO_PED_2(Ped ped, Hash weaponHash, int ammoCount, BOOL equipNow, BOOL p4, int weaponGroup, BOOL p6, float p7, float p8, int p9, BOOL p10, float p11, BOOL p12);
+Hash _GIVE_WEAPON_TO_PED_2(Ped ped, Hash weaponHash, int ammoCount, BOOL equipNow, BOOL p4, int weaponGroup, BOOL p6, float p7, float p8, int p9, BOOL p10, float p11, BOOL p12);
 ```
 
 ```

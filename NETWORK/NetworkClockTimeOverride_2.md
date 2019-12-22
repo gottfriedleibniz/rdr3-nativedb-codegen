@@ -5,13 +5,13 @@ ns: NETWORK
 
 ```c
 // 0xE28C13ECC36FF14E
-void _NETWORK_CLOCK_TIME_OVERRIDE_2(int hour, int minute, int second, int p3, BOOL p4, BOOL p5);
+void _NETWORK_CLOCK_TIME_OVERRIDE_2(int hour, int minute, int second, int transitionTime, BOOL p4, BOOL clockwise);
 ```
 
 ## Parameters
 * **hour**:
 * **minute**:
 * **second**:
-* **p3**:
+* **transitionTime**:
 * **p4**:
-* **p5**:
+* **clockwise**:

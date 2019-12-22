@@ -5,10 +5,10 @@ ns: VEHICLE
 
 ```c
 // 0xB86D29B10F627379 0x41A7267A
-BOOL IS_VEHICLE_DRIVEABLE(Any p0, Any p1, Any p2);
+BOOL IS_VEHICLE_DRIVEABLE(Vehicle vehicle, BOOL p1, BOOL p2);
 ```
 
 ## Parameters
-* **p0**:
+* **vehicle**:
 * **p1**:
 * **p2**:

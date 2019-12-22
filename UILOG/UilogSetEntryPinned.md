@@ -5,7 +5,7 @@ ns: UILOG
 
 ```c
 // 0x72A5CD214B342568
-void _UILOG_SET_ENTRY_PINNED(Any p0, Any p1, Any p2);
+void _UILOG_SET_ENTRY_PINNED(int p0, Hash p1, BOOL p2);
 ```
 
 ## Parameters

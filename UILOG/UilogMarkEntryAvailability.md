@@ -5,7 +5,7 @@ ns: UILOG
 
 ```c
 // 0x13E8D7DD08543482
-void _UILOG_MARK_ENTRY_AVAILABILITY(Any p0, Any p1, Any p2, Any p3);
+void _UILOG_MARK_ENTRY_AVAILABILITY(int p0, Hash p1, int p2, char* p3);
 ```
 
 ## Parameters

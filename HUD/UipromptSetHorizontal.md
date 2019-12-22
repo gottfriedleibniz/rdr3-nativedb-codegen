@@ -1,0 +1,10 @@
+---
+ns: HUD
+---
+## _UIPROMPT_SET_HORIZONTAL
+
+```c
+// 0xD9459157EB22C895
+Any _UIPROMPT_SET_HORIZONTAL();
+```
+

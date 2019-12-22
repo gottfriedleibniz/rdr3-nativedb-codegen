@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0x126EF75F1E17ABE5 0xFC2DCF47
-void TASK_SCRIPTED_ANIMATION(Any p0, Any p1);
+void TASK_SCRIPTED_ANIMATION(Ped ped, Any* args);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **args**:

@@ -5,7 +5,7 @@ ns: OBJECT
 
 ```c
 // 0x9A294B2138ABB884 0x58040420
-Object CREATE_OBJECT_NO_OFFSET(Hash modelHash, float x, float y, float z, BOOL p4, BOOL p5, BOOL p6, BOOL p7);
+Object CREATE_OBJECT_NO_OFFSET(Hash modelHash, float x, float y, float z, BOOL isNetwork, BOOL thisScriptCheck, BOOL dynamic, BOOL p7);
 ```
 
 ## Parameters
@@ -13,7 +13,7 @@ Object CREATE_OBJECT_NO_OFFSET(Hash modelHash, float x, float y, float z, BOOL p
 * **x**:
 * **y**:
 * **z**:
-* **p4**:
-* **p5**:
-* **p6**:
+* **isNetwork**:
+* **thisScriptCheck**:
+* **dynamic**:
 * **p7**:

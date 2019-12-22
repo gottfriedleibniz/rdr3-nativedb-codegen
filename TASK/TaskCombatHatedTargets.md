@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0x8182B561A29BD597
-void TASK_COMBAT_HATED_TARGETS(Any p0, Any p1);
+void TASK_COMBAT_HATED_TARGETS(Ped ped, float radius);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **radius**:

@@ -5,9 +5,9 @@ ns: ATTRIBUTE
 
 ```c
 // 0xA4C8E23E29040DE0
-Any GET_ATTRIBUTE_RANK(Any p0, Any p1);
+int GET_ATTRIBUTE_RANK(Ped ped, int coreIndex);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **coreIndex**:

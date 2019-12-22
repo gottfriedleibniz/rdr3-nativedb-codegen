@@ -8,6 +8,10 @@ ns: FIRE
 void ADD_OWNED_EXPLOSION(Ped ped, float x, float y, float z, int explosionType, float damageScale, BOOL isAudible, BOOL isInvisible, float cameraShake);
 ```
 
+```
+explosionType: see ADD_EXPLOSION
+```
+
 ## Parameters
 * **ped**:
 * **x**:

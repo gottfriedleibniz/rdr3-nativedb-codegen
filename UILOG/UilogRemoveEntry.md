@@ -5,7 +5,7 @@ ns: UILOG
 
 ```c
 // 0xD594A19BE09A75C6
-void _UILOG_REMOVE_ENTRY(Any p0, Any p1);
+void _UILOG_REMOVE_ENTRY(int p0, Hash p1);
 ```
 
 ## Parameters

@@ -5,7 +5,7 @@ ns: VOLUME
 
 ```c
 // 0x1F85E4AC774A201E
-Any _CREATE_VOLUME_BY_HASH_WITH_CUSTOM_NAME(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10);
+int _CREATE_VOLUME_BY_HASH_WITH_CUSTOM_NAME(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, char* name);
 ```
 
 ## Parameters
@@ -19,4 +19,4 @@ Any _CREATE_VOLUME_BY_HASH_WITH_CUSTOM_NAME(Any p0, Any p1, Any p2, Any p3, Any 
 * **p7**:
 * **p8**:
 * **p9**:
-* **p10**:
+* **name**:

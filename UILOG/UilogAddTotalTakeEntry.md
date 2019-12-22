@@ -5,7 +5,7 @@ ns: UILOG
 
 ```c
 // 0x60C59968E8E87E6B
-void _UILOG_ADD_TOTAL_TAKE_ENTRY(Any p0, Any p1, Any p2, Any p3, Any p4);
+void _UILOG_ADD_TOTAL_TAKE_ENTRY(Hash p0, Hash p1, char* p2, char* p3, Hash p4);
 ```
 
 ## Parameters
