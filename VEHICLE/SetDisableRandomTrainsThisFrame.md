@@ -8,5 +8,9 @@ ns: VEHICLE
 void SET_DISABLE_RANDOM_TRAINS_THIS_FRAME(BOOL toggle);
 ```
 
+```
+nullsub, doesn't do anything
+```
+
 ## Parameters
 * **toggle**:

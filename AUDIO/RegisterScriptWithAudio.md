@@ -8,5 +8,9 @@ ns: AUDIO
 void REGISTER_SCRIPT_WITH_AUDIO(int p0);
 ```
 
+```
+nullsub, doesn't do anything
+```
+
 ## Parameters
 * **p0**:

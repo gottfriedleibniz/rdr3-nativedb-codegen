@@ -8,6 +8,10 @@ ns: PLAYER
 void SET_PLAYER_WANTED_LEVEL(Player player, int wantedLevel, BOOL disableNoMission);
 ```
 
+```
+nullsub, doesn't do anything
+```
+
 ## Parameters
 * **player**:
 * **wantedLevel**:

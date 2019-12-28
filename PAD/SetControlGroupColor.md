@@ -8,6 +8,10 @@ ns: PAD
 void _SET_CONTROL_GROUP_COLOR(int padIndex, int red, int green, int blue);
 ```
 
+```
+nullsub, doesn't do anything
+```
+
 ## Parameters
 * **padIndex**:
 * **red**:

@@ -8,6 +8,10 @@ ns: MISC
 void BLOCK_DISPATCH_SERVICE_RESOURCE_CREATION(int dispatchService, BOOL toggle);
 ```
 
+```
+dispatchService: see ENABLE_DISPATCH_SERVICE
+```
+
 ## Parameters
 * **dispatchService**:
 * **toggle**:

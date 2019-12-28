@@ -5,10 +5,10 @@ ns: PLAYER
 
 ```c
 // 0xE8DD8536F01DE600 0x725ADCF2
-void SET_PLAYER_TEAM(Any p0, Any p1, Any p2);
+void SET_PLAYER_TEAM(Player player, int team, BOOL p2);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **player**:
+* **team**:
 * **p2**:

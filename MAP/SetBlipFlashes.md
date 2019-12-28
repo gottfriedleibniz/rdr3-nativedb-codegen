@@ -5,10 +5,10 @@ ns: MAP
 
 ```c
 // 0x0DF2B55F717DDB10 0xC0047F15
-Any SET_BLIP_FLASHES(Any p0, Any p1, Any p2);
+BOOL SET_BLIP_FLASHES(Blip blip, int* p1, Hash* p2);
 ```
 
 ## Parameters
-* **p0**:
+* **blip**:
 * **p1**:
 * **p2**:

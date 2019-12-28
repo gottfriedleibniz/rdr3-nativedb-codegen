@@ -5,9 +5,9 @@ ns: POPULATION
 
 ```c
 // 0x3EAFA1C533B7139E
-Any GET_PED_MODEL_NAME_IN_POPULATION_SET(Any p0, Any p1);
+Hash GET_PED_MODEL_NAME_IN_POPULATION_SET(Hash popSetHash, int index);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **popSetHash**:
+* **index**:

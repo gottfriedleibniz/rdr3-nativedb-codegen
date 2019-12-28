@@ -5,8 +5,8 @@ ns: POPULATION
 
 ```c
 // 0xA1E3171ED0E47564
-Any GET_NUM_MODELS_IN_POPULATION_SET(Any p0);
+int GET_NUM_MODELS_IN_POPULATION_SET(Hash popSetHash);
 ```
 
 ## Parameters
-* **p0**:
+* **popSetHash**:

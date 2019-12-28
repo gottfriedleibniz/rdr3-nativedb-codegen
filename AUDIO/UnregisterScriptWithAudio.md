@@ -8,3 +8,7 @@ ns: AUDIO
 void UNREGISTER_SCRIPT_WITH_AUDIO();
 ```
 
+```
+nullsub, doesn't do anything
+```
+

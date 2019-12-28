@@ -5,8 +5,8 @@ ns: QUEUE
 
 ```c
 // 0xD87DF294B049211D
-void _EVENT_QUEUE_POP(Any p0);
+void _EVENT_QUEUE_POP(Hash hash);
 ```
 
 ## Parameters
-* **p0**:
+* **hash**:

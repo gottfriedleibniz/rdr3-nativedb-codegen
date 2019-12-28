@@ -5,15 +5,15 @@ ns: PLAYER
 
 ```c
 // 0xDF8822C55EDDA65B 0xC552E06C
-void START_PLAYER_TELEPORT(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8);
+void START_PLAYER_TELEPORT(Player player, float x, float y, float z, float heading, BOOL p5, BOOL p6, BOOL p7, BOOL p8);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
+* **player**:
+* **x**:
+* **y**:
+* **z**:
+* **heading**:
 * **p5**:
 * **p6**:
 * **p7**:

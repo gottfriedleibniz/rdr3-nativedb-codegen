@@ -5,7 +5,7 @@ ns: MISSIONDATA
 
 ```c
 // 0x12F65317708749A5
-void MISSIONDATA_SET_RATING_SCORES(Any p0, Any p1, Any p2, Any p3);
+void MISSIONDATA_SET_RATING_SCORES(Any p0, int p1, int p2, int p3);
 ```
 
 ## Parameters

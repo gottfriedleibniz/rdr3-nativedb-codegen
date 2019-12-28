@@ -5,8 +5,8 @@ ns: MAP
 
 ```c
 // 0x6E6E64788C07D2E0 0xE7E1E32B
-void ALLOW_SONAR_BLIPS(BOOL p0);
+void ALLOW_SONAR_BLIPS(BOOL toggle);
 ```
 
 ## Parameters
-* **p0**:
+* **toggle**:

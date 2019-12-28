@@ -8,3 +8,7 @@ ns: MISC
 BOOL _IS_STADIA_VERSION();
 ```
 
+```
+Hardcoded to return false.
+```
+

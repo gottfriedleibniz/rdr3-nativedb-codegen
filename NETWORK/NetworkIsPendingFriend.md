@@ -8,5 +8,9 @@ ns: NETWORK
 Any NETWORK_IS_PENDING_FRIEND(Any p0);
 ```
 
+```
+Hardcoded to return zero/false.
+```
+
 ## Parameters
 * **p0**:

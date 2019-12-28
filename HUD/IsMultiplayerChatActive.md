@@ -8,3 +8,7 @@ ns: HUD
 BOOL _IS_MULTIPLAYER_CHAT_ACTIVE();
 ```
 
+```
+Hardcoded to return false.
+```
+

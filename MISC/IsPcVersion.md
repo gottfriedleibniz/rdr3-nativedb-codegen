@@ -8,3 +8,7 @@ ns: MISC
 BOOL IS_PC_VERSION();
 ```
 
+```
+Hardcoded to return true.
+```
+

@@ -5,10 +5,10 @@ ns: PLAYER
 
 ```c
 // 0x27F89FDC16688A7A 0xF3240B77
-BOOL IS_PLAYER_TARGETTING_ENTITY(Any p0, Any p1, Any p2);
+BOOL IS_PLAYER_TARGETTING_ENTITY(Player player, Entity entity, BOOL p2);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **player**:
+* **entity**:
 * **p2**:

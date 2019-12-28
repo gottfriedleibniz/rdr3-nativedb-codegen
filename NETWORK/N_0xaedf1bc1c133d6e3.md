@@ -8,3 +8,7 @@ ns: NETWORK
 Any _0xAEDF1BC1C133D6E3();
 ```
 
+```
+nullsub, doesn't do anything
+```
+

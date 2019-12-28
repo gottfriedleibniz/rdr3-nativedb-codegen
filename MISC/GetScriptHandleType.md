@@ -11,18 +11,18 @@ int _GET_SCRIPT_HANDLE_TYPE(ScrHandle handle);
 ```
 0 = invalid
 1 = CEntity
-2 = 0x2A72C62B
-3 = 0xE63A0D71
-4 = 0x9FDE1AC6
-5 = 0x6D766374
-6 = 0x27ACC35B
+2 = rage::volBase
+3 = rage::volSphere
+4 = rage::volBox
+5 = rage::volAggregate
+6 = rage::volCylinder
 7 = CScriptedCoverPoint
-8 = ptfxScriptInfo
+8 = rage::ptfxScriptInfo
 9 = CPed
 10 = CVehicle
 11 = CObject
 12 = CItemSet
-13 = 0x830B8272
+13 = CPersistentCharacter
 ```
 
 ## Parameters

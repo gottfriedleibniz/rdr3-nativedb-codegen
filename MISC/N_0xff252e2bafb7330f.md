@@ -8,5 +8,9 @@ ns: MISC
 void _0xFF252E2BAFB7330F(Any p0);
 ```
 
+```
+nullsub, doesn't do anything
+```
+
 ## Parameters
 * **p0**:

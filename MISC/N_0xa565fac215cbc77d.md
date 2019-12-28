@@ -8,3 +8,7 @@ ns: MISC
 void _0xA565FAC215CBC77D();
 ```
 
+```
+nullsub, doesn't do anything
+```
+
