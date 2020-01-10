@@ -8,3 +8,7 @@ ns: NETWORK
 char* NETWORK_GET_GAMERTAG_FROM_HANDLE();
 ```
 
+```
+Always returns a null string.
+```
+

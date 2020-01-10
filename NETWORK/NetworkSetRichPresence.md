@@ -5,7 +5,7 @@ ns: NETWORK
 
 ```c
 // 0x1DCCACDCFC569362 0x932A6CED
-void NETWORK_SET_RICH_PRESENCE(Any p0, Any p1, Any p2, Any p3);
+void NETWORK_SET_RICH_PRESENCE(int p0, Any* p1, int p2, int p3);
 ```
 
 ## Parameters

@@ -5,14 +5,14 @@ ns: NETWORK
 
 ```c
 // 0xEA23C49EAA83ACFB 0xF1F9D4B4
-void NETWORK_RESURRECT_LOCAL_PLAYER(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
+void NETWORK_RESURRECT_LOCAL_PLAYER(float x, float y, float z, float heading, int p4, BOOL p5, Any p6, BOOL p7);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **x**:
+* **y**:
+* **z**:
+* **heading**:
 * **p4**:
 * **p5**:
 * **p6**:

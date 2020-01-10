@@ -5,25 +5,25 @@ ns: PHYSICS
 
 ```c
 // 0xE832D760399EB220 0xA592EC74
-int ADD_ROPE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11, Any p12, Any p13, Any p14, Any p15, Any p16, Any p17);
+int ADD_ROPE(float x, float y, float z, float rotX, float rotY, float rotZ, float length, int ropeType, float maxLength, float minLength, BOOL p10, BOOL p11, BOOL p12, BOOL rigid, float p14, BOOL breakWhenShot, Any* unkPtr, BOOL p17);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
-* **p7**:
-* **p8**:
-* **p9**:
+* **x**:
+* **y**:
+* **z**:
+* **rotX**:
+* **rotY**:
+* **rotZ**:
+* **length**:
+* **ropeType**:
+* **maxLength**:
+* **minLength**:
 * **p10**:
 * **p11**:
 * **p12**:
-* **p13**:
+* **rigid**:
 * **p14**:
-* **p15**:
-* **p16**:
+* **breakWhenShot**:
+* **unkPtr**:
 * **p17**:

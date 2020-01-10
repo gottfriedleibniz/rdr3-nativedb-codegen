@@ -1,11 +1,11 @@
 ---
 ns: MISC
 ---
-## _GET_SCRIPT_HANDLE_TYPE
+## _GET_ITEM_TYPE
 
 ```c
 // 0xDC8D2FF478DF9553
-int _GET_SCRIPT_HANDLE_TYPE(ScrHandle handle);
+int _GET_ITEM_TYPE(ScrHandle handle);
 ```
 
 ```

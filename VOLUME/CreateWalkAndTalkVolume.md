@@ -1,11 +1,11 @@
 ---
 ns: VOLUME
 ---
-## _0xFD0E389CD44434B6
+## _CREATE_WALK_AND_TALK_VOLUME
 
 ```c
 // 0xFD0E389CD44434B6
-Any _0xFD0E389CD44434B6(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11, Any p12);
+int _CREATE_WALK_AND_TALK_VOLUME(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11, Any p12);
 ```
 
 ## Parameters

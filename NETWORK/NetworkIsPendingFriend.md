@@ -5,12 +5,12 @@ ns: NETWORK
 
 ```c
 // 0x0BE73DA6984A6E33 0x5C85FF81
-Any NETWORK_IS_PENDING_FRIEND(Any p0);
+BOOL NETWORK_IS_PENDING_FRIEND(Any* networkHandle);
 ```
 
 ```
-Hardcoded to return zero/false.
+Hardcoded to return false.
 ```
 
 ## Parameters
-* **p0**:
+* **networkHandle**:

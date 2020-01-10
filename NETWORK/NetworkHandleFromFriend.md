@@ -5,9 +5,9 @@ ns: NETWORK
 
 ```c
 // 0xD45CB817D7E177D2 0x3B0BB3A3
-void NETWORK_HANDLE_FROM_FRIEND(Any p0, Any p1);
+void NETWORK_HANDLE_FROM_FRIEND(int friendIndex, Any* netHandle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **friendIndex**:
+* **netHandle**:
