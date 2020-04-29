@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0x525421A507216084
-void _TASK_CUT_FREE_HOGTIED_TARGET_PED_2(Any p0, Any p1, Any p2);
+void _TASK_CUT_FREE_HOGTIED_TARGET_PED_2(Ped ped, Ped targetPed, float p2);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **targetPed**:
 * **p2**:

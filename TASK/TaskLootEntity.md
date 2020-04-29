@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0x48FAE038401A2888
-void TASK_LOOT_ENTITY(Any p0, Any p1);
+void TASK_LOOT_ENTITY(Ped ped, Entity entity);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **entity**:

@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0x6AFD8FE0D723328F
-void TASK_HOGTIEABLE(Any p0);
+void TASK_HOGTIEABLE(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0x17CA98707B15926A
-void TASK_DUMP_CARRIABLE_FROM_PARENT(Any p0, Any p1, Any p2);
+void TASK_DUMP_CARRIABLE_FROM_PARENT(Ped ped, Ped ped2, Entity entity);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **ped**:
+* **ped2**:
+* **entity**:

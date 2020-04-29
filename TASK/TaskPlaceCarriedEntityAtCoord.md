@@ -5,14 +5,14 @@ ns: TASK
 
 ```c
 // 0xC7F0B43DCDC57E3D
-void TASK_PLACE_CARRIED_ENTITY_AT_COORD(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6);
+void TASK_PLACE_CARRIED_ENTITY_AT_COORD(Ped ped, Entity entity, float x, float y, float z, float p5, int flags);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
-* **p4**:
+* **ped**:
+* **entity**:
+* **x**:
+* **y**:
+* **z**:
 * **p5**:
-* **p6**:
+* **flags**:

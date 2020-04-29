@@ -5,7 +5,7 @@ ns: TASK
 
 ```c
 // 0x648B75D44930D6BD
-Any _TASK_INTIMIDATED(Any p0, Any p1, Any p2, Any p3, Any p4);
+BOOL _TASK_INTIMIDATED(Any p0, Any p1, Any p2, Any p3, Any p4);
 ```
 
 ## Parameters

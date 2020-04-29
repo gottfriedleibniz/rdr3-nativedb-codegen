@@ -5,7 +5,7 @@ ns: TASK
 
 ```c
 // 0x482C99D0B38D1B0A
-Any TASK_MELEE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
+BOOL TASK_MELEE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
 ```
 
 ## Parameters

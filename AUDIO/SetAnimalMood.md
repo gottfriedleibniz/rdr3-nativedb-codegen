@@ -8,6 +8,10 @@ ns: AUDIO
 void SET_ANIMAL_MOOD(Ped animal, int mood);
 ```
 
+```
+Not implemented.
+```
+
 ## Parameters
 * **animal**:
 * **mood**:

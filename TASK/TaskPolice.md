@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0x87BE56724650408E
-Any TASK_POLICE(Any p0, Any p1);
+BOOL TASK_POLICE(Ped ped, BOOL p1);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:

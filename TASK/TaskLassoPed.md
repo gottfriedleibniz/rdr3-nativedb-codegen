@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0xC716EB2BD16370A3
-void TASK_LASSO_PED(Any p0, Any p1);
+void TASK_LASSO_PED(Ped ped, Ped targetPed);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **targetPed**:

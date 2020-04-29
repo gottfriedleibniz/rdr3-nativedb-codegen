@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0x502EC17B1BED4BFA
-void TASK_PICKUP_CARRIABLE_ENTITY(Any p0, Any p1);
+void TASK_PICKUP_CARRIABLE_ENTITY(Ped ped, Entity entity);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **entity**:

@@ -5,13 +5,13 @@ ns: TASK
 
 ```c
 // 0xCF1501CBC4059412
-void TASK_LOOT_NEAREST_ENTITY(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5);
+void TASK_LOOT_NEAREST_ENTITY(Ped ped, float x, float y, float z, int p4, float p5);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **ped**:
+* **x**:
+* **y**:
+* **z**:
 * **p4**:
 * **p5**:

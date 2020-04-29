@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0xBB28D1BC9EA8A6A5
-void TASK_BREAK_VEHICLE_DOOR_LOCK(Any p0, Any p1);
+void TASK_BREAK_VEHICLE_DOOR_LOCK(Ped ped, Vehicle vehicle);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **vehicle**:
