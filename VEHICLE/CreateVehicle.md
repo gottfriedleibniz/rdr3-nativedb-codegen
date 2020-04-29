@@ -5,7 +5,7 @@ ns: VEHICLE
 
 ```c
 // 0xAF35D0D2583051B0 0xDD75460A
-Vehicle CREATE_VEHICLE(Hash modelHash, float x, float y, float z, float heading, BOOL p5, BOOL p6, BOOL p7, BOOL p8);
+Vehicle CREATE_VEHICLE(Hash modelHash, float x, float y, float z, float heading, BOOL isNetwork, BOOL netMissionEntity, BOOL p7, BOOL p8);
 ```
 
 ## Parameters
@@ -14,7 +14,7 @@ Vehicle CREATE_VEHICLE(Hash modelHash, float x, float y, float z, float heading,
 * **y**:
 * **z**:
 * **heading**:
-* **p5**:
-* **p6**:
+* **isNetwork**:
+* **netMissionEntity**:
 * **p7**:
 * **p8**:

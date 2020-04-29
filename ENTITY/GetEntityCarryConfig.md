@@ -8,5 +8,9 @@ ns: ENTITY
 Hash _GET_ENTITY_CARRY_CONFIG(Entity entity);
 ```
 
+```
+Returns zero if the entity is not a carriable
+```
+
 ## Parameters
 * **entity**:

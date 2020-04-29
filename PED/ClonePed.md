@@ -5,11 +5,11 @@ ns: PED
 
 ```c
 // 0xEF29A16337FACADB 0x8C8A8D6E
-Ped CLONE_PED(Ped ped, float heading, BOOL isNetwork, BOOL thisScriptCheck);
+Ped CLONE_PED(Ped ped, float heading, BOOL isNetwork, BOOL netMissionEntity);
 ```
 
 ## Parameters
 * **ped**:
 * **heading**:
 * **isNetwork**:
-* **thisScriptCheck**:
+* **netMissionEntity**:
