@@ -5,7 +5,7 @@ ns: WEAPON
 
 ```c
 // 0x0D78E1097F89E637
-float _GET_WEAPON_CONDITION(Entity weaponEntityIndex);
+float _GET_WEAPON_CONDITION(Object weaponObject);
 ```
 
 ```
@@ -13,4 +13,4 @@ float _GET_WEAPON_CONDITION(Entity weaponEntityIndex);
 ```
 
 ## Parameters
-* **weaponEntityIndex**:
+* **weaponObject**:

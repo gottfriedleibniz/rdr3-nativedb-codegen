@@ -5,10 +5,10 @@ ns: WEAPON
 
 ```c
 // 0xA9EF4AD10BDDDB57
-void _SET_WEAPON_MUD_LEVEL(Entity weaponEntityIndex, float level, BOOL p2);
+void _SET_WEAPON_MUD_LEVEL(Object weaponObject, float level, BOOL p2);
 ```
 
 ## Parameters
-* **weaponEntityIndex**:
+* **weaponObject**:
 * **level**:
 * **p2**:

@@ -5,8 +5,8 @@ ns: WEAPON
 
 ```c
 // 0x810E8AE9AFEA7E54
-Any _GET_WEAPON_DIRT_LEVEL(Entity weaponEntityIndex);
+float _GET_WEAPON_DIRT_LEVEL(Object weaponObject);
 ```
 
 ## Parameters
-* **weaponEntityIndex**:
+* **weaponObject**:

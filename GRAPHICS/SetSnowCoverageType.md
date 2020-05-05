@@ -9,13 +9,7 @@ void _SET_SNOW_COVERAGE_TYPE(int type);
 ```
 
 ```
-enum class eSnowCoverageType
-{
-	Primary,
-	Secondary,
-	Xmas,
-	XmasSecondary // since b1232
-};
+https://alloc8or.re/rdr3/doc/enums/eSnowCoverageType.txt
 ```
 
 ## Parameters
