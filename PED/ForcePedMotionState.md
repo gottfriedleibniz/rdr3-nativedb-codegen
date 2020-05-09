@@ -9,27 +9,7 @@ BOOL FORCE_PED_MOTION_STATE(Ped ped, Hash motionStateHash, BOOL p2, int p3, BOOL
 ```
 
 ```
-Motion states:
-
-MotionState_ActionMode_Idle
-MotionState_ActionMode_Run
-MotionState_ActionMode_Walk
-MotionState_Aiming
-MotionState_Crouch_Idle
-MotionState_Crouch_Jog
-MotionState_Crouch_Run
-MotionState_Crouch_Walk
-MotionState_Diving_Idle
-MotionState_Idle
-MotionState_Jog
-MotionState_None
-MotionState_Run
-MotionState_RunStop
-MotionState_Sprint
-MotionState_SprintStop
-MotionState_Swimming_TreadWater
-MotionState_Walk
-MotionState_WalkStop
+motionStateHash: https://alloc8or.re/rdr3/doc/enums/eMotionState.txt
 ```
 
 ## Parameters
