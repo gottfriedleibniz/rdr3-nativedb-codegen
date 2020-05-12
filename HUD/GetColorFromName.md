@@ -8,6 +8,10 @@ ns: HUD
 void _GET_COLOR_FROM_NAME(Hash colorNameHash, int* red, int* green, int* blue, int* alpha);
 ```
 
+```
+colorNameHash: https://alloc8or.re/rdr3/doc/enums/eColor.txt
+```
+
 ## Parameters
 * **colorNameHash**:
 * **red**:
