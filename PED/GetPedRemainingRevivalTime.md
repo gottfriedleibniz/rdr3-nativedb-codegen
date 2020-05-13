@@ -1,11 +1,11 @@
 ---
 ns: PED
 ---
-## _GET_PED_DYING_STAGE
+## _GET_PED_REMAINING_REVIVAL_TIME
 
 ```c
 // 0xEBE89623EB861271
-float _GET_PED_DYING_STAGE(Ped ped, BOOL normalized);
+float _GET_PED_REMAINING_REVIVAL_TIME(Ped ped, BOOL normalized);
 ```
 
 ```
@@ -15,8 +15,6 @@ normalized / non normalized
 -1.0                        DEAD
 
 Returns some value from AI task 562 (unknown).
-
-GET_PED_RE*
 ```
 
 ## Parameters
