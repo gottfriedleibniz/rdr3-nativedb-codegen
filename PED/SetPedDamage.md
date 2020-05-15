@@ -1,11 +1,11 @@
 ---
 ns: PED
 ---
-## _SET_PED_CARCASS_QUALITY
+## _SET_PED_DAMAGE
 
 ```c
 // 0x7528720101A807A5
-void _SET_PED_CARCASS_QUALITY(Ped ped, int quality);
+void _SET_PED_DAMAGE(Ped ped, int quality);
 ```
 
 ## Parameters
