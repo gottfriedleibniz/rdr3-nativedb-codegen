@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_GET_MASH_MODE_PROGRESS"]
 ---
 ## _UIPROMPT_GET_MASH_MODE_PROGRESS
 

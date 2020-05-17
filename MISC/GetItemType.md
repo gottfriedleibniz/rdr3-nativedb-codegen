@@ -1,5 +1,6 @@
 ---
 ns: MISC
+aliases: ["_GET_SCRIPT_HANDLE_TYPE"]
 ---
 ## _GET_ITEM_TYPE
 

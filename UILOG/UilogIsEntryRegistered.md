@@ -1,5 +1,6 @@
 ---
 ns: UILOG
+aliases: ["_LOG_IS_ENTRY_REGISTERED"]
 ---
 ## _UILOG_IS_ENTRY_REGISTERED
 

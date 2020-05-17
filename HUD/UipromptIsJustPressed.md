@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_IS_JUST_PRESSED"]
 ---
 ## _UIPROMPT_IS_JUST_PRESSED
 

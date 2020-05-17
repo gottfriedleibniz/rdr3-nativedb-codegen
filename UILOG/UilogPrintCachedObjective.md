@@ -1,5 +1,6 @@
 ---
 ns: UILOG
+aliases: ["_LOG_PRINT_CACHED_OBJECTIVE"]
 ---
 ## _UILOG_PRINT_CACHED_OBJECTIVE
 

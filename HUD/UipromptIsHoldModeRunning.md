@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_IS_HOLD_MODE_RUNNING"]
 ---
 ## _UIPROMPT_IS_HOLD_MODE_RUNNING
 

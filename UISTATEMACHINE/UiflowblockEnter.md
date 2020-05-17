@@ -1,5 +1,6 @@
 ---
 ns: UISTATEMACHINE
+aliases: ["_ENTER_FLOW_BLOCK"]
 ---
 ## _UIFLOWBLOCK_ENTER
 

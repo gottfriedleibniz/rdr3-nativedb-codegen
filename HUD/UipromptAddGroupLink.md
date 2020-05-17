@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_ADD_GROUP_LINK"]
 ---
 ## _UIPROMPT_ADD_GROUP_LINK
 

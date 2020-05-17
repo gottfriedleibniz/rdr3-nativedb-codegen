@@ -1,5 +1,6 @@
 ---
 ns: UILOG
+aliases: ["_LOG_POST_NOTIFICATION"]
 ---
 ## _UILOG_POST_NOTIFICATION
 

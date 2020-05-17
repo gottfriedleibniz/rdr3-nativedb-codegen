@@ -1,5 +1,6 @@
 ---
 ns: UILOG
+aliases: ["_LOG_SET_CACHED_OBJECTIVE"]
 ---
 ## _UILOG_SET_CACHED_OBJECTIVE
 

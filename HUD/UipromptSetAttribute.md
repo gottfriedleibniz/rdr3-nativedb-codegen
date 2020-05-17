@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_SET_ATTRIBUTE"]
 ---
 ## _UIPROMPT_SET_ATTRIBUTE
 

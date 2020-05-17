@@ -1,5 +1,6 @@
 ---
 ns: UILOG
+aliases: ["_LOG_ADD_OR_UPDATE_OBJECTIVE"]
 ---
 ## _UILOG_ADD_OR_UPDATE_OBJECTIVE
 

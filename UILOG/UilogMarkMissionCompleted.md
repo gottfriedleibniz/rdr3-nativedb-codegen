@@ -1,5 +1,6 @@
 ---
 ns: UILOG
+aliases: ["_LOG_MARK_MISSION_COMPLETED"]
 ---
 ## _UILOG_MARK_MISSION_COMPLETED
 

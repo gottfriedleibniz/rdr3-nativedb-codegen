@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_IS_ENABLED"]
 ---
 ## _UIPROMPT_IS_ENABLED
 

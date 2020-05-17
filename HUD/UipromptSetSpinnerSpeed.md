@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_SET_SPINNER_SPEED"]
 ---
 ## _UIPROMPT_SET_SPINNER_SPEED
 

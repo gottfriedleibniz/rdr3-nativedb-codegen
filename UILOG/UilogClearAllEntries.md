@@ -1,5 +1,6 @@
 ---
 ns: UILOG
+aliases: ["_LOG_CLEAR_ALL_ENTRIES"]
 ---
 ## _UILOG_CLEAR_ALL_ENTRIES
 

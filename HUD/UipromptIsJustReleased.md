@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_IS_JUST_RELEASED"]
 ---
 ## _UIPROMPT_IS_JUST_RELEASED
 

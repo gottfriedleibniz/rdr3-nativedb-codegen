@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_HAS_HOLD_AUTO_FILL_MODE"]
 ---
 ## _UIPROMPT_HAS_HOLD_AUTO_FILL_MODE
 

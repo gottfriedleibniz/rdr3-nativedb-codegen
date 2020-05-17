@@ -1,5 +1,6 @@
 ---
 ns: UISTATEMACHINE
+aliases: ["_RELEASE_FLOW_BLOCK"]
 ---
 ## _UIFLOWBLOCK_RELEASE
 

@@ -1,5 +1,6 @@
 ---
 ns: UILOG
+aliases: ["_LOG_SET_ENTRY_PINNED"]
 ---
 ## _UILOG_SET_ENTRY_PINNED
 

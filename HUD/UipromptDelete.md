@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_DELETE"]
 ---
 ## _UIPROMPT_DELETE
 

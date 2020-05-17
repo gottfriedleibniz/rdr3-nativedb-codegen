@@ -1,5 +1,6 @@
 ---
 ns: UILOG
+aliases: ["_LOG_SET_TOTAL_TAKE_SUMMARY"]
 ---
 ## _UILOG_SET_TOTAL_TAKE_SUMMARY
 

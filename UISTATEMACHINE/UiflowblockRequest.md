@@ -1,5 +1,6 @@
 ---
 ns: UISTATEMACHINE
+aliases: ["_REQUEST_FLOW_BLOCK"]
 ---
 ## _UIFLOWBLOCK_REQUEST
 

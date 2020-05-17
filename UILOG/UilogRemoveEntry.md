@@ -1,5 +1,6 @@
 ---
 ns: UILOG
+aliases: ["_LOG_REMOVE_ENTRY"]
 ---
 ## _UILOG_REMOVE_ENTRY
 

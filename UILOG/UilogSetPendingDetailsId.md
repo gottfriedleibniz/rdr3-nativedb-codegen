@@ -1,5 +1,6 @@
 ---
 ns: UILOG
+aliases: ["_LOG_SET_PENDING_DETAILS_ID"]
 ---
 ## _UILOG_SET_PENDING_DETAILS_ID
 

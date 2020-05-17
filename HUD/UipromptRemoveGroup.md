@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_REMOVE_GROUP"]
 ---
 ## _UIPROMPT_REMOVE_GROUP
 

@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_SET_BEAT_MODE_GRAYED_OUT"]
 ---
 ## _UIPROMPT_SET_BEAT_MODE_GRAYED_OUT
 

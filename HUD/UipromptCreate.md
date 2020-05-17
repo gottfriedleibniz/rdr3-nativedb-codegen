@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_CREATE"]
 ---
 ## _UIPROMPT_CREATE
 

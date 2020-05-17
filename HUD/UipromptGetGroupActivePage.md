@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_GET_GROUP_ACTIVE_PAGE"]
 ---
 ## _UIPROMPT_GET_GROUP_ACTIVE_PAGE
 

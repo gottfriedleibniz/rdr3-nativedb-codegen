@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_SET_TEXT"]
 ---
 ## _UIPROMPT_SET_TEXT
 

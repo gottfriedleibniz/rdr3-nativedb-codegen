@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_RESTART_MODES"]
 ---
 ## _UIPROMPT_RESTART_MODES
 

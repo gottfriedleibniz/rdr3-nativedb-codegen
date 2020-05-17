@@ -1,5 +1,6 @@
 ---
 ns: UISTATEMACHINE
+aliases: ["_IS_FLOW_BLOCK_LOADED"]
 ---
 ## _UIFLOWBLOCK_IS_LOADED
 

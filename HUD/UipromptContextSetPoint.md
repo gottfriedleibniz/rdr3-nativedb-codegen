@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_SET_POSITION"]
 ---
 ## _UIPROMPT_CONTEXT_SET_POINT
 

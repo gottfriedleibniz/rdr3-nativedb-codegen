@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_HAS_MASH_MODE_FAILED"]
 ---
 ## _UIPROMPT_HAS_MASH_MODE_FAILED
 

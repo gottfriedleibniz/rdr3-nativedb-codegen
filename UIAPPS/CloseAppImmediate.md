@@ -1,5 +1,6 @@
 ---
 ns: UIAPPS
+aliases: ["_CLOSE_APP"]
 ---
 ## _CLOSE_APP_IMMEDIATE
 

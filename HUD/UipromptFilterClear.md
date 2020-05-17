@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_FILTER_CLEAR"]
 ---
 ## _UIPROMPT_FILTER_CLEAR
 

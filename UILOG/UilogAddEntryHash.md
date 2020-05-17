@@ -1,5 +1,6 @@
 ---
 ns: UILOG
+aliases: ["_LOG_ADD_ENTRY_HASH"]
 ---
 ## _UILOG_ADD_ENTRY_HASH
 

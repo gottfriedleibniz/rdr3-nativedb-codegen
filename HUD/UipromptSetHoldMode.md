@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_SET_HOLD_MODE"]
 ---
 ## _UIPROMPT_SET_HOLD_MODE
 

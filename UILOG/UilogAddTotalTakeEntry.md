@@ -1,5 +1,6 @@
 ---
 ns: UILOG
+aliases: ["_LOG_ADD_TOTAL_TAKE_ENTRY"]
 ---
 ## _UILOG_ADD_TOTAL_TAKE_ENTRY
 

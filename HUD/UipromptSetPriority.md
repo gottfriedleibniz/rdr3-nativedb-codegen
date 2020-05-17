@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_SET_PRIORITY"]
 ---
 ## _UIPROMPT_SET_PRIORITY
 

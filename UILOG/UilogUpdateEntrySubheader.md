@@ -1,5 +1,6 @@
 ---
 ns: UILOG
+aliases: ["_LOG_UPDATE_ENTRY_SUBHEADER"]
 ---
 ## _UILOG_UPDATE_ENTRY_SUBHEADER
 

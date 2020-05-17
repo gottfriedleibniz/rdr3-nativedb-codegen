@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_SET_TARGET_MODE_TARGET"]
 ---
 ## _UIPROMPT_SET_TARGET_MODE_TARGET
 

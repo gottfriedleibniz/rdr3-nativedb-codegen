@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_SET_CONTROL_ACTION"]
 ---
 ## _UIPROMPT_SET_CONTROL_ACTION
 

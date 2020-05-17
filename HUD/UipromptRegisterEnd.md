@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["_PROMPT_REGISTER_END"]
 ---
 ## _UIPROMPT_REGISTER_END
 

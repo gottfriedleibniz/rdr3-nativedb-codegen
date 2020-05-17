@@ -1,5 +1,6 @@
 ---
 ns: VEHICLE
+aliases: ["_CREATE_VEHICLE_2"]
 ---
 ## _CREATE_DRAFT_VEHICLE
 
