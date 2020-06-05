@@ -5,8 +5,12 @@ ns: WEAPON
 
 ```c
 // 0x705BE297EEBDB95D
-Any _0x705BE297EEBDB95D(Any p0);
+BOOL _0x705BE297EEBDB95D(Hash weaponHash);
+```
+
+```
+Returns true when the weapon passed needs ammo to shot/is reloadable?
 ```
 
 ## Parameters
-* **p0**:
+* **weaponHash**:

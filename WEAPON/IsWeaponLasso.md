@@ -1,0 +1,12 @@
+---
+ns: WEAPON
+---
+## _IS_WEAPON_LASSO
+
+```c
+// 0x6E4E1A82081EABED
+BOOL _IS_WEAPON_LASSO(Hash weaponHash);
+```
+
+## Parameters
+* **weaponHash**:

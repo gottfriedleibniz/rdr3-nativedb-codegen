@@ -1,0 +1,14 @@
+---
+ns: CAM
+---
+## _DISABLE_FIRST_PERSON_CAM_THIS_FRAME_2
+
+```c
+// 0x05AB44D906738426
+void _DISABLE_FIRST_PERSON_CAM_THIS_FRAME_2();
+```
+
+```
+Does the same as 0x9C473089A934C930
+```
+
