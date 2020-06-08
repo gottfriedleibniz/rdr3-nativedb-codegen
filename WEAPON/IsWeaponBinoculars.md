@@ -1,5 +1,6 @@
 ---
 ns: WEAPON
+aliases: ["0xC853230E76A152DF"]
 ---
 ## _IS_WEAPON_BINOCULARS
 

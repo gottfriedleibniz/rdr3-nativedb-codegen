@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x772A1969F649E902"]
 ---
 ## _IS_THIS_MODEL_A_HORSE
 

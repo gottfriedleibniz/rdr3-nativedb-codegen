@@ -1,5 +1,6 @@
 ---
 ns: WEAPON
+aliases: ["0x1F7977C9101F807F"]
 ---
 ## _IS_AMMO_VALID
 

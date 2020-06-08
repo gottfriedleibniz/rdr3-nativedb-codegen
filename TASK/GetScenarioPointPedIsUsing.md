@@ -1,5 +1,6 @@
 ---
 ns: TASK
+aliases: ["0xDF7993356F52359A"]
 ---
 ## _GET_SCENARIO_POINT_PED_IS_USING
 

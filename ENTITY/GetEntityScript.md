@@ -1,5 +1,6 @@
 ---
 ns: ENTITY
+aliases: ["0x2A08A32B6D49906F"]
 ---
 ## _GET_ENTITY_SCRIPT
 

@@ -1,5 +1,6 @@
 ---
 ns: WEAPON
+aliases: ["0xDDC64F5E31EEDAB6"]
 ---
 ## _IS_WEAPON_PISTOL
 

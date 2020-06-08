@@ -1,5 +1,6 @@
 ---
 ns: WEAPON
+aliases: ["0x79407D33328286C6"]
 ---
 ## _IS_WEAPON_LANTERN
 

@@ -1,5 +1,6 @@
 ---
 ns: WEAPON
+aliases: ["0xC212F1D05A8232BB"]
 ---
 ## _IS_WEAPON_REVOLVER
 

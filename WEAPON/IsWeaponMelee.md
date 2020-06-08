@@ -1,5 +1,6 @@
 ---
 ns: WEAPON
+aliases: ["0x959383DCD42040DA"]
 ---
 ## _IS_WEAPON_MELEE
 

@@ -1,5 +1,6 @@
 ---
 ns: STREAMING
+aliases: ["0x9427C94D2E4094A4"]
 ---
 ## _HAS_SCENARIO_TYPE_LOADED
 

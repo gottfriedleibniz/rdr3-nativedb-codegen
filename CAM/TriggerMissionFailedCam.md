@@ -1,5 +1,6 @@
 ---
 ns: CAM
+aliases: ["0x9A92C06ACBAF9731"]
 ---
 ## _TRIGGER_MISSION_FAILED_CAM
 

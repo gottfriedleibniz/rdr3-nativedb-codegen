@@ -1,5 +1,6 @@
 ---
 ns: WEAPON
+aliases: ["0x6AD66548840472E5"]
 ---
 ## _IS_WEAPON_SNIPER
 

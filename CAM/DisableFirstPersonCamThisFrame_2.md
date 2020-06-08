@@ -1,5 +1,6 @@
 ---
 ns: CAM
+aliases: ["0x05AB44D906738426"]
 ---
 ## _DISABLE_FIRST_PERSON_CAM_THIS_FRAME_2
 

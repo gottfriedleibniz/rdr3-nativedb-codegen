@@ -1,5 +1,6 @@
 ---
 ns: TASK
+aliases: ["0x2056AB38DF06825C"]
 ---
 ## _SET_SCENARIO_POINT_COORDS
 

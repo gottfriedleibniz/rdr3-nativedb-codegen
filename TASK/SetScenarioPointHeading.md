@@ -1,5 +1,6 @@
 ---
 ns: TASK
+aliases: ["0xD3A0DA8F91612C6E"]
 ---
 ## _SET_SCENARIO_POINT_HEADING
 

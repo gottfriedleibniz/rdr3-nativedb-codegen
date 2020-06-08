@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x90403E8107B60E81"]
 ---
 ## _GET_NUM_COMPONENTS_IN_PED
 

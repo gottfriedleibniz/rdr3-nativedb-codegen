@@ -1,5 +1,6 @@
 ---
 ns: STREAMING
+aliases: ["0x19A6BE7D9C6884D3"]
 ---
 ## _REQUEST_SCENARIO_TYPE
 

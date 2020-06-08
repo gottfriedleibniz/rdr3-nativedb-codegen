@@ -1,5 +1,6 @@
 ---
 ns: WEAPON
+aliases: ["0x6E4E1A82081EABED"]
 ---
 ## _IS_WEAPON_LASSO
 

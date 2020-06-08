@@ -1,5 +1,6 @@
 ---
 ns: WEAPON
+aliases: ["0xDDB2578E95EF7138"]
 ---
 ## _IS_WEAPON_REPEATER
 

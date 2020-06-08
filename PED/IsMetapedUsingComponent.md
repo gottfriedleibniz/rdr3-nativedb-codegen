@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0xFB4891BD7578CDC1"]
 ---
 ## _IS_METAPED_USING_COMPONENT
 

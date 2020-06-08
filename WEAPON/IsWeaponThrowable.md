@@ -1,5 +1,6 @@
 ---
 ns: WEAPON
+aliases: ["0x30E7C16B12DA8211"]
 ---
 ## _IS_WEAPON_THROWABLE
 

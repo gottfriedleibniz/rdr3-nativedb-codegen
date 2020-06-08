@@ -1,5 +1,6 @@
 ---
 ns: TASK
+aliases: ["0x345EC3B7EBDE1CB5"]
 ---
 ## _GET_SCENARIO_POINT_CLOSE_TO_COORDS
 

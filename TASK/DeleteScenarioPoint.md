@@ -1,5 +1,6 @@
 ---
 ns: TASK
+aliases: ["0x81948DFE4F5A0283"]
 ---
 ## _DELETE_SCENARIO_POINT
 
