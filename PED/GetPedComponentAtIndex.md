@@ -6,7 +6,7 @@ aliases: ["0x77BA37622E22023B"]
 
 ```c
 // 0x77BA37622E22023B
-Hash _GET_PED_COMPONENT_AT_INDEX(Ped ped, int index, BOOL p2, Any* argStruct, Any* argStruct);
+Hash _GET_PED_COMPONENT_AT_INDEX(Ped ped, int index, BOOL p2, Any* argStruct, Any* argStruct2);
 ```
 
 ## Parameters
@@ -14,4 +14,4 @@ Hash _GET_PED_COMPONENT_AT_INDEX(Ped ped, int index, BOOL p2, Any* argStruct, An
 * **index**:
 * **p2**:
 * **argStruct**:
-* **argStruct**:
+* **argStruct2**:
