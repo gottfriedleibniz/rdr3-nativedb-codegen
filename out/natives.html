@@ -956,6 +956,18 @@ pre {
 <li id="li_DATAFILE"><a href="#_n_DATAFILE">DATAFILE</a>
 <ul>
 
+<li id="li_DATAARRAY_GET_BOOL"><a href="#_0xAB1231D2DE52F2D3">DATAARRAY_GET_BOOL</a></li>
+
+<li id="li_DATAARRAY_GET_DICT"><a href="#_0xA010655985853485">DATAARRAY_GET_DICT</a></li>
+
+<li id="li_DATAARRAY_GET_INT"><a href="#_0x96DEA500B6EBBE53">DATAARRAY_GET_INT</a></li>
+
+<li id="li_DATAARRAY_GET_STRING"><a href="#_0xB6790A8FF80F889F">DATAARRAY_GET_STRING</a></li>
+
+<li id="li_DATAARRAY_GET_TYPE"><a href="#_0x151DAFE6B3B9888F">DATAARRAY_GET_TYPE</a></li>
+
+<li id="li_DATAARRAY_GET_VECTOR"><a href="#_0x850DA2750DA14E9A">DATAARRAY_GET_VECTOR</a></li>
+
 <li id="li_DATAFILE_CREATE"><a href="#_0x56B7291FB953DD51">DATAFILE_CREATE</a></li>
 
 <li id="li_DATAFILE_DELETE"><a href="#_0x9FB90EEDEA9F2D5C">DATAFILE_DELETE</a></li>
@@ -972,21 +984,9 @@ pre {
 
 <li id="li_DATAFILE_WATCH_REQUEST_ID"><a href="#_0xA5834834CA8FD7FC">DATAFILE_WATCH_REQUEST_ID</a></li>
 
-<li id="li__ARRAY_VALUE_GET_BOOLEAN"><a href="#_0xAB1231D2DE52F2D3">_ARRAY_VALUE_GET_BOOLEAN</a></li>
-
 <li id="li__ARRAY_VALUE_GET_FLOAT"><a href="#_0xA9D003CF419CB81E">_ARRAY_VALUE_GET_FLOAT</a></li>
 
-<li id="li__ARRAY_VALUE_GET_INTEGER"><a href="#_0x96DEA500B6EBBE53">_ARRAY_VALUE_GET_INTEGER</a></li>
-
-<li id="li__ARRAY_VALUE_GET_OBJECT"><a href="#_0xA010655985853485">_ARRAY_VALUE_GET_OBJECT</a></li>
-
 <li id="li__ARRAY_VALUE_GET_SIZE"><a href="#_0x6A885BF69239E539">_ARRAY_VALUE_GET_SIZE</a></li>
-
-<li id="li__ARRAY_VALUE_GET_STRING"><a href="#_0xB6790A8FF80F889F">_ARRAY_VALUE_GET_STRING</a></li>
-
-<li id="li__ARRAY_VALUE_GET_TYPE"><a href="#_0x151DAFE6B3B9888F">_ARRAY_VALUE_GET_TYPE</a></li>
-
-<li id="li__ARRAY_VALUE_GET_VECTOR3"><a href="#_0x850DA2750DA14E9A">_ARRAY_VALUE_GET_VECTOR3</a></li>
 
 <li id="li__DATAFILE_GET_BOOL"><a href="#_0x0D9138F3F8261DF7">_DATAFILE_GET_BOOL</a></li>
 
@@ -2428,6 +2428,12 @@ pre {
 <li id="li_REMOVE_POP_MULTIPLIER_AREA"><a href="#_0x88CB484364EFB37A">REMOVE_POP_MULTIPLIER_AREA</a></li>
 
 <li id="li_RESET_DISPATCH_IDEAL_SPAWN_DISTANCE"><a href="#_0xC7817264BC4B6377">RESET_DISPATCH_IDEAL_SPAWN_DISTANCE</a></li>
+
+<li id="li_SCRIPT_RACE_GET_PLAYER_SPLIT_TIME"><a href="#_0x769E848C66E3C2BB">SCRIPT_RACE_GET_PLAYER_SPLIT_TIME</a></li>
+
+<li id="li_SCRIPT_RACE_INIT"><a href="#_0x8AE059F47158417E">SCRIPT_RACE_INIT</a></li>
+
+<li id="li_SCRIPT_RACE_SHUTDOWN"><a href="#_0x334CE0DA4FAF330C">SCRIPT_RACE_SHUTDOWN</a></li>
 
 <li id="li_SET_BIT"><a href="#_0xF73FBE4845C43B5B">SET_BIT</a></li>
 
@@ -5579,6 +5585,8 @@ pre {
 <li id="li_SET_DISABLE_VEHICLE_PETROL_TANK_DAMAGE"><a href="#_0x5795FBE7A2001C14">SET_DISABLE_VEHICLE_PETROL_TANK_DAMAGE</a></li>
 
 <li id="li_SET_DISABLE_VEHICLE_PETROL_TANK_FIRES"><a href="#_0xB70986AB19B04AFF">SET_DISABLE_VEHICLE_PETROL_TANK_FIRES</a></li>
+
+<li id="li_SET_ENABLE_VEHICLE_SLIPSTREAMING"><a href="#_0x73F1E4F6DF26FE30">SET_ENABLE_VEHICLE_SLIPSTREAMING</a></li>
 
 <li id="li_SET_FORCE_HD_VEHICLE"><a href="#_0x373CB1283308BD7B">SET_FORCE_HD_VEHICLE</a></li>
 
@@ -11221,6 +11229,42 @@ Any <span class="hljs-number">0xF47E33F8D2523825</span>(Any p0, Any p1);</code><
 <h1>DATAFILE</h1>
 </main>
 
+<section class="native" id="_0xAB1231D2DE52F2D3" data-native="DATAARRAY_GET_BOOL" data-ns="DATAFILE">
+<h2>DATAARRAY_GET_BOOL</h2> <a href="#_0xAB1231D2DE52F2D3">#</a>
+<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0xAB1231D2DE52F2D3 0xA2E5F921</span>
+<span class="hljs-comment">// DataarrayGetBool</span>
+<span class="hljs-function">BOOL <span class="hljs-title">DATAARRAY_GET_BOOL</span><span class="hljs-params">(Any* arrayData, <span class="hljs-keyword">int</span> arrayIndex)</span></span>;</code></pre></figure></div><p class="old"><strong>Old name:</strong> _ARRAY_VALUE_GET_BOOLEAN</p>
+</section>
+<section class="native" id="_0xA010655985853485" data-native="DATAARRAY_GET_DICT" data-ns="DATAFILE">
+<h2>DATAARRAY_GET_DICT</h2> <a href="#_0xA010655985853485">#</a>
+<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0xA010655985853485 0xECE81278</span>
+<span class="hljs-comment">// DataarrayGetDict</span>
+<span class="hljs-function">Any* <span class="hljs-title">DATAARRAY_GET_DICT</span><span class="hljs-params">(Any* arrayData, <span class="hljs-keyword">int</span> arrayIndex)</span></span>;</code></pre></figure></div><p class="old"><strong>Old name:</strong> _ARRAY_VALUE_GET_OBJECT</p>
+</section>
+<section class="native" id="_0x96DEA500B6EBBE53" data-native="DATAARRAY_GET_INT" data-ns="DATAFILE">
+<h2>DATAARRAY_GET_INT</h2> <a href="#_0x96DEA500B6EBBE53">#</a>
+<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x96DEA500B6EBBE53 0xBB120CFC</span>
+<span class="hljs-comment">// DataarrayGetInt</span>
+<span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">DATAARRAY_GET_INT</span><span class="hljs-params">(Any* arrayData, <span class="hljs-keyword">int</span> arrayIndex)</span></span>;</code></pre></figure></div><p class="old"><strong>Old name:</strong> _ARRAY_VALUE_GET_INTEGER</p>
+</section>
+<section class="native" id="_0xB6790A8FF80F889F" data-native="DATAARRAY_GET_STRING" data-ns="DATAFILE">
+<h2>DATAARRAY_GET_STRING</h2> <a href="#_0xB6790A8FF80F889F">#</a>
+<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0xB6790A8FF80F889F 0x93F985A6</span>
+<span class="hljs-comment">// DataarrayGetString</span>
+<span class="hljs-function"><span class="hljs-keyword">char</span>* <span class="hljs-title">DATAARRAY_GET_STRING</span><span class="hljs-params">(Any* arrayData, <span class="hljs-keyword">int</span> arrayIndex)</span></span>;</code></pre></figure></div><p class="old"><strong>Old name:</strong> _ARRAY_VALUE_GET_STRING</p>
+</section>
+<section class="native" id="_0x151DAFE6B3B9888F" data-native="DATAARRAY_GET_TYPE" data-ns="DATAFILE">
+<h2>DATAARRAY_GET_TYPE</h2> <a href="#_0x151DAFE6B3B9888F">#</a>
+<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x151DAFE6B3B9888F 0xFA2402C8</span>
+<span class="hljs-comment">// DataarrayGetType</span>
+<span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">DATAARRAY_GET_TYPE</span><span class="hljs-params">(Any* arrayData, <span class="hljs-keyword">int</span> arrayIndex)</span></span>;</code></pre></figure></div><p class="old"><strong>Old name:</strong> _ARRAY_VALUE_GET_TYPE</p>
+</section>
+<section class="native" id="_0x850DA2750DA14E9A" data-native="DATAARRAY_GET_VECTOR" data-ns="DATAFILE">
+<h2>DATAARRAY_GET_VECTOR</h2> <a href="#_0x850DA2750DA14E9A">#</a>
+<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x850DA2750DA14E9A 0x80E3DA55</span>
+<span class="hljs-comment">// DataarrayGetVector</span>
+<span class="hljs-function">Vector3 <span class="hljs-title">DATAARRAY_GET_VECTOR</span><span class="hljs-params">(Any* arrayData, <span class="hljs-keyword">int</span> arrayIndex)</span></span>;</code></pre></figure></div><p class="old"><strong>Old name:</strong> _ARRAY_VALUE_GET_VECTOR3</p>
+</section>
 <section class="native" id="_0x56B7291FB953DD51" data-native="DATAFILE_CREATE" data-ns="DATAFILE">
 <h2>DATAFILE_CREATE</h2> <a href="#_0x56B7291FB953DD51">#</a>
 <div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x56B7291FB953DD51 0x95F8A221</span>
@@ -11261,46 +11305,16 @@ Any <span class="hljs-number">0xF47E33F8D2523825</span>(Any p0, Any p1);</code><
 <div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0xA5834834CA8FD7FC 0x621388FF</span>
 <span class="hljs-comment">// DatafileWatchRequestId</span>
 <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">DATAFILE_WATCH_REQUEST_ID</span><span class="hljs-params">(<span class="hljs-keyword">int</span> id)</span></span>;</code></pre></figure></div></section>
-<section class="native" id="_0xAB1231D2DE52F2D3" data-native="_ARRAY_VALUE_GET_BOOLEAN" data-ns="DATAFILE">
-<h2>_ARRAY_VALUE_GET_BOOLEAN</h2> <a href="#_0xAB1231D2DE52F2D3">#</a>
-<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0xAB1231D2DE52F2D3 0xA2E5F921</span>
-<span class="hljs-comment">// ArrayValueGetBoolean</span>
-BOOL _ARRAY_VALUE_GET_BOOLEAN(Any* arrayData, <span class="hljs-keyword">int</span> arrayIndex);</code></pre></figure></div></section>
 <section class="native" id="_0xA9D003CF419CB81E" data-native="_ARRAY_VALUE_GET_FLOAT" data-ns="DATAFILE">
 <h2>_ARRAY_VALUE_GET_FLOAT</h2> <a href="#_0xA9D003CF419CB81E">#</a>
 <div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0xA9D003CF419CB81E 0x08AD2CC2</span>
 <span class="hljs-comment">// ArrayValueGetFloat</span>
 <span class="hljs-keyword">float</span> _ARRAY_VALUE_GET_FLOAT(Any* arrayData, <span class="hljs-keyword">int</span> arrayIndex);</code></pre></figure></div></section>
-<section class="native" id="_0x96DEA500B6EBBE53" data-native="_ARRAY_VALUE_GET_INTEGER" data-ns="DATAFILE">
-<h2>_ARRAY_VALUE_GET_INTEGER</h2> <a href="#_0x96DEA500B6EBBE53">#</a>
-<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x96DEA500B6EBBE53 0xBB120CFC</span>
-<span class="hljs-comment">// ArrayValueGetInteger</span>
-<span class="hljs-keyword">int</span> _ARRAY_VALUE_GET_INTEGER(Any* arrayData, <span class="hljs-keyword">int</span> arrayIndex);</code></pre></figure></div></section>
-<section class="native" id="_0xA010655985853485" data-native="_ARRAY_VALUE_GET_OBJECT" data-ns="DATAFILE">
-<h2>_ARRAY_VALUE_GET_OBJECT</h2> <a href="#_0xA010655985853485">#</a>
-<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0xA010655985853485 0xECE81278</span>
-<span class="hljs-comment">// ArrayValueGetObject</span>
-Any* _ARRAY_VALUE_GET_OBJECT(Any* arrayData, <span class="hljs-keyword">int</span> arrayIndex);</code></pre></figure></div></section>
 <section class="native" id="_0x6A885BF69239E539" data-native="_ARRAY_VALUE_GET_SIZE" data-ns="DATAFILE">
 <h2>_ARRAY_VALUE_GET_SIZE</h2> <a href="#_0x6A885BF69239E539">#</a>
 <div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x6A885BF69239E539 0xA8A21766</span>
 <span class="hljs-comment">// ArrayValueGetSize</span>
 <span class="hljs-keyword">int</span> _ARRAY_VALUE_GET_SIZE(Any* arrayData);</code></pre></figure></div></section>
-<section class="native" id="_0xB6790A8FF80F889F" data-native="_ARRAY_VALUE_GET_STRING" data-ns="DATAFILE">
-<h2>_ARRAY_VALUE_GET_STRING</h2> <a href="#_0xB6790A8FF80F889F">#</a>
-<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0xB6790A8FF80F889F 0x93F985A6</span>
-<span class="hljs-comment">// ArrayValueGetString</span>
-<span class="hljs-keyword">char</span>* _ARRAY_VALUE_GET_STRING(Any* arrayData, <span class="hljs-keyword">int</span> arrayIndex);</code></pre></figure></div></section>
-<section class="native" id="_0x151DAFE6B3B9888F" data-native="_ARRAY_VALUE_GET_TYPE" data-ns="DATAFILE">
-<h2>_ARRAY_VALUE_GET_TYPE</h2> <a href="#_0x151DAFE6B3B9888F">#</a>
-<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x151DAFE6B3B9888F 0xFA2402C8</span>
-<span class="hljs-comment">// ArrayValueGetType</span>
-<span class="hljs-keyword">int</span> _ARRAY_VALUE_GET_TYPE(Any* arrayData, <span class="hljs-keyword">int</span> arrayIndex);</code></pre></figure></div></section>
-<section class="native" id="_0x850DA2750DA14E9A" data-native="_ARRAY_VALUE_GET_VECTOR3" data-ns="DATAFILE">
-<h2>_ARRAY_VALUE_GET_VECTOR3</h2> <a href="#_0x850DA2750DA14E9A">#</a>
-<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x850DA2750DA14E9A 0x80E3DA55</span>
-<span class="hljs-comment">// ArrayValueGetVector3</span>
-Vector3 _ARRAY_VALUE_GET_VECTOR3(Any* arrayData, <span class="hljs-keyword">int</span> arrayIndex);</code></pre></figure></div></section>
 <section class="native" id="_0x0D9138F3F8261DF7" data-native="_DATAFILE_GET_BOOL" data-ns="DATAFILE">
 <h2>_DATAFILE_GET_BOOL</h2> <a href="#_0x0D9138F3F8261DF7">#</a>
 <div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x0D9138F3F8261DF7 </span>
@@ -18825,6 +18839,21 @@ Any <span class="hljs-number">0xEC819D612038EF4B</span>(Any p0, Any p1, Any p2, 
 <div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0xC7817264BC4B6377 0xDA65ECAA</span>
 <span class="hljs-comment">// ResetDispatchIdealSpawnDistance</span>
 <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">RESET_DISPATCH_IDEAL_SPAWN_DISTANCE</span><span class="hljs-params">()</span></span>;</code></pre></figure></div></section>
+<section class="native" id="_0x769E848C66E3C2BB" data-native="SCRIPT_RACE_GET_PLAYER_SPLIT_TIME" data-ns="MISC">
+<h2>SCRIPT_RACE_GET_PLAYER_SPLIT_TIME</h2> <a href="#_0x769E848C66E3C2BB">#</a>
+<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x769E848C66E3C2BB 0x07FF553F</span>
+<span class="hljs-comment">// ScriptRaceGetPlayerSplitTime</span>
+<span class="hljs-function">BOOL <span class="hljs-title">SCRIPT_RACE_GET_PLAYER_SPLIT_TIME</span><span class="hljs-params">(Any p0, Any* p1, Any* p2)</span></span>;</code></pre></figure></div></section>
+<section class="native" id="_0x8AE059F47158417E" data-native="SCRIPT_RACE_INIT" data-ns="MISC">
+<h2>SCRIPT_RACE_INIT</h2> <a href="#_0x8AE059F47158417E">#</a>
+<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x8AE059F47158417E 0x2D33F15A</span>
+<span class="hljs-comment">// ScriptRaceInit</span>
+<span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">SCRIPT_RACE_INIT</span><span class="hljs-params">(Any p0, Any p1, Any p2, Any p3)</span></span>;</code></pre></figure></div></section>
+<section class="native" id="_0x334CE0DA4FAF330C" data-native="SCRIPT_RACE_SHUTDOWN" data-ns="MISC">
+<h2>SCRIPT_RACE_SHUTDOWN</h2> <a href="#_0x334CE0DA4FAF330C">#</a>
+<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x334CE0DA4FAF330C 0xDF99925C</span>
+<span class="hljs-comment">// ScriptRaceShutdown</span>
+<span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">SCRIPT_RACE_SHUTDOWN</span><span class="hljs-params">()</span></span>;</code></pre></figure></div></section>
 <section class="native" id="_0xF73FBE4845C43B5B" data-native="SET_BIT" data-ns="MISC">
 <h2>SET_BIT</h2> <a href="#_0xF73FBE4845C43B5B">#</a>
 <div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0xF73FBE4845C43B5B 0x4EFE7E6B</span>
@@ -19387,11 +19416,6 @@ Any <span class="hljs-number">0x2E036F0480B8BF02</span>();</code></pre></figure>
 <div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x3233C4EC0514C7EC </span>
 <span class="hljs-comment">// N_0x3233c4ec0514c7ec</span>
 Any <span class="hljs-number">0x3233C4EC0514C7EC</span>(Any p0, Any p1, Any p2, Any p3, Any p4);</code></pre></figure></div></section>
-<section class="native" id="_0x334CE0DA4FAF330C" data-native="0x334CE0DA4FAF330C" data-ns="MISC">
-<h2>0x334CE0DA4FAF330C</h2> <a href="#_0x334CE0DA4FAF330C">#</a>
-<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x334CE0DA4FAF330C 0xDF99925C</span>
-<span class="hljs-comment">// N_0x334ce0da4faf330c</span>
-<span class="hljs-keyword">void</span> <span class="hljs-number">0x334CE0DA4FAF330C</span>();</code></pre></figure></div></section>
 <section class="native" id="_0x3373779BAF7CAF48" data-native="0x3373779BAF7CAF48" data-ns="MISC">
 <h2>0x3373779BAF7CAF48</h2> <a href="#_0x3373779BAF7CAF48">#</a>
 <div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x3373779BAF7CAF48 </span>
@@ -19589,11 +19613,6 @@ Any <span class="hljs-number">0x72904D3D62AF5839</span>();</code></pre></figure>
 <div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x74ACA66484CEBAF0 </span>
 <span class="hljs-comment">// N_0x74aca66484cebaf0</span>
 <span class="hljs-keyword">void</span> <span class="hljs-number">0x74ACA66484CEBAF0</span>(Any p0);</code></pre></figure></div></section>
-<section class="native" id="_0x769E848C66E3C2BB" data-native="0x769E848C66E3C2BB" data-ns="MISC">
-<h2>0x769E848C66E3C2BB</h2> <a href="#_0x769E848C66E3C2BB">#</a>
-<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x769E848C66E3C2BB 0x07FF553F</span>
-<span class="hljs-comment">// N_0x769e848c66e3c2bb</span>
-BOOL <span class="hljs-number">0x769E848C66E3C2BB</span>(Any p0, Any* p1, Any* p2);</code></pre></figure></div></section>
 <section class="native" id="_0x7A76104CC2CC69E8" data-native="0x7A76104CC2CC69E8" data-ns="MISC">
 <h2>0x7A76104CC2CC69E8</h2> <a href="#_0x7A76104CC2CC69E8">#</a>
 <div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x7A76104CC2CC69E8 </span>
@@ -19644,11 +19663,6 @@ Any <span class="hljs-number">0x870708A6E147A9AD</span>(Any p0, Any p1, Any p2, 
 <div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x89314FB3463E28DE </span>
 <span class="hljs-comment">// N_0x89314fb3463e28de</span>
 <span class="hljs-keyword">void</span> <span class="hljs-number">0x89314FB3463E28DE</span>(Any p0);</code></pre></figure></div></section>
-<section class="native" id="_0x8AE059F47158417E" data-native="0x8AE059F47158417E" data-ns="MISC">
-<h2>0x8AE059F47158417E</h2> <a href="#_0x8AE059F47158417E">#</a>
-<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x8AE059F47158417E 0x2D33F15A</span>
-<span class="hljs-comment">// N_0x8ae059f47158417e</span>
-<span class="hljs-keyword">void</span> <span class="hljs-number">0x8AE059F47158417E</span>(Any p0, Any p1, Any p2, Any p3);</code></pre></figure></div></section>
 <section class="native" id="_0x8BB99B85444544D9" data-native="0x8BB99B85444544D9" data-ns="MISC">
 <h2>0x8BB99B85444544D9</h2> <a href="#_0x8BB99B85444544D9">#</a>
 <div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x8BB99B85444544D9 </span>
@@ -38779,6 +38793,11 @@ BOOL _UNLOCK_IS_VISIBLE(Hash unlockHash);</code></pre></figure></div></section>
 <div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0xB70986AB19B04AFF 0xC40192B5</span>
 <span class="hljs-comment">// SetDisableVehiclePetrolTankFires</span>
 <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">SET_DISABLE_VEHICLE_PETROL_TANK_FIRES</span><span class="hljs-params">(Vehicle vehicle, BOOL toggle)</span></span>;</code></pre></figure></div></section>
+<section class="native" id="_0x73F1E4F6DF26FE30" data-native="SET_ENABLE_VEHICLE_SLIPSTREAMING" data-ns="VEHICLE">
+<h2>SET_ENABLE_VEHICLE_SLIPSTREAMING</h2> <a href="#_0x73F1E4F6DF26FE30">#</a>
+<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x73F1E4F6DF26FE30 0xD2B8ACBD</span>
+<span class="hljs-comment">// SetEnableVehicleSlipstreaming</span>
+<span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">SET_ENABLE_VEHICLE_SLIPSTREAMING</span><span class="hljs-params">(BOOL p0)</span></span>;</code></pre></figure></div></section>
 <section class="native" id="_0x373CB1283308BD7B" data-native="SET_FORCE_HD_VEHICLE" data-ns="VEHICLE">
 <h2>SET_FORCE_HD_VEHICLE</h2> <a href="#_0x373CB1283308BD7B">#</a>
 <div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x373CB1283308BD7B 0xE0FC6A32</span>
@@ -39758,11 +39777,6 @@ Any <span class="hljs-number">0x6E585A616ABB8401</span>(Any p0);</code></pre></f
 <div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x73118A3EE9C9B6DB </span>
 <span class="hljs-comment">// N_0x73118a3ee9c9b6db</span>
 <span class="hljs-keyword">void</span> <span class="hljs-number">0x73118A3EE9C9B6DB</span>(Any p0, Any p1, Any p2);</code></pre></figure></div></section>
-<section class="native" id="_0x73F1E4F6DF26FE30" data-native="0x73F1E4F6DF26FE30" data-ns="VEHICLE">
-<h2>0x73F1E4F6DF26FE30</h2> <a href="#_0x73F1E4F6DF26FE30">#</a>
-<div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x73F1E4F6DF26FE30 0xD2B8ACBD</span>
-<span class="hljs-comment">// N_0x73f1e4f6df26fe30</span>
-<span class="hljs-keyword">void</span> <span class="hljs-number">0x73F1E4F6DF26FE30</span>(BOOL p0);</code></pre></figure></div></section>
 <section class="native" id="_0x7408B5C66BA31ADB" data-native="0x7408B5C66BA31ADB" data-ns="VEHICLE">
 <h2>0x7408B5C66BA31ADB</h2> <a href="#_0x7408B5C66BA31ADB">#</a>
 <div class="code code-c"><figure class="code"><pre><code><span class="hljs-comment">// 0x7408B5C66BA31ADB </span>
