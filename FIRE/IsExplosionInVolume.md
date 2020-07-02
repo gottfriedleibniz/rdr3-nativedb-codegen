@@ -1,5 +1,6 @@
 ---
 ns: FIRE
+aliases: ["0xE24822A4CFC9107A"]
 ---
 ## _IS_EXPLOSION_IN_VOLUME
 

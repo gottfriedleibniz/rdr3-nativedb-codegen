@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["0xB981DD2DFAF9B1C9"]
 ---
 ## _GET_COLOR_FROM_NAME
 

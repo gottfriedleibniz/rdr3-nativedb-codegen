@@ -1,5 +1,6 @@
 ---
 ns: ANIMSCENE
+aliases: ["0x8398438D8F14F56D"]
 ---
 ## _GET_ANIM_SCENE_ENTITY_MATRIX
 

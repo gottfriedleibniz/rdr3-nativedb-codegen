@@ -1,5 +1,6 @@
 ---
 ns: MISC
+aliases: ["0xAFF2FD8ADD927585"]
 ---
 ## _GAME_TRANSITION_MANAGER_SHUTDOWN
 

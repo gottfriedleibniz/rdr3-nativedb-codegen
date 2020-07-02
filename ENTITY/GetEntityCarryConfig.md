@@ -1,5 +1,6 @@
 ---
 ns: ENTITY
+aliases: ["0x0FD25587BB306C86"]
 ---
 ## _GET_ENTITY_CARRY_CONFIG
 

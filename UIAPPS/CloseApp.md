@@ -1,5 +1,6 @@
 ---
 ns: UIAPPS
+aliases: ["0x818C6CA9B659E8EC"]
 ---
 ## _CLOSE_APP
 

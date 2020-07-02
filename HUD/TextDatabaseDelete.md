@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["0xAA03F130A637D923"]
 ---
 ## _TEXT_DATABASE_DELETE
 

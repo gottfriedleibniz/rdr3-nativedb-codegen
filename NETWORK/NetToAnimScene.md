@@ -1,5 +1,6 @@
 ---
 ns: NETWORK
+aliases: ["0xD7F6781A0ABAF6FB"]
 ---
 ## _NET_TO_ANIM_SCENE
 

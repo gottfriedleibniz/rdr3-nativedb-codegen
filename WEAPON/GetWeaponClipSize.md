@@ -1,5 +1,6 @@
 ---
 ns: WEAPON
+aliases: ["0xD3750CCC00635FC2"]
 ---
 ## _GET_WEAPON_CLIP_SIZE
 

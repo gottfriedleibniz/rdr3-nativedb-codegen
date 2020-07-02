@@ -1,5 +1,6 @@
 ---
 ns: ENTITY
+aliases: ["0x5E94EA09E7207C16"]
 ---
 ## _DELETE_ENTITY_2
 

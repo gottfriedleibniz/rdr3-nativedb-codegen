@@ -1,5 +1,6 @@
 ---
 ns: PROPSET
+aliases: ["0x58AC173A55D9D7B4"]
 ---
 ## _DELETE_PROPSET
 

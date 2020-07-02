@@ -1,5 +1,6 @@
 ---
 ns: PROPSET
+aliases: ["0x7DDDCF815E650FF5"]
 ---
 ## _DOES_PROPSET_EXIST
 

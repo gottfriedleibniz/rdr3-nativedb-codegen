@@ -1,5 +1,6 @@
 ---
 ns: PROPSET
+aliases: ["0xE72F591958F3ACAB"]
 ---
 ## _REQUEST_PROPSET_2
 

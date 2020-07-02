@@ -1,5 +1,6 @@
 ---
 ns: LAW
+aliases: ["0x093A9D1F72DF0D19"]
 ---
 ## _SET_BOUNTY_FOR_PLAYER
 

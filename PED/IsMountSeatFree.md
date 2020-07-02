@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0xAAB0FE202E9FC9F0"]
 ---
 ## _IS_MOUNT_SEAT_FREE
 

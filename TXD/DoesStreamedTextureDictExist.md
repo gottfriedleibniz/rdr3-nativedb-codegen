@@ -1,5 +1,6 @@
 ---
 ns: TXD
+aliases: ["0x7332461FC59EB7EC"]
 ---
 ## _DOES_STREAMED_TEXTURE_DICT_EXIST
 

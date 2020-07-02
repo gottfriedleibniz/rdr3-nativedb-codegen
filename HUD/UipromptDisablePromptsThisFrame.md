@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["0xF1622CE88A1946FB"]
 ---
 ## _UIPROMPT_DISABLE_PROMPTS_THIS_FRAME
 

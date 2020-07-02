@@ -1,5 +1,6 @@
 ---
 ns: MISC
+aliases: ["0xBDC6E364C9C78178"]
 ---
 ## _DOES_ITEM_HAVE_VALID_BASE
 

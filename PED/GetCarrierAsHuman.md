@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x79443D56C8DF45EE"]
 ---
 ## _GET_CARRIER_AS_HUMAN
 

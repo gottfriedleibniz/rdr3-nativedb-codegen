@@ -1,5 +1,6 @@
 ---
 ns: VEHICLE
+aliases: ["0xA8BA0BAE0173457B"]
 ---
 ## _GET_PED_IN_DRAFT_SEAT
 

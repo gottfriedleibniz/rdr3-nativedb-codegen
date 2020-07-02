@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["0xD0976CC34002DB57"]
 ---
 ## _TEXT_DATABASE_HAS_LOADED
 

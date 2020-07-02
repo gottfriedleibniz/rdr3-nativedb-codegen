@@ -1,5 +1,6 @@
 ---
 ns: MAP
+aliases: ["0xA486008892065FB9"]
 ---
 ## BLIP_ADD_FOR_PICKUP_PLACEMENT
 

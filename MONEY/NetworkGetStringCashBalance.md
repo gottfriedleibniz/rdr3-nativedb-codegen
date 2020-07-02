@@ -1,5 +1,6 @@
 ---
 ns: MONEY
+aliases: ["0x282D36FF103D78DF"]
 ---
 ## _NETWORK_GET_STRING_CASH_BALANCE
 

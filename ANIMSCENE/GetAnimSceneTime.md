@@ -1,5 +1,6 @@
 ---
 ns: ANIMSCENE
+aliases: ["0x61BE7D6186260002"]
 ---
 ## _GET_ANIM_SCENE_TIME
 

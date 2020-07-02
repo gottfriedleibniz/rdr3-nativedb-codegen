@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x028F76B6E78246EB"]
 ---
 ## _SET_PED_ON_MOUNT
 

@@ -1,5 +1,6 @@
 ---
 ns: SCRIPTS
+aliases: ["0x2F050A3FF8738245"]
 ---
 ## COUNT_PARTICIPANT_BITS
 

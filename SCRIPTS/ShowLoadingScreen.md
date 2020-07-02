@@ -1,5 +1,6 @@
 ---
 ns: SCRIPTS
+aliases: ["0x1E5B70E53DB661E5"]
 ---
 ## _SHOW_LOADING_SCREEN
 

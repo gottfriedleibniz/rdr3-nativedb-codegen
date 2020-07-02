@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x314C5465195F3B30"]
 ---
 ## _SET_METAPED_WEARINESS
 

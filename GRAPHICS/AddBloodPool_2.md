@@ -1,5 +1,6 @@
 ---
 ns: GRAPHICS
+aliases: ["0xF708298675ABDC6A"]
 ---
 ## _ADD_BLOOD_POOL_2
 

@@ -1,5 +1,6 @@
 ---
 ns: NETWORK
+aliases: ["0x6506BFA755FB209C"]
 ---
 ## _UGC_HAS_PRIVILEGE
 

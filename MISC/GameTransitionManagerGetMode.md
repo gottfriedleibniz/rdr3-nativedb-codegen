@@ -1,5 +1,6 @@
 ---
 ns: MISC
+aliases: ["0xFAED234C7F53ABEB"]
 ---
 ## _GAME_TRANSITION_MANAGER_GET_MODE
 

@@ -1,5 +1,6 @@
 ---
 ns: LAW
+aliases: ["0xA80FF73F772ACF6A"]
 ---
 ## _SET_WANTED_INTENSITY_FOR_PLAYER
 

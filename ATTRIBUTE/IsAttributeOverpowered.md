@@ -1,5 +1,6 @@
 ---
 ns: ATTRIBUTE
+aliases: ["0x103C2F885ABEB00B"]
 ---
 ## _IS_ATTRIBUTE_OVERPOWERED
 

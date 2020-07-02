@@ -1,5 +1,6 @@
 ---
 ns: MAP
+aliases: ["0xF8096DF9B87246E3"]
 ---
 ## _REVEAL_MINIMAP_FOW
 

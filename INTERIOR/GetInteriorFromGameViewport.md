@@ -1,5 +1,6 @@
 ---
 ns: INTERIOR
+aliases: ["0xBC8A281FF125C655"]
 ---
 ## _GET_INTERIOR_FROM_GAME_VIEWPORT
 

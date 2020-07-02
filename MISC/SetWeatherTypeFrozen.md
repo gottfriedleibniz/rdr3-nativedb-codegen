@@ -1,5 +1,6 @@
 ---
 ns: MISC
+aliases: ["0xD74ACDF7DB8114AF"]
 ---
 ## _SET_WEATHER_TYPE_FROZEN
 

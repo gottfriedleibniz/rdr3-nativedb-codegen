@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["0x95384C6CE1526EFF"]
 ---
 ## _SET_MP_GAMER_TAG_SECONDARY_ICON
 

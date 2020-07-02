@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0xDACE03C65C6666DB"]
 ---
 ## _SET_PED_DAMAGED
 

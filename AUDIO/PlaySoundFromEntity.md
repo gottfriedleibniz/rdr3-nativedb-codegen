@@ -1,5 +1,6 @@
 ---
 ns: AUDIO
+aliases: ["0x6FB1DA3CA9DA7D90"]
 ---
 ## _PLAY_SOUND_FROM_ENTITY
 

@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0xEBE89623EB861271"]
 ---
 ## _GET_PED_REMAINING_REVIVAL_TIME
 

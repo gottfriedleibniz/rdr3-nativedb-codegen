@@ -8,5 +8,9 @@ ns: GRAPHICS
 void SET_SCRIPT_GFX_DRAW_ORDER(int drawOrder);
 ```
 
+```
+Sets the draw order for script draw commands.
+```
+
 ## Parameters
 * **drawOrder**:

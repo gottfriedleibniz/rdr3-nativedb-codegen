@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0xD806CD2A4F2C2996"]
 ---
 ## _GET_FIRST_ENTITY_PED_IS_CARRYING
 

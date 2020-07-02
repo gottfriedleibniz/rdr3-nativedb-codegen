@@ -1,5 +1,6 @@
 ---
 ns: NETWORK
+aliases: ["0x26A5C12FACFF8724"]
 ---
 ## _NETWORK_HAS_CONTROL_OF_ANIM_SCENE
 

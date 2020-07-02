@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0xD6740E14E4CEFC0B"]
 ---
 ## _IS_PED_SLIDING
 

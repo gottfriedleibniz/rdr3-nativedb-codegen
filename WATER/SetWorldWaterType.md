@@ -1,5 +1,6 @@
 ---
 ns: WATER
+aliases: ["0xE8770EE02AEE45C2"]
 ---
 ## _SET_WORLD_WATER_TYPE
 

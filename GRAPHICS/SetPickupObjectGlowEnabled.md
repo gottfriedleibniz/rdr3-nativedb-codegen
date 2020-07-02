@@ -1,5 +1,6 @@
 ---
 ns: GRAPHICS
+aliases: ["0x7DFB49BCDB73089A"]
 ---
 ## _SET_PICKUP_OBJECT_GLOW_ENABLED
 

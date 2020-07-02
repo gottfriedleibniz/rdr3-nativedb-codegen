@@ -1,5 +1,6 @@
 ---
 ns: GRAPHICS
+aliases: ["0x0552AA3FFC5B87AA"]
 ---
 ## BLOCK_PICKUP_PLACEMENT_LIGHT
 

@@ -1,5 +1,6 @@
 ---
 ns: TASK
+aliases: ["0xEEE4829304F93EEE"]
 ---
 ## _SET_SCENARIO_POINT_ACTIVE
 

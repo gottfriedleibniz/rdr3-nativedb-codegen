@@ -1,5 +1,6 @@
 ---
 ns: AUDIO
+aliases: ["0xCCE219C922737BFA"]
 ---
 ## _PLAY_SOUND_FROM_POSITION
 

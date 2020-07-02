@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["0x84BD27DDF9575816"]
 ---
 ## _SET_MP_GAMER_TAG_COLOUR
 

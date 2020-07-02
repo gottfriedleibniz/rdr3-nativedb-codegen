@@ -1,5 +1,6 @@
 ---
 ns: WEAPON
+aliases: ["0x9888652B8BA77F73"]
 ---
 ## _CREATE_WEAPON_OBJECT
 

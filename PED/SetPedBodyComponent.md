@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x1902C4CFCC5BE57C"]
 ---
 ## _SET_PED_BODY_COMPONENT
 

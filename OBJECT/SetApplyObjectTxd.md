@@ -1,5 +1,6 @@
 ---
 ns: OBJECT
+aliases: ["0xE124889AE0521FCF"]
 ---
 ## _SET_APPLY_OBJECT_TXD
 

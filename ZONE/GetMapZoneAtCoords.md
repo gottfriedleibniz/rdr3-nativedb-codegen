@@ -1,5 +1,6 @@
 ---
 ns: ZONE
+aliases: ["0x43AD8FC02B429D33"]
 ---
 ## _GET_MAP_ZONE_AT_COORDS
 

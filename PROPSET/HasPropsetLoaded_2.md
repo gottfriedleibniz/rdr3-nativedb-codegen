@@ -1,5 +1,6 @@
 ---
 ns: PROPSET
+aliases: ["0xD090ABEF4D6A7D96"]
 ---
 ## _HAS_PROPSET_LOADED_2
 

@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["0x8BC7C1F929D07BF3"]
 ---
 ## _DISPLAY_HUD_COMPONENT
 

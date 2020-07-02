@@ -1,5 +1,6 @@
 ---
 ns: TASK
+aliases: ["0x94B745CE41DB58A1"]
 ---
 ## CREATE_SCENARIO_POINT
 

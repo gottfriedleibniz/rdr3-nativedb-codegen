@@ -1,5 +1,6 @@
 ---
 ns: INTERIOR
+aliases: ["0x8451E87D3C2B0286"]
 ---
 ## _GET_INTERIOR_INFO
 

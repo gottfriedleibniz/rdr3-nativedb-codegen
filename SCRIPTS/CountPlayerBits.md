@@ -1,5 +1,6 @@
 ---
 ns: SCRIPTS
+aliases: ["0x462C687BEA254BD9"]
 ---
 ## COUNT_PLAYER_BITS
 

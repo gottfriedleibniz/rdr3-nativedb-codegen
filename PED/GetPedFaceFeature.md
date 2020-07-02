@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0xFD1BA1EEF7985BB8"]
 ---
 ## _GET_PED_FACE_FEATURE
 

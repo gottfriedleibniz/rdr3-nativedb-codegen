@@ -1,5 +1,6 @@
 ---
 ns: ENTITY
+aliases: ["0xEAA885BA3CEA4E4A"]
 ---
 ## _SET_ENTITY_ANIM_SPEED
 

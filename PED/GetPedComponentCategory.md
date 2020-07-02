@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x5FF9A878C3D115B8"]
 ---
 ## _GET_PED_COMPONENT_CATEGORY
 

@@ -1,5 +1,6 @@
 ---
 ns: ENTITY
+aliases: ["0x11CDABDC7783B2BC"]
 ---
 ## _SET_ENTITY_ANIM_CURRENT_TIME
 

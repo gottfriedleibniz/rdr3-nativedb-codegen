@@ -1,5 +1,6 @@
 ---
 ns: WEAPON
+aliases: ["0x74C9090FDD1BB48E"]
 ---
 ## _GIVE_WEAPON_COMPONENT_TO_ENTITY
 

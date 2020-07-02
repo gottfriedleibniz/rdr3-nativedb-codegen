@@ -1,5 +1,6 @@
 ---
 ns: MISC
+aliases: ["0x4CABE596D632E4B0"]
 ---
 ## _GAME_TRANSITION_MANAGER_INIT
 

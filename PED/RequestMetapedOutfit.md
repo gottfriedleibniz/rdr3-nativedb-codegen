@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x13154A76CE0CF9AB"]
 ---
 ## _REQUEST_METAPED_OUTFIT
 

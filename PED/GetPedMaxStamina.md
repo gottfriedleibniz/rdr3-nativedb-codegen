@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0xCB42AFE2B613EE55"]
 ---
 ## _GET_PED_MAX_STAMINA
 

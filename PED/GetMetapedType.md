@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0xEC9A1261BF0CE510"]
 ---
 ## _GET_METAPED_TYPE
 

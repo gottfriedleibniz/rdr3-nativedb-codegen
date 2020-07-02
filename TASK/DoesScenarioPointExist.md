@@ -1,5 +1,6 @@
 ---
 ns: TASK
+aliases: ["0x841475AC96E794D1"]
 ---
 ## _DOES_SCENARIO_POINT_EXIST
 

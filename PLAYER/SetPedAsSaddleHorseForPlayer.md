@@ -1,5 +1,6 @@
 ---
 ns: PLAYER
+aliases: ["0xD2CB0FB0FDCB473D"]
 ---
 ## _SET_PED_AS_SADDLE_HORSE_FOR_PLAYER
 

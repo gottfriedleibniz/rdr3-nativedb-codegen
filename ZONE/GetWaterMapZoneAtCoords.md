@@ -1,5 +1,6 @@
 ---
 ns: ZONE
+aliases: ["0x5BA7A68A346A5A91"]
 ---
 ## _GET_WATER_MAP_ZONE_AT_COORDS
 

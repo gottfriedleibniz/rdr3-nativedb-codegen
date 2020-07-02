@@ -1,5 +1,6 @@
 ---
 ns: PLAYER
+aliases: ["0x5EBE38A20BC51C27"]
 ---
 ## _GET_PLAYER_PED_2
 

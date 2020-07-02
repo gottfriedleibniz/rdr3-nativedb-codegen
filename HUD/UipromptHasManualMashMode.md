@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["0xA6C6A4ADB3BAC409"]
 ---
 ## _UIPROMPT_HAS_MANUAL_MASH_MODE
 

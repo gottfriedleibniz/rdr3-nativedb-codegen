@@ -1,5 +1,6 @@
 ---
 ns: MAP
+aliases: ["0xEC174ADBCB611ECC"]
 ---
 ## _BLIP_ADD_FOR_AREA
 

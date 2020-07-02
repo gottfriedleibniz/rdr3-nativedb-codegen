@@ -1,5 +1,6 @@
 ---
 ns: MAP
+aliases: ["0xEB3CB3386C775D72"]
 ---
 ## _RESET_MINIMAP_FOW
 

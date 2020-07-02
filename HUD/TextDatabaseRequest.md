@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["0xF66090013DE648D5"]
 ---
 ## _TEXT_DATABASE_REQUEST
 

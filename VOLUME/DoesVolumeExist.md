@@ -1,5 +1,6 @@
 ---
 ns: VOLUME
+aliases: ["0x92A78D0BEDB332A3"]
 ---
 ## _DOES_VOLUME_EXIST
 

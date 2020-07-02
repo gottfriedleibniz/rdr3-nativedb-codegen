@@ -1,5 +1,6 @@
 ---
 ns: _NAMESPACE71
+aliases: ["0xCEDBF17EFCC0E4A4"]
 ---
 ## _SHOW_OBJECTIVE
 

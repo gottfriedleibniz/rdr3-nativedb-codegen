@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x09B83E68DE004CD4"]
 ---
 ## _GET_CARRIER_AS_PED
 

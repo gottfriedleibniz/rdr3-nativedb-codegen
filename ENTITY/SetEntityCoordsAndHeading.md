@@ -1,5 +1,6 @@
 ---
 ns: ENTITY
+aliases: ["0x203BEFFDBE12E96A"]
 ---
 ## _SET_ENTITY_COORDS_AND_HEADING
 

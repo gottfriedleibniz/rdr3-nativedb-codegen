@@ -1,5 +1,6 @@
 ---
 ns: MISC
+aliases: ["0xD4958E8CF0DE0DD0"]
 ---
 ## SET_CHEAT_ACTIVE
 

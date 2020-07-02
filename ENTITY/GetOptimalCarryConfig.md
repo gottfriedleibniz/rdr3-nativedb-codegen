@@ -1,5 +1,6 @@
 ---
 ns: ENTITY
+aliases: ["0x34F008A7E48C496B"]
 ---
 ## _GET_OPTIMAL_CARRY_CONFIG
 

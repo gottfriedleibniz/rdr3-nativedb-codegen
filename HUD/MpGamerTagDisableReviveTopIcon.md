@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["0x1F9A64C2804B3471"]
 ---
 ## _MP_GAMER_TAG_DISABLE_REVIVE_TOP_ICON
 

@@ -1,5 +1,6 @@
 ---
 ns: VOLUME
+aliases: ["0x43F867EF5C463A53"]
 ---
 ## _DELETE_VOLUME
 

@@ -1,5 +1,6 @@
 ---
 ns: MAP
+aliases: ["0x554D9D53F696D002"]
 ---
 ## _BLIP_ADD_FOR_COORD
 

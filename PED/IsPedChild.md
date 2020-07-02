@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x137772000DAF42C5"]
 ---
 ## _IS_PED_CHILD
 

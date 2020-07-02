@@ -1,5 +1,6 @@
 ---
 ns: NETWORK
+aliases: ["0xAC6153A0722F524C"]
 ---
 ## _NETWORK_GET_ROS_TITLE_NAME
 

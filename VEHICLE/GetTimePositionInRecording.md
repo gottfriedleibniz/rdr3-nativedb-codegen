@@ -5,8 +5,8 @@ ns: VEHICLE
 
 ```c
 // 0x233B51C7913FA031 0xF8C3E4A2
-float GET_TIME_POSITION_IN_RECORDING(Any p0);
+float GET_TIME_POSITION_IN_RECORDING(Vehicle vehicle);
 ```
 
 ## Parameters
-* **p0**:
+* **vehicle**:

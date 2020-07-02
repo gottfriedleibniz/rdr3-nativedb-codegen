@@ -1,5 +1,6 @@
 ---
 ns: VEHICLE
+aliases: ["0xC239DBD9A57D2A71"]
 ---
 ## _CREATE_MISSION_TRAIN
 

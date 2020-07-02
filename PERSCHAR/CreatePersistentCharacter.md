@@ -1,5 +1,6 @@
 ---
 ns: PERSCHAR
+aliases: ["0x4F76E3676583D951"]
 ---
 ## _CREATE_PERSISTENT_CHARACTER
 

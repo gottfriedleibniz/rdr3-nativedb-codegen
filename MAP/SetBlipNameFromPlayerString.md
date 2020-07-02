@@ -1,5 +1,6 @@
 ---
 ns: MAP
+aliases: ["0x9CB1A1623062F402"]
 ---
 ## _SET_BLIP_NAME_FROM_PLAYER_STRING
 

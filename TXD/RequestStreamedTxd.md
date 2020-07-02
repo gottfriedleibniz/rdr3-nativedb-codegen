@@ -1,5 +1,6 @@
 ---
 ns: TXD
+aliases: ["0xDB1BD07FB464584D"]
 ---
 ## _REQUEST_STREAMED_TXD
 

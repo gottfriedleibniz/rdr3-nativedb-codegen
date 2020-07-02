@@ -1,5 +1,6 @@
 ---
 ns: TASK
+aliases: ["0x6AA3DCA2C6F5EB6D"]
 ---
 ## _GET_ITEM_INTERACTION_FROM_PED
 

@@ -1,5 +1,6 @@
 ---
 ns: ANIMSCENE
+aliases: ["0x2B7277484CC095FD"]
 ---
 ## GET_ANIM_SCENE_INT
 

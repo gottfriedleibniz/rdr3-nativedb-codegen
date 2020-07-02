@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x775A1CA7893AA8B5"]
 ---
 ## _GET_PED_STAMINA
 

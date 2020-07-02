@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["0xB60C9F9ED47ABB76"]
 ---
 ## _UIPROMPT_HAS_HOLD_MODE
 

@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["0x502E1591A504F843"]
 ---
 ## _IS_MP_GAMER_TAG_ACTIVE_ON_ENTITY
 

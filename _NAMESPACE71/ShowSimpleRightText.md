@@ -1,5 +1,6 @@
 ---
 ns: _NAMESPACE71
+aliases: ["0xB2920B9760F0F36B"]
 ---
 ## _SHOW_SIMPLE_RIGHT_TEXT
 

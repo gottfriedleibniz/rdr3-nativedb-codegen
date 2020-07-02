@@ -1,5 +1,6 @@
 ---
 ns: GRAPHICS
+aliases: ["0x57639FD876B68A91"]
 ---
 ## SAVE_HIGH_QUALITY_PHOTO
 

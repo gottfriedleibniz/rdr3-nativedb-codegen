@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0xD710A5007C2AC539"]
 ---
 ## _SET_PED_COMPONENT_DISABLED
 

@@ -1,5 +1,6 @@
 ---
 ns: PLAYER
+aliases: ["0xCCE7C695C164C35F"]
 ---
 ## _GET_DEADEYE_ABILITY_LEVEL
 

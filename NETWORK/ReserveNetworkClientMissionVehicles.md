@@ -1,0 +1,13 @@
+---
+ns: NETWORK
+aliases: ["0x9F24A34863FD35DA"]
+---
+## RESERVE_NETWORK_CLIENT_MISSION_VEHICLES
+
+```c
+// 0x9F24A34863FD35DA
+void RESERVE_NETWORK_CLIENT_MISSION_VEHICLES(int amount);
+```
+
+## Parameters
+* **amount**:

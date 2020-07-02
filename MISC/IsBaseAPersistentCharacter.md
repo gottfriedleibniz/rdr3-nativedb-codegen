@@ -1,5 +1,6 @@
 ---
 ns: MISC
+aliases: ["0x716F17F8A0419F95"]
 ---
 ## _IS_BASE_A_PERSISTENT_CHARACTER
 

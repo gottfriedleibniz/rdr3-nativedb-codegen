@@ -1,5 +1,6 @@
 ---
 ns: TASK
+aliases: ["0xA05F3F20889D7A5B"]
 ---
 ## TASK_PUT_PED_DIRECTLY_INTO_GRAPPLE
 

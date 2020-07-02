@@ -1,5 +1,6 @@
 ---
 ns: TELEMETRY
+aliases: ["0x7581972ADF5D699A"]
 ---
 ## _TELEMETRY_ANIMAL_SKINNED
 

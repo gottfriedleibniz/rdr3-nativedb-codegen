@@ -1,5 +1,6 @@
 ---
 ns: MISC
+aliases: ["0x483B8C542103AD72"]
 ---
 ## _GET_GAME_TIMER_NON_SCALED_CLIPPED
 

@@ -1,5 +1,6 @@
 ---
 ns: WEAPON
+aliases: ["0xD4071EFC83794B2F"]
 ---
 ## _SET_WEAPON_LEVEL_THRESHOLD
 

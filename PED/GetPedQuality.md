@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x7BCC6087D130312A"]
 ---
 ## _GET_PED_QUALITY
 

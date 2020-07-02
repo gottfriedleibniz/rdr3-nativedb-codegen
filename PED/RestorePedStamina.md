@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x675680D089BFA21F"]
 ---
 ## _RESTORE_PED_STAMINA
 

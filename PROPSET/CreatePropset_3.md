@@ -1,5 +1,6 @@
 ---
 ns: PROPSET
+aliases: ["0x9609DBDDE18FAD8C"]
 ---
 ## _CREATE_PROPSET_3
 

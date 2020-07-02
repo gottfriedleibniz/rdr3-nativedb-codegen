@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["0xD9459157EB22C895"]
 ---
 ## _UIPROMPT_SET_HORIZONTAL
 

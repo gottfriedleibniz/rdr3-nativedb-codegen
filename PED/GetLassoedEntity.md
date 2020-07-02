@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0xB65A4DAB460A19BD"]
 ---
 ## _GET_LASSOED_ENTITY
 

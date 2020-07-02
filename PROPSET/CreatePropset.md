@@ -1,5 +1,6 @@
 ---
 ns: PROPSET
+aliases: ["0xE65C5CBA95F0E510"]
 ---
 ## _CREATE_PROPSET
 

@@ -1,5 +1,6 @@
 ---
 ns: ANIMSCENE
+aliases: ["0x07A6F6447ECA9B64"]
 ---
 ## GET_ANIM_SCENE_BOOL
 

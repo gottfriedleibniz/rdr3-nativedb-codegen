@@ -1,5 +1,6 @@
 ---
 ns: ANIMSCENE
+aliases: ["0x430EE0A19BC5A287"]
 ---
 ## _GET_ANIM_SCENE_VEHICLE
 

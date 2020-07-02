@@ -1,5 +1,6 @@
 ---
 ns: PROPSET
+aliases: ["0xB1964A83B345B4AB"]
 ---
 ## _RELEASE_PROPSET
 

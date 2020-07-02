@@ -1,5 +1,6 @@
 ---
 ns: WEAPON
+aliases: ["0x89CF5FF3D363311E"]
 ---
 ## _GET_WEAPON_NAME
 

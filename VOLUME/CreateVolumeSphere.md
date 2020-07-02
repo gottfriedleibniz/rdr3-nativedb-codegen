@@ -1,5 +1,6 @@
 ---
 ns: VOLUME
+aliases: ["0xB3FB80A32BAE3065"]
 ---
 ## _CREATE_VOLUME_SPHERE
 

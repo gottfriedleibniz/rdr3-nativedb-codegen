@@ -1,5 +1,6 @@
 ---
 ns: WEAPON
+aliases: ["0xDCF06D0CDFF68424"]
 ---
 ## _HAS_ENTITY_BEEN_DAMAGED_BY_WEAPON
 

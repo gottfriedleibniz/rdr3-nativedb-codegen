@@ -1,5 +1,6 @@
 ---
 ns: MISC
+aliases: ["0xEE04C0AFD4EFAF0E"]
 ---
 ## _GET_ENTITY_FROM_ITEM
 

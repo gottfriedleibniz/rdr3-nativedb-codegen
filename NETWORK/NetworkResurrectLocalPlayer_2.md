@@ -1,5 +1,6 @@
 ---
 ns: NETWORK
+aliases: ["0x4154B7D8C75E5DCF"]
 ---
 ## _NETWORK_RESURRECT_LOCAL_PLAYER_2
 

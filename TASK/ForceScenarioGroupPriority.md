@@ -1,5 +1,6 @@
 ---
 ns: TASK
+aliases: ["0x444C910A5058E568"]
 ---
 ## FORCE_SCENARIO_GROUP_PRIORITY
 

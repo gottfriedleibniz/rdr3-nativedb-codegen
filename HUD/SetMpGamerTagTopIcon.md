@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["0x5F57522BC1EB9D9D"]
 ---
 ## _SET_MP_GAMER_TAG_TOP_ICON
 

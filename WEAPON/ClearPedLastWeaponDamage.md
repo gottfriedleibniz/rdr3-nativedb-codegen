@@ -1,5 +1,6 @@
 ---
 ns: WEAPON
+aliases: ["0x087D8F4BC65F68E4"]
 ---
 ## _CLEAR_PED_LAST_WEAPON_DAMAGE
 

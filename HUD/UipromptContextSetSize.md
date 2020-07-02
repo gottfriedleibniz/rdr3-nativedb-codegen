@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["0x0C718001B77CA468"]
 ---
 ## _UIPROMPT_CONTEXT_SET_SIZE
 

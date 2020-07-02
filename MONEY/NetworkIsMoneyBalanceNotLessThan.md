@@ -1,5 +1,6 @@
 ---
 ns: MONEY
+aliases: ["0xAEC5F0119867E457"]
 ---
 ## _NETWORK_IS_MONEY_BALANCE_NOT_LESS_THAN
 

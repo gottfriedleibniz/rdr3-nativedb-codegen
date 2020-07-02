@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["0x4CC5F2FC1332577F"]
 ---
 ## _HIDE_HUD_COMPONENT
 

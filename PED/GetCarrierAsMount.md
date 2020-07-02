@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0xA033D7E4BBF9844D"]
 ---
 ## _GET_CARRIER_AS_MOUNT
 

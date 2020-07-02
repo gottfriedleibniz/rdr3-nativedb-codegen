@@ -1,5 +1,6 @@
 ---
 ns: UIAPPS
+aliases: ["0xAC959AB99AAF3D9F"]
 ---
 ## _IS_ANY_APP_ACTIVE
 

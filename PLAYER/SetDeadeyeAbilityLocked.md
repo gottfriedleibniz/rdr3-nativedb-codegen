@@ -1,5 +1,6 @@
 ---
 ns: PLAYER
+aliases: ["0x2797B8D66DD0EBB8"]
 ---
 ## _SET_DEADEYE_ABILITY_LOCKED
 

@@ -1,5 +1,6 @@
 ---
 ns: ANIMSCENE
+aliases: ["0x84EEDB2C6E650000"]
 ---
 ## _DELETE_ANIM_SCENE
 

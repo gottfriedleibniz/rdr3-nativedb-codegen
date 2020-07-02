@@ -1,5 +1,6 @@
 ---
 ns: WATER
+aliases: ["0x754616EC6965D1FB"]
 ---
 ## _DISABLE_WATER_COLLISION
 

@@ -1,5 +1,6 @@
 ---
 ns: LAW
+aliases: ["0x259CE340A8738814"]
 ---
 ## _GET_HUD_PLAYER_CRIME_TYPE
 

@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x42429C674B61238B"]
 ---
 ## _IS_PED_HOGTYING
 

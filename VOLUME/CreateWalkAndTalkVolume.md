@@ -1,5 +1,6 @@
 ---
 ns: VOLUME
+aliases: ["0xFD0E389CD44434B6"]
 ---
 ## _CREATE_WALK_AND_TALK_VOLUME
 

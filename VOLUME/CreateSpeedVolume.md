@@ -1,5 +1,6 @@
 ---
 ns: VOLUME
+aliases: ["0xBBE768E3AE76E07C"]
 ---
 ## _CREATE_SPEED_VOLUME
 

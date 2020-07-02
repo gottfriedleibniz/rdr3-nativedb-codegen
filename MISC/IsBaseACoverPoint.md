@@ -1,5 +1,6 @@
 ---
 ns: MISC
+aliases: ["0xFEC1D4B5C82C176F"]
 ---
 ## _IS_BASE_A_COVER_POINT
 

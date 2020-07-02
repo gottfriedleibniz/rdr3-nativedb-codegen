@@ -1,5 +1,6 @@
 ---
 ns: WEAPON
+aliases: ["0x19F70C4D80494FF8"]
 ---
 ## _REMOVE_WEAPON_COMPONENT_FROM_PED
 

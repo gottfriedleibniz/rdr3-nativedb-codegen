@@ -1,5 +1,6 @@
 ---
 ns: PROPSET
+aliases: ["0x738271B660FE0695"]
 ---
 ## _GET_ENTITIES_FROM_PROPSET
 

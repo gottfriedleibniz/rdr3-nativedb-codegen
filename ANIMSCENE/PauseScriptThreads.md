@@ -1,5 +1,6 @@
 ---
 ns: ANIMSCENE
+aliases: ["0x37C1257849DEF24A"]
 ---
 ## _PAUSE_SCRIPT_THREADS
 

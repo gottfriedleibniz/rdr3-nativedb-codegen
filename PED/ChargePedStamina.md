@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0xC3D4B754C0E86B9E"]
 ---
 ## _CHARGE_PED_STAMINA
 

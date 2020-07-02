@@ -1,5 +1,6 @@
 ---
 ns: GRAPHICS
+aliases: ["0xF02A9C330BBFC5C7"]
 ---
 ## _SET_SNOW_COVERAGE_TYPE
 

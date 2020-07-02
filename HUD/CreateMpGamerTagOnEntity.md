@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["0xE961BF23EAB76B12"]
 ---
 ## _CREATE_MP_GAMER_TAG_ON_ENTITY
 

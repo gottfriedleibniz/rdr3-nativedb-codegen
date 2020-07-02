@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x1D491CCF7211FB74"]
 ---
 ## _GET_PED_HEIGHT
 

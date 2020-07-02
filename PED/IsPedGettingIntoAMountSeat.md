@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x95CBC65780DE7EB1"]
 ---
 ## _IS_PED_GETTING_INTO_A_MOUNT_SEAT
 

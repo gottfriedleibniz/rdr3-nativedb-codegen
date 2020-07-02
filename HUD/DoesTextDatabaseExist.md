@@ -1,5 +1,6 @@
 ---
 ns: HUD
+aliases: ["0x2C729F2B94CEA911"]
 ---
 ## _DOES_TEXT_DATABASE_EXIST
 

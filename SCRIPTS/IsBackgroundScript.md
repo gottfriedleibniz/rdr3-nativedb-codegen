@@ -1,5 +1,6 @@
 ---
 ns: SCRIPTS
+aliases: ["0x20B7F69B40C6B755"]
 ---
 ## _IS_BACKGROUND_SCRIPT
 

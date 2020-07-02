@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0xFFD54D9FE71B966A"]
 ---
 ## _SET_PED_WOUND_EFFECT
 

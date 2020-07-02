@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x5337B721C51883A9"]
 ---
 ## _REMOVE_PED_FROM_MOUNT
 

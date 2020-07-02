@@ -1,5 +1,6 @@
 ---
 ns: GRAPHICS
+aliases: ["0xC349EE1E6EFA494B"]
 ---
 ## _CREATE_BLOOD_POOLS_FROM_PED
 

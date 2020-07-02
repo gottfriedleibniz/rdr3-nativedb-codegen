@@ -1,5 +1,6 @@
 ---
 ns: PLAYER
+aliases: ["0xEA6DE0CD15AECBE2"]
 ---
 ## _SET_MAX_WANTED_LEVEL_2
 

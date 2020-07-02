@@ -1,5 +1,6 @@
 ---
 ns: MAP
+aliases: ["0x45F13B7E0A15C880"]
 ---
 ## _BLIP_ADD_FOR_RADIUS
 

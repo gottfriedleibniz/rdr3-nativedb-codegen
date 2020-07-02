@@ -1,5 +1,6 @@
 ---
 ns: MAP
+aliases: ["0xB059D7BD3D78C16F"]
 ---
 ## _SET_BLIP_FLASH_STYLE
 

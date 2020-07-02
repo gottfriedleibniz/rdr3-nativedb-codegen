@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x283978A15512B2FE"]
 ---
 ## _SET_RANDOM_OUTFIT_VARIATION
 

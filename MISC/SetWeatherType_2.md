@@ -1,5 +1,6 @@
 ---
 ns: MISC
+aliases: ["0x2C6A07AF9AEDABD8"]
 ---
 ## _SET_WEATHER_TYPE_2
 

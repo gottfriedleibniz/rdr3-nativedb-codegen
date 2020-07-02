@@ -1,5 +1,6 @@
 ---
 ns: MAP
+aliases: ["0x63E7279D04160477"]
 ---
 ## _SET_FOW_UPDATE_ENABLED
 

@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0xCC8CA3E88256E58F"]
 ---
 ## _UPDATE_PED_VARIATION
 

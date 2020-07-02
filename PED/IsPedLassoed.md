@@ -1,5 +1,6 @@
 ---
 ns: PED
+aliases: ["0x9682F850056C9ADE"]
 ---
 ## _IS_PED_LASSOED
 
