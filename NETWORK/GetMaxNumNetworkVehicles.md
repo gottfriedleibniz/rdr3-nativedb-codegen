@@ -8,3 +8,7 @@ ns: NETWORK
 int GET_MAX_NUM_NETWORK_VEHICLES();
 ```
 
+```
+Always returns 40
+```
+

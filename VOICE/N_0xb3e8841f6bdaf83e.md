@@ -1,0 +1,10 @@
+---
+ns: VOICE
+---
+## _0xB3E8841F6BDAF83E
+
+```c
+// 0xB3E8841F6BDAF83E
+void _0xB3E8841F6BDAF83E();
+```
+

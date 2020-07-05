@@ -8,3 +8,7 @@ ns: NETWORK
 int GET_MAX_NUM_NETWORK_PEDS();
 ```
 
+```
+Always returns 110
+```
+
