@@ -5,8 +5,8 @@ ns: NETWORK
 
 ```c
 // 0x4C61B39930D045DA 0xBAF52DD8
-BOOL CLOUD_HAS_REQUEST_COMPLETED(Any p0);
+BOOL CLOUD_HAS_REQUEST_COMPLETED(int id);
 ```
 
 ## Parameters
-* **p0**:
+* **id**:
