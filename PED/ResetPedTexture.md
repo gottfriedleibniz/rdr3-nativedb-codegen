@@ -1,11 +1,11 @@
 ---
 ns: PED
-aliases: ["0xB63B9178D0F58D82"]
+aliases: ["0x8472A1789478F82F"]
 ---
 ## _RESET_PED_TEXTURE
 
 ```c
-// 0xB63B9178D0F58D82
+// 0x8472A1789478F82F
 void _RESET_PED_TEXTURE(int textureId);
 ```
 
