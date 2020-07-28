@@ -8,3 +8,7 @@ ns: CLOCK
 int GET_CLOCK_SECONDS();
 ```
 
+```
+Gets the current ingame clock second. Note that ingame clock seconds change really fast since a day in RDR is only 48 minutes in real life.
+```
+

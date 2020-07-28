@@ -8,6 +8,12 @@ ns: PED
 Vehicle GET_VEHICLE_PED_IS_IN(Ped ped, BOOL lastVehicle);
 ```
 
+```
+Gets the vehicle the specified Ped is in.
+
+If the Ped is not in a vehicle and includeLastVehicle is true, the vehicle they were last in is returned.
+```
+
 ## Parameters
 * **ped**:
 * **lastVehicle**:

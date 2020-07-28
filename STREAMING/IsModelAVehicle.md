@@ -8,5 +8,9 @@ ns: STREAMING
 BOOL IS_MODEL_A_VEHICLE(Hash model);
 ```
 
+```
+Returns whether the specified model represents a vehicle.
+```
+
 ## Parameters
 * **model**:

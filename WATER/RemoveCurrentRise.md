@@ -8,5 +8,9 @@ ns: WATER
 void _REMOVE_CURRENT_RISE(int p0);
 ```
 
+```
+Most likely REMOVE_CURRENT_*
+```
+
 ## Parameters
 * **p0**:

@@ -8,5 +8,9 @@ ns: NETWORK
 int PED_TO_NET(Ped ped);
 ```
 
+```
+Returns the network ID of the given ped.
+```
+
 ## Parameters
 * **ped**:

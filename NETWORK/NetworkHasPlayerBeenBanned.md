@@ -8,3 +8,9 @@ ns: NETWORK
 BOOL _NETWORK_HAS_PLAYER_BEEN_BANNED();
 ```
 
+```
+Returns ROS privilege 7 ("Has player been banned").
+
+NETWORK_HAVE_*
+```
+

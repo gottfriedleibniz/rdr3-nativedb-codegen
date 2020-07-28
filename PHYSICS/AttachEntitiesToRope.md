@@ -8,6 +8,10 @@ ns: PHYSICS
 void ATTACH_ENTITIES_TO_ROPE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11, Any p12, Any p13, Any p14, Any p15, Any p16, Any p17, Any p18, Any p19, Any p20);
 ```
 
+```
+Attaches entity 1 to entity 2.
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

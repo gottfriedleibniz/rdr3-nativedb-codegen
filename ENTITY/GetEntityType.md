@@ -8,5 +8,13 @@ ns: ENTITY
 int GET_ENTITY_TYPE(Entity entity);
 ```
 
+```
+Returns:
+0 = no entity
+1 = ped
+2 = vehicle
+3 = object
+```
+
 ## Parameters
 * **entity**:

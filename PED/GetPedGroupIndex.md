@@ -8,5 +8,9 @@ ns: PED
 int GET_PED_GROUP_INDEX(Ped ped);
 ```
 
+```
+Returns the group id of which the specified ped is a member of.
+```
+
 ## Parameters
 * **ped**:

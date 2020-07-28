@@ -8,5 +8,9 @@ ns: PATHFIND
 BOOL IS_VEHICLE_NODE_ID_VALID(int vehicleNodeId);
 ```
 
+```
+Returns true if the id is non zero.
+```
+
 ## Parameters
 * **vehicleNodeId**:

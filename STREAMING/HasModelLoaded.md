@@ -8,5 +8,9 @@ ns: STREAMING
 BOOL HAS_MODEL_LOADED(Hash model);
 ```
 
+```
+Checks if the specified model has loaded into memory.
+```
+
 ## Parameters
 * **model**:

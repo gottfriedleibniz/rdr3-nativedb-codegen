@@ -8,5 +8,13 @@ ns: NETWORK
 int _GET_STATUS_OF_TEXTURE_DOWNLOAD(int p0);
 ```
 
+```
+0 = succeeded
+1 = pending
+2 = failed
+
+GET_ST*
+```
+
 ## Parameters
 * **p0**:

@@ -8,5 +8,9 @@ ns: MAP
 void DISPLAY_RADAR(BOOL toggle);
 ```
 
+```
+If Minimap / Radar should be displayed.
+```
+
 ## Parameters
 * **toggle**:

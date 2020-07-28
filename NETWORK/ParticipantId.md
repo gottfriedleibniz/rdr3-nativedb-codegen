@@ -8,3 +8,7 @@ ns: NETWORK
 Player PARTICIPANT_ID();
 ```
 
+```
+Return the local Participant ID
+```
+

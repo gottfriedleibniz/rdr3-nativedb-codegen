@@ -8,5 +8,9 @@ ns: ENTITY
 BOOL DOES_ENTITY_EXIST(Entity entity);
 ```
 
+```
+Checks if the Entity exists
+```
+
 ## Parameters
 * **entity**:

@@ -8,5 +8,9 @@ ns: VEHICLE
 BOOL _REMOVE_SPEED_ZONE(int speedzone);
 ```
 
+```
+REMOVE_*
+```
+
 ## Parameters
 * **speedzone**:

@@ -8,6 +8,10 @@ ns: DECORATOR
 BOOL DECOR_SET_INT(Entity entity, char* propertyName, int value);
 ```
 
+```
+Sets property to int.
+```
+
 ## Parameters
 * **entity**:
 * **propertyName**:

@@ -8,6 +8,10 @@ ns: PED
 void SET_ENABLE_HANDCUFFS(Ped ped, BOOL p1, BOOL p2);
 ```
 
+```
+ped can not pull out a weapon when true
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

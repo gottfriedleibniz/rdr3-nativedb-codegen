@@ -8,6 +8,10 @@ ns: TASK
 BOOL DOES_SCRIPTED_COVER_POINT_EXIST_AT_COORDS(Any p0, Any p1, Any p2, Any p3);
 ```
 
+```
+Checks if there is a cover point at position
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

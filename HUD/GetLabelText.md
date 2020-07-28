@@ -8,5 +8,9 @@ ns: HUD
 char* _GET_LABEL_TEXT(char* labelName);
 ```
 
+```
+Gets a string literal from a label name.
+```
+
 ## Parameters
 * **labelName**:

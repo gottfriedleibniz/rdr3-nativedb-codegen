@@ -8,5 +8,9 @@ ns: CAM
 BOOL IS_CAM_ACTIVE(Cam cam);
 ```
 
+```
+Returns whether or not the passed camera handle is active.
+```
+
 ## Parameters
 * **cam**:

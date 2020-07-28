@@ -8,6 +8,10 @@ ns: PED
 void SET_GROUP_SEPARATION_RANGE(int groupHandle, float separationRange);
 ```
 
+```
+Sets the range at which members will automatically leave the group.
+```
+
 ## Parameters
 * **groupHandle**:
 * **separationRange**:

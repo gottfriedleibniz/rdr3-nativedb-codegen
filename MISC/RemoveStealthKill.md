@@ -8,6 +8,10 @@ ns: MISC
 void _REMOVE_STEALTH_KILL(Hash hash, BOOL p1);
 ```
 
+```
+Appears to remove stealth kill action from memory
+```
+
 ## Parameters
 * **hash**:
 * **p1**:

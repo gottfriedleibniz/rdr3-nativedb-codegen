@@ -8,5 +8,9 @@ ns: ENTITY
 void SET_VEHICLE_AS_NO_LONGER_NEEDED(Vehicle* vehicle);
 ```
 
+```
+This is an alias of SET_ENTITY_AS_NO_LONGER_NEEDED.
+```
+
 ## Parameters
 * **vehicle**:

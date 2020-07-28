@@ -8,6 +8,12 @@ ns: PED
 void EXPLODE_PED_HEAD(Ped ped, Hash weaponHash);
 ```
 
+```
+Forces the ped to fall back and kills it.
+
+It doesn't really explode the ped's head but it kills the ped
+```
+
 ## Parameters
 * **ped**:
 * **weaponHash**:

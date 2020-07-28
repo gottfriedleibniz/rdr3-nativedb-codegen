@@ -8,5 +8,9 @@ ns: PLAYER
 BOOL IS_PLAYER_CLIMBING(Player player);
 ```
 
+```
+Returns TRUE if the player ('s ped) is climbing at the moment.
+```
+
 ## Parameters
 * **player**:

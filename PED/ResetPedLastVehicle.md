@@ -8,5 +8,9 @@ ns: PED
 void RESET_PED_LAST_VEHICLE(Ped ped);
 ```
 
+```
+Resets the value for the last vehicle driven by the Ped.
+```
+
 ## Parameters
 * **ped**:

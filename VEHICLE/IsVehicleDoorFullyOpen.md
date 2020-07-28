@@ -8,6 +8,17 @@ ns: VEHICLE
 BOOL IS_VEHICLE_DOOR_FULLY_OPEN(Vehicle vehicle, int doorIndex);
 ```
 
+```
+doorIndex:
+0 = Front Left Door
+1 = Front Right Door
+2 = Back Left Door
+3 = Back Right Door
+4 = Hood
+5 = Trunk
+6 = Trunk2
+```
+
 ## Parameters
 * **vehicle**:
 * **doorIndex**:

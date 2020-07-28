@@ -8,6 +8,10 @@ ns: PED
 void CLONE_PED_TO_TARGET(Ped ped, Ped targetPed);
 ```
 
+```
+Copies ped's components and props to targetPed.
+```
+
 ## Parameters
 * **ped**:
 * **targetPed**:

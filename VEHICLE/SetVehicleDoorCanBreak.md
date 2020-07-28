@@ -8,6 +8,10 @@ ns: VEHICLE
 void _SET_VEHICLE_DOOR_CAN_BREAK(Vehicle vehicle, int doorIndex, BOOL isBreakable);
 ```
 
+```
+Keeps Vehicle Doors/Hood/Trunk from breaking off
+```
+
 ## Parameters
 * **vehicle**:
 * **doorIndex**:

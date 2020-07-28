@@ -8,6 +8,12 @@ ns: CAM
 void SET_GAMEPLAY_CAM_RELATIVE_HEADING(float heading, float p1);
 ```
 
+```
+Sets the camera position relative to heading in float from -360 to +360.
+
+Heading is alwyas 0 in aiming camera.
+```
+
 ## Parameters
 * **heading**:
 * **p1**:

@@ -8,3 +8,8 @@ ns: PLAYER
 int GET_MAX_WANTED_LEVEL();
 ```
 
+```
+Gets the maximum wanted level the player can get.
+Ranges from 0 to 5.
+```
+

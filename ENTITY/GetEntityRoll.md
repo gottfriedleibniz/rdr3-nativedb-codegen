@@ -8,5 +8,10 @@ ns: ENTITY
 float GET_ENTITY_ROLL(Entity entity);
 ```
 
+```
+Displays the current ROLL axis of the entity [-180.0000/180.0000+]
+(Sideways Roll) such as a vehicle tipped on its side
+```
+
 ## Parameters
 * **entity**:

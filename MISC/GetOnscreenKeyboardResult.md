@@ -8,3 +8,7 @@ ns: MISC
 char* GET_ONSCREEN_KEYBOARD_RESULT();
 ```
 
+```
+Returns NULL unless UPDATE_ONSCREEN_KEYBOARD() returns 1 in the same tick.
+```
+

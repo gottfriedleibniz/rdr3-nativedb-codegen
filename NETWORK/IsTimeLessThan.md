@@ -8,6 +8,10 @@ ns: NETWORK
 BOOL IS_TIME_LESS_THAN(int timeA, int timeB);
 ```
 
+```
+Subtracts the second argument from the first, then returns whether the result is negative.
+```
+
 ## Parameters
 * **timeA**:
 * **timeB**:

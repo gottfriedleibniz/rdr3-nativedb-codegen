@@ -8,6 +8,10 @@ ns: VEHICLE
 void SET_VEHICLE_TYRES_CAN_BURST(Vehicle vehicle, BOOL toggle);
 ```
 
+```
+Allows you to toggle bulletproof tires.
+```
+
 ## Parameters
 * **vehicle**:
 * **toggle**:

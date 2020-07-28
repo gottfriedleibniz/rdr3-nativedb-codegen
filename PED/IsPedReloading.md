@@ -8,5 +8,9 @@ ns: PED
 BOOL IS_PED_RELOADING(Ped ped);
 ```
 
+```
+Returns whether the specified ped is reloading.
+```
+
 ## Parameters
 * **ped**:

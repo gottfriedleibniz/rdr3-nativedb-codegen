@@ -8,6 +8,10 @@ ns: CAM
 void SET_CAM_ACTIVE(Cam cam, BOOL active);
 ```
 
+```
+Set camera as active/inactive.
+```
+
 ## Parameters
 * **cam**:
 * **active**:

@@ -8,6 +8,10 @@ ns: PLAYER
 void SET_PLAYER_TEAM(Player player, int team, BOOL p2);
 ```
 
+```
+Sets the player's team.
+```
+
 ## Parameters
 * **player**:
 * **team**:

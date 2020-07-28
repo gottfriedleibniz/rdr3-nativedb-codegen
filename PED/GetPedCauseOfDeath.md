@@ -8,5 +8,9 @@ ns: PED
 Hash GET_PED_CAUSE_OF_DEATH(Ped ped);
 ```
 
+```
+Returns the hash of the weapon/model/object that killed the ped.
+```
+
 ## Parameters
 * **ped**:

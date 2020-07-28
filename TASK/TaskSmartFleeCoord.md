@@ -8,6 +8,10 @@ ns: TASK
 void TASK_SMART_FLEE_COORD(Ped ped, float x, float y, float z, float distance, int time, BOOL p6, BOOL p7);
 ```
 
+```
+Makes the specified ped flee the specified distance from the specified position.
+```
+
 ## Parameters
 * **ped**:
 * **x**:

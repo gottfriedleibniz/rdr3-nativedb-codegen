@@ -8,6 +8,10 @@ ns: STREAMING
 void REQUEST_MODEL(Hash model, BOOL p1);
 ```
 
+```
+Request a model to be loaded into memory.
+```
+
 ## Parameters
 * **model**:
 * **p1**:

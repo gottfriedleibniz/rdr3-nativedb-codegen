@@ -6,7 +6,7 @@ aliases: ["0x9888652B8BA77F73"]
 
 ```c
 // 0x9888652B8BA77F73
-Object _CREATE_WEAPON_OBJECT(Hash weaponHash, int ammoCount, float x, float y, float z, BOOL showWorldModel, float heading);
+Object _CREATE_WEAPON_OBJECT(Hash weaponHash, int ammoCount, float x, float y, float z, BOOL showWorldModel, float scale);
 ```
 
 ## Parameters
@@ -16,4 +16,4 @@ Object _CREATE_WEAPON_OBJECT(Hash weaponHash, int ammoCount, float x, float y, f
 * **y**:
 * **z**:
 * **showWorldModel**:
-* **heading**:
+* **scale**:

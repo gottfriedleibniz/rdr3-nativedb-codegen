@@ -8,5 +8,9 @@ ns: HUD
 void DISPLAY_HUD(BOOL toggle);
 ```
 
+```
+If Hud should be displayed
+```
+
 ## Parameters
 * **toggle**:

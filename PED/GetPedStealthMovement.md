@@ -8,5 +8,9 @@ ns: PED
 BOOL GET_PED_STEALTH_MOVEMENT(Ped ped);
 ```
 
+```
+Returns whether the entity is in stealth mode
+```
+
 ## Parameters
 * **ped**:

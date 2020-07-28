@@ -8,5 +8,12 @@ ns: _NAMESPACE30
 void _SET_MOUSE_CURSOR_SPRITE(int spriteId);
 ```
 
+```
+Changes the mouse cursor's sprite. 
+1 = Normal
+6 = Left Arrow
+7 = Right Arrow
+```
+
 ## Parameters
 * **spriteId**:

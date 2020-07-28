@@ -8,6 +8,13 @@ ns: PED
 void SET_PED_CAN_BE_KNOCKED_OFF_VEHICLE(Ped ped, int state);
 ```
 
+```
+0 = can (bike)
+1 = can't (bike)
+2 = unk 
+3 = unk
+```
+
 ## Parameters
 * **ped**:
 * **state**:

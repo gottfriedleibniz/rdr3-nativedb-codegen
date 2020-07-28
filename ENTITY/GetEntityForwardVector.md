@@ -8,5 +8,9 @@ ns: ENTITY
 Vector3 GET_ENTITY_FORWARD_VECTOR(Hash entity);
 ```
 
+```
+Gets the entity's forward vector.
+```
+
 ## Parameters
 * **entity**:

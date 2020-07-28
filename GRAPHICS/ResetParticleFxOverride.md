@@ -8,5 +8,9 @@ ns: GRAPHICS
 void RESET_PARTICLE_FX_OVERRIDE(char* name);
 ```
 
+```
+Resets the effect of SET_PARTICLE_FX_OVERRIDE
+```
+
 ## Parameters
 * **name**:

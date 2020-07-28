@@ -8,6 +8,10 @@ ns: VEHICLE
 Ped GET_PED_IN_VEHICLE_SEAT(Vehicle vehicle, int seatIndex);
 ```
 
+```
+-1 (driver) <= index < GET_VEHICLE_MAX_NUMBER_OF_PASSENGERS(vehicle)
+```
+
 ## Parameters
 * **vehicle**:
 * **seatIndex**:

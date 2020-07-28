@@ -8,6 +8,10 @@ ns: CLOCK
 void SET_CLOCK_TIME(int hour, int minute, int second);
 ```
 
+```
+SET_CLOCK_TIME(12, 34, 56);
+```
+
 ## Parameters
 * **hour**:
 * **minute**:

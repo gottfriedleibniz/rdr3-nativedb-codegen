@@ -8,6 +8,10 @@ ns: VEHICLE
 void SET_VEHICLE_LIGHTS(Vehicle vehicle, int state);
 ```
 
+```
+Sets the vehicle's lights state.
+```
+
 ## Parameters
 * **vehicle**:
 * **state**:

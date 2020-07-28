@@ -8,5 +8,9 @@ ns: ENTITY
 void DELETE_ENTITY(Entity* entity);
 ```
 
+```
+Deletes the specified entity, then sets the handle pointed to by the pointer to NULL.
+```
+
 ## Parameters
 * **entity**:

@@ -8,3 +8,7 @@ ns: BUILTIN
 float TIMESTEP();
 ```
 
+```
+Gets the current frame time.
+```
+

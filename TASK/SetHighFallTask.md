@@ -8,6 +8,10 @@ ns: TASK
 void SET_HIGH_FALL_TASK(Ped ped, Any p1, Any p2, Any p3);
 ```
 
+```
+Makes the ped ragdoll like when falling from a great height
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

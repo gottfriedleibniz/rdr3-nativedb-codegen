@@ -8,5 +8,9 @@ ns: NETWORK
 int GET_NUM_RESERVED_MISSION_VEHICLES(Any p0);
 ```
 
+```
+p0 appears to be for MP
+```
+
 ## Parameters
 * **p0**:

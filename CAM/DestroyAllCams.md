@@ -8,5 +8,9 @@ ns: CAM
 void DESTROY_ALL_CAMS(BOOL p0);
 ```
 
+```
+BOOL param indicates whether the cam should be destroyed if it belongs to the calling script.
+```
+
 ## Parameters
 * **p0**:

@@ -8,6 +8,10 @@ ns: PED
 BOOL IS_PED_IN_ANY_VEHICLE(Ped ped, BOOL atGetIn);
 ```
 
+```
+Gets a value indicating whether the specified ped is in any vehicle.
+```
+
 ## Parameters
 * **ped**:
 * **atGetIn**:

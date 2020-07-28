@@ -8,5 +8,9 @@ ns: STREAMING
 void SET_MODEL_AS_NO_LONGER_NEEDED(Hash model);
 ```
 
+```
+Marks the model as no longer needed.
+```
+
 ## Parameters
 * **model**:

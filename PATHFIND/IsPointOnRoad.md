@@ -8,6 +8,10 @@ ns: PATHFIND
 BOOL IS_POINT_ON_ROAD(float x, float y, float z, Vehicle vehicle);
 ```
 
+```
+Gets a value indicating whether the specified position is on a road.
+```
+
 ## Parameters
 * **x**:
 * **y**:

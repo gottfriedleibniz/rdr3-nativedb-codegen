@@ -8,3 +8,7 @@ ns: CLOCK
 int GET_CLOCK_HOURS();
 ```
 
+```
+Gets the current ingame hour, expressed without zeros. (09:34 will be represented as 9)
+```
+

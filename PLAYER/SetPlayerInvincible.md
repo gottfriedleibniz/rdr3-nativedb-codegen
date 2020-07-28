@@ -8,6 +8,13 @@ ns: PLAYER
 void SET_PLAYER_INVINCIBLE(Player player, BOOL toggle);
 ```
 
+```
+Simply sets you as invincible (Health will not deplete).
+
+Use 0x733A643B5B0C53C1 instead if you want Ragdoll enabled, which is equal to:
+*(DWORD *)(playerPedAddress + 0x188) |= (1 << 9);
+```
+
 ## Parameters
 * **player**:
 * **toggle**:

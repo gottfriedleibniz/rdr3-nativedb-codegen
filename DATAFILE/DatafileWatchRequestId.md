@@ -8,5 +8,9 @@ ns: DATAFILE
 void DATAFILE_WATCH_REQUEST_ID(int id);
 ```
 
+```
+Adds the given request ID to the watch list.
+```
+
 ## Parameters
 * **id**:

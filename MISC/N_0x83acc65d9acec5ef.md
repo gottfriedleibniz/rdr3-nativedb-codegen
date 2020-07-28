@@ -8,6 +8,10 @@ ns: MISC
 Vector3 _0x83ACC65D9ACEC5EF(float p0, float p1, float p2, float p3, float p4, float p5, float p6, float p7, float p8, BOOL p9);
 ```
 
+```
+GET_C*
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

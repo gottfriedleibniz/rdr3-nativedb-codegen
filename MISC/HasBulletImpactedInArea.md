@@ -8,6 +8,10 @@ ns: MISC
 BOOL HAS_BULLET_IMPACTED_IN_AREA(float x, float y, float z, float p3, BOOL p4, BOOL p5);
 ```
 
+```
+p3 - possibly radius?
+```
+
 ## Parameters
 * **x**:
 * **y**:

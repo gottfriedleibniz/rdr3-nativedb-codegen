@@ -8,6 +8,16 @@ ns: VEHICLE
 void SET_VEHICLE_DOOR_BROKEN(Vehicle vehicle, int doorIndex, BOOL deleteDoor);
 ```
 
+```
+doorIndex:
+0 = Front Right Door
+1 = Front Left Door
+2 = Back Right Door
+3 = Back Left Door
+4 = Hood
+5 = Trunk
+```
+
 ## Parameters
 * **vehicle**:
 * **doorIndex**:

@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_MAX_HEALTH(Ped ped, int value);
 ```
 
+```
+Sets the maximum health of a ped.
+```
+
 ## Parameters
 * **ped**:
 * **value**:

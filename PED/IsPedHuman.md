@@ -8,5 +8,9 @@ ns: PED
 BOOL IS_PED_HUMAN(Ped ped);
 ```
 
+```
+Returns true/false if the ped is/isn't humanoid.
+```
+
 ## Parameters
 * **ped**:

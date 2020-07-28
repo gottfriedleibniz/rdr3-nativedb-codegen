@@ -8,5 +8,9 @@ ns: NETWORK
 int OBJ_TO_NET(Object object);
 ```
 
+```
+Returns the network ID of the given object.
+```
+
 ## Parameters
 * **object**:

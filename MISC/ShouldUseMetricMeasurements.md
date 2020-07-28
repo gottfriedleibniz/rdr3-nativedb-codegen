@@ -8,3 +8,7 @@ ns: MISC
 BOOL SHOULD_USE_METRIC_MEASUREMENTS();
 ```
 
+```
+Returns whether the game's measurement system is set to metric.
+```
+

@@ -8,5 +8,9 @@ ns: PLAYER
 int GET_PLAYER_GROUP(Player player);
 ```
 
+```
+Returns the group ID the player is member of.
+```
+
 ## Parameters
 * **player**:

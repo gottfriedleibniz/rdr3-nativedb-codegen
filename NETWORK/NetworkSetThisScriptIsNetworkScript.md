@@ -8,6 +8,10 @@ ns: NETWORK
 void NETWORK_SET_THIS_SCRIPT_IS_NETWORK_SCRIPT(int lobbySize, BOOL p1, int playerId);
 ```
 
+```
+p1 is always 0
+```
+
 ## Parameters
 * **lobbySize**:
 * **p1**:

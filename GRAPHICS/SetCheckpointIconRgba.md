@@ -8,6 +8,10 @@ ns: GRAPHICS
 void _SET_CHECKPOINT_ICON_RGBA(int checkpoint, int red, int green, int blue, int alpha);
 ```
 
+```
+Sets the checkpoint icon color.
+```
+
 ## Parameters
 * **checkpoint**:
 * **red**:

@@ -8,6 +8,10 @@ ns: TASK
 void TASK_COMBAT_HATED_TARGETS_AROUND_PED(Ped ped, float radius, int flags, Any p3);
 ```
 
+```
+Despite its name, it only attacks ONE hated target. The one closest hated target.
+```
+
 ## Parameters
 * **ped**:
 * **radius**:

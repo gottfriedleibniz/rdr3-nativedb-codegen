@@ -8,6 +8,10 @@ ns: TASK
 void TASK_TURN_PED_TO_FACE_COORD(Ped ped, float x, float y, float z, int duration);
 ```
 
+```
+duration in milliseconds
+```
+
 ## Parameters
 * **ped**:
 * **x**:

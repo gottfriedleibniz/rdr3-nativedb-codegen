@@ -8,3 +8,7 @@ ns: MISC
 void FORCE_LIGHTNING_FLASH();
 ```
 
+```
+creates single lightning+thunder at random position
+```
+

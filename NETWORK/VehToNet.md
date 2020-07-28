@@ -8,5 +8,9 @@ ns: NETWORK
 int VEH_TO_NET(Vehicle vehicle);
 ```
 
+```
+Returns the network ID of the given vehicle.
+```
+
 ## Parameters
 * **vehicle**:

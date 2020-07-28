@@ -8,5 +8,9 @@ ns: SCRIPTS
 int GET_NUMBER_OF_EVENTS(int eventGroup);
 ```
 
+```
+eventGroup: 0 = SCRIPT_EVENT_QUEUE_AI (CEventGroupScriptAI), 1 = SCRIPT_EVENT_QUEUE_NETWORK (CEventGroupScriptNetwork), 2 = unk, 3 = unk, 4 = SCRIPT_EVENT_QUEUE_ERRORS (CEventGroupScriptErrors)
+```
+
 ## Parameters
 * **eventGroup**:

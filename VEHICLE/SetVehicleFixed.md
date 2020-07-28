@@ -8,5 +8,10 @@ ns: VEHICLE
 void SET_VEHICLE_FIXED(Vehicle vehicle);
 ```
 
+```
+This fixes a vehicle.
+If the vehicle's engine's broken then you cannot fix it with this native.
+```
+
 ## Parameters
 * **vehicle**:

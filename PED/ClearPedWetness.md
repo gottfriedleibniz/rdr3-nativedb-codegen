@@ -8,5 +8,9 @@ ns: PED
 void CLEAR_PED_WETNESS(Ped ped);
 ```
 
+```
+It clears the wetness of the selected Ped/Player. Clothes have to be wet to notice the difference.
+```
+
 ## Parameters
 * **ped**:

@@ -8,6 +8,10 @@ ns: VEHICLE
 void _SET_VEHICLE_EXCLUSIVE_DRIVER_2(Vehicle vehicle, Ped ped, int index);
 ```
 
+```
+index: 0 - 1
+```
+
 ## Parameters
 * **vehicle**:
 * **ped**:

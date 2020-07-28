@@ -8,6 +8,13 @@ ns: PED
 BOOL IS_PED_ON_VEHICLE(Ped ped, BOOL p1);
 ```
 
+```
+Gets a value indicating whether the specified ped is on top of any vehicle.
+
+Return 1 when ped is on vehicle.
+Return 0 when ped is not on a vehicle.
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

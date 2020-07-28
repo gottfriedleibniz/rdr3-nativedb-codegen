@@ -8,5 +8,10 @@ ns: PLAYER
 int GET_PLAYER_TEAM(Player player);
 ```
 
+```
+Gets the player's team.
+Returns -1 in singleplayer.
+```
+
 ## Parameters
 * **player**:

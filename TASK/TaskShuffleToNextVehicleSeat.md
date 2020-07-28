@@ -8,6 +8,11 @@ ns: TASK
 void TASK_SHUFFLE_TO_NEXT_VEHICLE_SEAT(Any p0, Any p1);
 ```
 
+```
+Makes the specified ped shuffle to the next vehicle seat.
+The ped MUST be in a vehicle and the vehicle parameter MUST be the ped's current vehicle.
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

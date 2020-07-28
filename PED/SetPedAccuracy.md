@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_ACCURACY(Ped ped, int accuracy);
 ```
 
+```
+accuracy = 0-100, 100 being perfectly accurate
+```
+
 ## Parameters
 * **ped**:
 * **accuracy**:

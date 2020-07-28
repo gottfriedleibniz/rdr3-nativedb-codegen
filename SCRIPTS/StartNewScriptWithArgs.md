@@ -8,6 +8,11 @@ ns: SCRIPTS
 int START_NEW_SCRIPT_WITH_ARGS(char* scriptName, Any* args, int argCount, int stackSize);
 ```
 
+```
+return : script thread id, 0 if failed
+Pass pointer to struct of args in p1, size of struct goes into p2
+```
+
 ## Parameters
 * **scriptName**:
 * **args**:

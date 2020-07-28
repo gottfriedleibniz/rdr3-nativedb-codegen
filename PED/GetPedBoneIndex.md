@@ -8,6 +8,10 @@ ns: PED
 int GET_PED_BONE_INDEX(Ped ped, int boneId);
 ```
 
+```
+no bone = -1
+```
+
 ## Parameters
 * **ped**:
 * **boneId**:
