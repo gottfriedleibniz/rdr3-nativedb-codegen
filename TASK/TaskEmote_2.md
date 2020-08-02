@@ -5,7 +5,7 @@ ns: TASK
 
 ```c
 // 0x884E3436CC1F41DD
-void _TASK_EMOTE_2(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
+void _TASK_EMOTE_2(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8);
 ```
 
 ## Parameters
@@ -17,3 +17,4 @@ void _TASK_EMOTE_2(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p
 * **p5**:
 * **p6**:
 * **p7**:
+* **p8**:
