@@ -6,10 +6,10 @@ aliases: ["0xC6258F41D86676E0"]
 
 ```c
 // 0xC6258F41D86676E0
-void _SET_ATTRIBUTE_CORE_VALUE(Ped ped, int coreIndex, int p2);
+void _SET_ATTRIBUTE_CORE_VALUE(Ped ped, int coreIndex, int value);
 ```
 
 ## Parameters
 * **ped**:
 * **coreIndex**:
-* **p2**:
+* **value**:

@@ -5,11 +5,11 @@ ns: TASK
 
 ```c
 // 0x489FFCCCE7392B55
-void TASK_FOLLOW_AND_CONVERSE_WITH_PED(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10);
+void TASK_FOLLOW_AND_CONVERSE_WITH_PED(Ped ped, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:
 * **p3**:

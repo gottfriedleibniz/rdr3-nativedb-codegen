@@ -5,11 +5,11 @@ ns: TASK
 
 ```c
 // 0x21FDF9A25CFE1CE5
-void TASK_ANIMAL_UNALERTED(Any p0, Any p1, Any p2, Any p3, Any p4);
+void TASK_ANIMAL_UNALERTED(Ped ped, Any p1, Any p2, Any p3, Any p4);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:
 * **p3**:

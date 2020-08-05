@@ -5,10 +5,10 @@ ns: ATTRIBUTE
 
 ```c
 // 0x94A7F191DB49A44D
-int GET_DEFAULT_ATTRIBUTE_POINTS_NEEDED_FOR_RANK(Any p0, Any p1, Any p2);
+int GET_DEFAULT_ATTRIBUTE_POINTS_NEEDED_FOR_RANK(Hash modelHash, int attributeIndex, int rank);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **modelHash**:
+* **attributeIndex**:
+* **rank**:

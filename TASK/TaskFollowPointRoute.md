@@ -5,11 +5,11 @@ ns: TASK
 
 ```c
 // 0x0E14C5550DC3CD1D
-void TASK_FOLLOW_POINT_ROUTE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5);
+void TASK_FOLLOW_POINT_ROUTE(Ped ped, Any p1, Any p2, Any p3, Any p4, Any p5);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:
 * **p3**:

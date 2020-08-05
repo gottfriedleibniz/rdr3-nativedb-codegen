@@ -5,9 +5,9 @@ ns: ATTRIBUTE
 
 ```c
 // 0xF8DAC3D85636C241
-void DISABLE_ATTRIBUTE_OVERPOWER(Any p0, Any p1);
+void DISABLE_ATTRIBUTE_OVERPOWER(Ped ped, int attributeIndex);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **attributeIndex**:

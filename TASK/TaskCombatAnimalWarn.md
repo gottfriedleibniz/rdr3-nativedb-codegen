@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0xF960F3D57B660E96
-void TASK_COMBAT_ANIMAL_WARN(Any p0, Any p1, Any p2);
+void TASK_COMBAT_ANIMAL_WARN(Ped ped, Any p1, Any p2);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:

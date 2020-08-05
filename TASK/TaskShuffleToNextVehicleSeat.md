@@ -5,7 +5,7 @@ ns: TASK
 
 ```c
 // 0x7AA80209BDA643EB 0xBEAF8F67
-void TASK_SHUFFLE_TO_NEXT_VEHICLE_SEAT(Any p0, Any p1);
+void TASK_SHUFFLE_TO_NEXT_VEHICLE_SEAT(Ped ped, Any p1);
 ```
 
 ```
@@ -14,5 +14,5 @@ The ped MUST be in a vehicle and the vehicle parameter MUST be the ped's current
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:

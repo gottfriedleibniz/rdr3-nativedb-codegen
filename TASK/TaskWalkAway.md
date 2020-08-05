@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0x04ACFAC71E6858F9
-void TASK_WALK_AWAY(Any p0, Any p1);
+void TASK_WALK_AWAY(Ped ped, Any p1);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:

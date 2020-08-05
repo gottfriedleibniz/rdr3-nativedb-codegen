@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0xA14B5FBF986BAC23
-void TASK_DUCK(Any p0, Any p1);
+void TASK_DUCK(Ped ped, int p1);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:

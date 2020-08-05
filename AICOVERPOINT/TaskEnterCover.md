@@ -5,8 +5,8 @@ ns: AICOVERPOINT
 
 ```c
 // 0x4972A022AE6DAFA1
-void TASK_ENTER_COVER(Any p0);
+void TASK_ENTER_COVER(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

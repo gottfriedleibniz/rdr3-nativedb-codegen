@@ -1,15 +1,20 @@
 ---
 ns: ATTRIBUTE
+aliases: ["0xF6A7C08DF2E28B28"]
 ---
 ## ENABLE_ATTRIBUTE_OVERPOWER
 
 ```c
-// 0x4AF5A4C7B9157D14
-void ENABLE_ATTRIBUTE_OVERPOWER(Any p0, Any p1, Any p2, Any p3);
+// 0xF6A7C08DF2E28B28
+void ENABLE_ATTRIBUTE_OVERPOWER(Ped ped, int attributeIndex, float value, BOOL makeSound);
+```
+
+```
+Old name: _SET_ATTRIBUTE_OVERPOWER_VALUE
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **ped**:
+* **attributeIndex**:
+* **value**:
+* **makeSound**:

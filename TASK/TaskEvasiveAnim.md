@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0x5F22926E1BCE9B08
-void TASK_EVASIVE_ANIM(Any p0, Any p1, Any p2);
+void TASK_EVASIVE_ANIM(Ped ped, Any p1, Any p2);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:

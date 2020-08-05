@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0x08AA95E8298AE772
-void TASK_SHOOT_WITH_WEAPON(Any p0, Any p1);
+void TASK_SHOOT_WITH_WEAPON(Ped ped, Any* args);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **args**:

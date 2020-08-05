@@ -5,7 +5,7 @@ ns: TASK
 
 ```c
 // 0x22B0D0E37CCB840D 0xE52EB560
-void TASK_SMART_FLEE_PED(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6);
+void TASK_SMART_FLEE_PED(Ped ped, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6);
 ```
 
 ```
@@ -16,7 +16,7 @@ fleeTime = ped will flee for this amount of time, set to "-1" to flee forever
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:
 * **p3**:

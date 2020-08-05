@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0xBD7949BD07299672
-void TASK_EAT(Any p0, Any p1, Any p2);
+void TASK_EAT(Ped ped, Any p1, Any p2);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:

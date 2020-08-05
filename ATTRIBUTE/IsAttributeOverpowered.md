@@ -6,9 +6,9 @@ aliases: ["0x103C2F885ABEB00B"]
 
 ```c
 // 0x103C2F885ABEB00B
-BOOL _IS_ATTRIBUTE_OVERPOWERED(Ped ped, int coreIndex);
+BOOL _IS_ATTRIBUTE_OVERPOWERED(Ped ped, int attributeIndex);
 ```
 
 ## Parameters
 * **ped**:
-* **coreIndex**:
+* **attributeIndex**:

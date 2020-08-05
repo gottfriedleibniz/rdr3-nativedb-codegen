@@ -5,11 +5,11 @@ ns: TASK
 
 ```c
 // 0x0759591819534F7B 0xADF9904D
-void TASK_FOLLOW_WAYPOINT_RECORDING(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
+void TASK_FOLLOW_WAYPOINT_RECORDING(Ped ped, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:
 * **p3**:

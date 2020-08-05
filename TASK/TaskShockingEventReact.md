@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0x452419CBD838065B 0x9BD00ACF
-void TASK_SHOCKING_EVENT_REACT(Any p0, Any p1, Any p2);
+void TASK_SHOCKING_EVENT_REACT(Ped ped, Any p1, Any p2);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:

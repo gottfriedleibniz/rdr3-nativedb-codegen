@@ -5,11 +5,11 @@ ns: TASK
 
 ```c
 // 0x37FB1C870E2EC2C6
-void TASK_RIDE_TRAIN(Any p0, Any p1, Any p2, Any p3);
+void TASK_RIDE_TRAIN(Ped ped, Vehicle train, int scenarioPoint, Hash scenarioHash);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **ped**:
+* **train**:
+* **scenarioPoint**:
+* **scenarioHash**:

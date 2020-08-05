@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0x356088527D9EBAAD
-void TASK_REVIVE_TARGET(Any p0, Any p1, Any p2);
+void TASK_REVIVE_TARGET(Ped ped, Any p1, Any p2);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:

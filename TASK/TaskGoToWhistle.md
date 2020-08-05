@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0xBAD6545608CECA6E
-void TASK_GO_TO_WHISTLE(Any p0, Any p1, Any p2);
+void TASK_GO_TO_WHISTLE(Ped ped, Any p1, Any p2);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:

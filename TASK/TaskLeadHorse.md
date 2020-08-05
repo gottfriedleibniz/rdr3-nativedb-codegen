@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0x9A7A4A54596FE09D
-void TASK_LEAD_HORSE(Any p0, Any p1);
+void TASK_LEAD_HORSE(Ped ped, Ped horse);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **horse**:

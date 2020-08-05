@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0xF90427F00A495A28
-void TASK_KNOCKED_OUT(Any p0, Any p1, Any p2);
+void TASK_KNOCKED_OUT(Ped ped, Any p1, Any p2);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:

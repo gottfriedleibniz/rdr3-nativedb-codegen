@@ -5,8 +5,8 @@ ns: TASK
 
 ```c
 // 0x4391700CBD89C3D8
-void TASK_PERSISTENT_CHARACTER(Any p0);
+void TASK_PERSISTENT_CHARACTER(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:

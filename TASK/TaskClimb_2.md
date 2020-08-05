@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0xDF1D85BCAF60D537
-void _TASK_CLIMB_2(Any p0, Any p1);
+void _TASK_CLIMB_2(Ped ped, Any p1);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:

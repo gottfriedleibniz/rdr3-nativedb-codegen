@@ -5,9 +5,9 @@ ns: PLAYER
 
 ```c
 // 0x22B3CABEDDB538B2
-void _0x22B3CABEDDB538B2(Any p0, Any p1);
+void _0x22B3CABEDDB538B2(Player player, float p1);
 ```
 
 ## Parameters
-* **p0**:
+* **player**:
 * **p1**:

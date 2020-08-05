@@ -5,9 +5,9 @@ ns: TASK
 
 ```c
 // 0x0CFC13EBC19BCA52
-void TASK_FOLLOW_WAYPOINT_RECORDING_ADVANCED(Any p0, Any p1);
+void TASK_FOLLOW_WAYPOINT_RECORDING_ADVANCED(Ped ped, Any p1);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:

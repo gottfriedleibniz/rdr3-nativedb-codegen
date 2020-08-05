@@ -5,8 +5,8 @@ ns: AITRANSPORT
 
 ```c
 // 0xC273A5B8488F7838
-void TASK_EXIT_TRANSPORT(Any p0);
+void TASK_EXIT_TRANSPORT(Any* args);
 ```
 
 ## Parameters
-* **p0**:
+* **args**:

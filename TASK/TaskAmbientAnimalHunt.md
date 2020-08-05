@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0x4B39D8F9D0FE7749
-void TASK_AMBIENT_ANIMAL_HUNT(Any p0, Any p1, Any p2);
+void TASK_AMBIENT_ANIMAL_HUNT(Ped ped, Any p1, Any p2);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:

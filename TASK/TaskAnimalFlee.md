@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0xA899B61C66F09134
-void TASK_ANIMAL_FLEE(Any p0, Any p1, Any p2);
+void TASK_ANIMAL_FLEE(Ped ped, Any p1, Any p2);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:

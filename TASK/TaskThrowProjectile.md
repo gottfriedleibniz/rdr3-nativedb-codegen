@@ -5,11 +5,11 @@ ns: TASK
 
 ```c
 // 0x7285951DBF6B5A51 0xF65C20A7
-void TASK_THROW_PROJECTILE(Any p0, Any p1, Any p2, Any p3);
+void TASK_THROW_PROJECTILE(Ped ped, Any p1, Any p2, Any p3);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:
 * **p3**:

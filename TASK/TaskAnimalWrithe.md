@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0x8C038A39C4A4B6D6
-void TASK_ANIMAL_WRITHE(Any p0, Any p1, Any p2);
+void TASK_ANIMAL_WRITHE(Ped ped, Any p1, Any p2);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:

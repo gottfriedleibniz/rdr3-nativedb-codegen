@@ -5,10 +5,10 @@ ns: TASK
 
 ```c
 // 0xE1EF3C1216AFF2CD 0xDE3316AB
-void CLEAR_PED_TASKS(Any p0, Any p1, Any p2);
+void CLEAR_PED_TASKS(Ped ped, BOOL p1, BOOL p2);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:
