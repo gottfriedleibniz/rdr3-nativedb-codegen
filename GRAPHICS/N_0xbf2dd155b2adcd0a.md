@@ -5,8 +5,12 @@ ns: GRAPHICS
 
 ```c
 // 0xBF2DD155B2ADCD0A
-Any _0xBF2DD155B2ADCD0A(Any p0);
+BOOL _0xBF2DD155B2ADCD0A(char* effectName);
+```
+
+```
+ANIMPOSTFX_*
 ```
 
 ## Parameters
-* **p0**:
+* **effectName**:

@@ -5,9 +5,13 @@ ns: GRAPHICS
 
 ```c
 // 0xCAB4DD2D5B2B7246
-void _0xCAB4DD2D5B2B7246(Any p0, Any p1);
+void _0xCAB4DD2D5B2B7246(char* effectName, float p1);
+```
+
+```
+ANIMPOSTFX_*
 ```
 
 ## Parameters
-* **p0**:
+* **effectName**:
 * **p1**:

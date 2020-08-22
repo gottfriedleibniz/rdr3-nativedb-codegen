@@ -5,8 +5,12 @@ ns: GRAPHICS
 
 ```c
 // 0xEDA5CBECF56E1386
-void _0xEDA5CBECF56E1386(Any p0);
+void _0xEDA5CBECF56E1386(Hash effectNameHash);
+```
+
+```
+ANIMPOSTFX_*
 ```
 
 ## Parameters
-* **p0**:
+* **effectNameHash**:

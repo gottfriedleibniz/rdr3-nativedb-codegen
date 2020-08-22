@@ -5,11 +5,15 @@ ns: GRAPHICS
 
 ```c
 // 0xFBF161FCFEC8589E
-Any _0xFBF161FCFEC8589E(Any p0, Any p1, Any p2, Any p3);
+BOOL _0xFBF161FCFEC8589E(char* effectName, int p1, BOOL p2, BOOL* p3);
+```
+
+```
+ANIMPOSTFX_*
 ```
 
 ## Parameters
-* **p0**:
+* **effectName**:
 * **p1**:
 * **p2**:
 * **p3**:
