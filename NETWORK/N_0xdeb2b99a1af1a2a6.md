@@ -5,8 +5,12 @@ ns: NETWORK
 
 ```c
 // 0xDEB2B99A1AF1A2A6
-Any _0xDEB2B99A1AF1A2A6(Any p0);
+int _0xDEB2B99A1AF1A2A6(Any* netHandle);
+```
+
+```
+Always returns -1. Seems to be XB1 specific.
 ```
 
 ## Parameters
-* **p0**:
+* **netHandle**:

@@ -10,7 +10,7 @@ void SET_PED_MOVE_RATE_OVERRIDE(Ped ped, float value);
 
 ```
 Min: 0.0f
-Max: 1.5f
+Max: 1.15f
 ```
 
 ## Parameters

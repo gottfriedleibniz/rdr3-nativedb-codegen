@@ -5,14 +5,20 @@ ns: TASK
 
 ```c
 // 0xB31A277C1AC7B7FF
-void _TASK_EMOTE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8);
+void _TASK_EMOTE(Ped ped, int category, int p2, Hash emoteType, BOOL p4, BOOL p5, BOOL p6, BOOL p7, BOOL p8);
+```
+
+```
+category: https://alloc8or.re/rdr3/doc/enums/eEmoteCategory.txt
+p2: usually 2
+emoteType: https://alloc8or.re/rdr3/doc/enums/eEmoteType.txt
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **category**:
 * **p2**:
-* **p3**:
+* **emoteType**:
 * **p4**:
 * **p5**:
 * **p6**:

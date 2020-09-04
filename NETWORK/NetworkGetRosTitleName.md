@@ -10,6 +10,6 @@ char* _NETWORK_GET_ROS_TITLE_NAME();
 ```
 
 ```
-Returns CGameConfig->ConfigOnlineServices->RosTitleName (see gameconfig_pc.xml)
+Returns CGameConfig->ConfigOnlineServices->RosTitleName (see gameconfig.xml)
 ```
 

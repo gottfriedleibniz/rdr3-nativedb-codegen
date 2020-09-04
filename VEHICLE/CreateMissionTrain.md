@@ -10,10 +10,8 @@ Vehicle _CREATE_MISSION_TRAIN(Hash configHash, float x, float y, float z, BOOL p
 ```
 
 ```
-Known config hashes:
-ghost_train_config
-handcart_config
-minecart_config
+configHash: https://alloc8or.re/rdr3/doc/enums/eTrainConfig.txt
+For more information, see trainconfigs.ymt
 ```
 
 ## Parameters

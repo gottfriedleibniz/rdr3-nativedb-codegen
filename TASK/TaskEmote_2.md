@@ -5,14 +5,18 @@ ns: TASK
 
 ```c
 // 0x884E3436CC1F41DD
-void _TASK_EMOTE_2(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8);
+void _TASK_EMOTE_2(Ped ped, int category, int p2, Hash emoteType, BOOL p4, BOOL p5, BOOL p6, BOOL p7, BOOL p8);
+```
+
+```
+Similar to 0xB31A277C1AC7B7FF but checks if the ped's inventory contains the specified emote kit.
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **category**:
 * **p2**:
-* **p3**:
+* **emoteType**:
 * **p4**:
 * **p5**:
 * **p6**:
