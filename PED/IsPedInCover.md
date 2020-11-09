@@ -5,10 +5,10 @@ ns: PED
 
 ```c
 // 0x60DFD0691A170B88 0x972C5A8B
-BOOL IS_PED_IN_COVER(Any p0, Any p1, Any p2);
+BOOL IS_PED_IN_COVER(Ped ped, BOOL p1, BOOL p2);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
 * **p1**:
 * **p2**:
