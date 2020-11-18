@@ -5,8 +5,8 @@ ns: PED
 
 ```c
 // 0xEBAAC9A750E7563B
-Any _0xEBAAC9A750E7563B(Any p0);
+BOOL _0xEBAAC9A750E7563B(Ped ped);
 ```
 
 ## Parameters
-* **p0**:
+* **ped**:
