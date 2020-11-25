@@ -5,9 +5,9 @@ ns: MISC
 
 ```c
 // 0x9382D5D43D2AA6FF
-Any _DOES_STRING_EXIST_IN_STRING(Any p0, Any p1);
+BOOL _DOES_STRING_EXIST_IN_STRING(char* string1, char* string2);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **string1**:
+* **string2**:

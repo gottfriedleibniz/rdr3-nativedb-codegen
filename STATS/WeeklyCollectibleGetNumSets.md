@@ -5,8 +5,8 @@ ns: STATS
 
 ```c
 // 0x8F5317729F791D10
-Any WEEKLY_COLLECTIBLE_GET_NUM_SETS(Any p0);
+int WEEKLY_COLLECTIBLE_GET_NUM_SETS(Hash chalHash);
 ```
 
 ## Parameters
-* **p0**:
+* **chalHash**:

@@ -6,7 +6,7 @@ aliases: ["0x8569C38D2FB80650"]
 
 ```c
 // 0x8569C38D2FB80650
-Any _IS_SCENARIO_POINT_FLAG_SET(int scenario, int flag);
+BOOL _IS_SCENARIO_POINT_FLAG_SET(int scenario, int flag);
 ```
 
 ## Parameters

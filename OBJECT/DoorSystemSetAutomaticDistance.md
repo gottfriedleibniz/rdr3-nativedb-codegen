@@ -5,9 +5,9 @@ ns: OBJECT
 
 ```c
 // 0x9BA001CB45CBF627 0x47531446
-void DOOR_SYSTEM_SET_AUTOMATIC_DISTANCE(Any p0, Any p1);
+void DOOR_SYSTEM_SET_AUTOMATIC_DISTANCE(Hash doorHash, float distance);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **doorHash**:
+* **distance**:

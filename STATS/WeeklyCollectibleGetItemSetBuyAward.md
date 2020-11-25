@@ -5,9 +5,9 @@ ns: STATS
 
 ```c
 // 0x610783F646894D25
-Any WEEKLY_COLLECTIBLE_GET_ITEM_SET_BUY_AWARD(Any p0, Any p1);
+Hash WEEKLY_COLLECTIBLE_GET_ITEM_SET_BUY_AWARD(Hash chalHash, int index);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **chalHash**:
+* **index**:

@@ -5,9 +5,9 @@ ns: STATS
 
 ```c
 // 0x00CE6A93324A590B
-void CHAL_NET_STOP_GOAL(Any p0, Any p1);
+void CHAL_NET_STOP_GOAL(Hash chalHash, Hash goalHash);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **chalHash**:
+* **goalHash**:

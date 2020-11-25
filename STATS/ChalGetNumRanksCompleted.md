@@ -5,8 +5,8 @@ ns: STATS
 
 ```c
 // 0x58CB53DB63F84DE9
-Any CHAL_GET_NUM_RANKS_COMPLETED(Any p0);
+int CHAL_GET_NUM_RANKS_COMPLETED(Hash chalHash);
 ```
 
 ## Parameters
-* **p0**:
+* **chalHash**:

@@ -5,16 +5,20 @@ ns: OBJECT
 
 ```c
 // 0x6BAB9442830C7F53 0xDF83DB47
-void DOOR_SYSTEM_SET_DOOR_STATE(Any p0, Any p1);
+void DOOR_SYSTEM_SET_DOOR_STATE(Hash doorHash, int state);
 ```
 
 ```
-Sets the acceleration limit of a door.
-How fast it can open, or the inverse hinge resistance.
-
-A limit of 0 seems to lock doors.
+Door lock states: (GTAV v323)
+0: UNLOCKED
+1: LOCKED
+2: DOORSTATE_FORCE_LOCKED_UNTIL_OUT_OF_AREA
+3: DOORSTATE_FORCE_UNLOCKED_THIS_FRAME
+4: DOORSTATE_FORCE_LOCKED_THIS_FRAME
+5: DOORSTATE_FORCE_OPEN_THIS_FRAME
+6: DOORSTATE_FORCE_CLOSED_THIS_FRAME
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **doorHash**:
+* **state**:

@@ -5,9 +5,9 @@ ns: STATS
 
 ```c
 // 0x04DAC3929796EB87
-Any CHAL_IS_GOAL_ACTIVE(Any p0, Any p1);
+BOOL CHAL_IS_GOAL_ACTIVE(Hash chalHash, Hash goalHash);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **chalHash**:
+* **goalHash**:

@@ -5,9 +5,9 @@ ns: STATS
 
 ```c
 // 0xC0BB774787BBF301
-Any CHAL_MISSION_IS_GOAL_COMPLETE(Any p0, Any p1);
+BOOL CHAL_MISSION_IS_GOAL_COMPLETE(Hash missionHash, Hash goalHash);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **missionHash**:
+* **goalHash**:

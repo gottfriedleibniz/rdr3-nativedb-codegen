@@ -5,8 +5,8 @@ ns: STATS
 
 ```c
 // 0x58CB53DB63F84DEA
-Any CHAL_GET_MAX_RANKS(Any p0);
+int CHAL_GET_MAX_RANKS(Hash chalHash);
 ```
 
 ## Parameters
-* **p0**:
+* **chalHash**:

@@ -5,8 +5,8 @@ ns: STATS
 
 ```c
 // 0x0B0576DD3A75E58D
-Any CHAL_MISSION_GET_NUM_GOALS(Any p0);
+int CHAL_MISSION_GET_NUM_GOALS(Hash missionHash);
 ```
 
 ## Parameters
-* **p0**:
+* **missionHash**:

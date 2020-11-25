@@ -5,9 +5,9 @@ ns: STATS
 
 ```c
 // 0x7D675C9DDDB365BE
-Any WEEKLY_COLLECTIBLE_GET_NUM_ITEMS_IN_SET(Any p0, Any p1);
+int WEEKLY_COLLECTIBLE_GET_NUM_ITEMS_IN_SET(Hash chalHash, int index);
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **chalHash**:
+* **index**:

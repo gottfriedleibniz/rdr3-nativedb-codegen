@@ -5,17 +5,17 @@ ns: WEAPON
 
 ```c
 // 0xADF692B254977C0C 0xB8278882
-void SET_CURRENT_PED_WEAPON(Ped ped, Hash weaponHash, BOOL equipNow, int hand, BOOL p4, BOOL p5);
+void SET_CURRENT_PED_WEAPON(Ped ped, Hash weaponHash, BOOL equipNow, int attachPoint, BOOL p4, BOOL p5);
 ```
 
 ```
-hand: https://alloc8or.re/rdr3/doc/enums/eHand.txt
+attachPoint: https://alloc8or.re/rdr3/doc/enums/eWeaponAttachPoint.txt
 ```
 
 ## Parameters
 * **ped**:
 * **weaponHash**:
 * **equipNow**:
-* **hand**:
+* **attachPoint**:
 * **p4**:
 * **p5**:

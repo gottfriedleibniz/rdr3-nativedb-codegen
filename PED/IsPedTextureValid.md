@@ -6,7 +6,7 @@ aliases: ["0x31DC8D3F216D8509"]
 
 ```c
 // 0x31DC8D3F216D8509
-Any _IS_PED_TEXTURE_VALID(int textureId);
+BOOL _IS_PED_TEXTURE_VALID(int textureId);
 ```
 
 ## Parameters

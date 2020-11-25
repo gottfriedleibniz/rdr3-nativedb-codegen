@@ -5,7 +5,7 @@ ns: STATS
 
 ```c
 // 0x808712E428F697B8
-Any CHAL_ACHIEVEMENT_GET_PROGRESS_INT(Any p0, Any p1);
+int CHAL_ACHIEVEMENT_GET_PROGRESS_INT(Hash p0, Hash p1);
 ```
 
 ## Parameters
