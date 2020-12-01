@@ -6,7 +6,7 @@ aliases: ["0xC239DBD9A57D2A71"]
 
 ```c
 // 0xC239DBD9A57D2A71
-Vehicle _CREATE_MISSION_TRAIN(Hash configHash, float x, float y, float z, BOOL p4, BOOL p5, BOOL p6, BOOL p7);
+Vehicle _CREATE_MISSION_TRAIN(Hash configHash, float x, float y, float z, BOOL p4, BOOL passengers, BOOL p6, BOOL p7);
 ```
 
 ```
@@ -20,6 +20,6 @@ For more information, see trainconfigs.ymt
 * **y**:
 * **z**:
 * **p4**:
-* **p5**:
+* **passengers**:
 * **p6**:
 * **p7**:
