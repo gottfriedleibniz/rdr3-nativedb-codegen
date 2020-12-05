@@ -8,6 +8,10 @@ ns: PED
 BOOL IS_PED_IN_COMBAT(Ped ped, Ped target);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **target**:

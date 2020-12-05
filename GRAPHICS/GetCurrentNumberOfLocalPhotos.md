@@ -9,3 +9,7 @@ aliases: ["0x78C56B8A7B1D000C"]
 int _GET_CURRENT_NUMBER_OF_LOCAL_PHOTOS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

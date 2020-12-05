@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL NETWORK_HAS_CONTROL_OF_PICKUP_PLACEMENT(Any p0);
 ```
 
+```
+NativeDB Introduced: v1311
+```
+
 ## Parameters
 * **p0**:

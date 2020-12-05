@@ -8,3 +8,7 @@ ns: SPACTIONPROXY
 BOOL _SPACTIONPROXY_MANAGER_IS_READY();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

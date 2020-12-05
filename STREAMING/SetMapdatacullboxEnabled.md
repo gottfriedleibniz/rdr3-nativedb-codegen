@@ -8,6 +8,10 @@ ns: STREAMING
 void SET_MAPDATACULLBOX_ENABLED(char* name, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **name**:
 * **toggle**:

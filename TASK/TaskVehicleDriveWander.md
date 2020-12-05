@@ -8,6 +8,10 @@ ns: TASK
 void TASK_VEHICLE_DRIVE_WANDER(Ped ped, Vehicle vehicle, float speed, int drivingStyle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **vehicle**:

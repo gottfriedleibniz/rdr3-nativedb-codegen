@@ -8,5 +8,9 @@ ns: TASK
 BOOL GET_IS_WAYPOINT_RECORDING_LOADED(char* name);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **name**:

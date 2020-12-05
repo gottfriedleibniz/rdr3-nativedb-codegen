@@ -8,5 +8,9 @@ ns: MAP
 Vector3 GET_BLIP_COORDS(Blip blip);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **blip**:

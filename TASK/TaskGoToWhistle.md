@@ -8,6 +8,10 @@ ns: TASK
 void TASK_GO_TO_WHISTLE(Ped ped, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

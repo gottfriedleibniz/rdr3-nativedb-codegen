@@ -8,5 +8,9 @@ ns: INTERIOR
 BOOL IS_VALID_INTERIOR(int interior);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **interior**:

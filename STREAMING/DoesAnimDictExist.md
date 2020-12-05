@@ -8,5 +8,9 @@ ns: STREAMING
 BOOL DOES_ANIM_DICT_EXIST(char* animDict);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animDict**:

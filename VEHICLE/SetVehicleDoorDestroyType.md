@@ -10,6 +10,8 @@ void _SET_VEHICLE_DOOR_DESTROY_TYPE(Vehicle vehicle, int doorIndex, int destroyT
 
 ```
 destroyType is 1 for opens on damage, 2 for breaks on damage.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

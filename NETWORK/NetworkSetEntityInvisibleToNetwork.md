@@ -17,6 +17,8 @@ if set to false other network player can see it
 pc or last gen?
 
 ^^ last-gen
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -12,6 +12,8 @@ void _SET_THREAD_PRIORITY(int priority);
 0 = high
 1 = normal
 2 = low
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

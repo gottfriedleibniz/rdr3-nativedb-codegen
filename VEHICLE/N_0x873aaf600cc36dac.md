@@ -8,5 +8,9 @@ ns: VEHICLE
 void _0x873AAF600CC36DAC(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

@@ -9,5 +9,9 @@ aliases: ["_ARRAY_VALUE_GET_SIZE"]
 int DATAARRAY_GET_COUNT(Any* arrayData);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **arrayData**:

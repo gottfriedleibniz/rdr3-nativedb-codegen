@@ -10,5 +10,7 @@ void POPULATE_NOW();
 
 ```
 spawns a few distant/out-of-sight peds, vehicles, animals etc each time it is called
+
+NativeDB Introduced: v1207
 ```
 

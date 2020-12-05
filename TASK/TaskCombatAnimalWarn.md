@@ -8,6 +8,10 @@ ns: TASK
 void TASK_COMBAT_ANIMAL_WARN(Ped ped, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

@@ -8,6 +8,10 @@ ns: TASK
 BOOL WAYPOINT_RECORDING_GET_NUM_POINTS(char* name, int* points);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **name**:
 * **points**:

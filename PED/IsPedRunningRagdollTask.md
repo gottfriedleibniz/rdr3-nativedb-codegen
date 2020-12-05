@@ -8,5 +8,9 @@ ns: PED
 BOOL IS_PED_RUNNING_RAGDOLL_TASK(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

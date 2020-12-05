@@ -9,3 +9,7 @@ aliases: ["0x027CAB2C3AF27010"]
 void _FREEZE_GAMEPLAY_CAM_THIS_FRAME();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

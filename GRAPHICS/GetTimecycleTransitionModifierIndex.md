@@ -8,3 +8,7 @@ ns: GRAPHICS
 int GET_TIMECYCLE_TRANSITION_MODIFIER_INDEX();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

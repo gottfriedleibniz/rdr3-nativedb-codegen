@@ -10,6 +10,8 @@ BOOL FORCE_PED_MOTION_STATE(Ped ped, Hash motionStateHash, BOOL p2, int p3, BOOL
 
 ```
 motionStateHash: https://alloc8or.re/rdr3/doc/enums/eMotionState.txt
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

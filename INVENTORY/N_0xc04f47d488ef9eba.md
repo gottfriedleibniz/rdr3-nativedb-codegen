@@ -8,6 +8,10 @@ ns: INVENTORY
 void _0xC04F47D488EF9EBA(Any p0, Any p1, Any p2, Any p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

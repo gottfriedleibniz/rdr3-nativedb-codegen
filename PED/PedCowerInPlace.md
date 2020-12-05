@@ -8,6 +8,10 @@ ns: PED
 void PED_COWER_IN_PLACE(Ped ped, Ped ped2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **ped2**:

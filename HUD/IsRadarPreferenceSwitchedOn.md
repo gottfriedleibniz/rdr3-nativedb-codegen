@@ -8,3 +8,7 @@ ns: HUD
 BOOL IS_RADAR_PREFERENCE_SWITCHED_ON();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

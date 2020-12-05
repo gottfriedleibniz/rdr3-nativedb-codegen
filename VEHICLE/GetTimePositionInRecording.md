@@ -8,5 +8,9 @@ ns: VEHICLE
 float GET_TIME_POSITION_IN_RECORDING(Vehicle vehicle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:

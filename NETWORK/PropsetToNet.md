@@ -9,5 +9,9 @@ aliases: ["0x74F99EF7EF503398"]
 int _PROPSET_TO_NET(int propSet);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **propSet**:

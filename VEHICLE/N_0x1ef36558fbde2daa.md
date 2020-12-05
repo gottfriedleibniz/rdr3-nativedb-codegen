@@ -8,5 +8,9 @@ ns: VEHICLE
 void _0x1EF36558FBDE2DAA(Vehicle vehicle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:

@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_POSITION"]
 void _UIPROMPT_CONTEXT_SET_POINT(int prompt, float x, float y, float z);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **x**:

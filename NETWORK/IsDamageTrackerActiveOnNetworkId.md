@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL IS_DAMAGE_TRACKER_ACTIVE_ON_NETWORK_ID(int netID);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **netID**:

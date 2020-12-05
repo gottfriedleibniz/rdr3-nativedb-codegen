@@ -9,6 +9,10 @@ aliases: ["0xE124889AE0521FCF"]
 void _SET_APPLY_OBJECT_TXD(Object object, Hash txdHash, Any p2, Any p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **object**:
 * **txdHash**:

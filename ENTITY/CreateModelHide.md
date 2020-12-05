@@ -8,6 +8,10 @@ ns: ENTITY
 void CREATE_MODEL_HIDE(float x, float y, float z, float radius, Hash model, BOOL p5);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x**:
 * **y**:

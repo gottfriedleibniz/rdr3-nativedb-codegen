@@ -8,5 +8,9 @@ ns: NETWORK
 void _0xBB1EC8C2EEF33BAA(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

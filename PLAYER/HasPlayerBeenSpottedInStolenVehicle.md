@@ -8,5 +8,9 @@ ns: PLAYER
 BOOL HAS_PLAYER_BEEN_SPOTTED_IN_STOLEN_VEHICLE(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

@@ -8,3 +8,7 @@ ns: HUD
 BOOL IS_HUD_HIDDEN();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

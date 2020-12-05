@@ -8,6 +8,10 @@ ns: PLAYER
 void SET_ALL_RANDOM_PEDS_FLEE(Player player, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:
 * **toggle**:

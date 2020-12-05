@@ -8,5 +8,9 @@ ns: UIAPPS
 BOOL _IS_APP_ACTIVE(Hash appNameHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **appNameHash**:

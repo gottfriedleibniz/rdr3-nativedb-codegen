@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_DESIRED_HEADING(Ped ped, float heading);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **heading**:

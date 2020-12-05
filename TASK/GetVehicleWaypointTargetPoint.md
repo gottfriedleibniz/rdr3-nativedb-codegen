@@ -8,5 +8,9 @@ ns: TASK
 int GET_VEHICLE_WAYPOINT_TARGET_POINT(Vehicle vehicle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:

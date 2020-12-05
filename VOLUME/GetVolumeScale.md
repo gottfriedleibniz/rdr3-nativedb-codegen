@@ -9,5 +9,9 @@ aliases: ["0x3E2A25B2416DD67E"]
 Vector3 _GET_VOLUME_SCALE(int volume);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **volume**:

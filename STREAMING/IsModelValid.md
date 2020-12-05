@@ -10,6 +10,8 @@ BOOL IS_MODEL_VALID(Hash model);
 
 ```
 Returns whether the specified model is valid
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

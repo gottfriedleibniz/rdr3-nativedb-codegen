@@ -8,6 +8,10 @@ ns: TASK
 void TASK_PICKUP_CARRIABLE_ENTITY(Ped ped, Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **entity**:

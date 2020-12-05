@@ -8,3 +8,7 @@ ns: NETWORK
 BOOL _0xAADED99A6B268A27();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

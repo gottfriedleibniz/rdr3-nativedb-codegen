@@ -8,6 +8,10 @@ ns: DATABINDING
 Any _DATABINDING_GET_DATA_CONTAINER_FROM_CHILD_INDEX(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

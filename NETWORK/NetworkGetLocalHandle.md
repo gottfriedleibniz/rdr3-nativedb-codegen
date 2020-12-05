@@ -8,5 +8,9 @@ ns: NETWORK
 void NETWORK_GET_LOCAL_HANDLE(Any* netHandle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **netHandle**:

@@ -8,3 +8,7 @@ ns: TASK
 void RESET_SCENARIO_TYPES_ENABLED();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -9,6 +9,10 @@ aliases: ["_PROMPT_CREATE"]
 int _UIPROMPT_CREATE(Hash inputHash, char* labelName, Any p2, Any p3, Any p4, int p5);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **inputHash**:
 * **labelName**:

@@ -11,6 +11,8 @@ BOOL _BLIP_REMOVE_MODIFIER(Blip blip, Hash modifierHash);
 
 ```
 If modifierHash is 0, ALL modifiers will be removed.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

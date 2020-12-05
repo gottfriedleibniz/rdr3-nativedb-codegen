@@ -12,6 +12,8 @@ BOOL IS_ENTITY_AT_ENTITY(Entity entity1, Entity entity2, float xSize, float ySiz
 Checks if entity1 is within the box defined by x/y/zSize of entity2.
 
 Last three parameters are almost alwasy p5 = 0, p6 = 1, p7 = 0
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

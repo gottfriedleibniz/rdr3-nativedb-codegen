@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_TARGET_MODE_TARGET"]
 void _UIPROMPT_SET_TARGET_MODE_TARGET(int prompt, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **p1**:

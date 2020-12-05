@@ -8,6 +8,10 @@ ns: ANIMSCENE
 void SET_ANIM_SCENE_PLAYBACK_LIST(int animScene, char* playbackListName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animScene**:
 * **playbackListName**:

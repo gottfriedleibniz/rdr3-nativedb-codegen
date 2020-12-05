@@ -8,6 +8,10 @@ ns: TASK
 void TASK_PERFORM_SEQUENCE_FROM_PROGRESS(Ped ped, Any p1, Any p2, Any p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

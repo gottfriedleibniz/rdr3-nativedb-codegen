@@ -8,5 +8,9 @@ ns: SCRIPTS
 void REQUEST_SCRIPT_WITH_NAME_HASH(Hash scriptHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scriptHash**:

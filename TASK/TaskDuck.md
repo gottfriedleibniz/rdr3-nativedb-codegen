@@ -8,6 +8,10 @@ ns: TASK
 void TASK_DUCK(Ped ped, int p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

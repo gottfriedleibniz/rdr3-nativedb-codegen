@@ -8,3 +8,7 @@ ns: CAM
 float GET_FIRST_PERSON_AIM_CAM_ZOOM_FACTOR();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,5 +8,9 @@ ns: STREAMING
 void SET_GAME_PAUSES_FOR_STREAMING(BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **toggle**:

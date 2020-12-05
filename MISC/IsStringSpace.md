@@ -11,6 +11,8 @@ BOOL _IS_STRING_SPACE(char* string);
 
 ```
 Returns true if the entire string consists only of space characters.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

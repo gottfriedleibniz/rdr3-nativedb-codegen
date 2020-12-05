@@ -8,6 +8,10 @@ ns: AUDIO
 void SET_AMBIENT_ZONE_LIST_STATE(Any* p0, BOOL p1, BOOL p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

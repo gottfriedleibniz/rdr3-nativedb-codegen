@@ -8,6 +8,10 @@ ns: STREAMING
 void _0xD840C130D7AACFA5(Any p0, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

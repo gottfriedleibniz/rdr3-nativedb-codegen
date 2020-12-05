@@ -8,5 +8,9 @@ ns: COMPENDIUM
 Any COMPENDIUM_ANIMAL_GET_SAMPLE_INVENTORY_ITEM(Any p0);
 ```
 
+```
+NativeDB Introduced: v1311
+```
+
 ## Parameters
 * **p0**:

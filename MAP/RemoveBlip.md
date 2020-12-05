@@ -8,5 +8,9 @@ ns: MAP
 void REMOVE_BLIP(Blip* blip);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **blip**:

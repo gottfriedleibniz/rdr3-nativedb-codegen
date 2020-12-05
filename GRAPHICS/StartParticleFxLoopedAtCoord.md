@@ -8,6 +8,10 @@ ns: GRAPHICS
 int START_PARTICLE_FX_LOOPED_AT_COORD(char* effectName, float x, float y, float z, float xRot, float yRot, float zRot, float scale, BOOL xAxis, BOOL yAxis, BOOL zAxis, BOOL p11);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **effectName**:
 * **x**:

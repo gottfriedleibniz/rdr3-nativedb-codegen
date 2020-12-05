@@ -14,6 +14,8 @@ windowIndex:
 1 = Front Left Window
 2 = Back Right Window
 3 = Back Left Window
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

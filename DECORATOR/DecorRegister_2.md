@@ -8,6 +8,10 @@ ns: DECORATOR
 void _DECOR_REGISTER_2(char* propertyName, int type, BOOL p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **propertyName**:
 * **type**:

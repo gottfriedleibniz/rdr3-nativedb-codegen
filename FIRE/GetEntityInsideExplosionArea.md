@@ -10,6 +10,8 @@ Entity _GET_ENTITY_INSIDE_EXPLOSION_AREA(int explosionType, float x1, float y1, 
 
 ```
 explosionType: see ADD_EXPLOSION
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

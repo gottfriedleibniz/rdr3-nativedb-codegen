@@ -12,6 +12,8 @@ void _SET_FAR_SHADOWS_SUPPRESSED(BOOL toggle);
 When this is set to ON, shadows only draw as you get nearer.
 
 When OFF, they draw from a further distance.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

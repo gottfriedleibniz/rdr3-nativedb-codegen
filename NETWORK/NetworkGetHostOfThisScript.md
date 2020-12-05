@@ -8,3 +8,7 @@ ns: NETWORK
 Player NETWORK_GET_HOST_OF_THIS_SCRIPT();
 ```
 
+```
+NativeDB Introduced: v1232
+```
+

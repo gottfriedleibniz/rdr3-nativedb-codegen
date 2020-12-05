@@ -8,3 +8,7 @@ ns: NETWORK
 Any _0xBAFFDE5F953720D9();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

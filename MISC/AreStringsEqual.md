@@ -8,6 +8,10 @@ ns: MISC
 BOOL ARE_STRINGS_EQUAL(char* string1, char* string2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **string1**:
 * **string2**:

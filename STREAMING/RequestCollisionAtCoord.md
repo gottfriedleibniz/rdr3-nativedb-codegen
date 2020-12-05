@@ -8,6 +8,10 @@ ns: STREAMING
 void REQUEST_COLLISION_AT_COORD(float x, float y, float z);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x**:
 * **y**:

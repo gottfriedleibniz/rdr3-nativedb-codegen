@@ -8,3 +8,7 @@ ns: HUD
 Any _JOURNAL_GET_ENTRY_COUNT();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

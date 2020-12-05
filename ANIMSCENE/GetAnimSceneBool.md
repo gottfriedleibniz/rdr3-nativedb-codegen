@@ -9,6 +9,10 @@ aliases: ["0x07A6F6447ECA9B64"]
 BOOL GET_ANIM_SCENE_BOOL(int animScene, char* name);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animScene**:
 * **name**:

@@ -8,3 +8,7 @@ ns: MISC
 int GET_FRAME_COUNT();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

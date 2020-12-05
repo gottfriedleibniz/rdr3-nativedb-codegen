@@ -11,6 +11,8 @@ BOOL IS_PED_SITTING_IN_VEHICLE(Ped ped, Vehicle vehicle);
 ```
 Detect if ped is sitting in the specified vehicle
 [True/False]
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

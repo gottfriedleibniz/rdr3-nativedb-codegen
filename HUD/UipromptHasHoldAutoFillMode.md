@@ -9,5 +9,9 @@ aliases: ["_PROMPT_HAS_HOLD_AUTO_FILL_MODE"]
 BOOL _UIPROMPT_HAS_HOLD_AUTO_FILL_MODE(int prompt);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:

@@ -8,6 +8,10 @@ ns: OBJECT
 float GET_OBJECT_FRAGMENT_DAMAGE_HEALTH(Any p0, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

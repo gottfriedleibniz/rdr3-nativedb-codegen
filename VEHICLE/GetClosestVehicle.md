@@ -8,6 +8,10 @@ ns: VEHICLE
 Vehicle GET_CLOSEST_VEHICLE(float x, float y, float z, float radius, Hash modelHash, int flags);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x**:
 * **y**:

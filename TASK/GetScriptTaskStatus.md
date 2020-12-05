@@ -11,6 +11,8 @@ int GET_SCRIPT_TASK_STATUS(Ped ped, Hash taskHash, BOOL p2);
 ```
 Gets the status of a script-assigned task.
 taskHash: https://alloc8or.re/rdr3/doc/enums/eScriptTaskHash.txt
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

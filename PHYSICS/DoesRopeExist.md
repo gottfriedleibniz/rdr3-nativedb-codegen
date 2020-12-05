@@ -8,5 +8,9 @@ ns: PHYSICS
 BOOL DOES_ROPE_EXIST(int ropeId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ropeId**:

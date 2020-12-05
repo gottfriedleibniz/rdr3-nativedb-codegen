@@ -10,5 +10,7 @@ int _LOCALIZATION_GET_SYSTEM_LANGUAGE();
 
 ```
 Same return values as GET_CURRENT_LANGUAGE
+
+NativeDB Introduced: v1207
 ```
 

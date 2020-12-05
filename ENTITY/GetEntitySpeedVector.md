@@ -8,6 +8,10 @@ ns: ENTITY
 Vector3 GET_ENTITY_SPEED_VECTOR(Entity entity, BOOL relative);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **relative**:

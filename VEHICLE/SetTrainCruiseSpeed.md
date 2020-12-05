@@ -8,6 +8,10 @@ ns: VEHICLE
 void SET_TRAIN_CRUISE_SPEED(Vehicle train, float speed);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **train**:
 * **speed**:

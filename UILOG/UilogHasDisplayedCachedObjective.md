@@ -9,3 +9,7 @@ aliases: ["_LOG_HAS_DISPLAYED_CACHED_OBJECTIVE"]
 BOOL _UILOG_HAS_DISPLAYED_CACHED_OBJECTIVE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

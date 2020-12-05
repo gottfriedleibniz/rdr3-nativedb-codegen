@@ -8,5 +8,9 @@ ns: NETSHOPPING
 Hash _CASHINVENTORY_TRANSACTION_GET_ACTION(int id);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **id**:

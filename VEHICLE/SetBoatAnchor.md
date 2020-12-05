@@ -8,6 +8,10 @@ ns: VEHICLE
 void SET_BOAT_ANCHOR(Vehicle vehicle, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **toggle**:

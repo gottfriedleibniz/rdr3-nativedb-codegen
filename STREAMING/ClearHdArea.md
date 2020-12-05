@@ -8,3 +8,7 @@ ns: STREAMING
 void CLEAR_HD_AREA();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

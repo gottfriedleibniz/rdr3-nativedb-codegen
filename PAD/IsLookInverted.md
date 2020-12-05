@@ -8,3 +8,7 @@ ns: PAD
 BOOL IS_LOOK_INVERTED();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

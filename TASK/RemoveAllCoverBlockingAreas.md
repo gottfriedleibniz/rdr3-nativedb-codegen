@@ -8,3 +8,7 @@ ns: TASK
 void REMOVE_ALL_COVER_BLOCKING_AREAS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

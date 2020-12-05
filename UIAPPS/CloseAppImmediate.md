@@ -9,5 +9,9 @@ aliases: ["_CLOSE_APP"]
 void _CLOSE_APP_IMMEDIATE(char* appName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **appName**:

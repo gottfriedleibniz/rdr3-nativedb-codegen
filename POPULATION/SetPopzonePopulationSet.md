@@ -8,6 +8,10 @@ ns: POPULATION
 void SET_POPZONE_POPULATION_SET(int popZone, Hash populationSetHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **popZone**:
 * **populationSetHash**:

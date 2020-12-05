@@ -11,6 +11,8 @@ Any _SHOW_ADVANCED_NOTIFICATION(Any* p0, Any* p1, int p2, int p3);
 
 ```
 Example : https://pastebin.com/YZMBkAmW
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

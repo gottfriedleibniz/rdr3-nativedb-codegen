@@ -8,5 +8,9 @@ ns: AUDIO
 BOOL IS_ANIMAL_VOCALIZATION_PLAYING(Ped pedHandle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **pedHandle**:

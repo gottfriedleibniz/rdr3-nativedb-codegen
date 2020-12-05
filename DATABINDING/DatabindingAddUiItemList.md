@@ -8,6 +8,10 @@ ns: DATABINDING
 Any _DATABINDING_ADD_UI_ITEM_LIST(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

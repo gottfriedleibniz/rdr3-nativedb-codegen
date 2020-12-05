@@ -8,6 +8,10 @@ ns: AUDIO
 void PAUSE_SCRIPTED_CONVERSATION(char* p0, BOOL p1, BOOL p2, BOOL p3, BOOL p4);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

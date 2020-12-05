@@ -8,6 +8,10 @@ ns: PED
 void CLEAR_PED_DAMAGE_DECAL_BY_ZONE(Ped ped, int p1, char* p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

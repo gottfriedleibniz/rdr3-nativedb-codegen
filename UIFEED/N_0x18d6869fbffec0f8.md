@@ -8,6 +8,10 @@ ns: UIFEED
 Any _0x18D6869FBFFEC0F8(Any p0, Any p1, Any p2, Any p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

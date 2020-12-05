@@ -8,6 +8,10 @@ ns: FLOCK
 void SET_SPECIES_TUNING_FLOAT_PARAM(Hash p0, int p1, int p2, float p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

@@ -10,5 +10,7 @@ char* _GET_GAME_BUILD_STRING();
 
 ```
 Return example: 1207.69_dev_pc
+
+NativeDB Introduced: v1207
 ```
 

@@ -8,6 +8,10 @@ ns: CLOCK
 void ADVANCE_CLOCK_TIME_TO(int hour, int minute, int second);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **hour**:
 * **minute**:

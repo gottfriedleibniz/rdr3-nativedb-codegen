@@ -9,3 +9,7 @@ aliases: ["0xC59AB6A04333C502"]
 char* _GET_LAUNCH_PARAM_STRING();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

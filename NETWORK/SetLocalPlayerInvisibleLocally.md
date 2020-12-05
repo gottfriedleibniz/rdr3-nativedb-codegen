@@ -8,5 +8,9 @@ ns: NETWORK
 void SET_LOCAL_PLAYER_INVISIBLE_LOCALLY(BOOL p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

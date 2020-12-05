@@ -8,5 +8,9 @@ ns: PED
 void CLEAR_FACIAL_IDLE_ANIM_OVERRIDE(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

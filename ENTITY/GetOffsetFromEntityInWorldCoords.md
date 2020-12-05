@@ -14,6 +14,8 @@ Offset values are relative to the entity.
 x = left/right
 y = forward/backward
 z = up/down
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

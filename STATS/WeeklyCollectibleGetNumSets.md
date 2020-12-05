@@ -8,5 +8,9 @@ ns: STATS
 int WEEKLY_COLLECTIBLE_GET_NUM_SETS(Hash chalHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **chalHash**:

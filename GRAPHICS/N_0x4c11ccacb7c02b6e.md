@@ -8,5 +8,9 @@ ns: GRAPHICS
 Any _0x4C11CCACB7C02B6E(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

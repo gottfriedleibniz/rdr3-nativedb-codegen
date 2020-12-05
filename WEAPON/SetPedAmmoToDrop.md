@@ -8,6 +8,10 @@ ns: WEAPON
 void SET_PED_AMMO_TO_DROP(Ped ped, int p1, int p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

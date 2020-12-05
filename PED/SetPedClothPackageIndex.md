@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_CLOTH_PACKAGE_INDEX(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

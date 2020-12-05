@@ -8,6 +8,10 @@ ns: CLOCK
 void ADD_TO_CLOCK_TIME(int hours, int minutes, int seconds);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **hours**:
 * **minutes**:

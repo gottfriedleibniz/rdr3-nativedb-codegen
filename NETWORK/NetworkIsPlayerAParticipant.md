@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL NETWORK_IS_PLAYER_A_PARTICIPANT(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

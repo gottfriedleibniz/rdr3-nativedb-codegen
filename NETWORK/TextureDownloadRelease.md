@@ -8,5 +8,9 @@ ns: NETWORK
 void TEXTURE_DOWNLOAD_RELEASE(int p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

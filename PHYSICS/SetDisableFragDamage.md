@@ -8,6 +8,10 @@ ns: PHYSICS
 void SET_DISABLE_FRAG_DAMAGE(Object object, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **object**:
 * **toggle**:

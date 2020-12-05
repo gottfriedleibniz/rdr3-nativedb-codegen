@@ -8,5 +8,9 @@ ns: ITEMSET
 BOOL IS_ITEMSET_VALID(int itemset);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **itemset**:

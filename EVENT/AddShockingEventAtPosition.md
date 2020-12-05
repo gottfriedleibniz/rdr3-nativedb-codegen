@@ -10,6 +10,8 @@ ScrHandle ADD_SHOCKING_EVENT_AT_POSITION(Hash eventType, float x, float y, float
 
 ```
 eventType: https://alloc8or.re/rdr3/doc/enums/eEventType.txt
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

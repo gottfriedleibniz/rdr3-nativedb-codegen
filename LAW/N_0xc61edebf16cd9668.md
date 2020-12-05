@@ -8,6 +8,10 @@ ns: LAW
 void _0xC61EDEBF16CD9668(Any p0, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

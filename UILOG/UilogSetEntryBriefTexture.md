@@ -9,6 +9,10 @@ aliases: ["_LOG_SET_ENTRY_BRIEF_TEXTURE"]
 void _UILOG_SET_ENTRY_BRIEF_TEXTURE(int p0, Hash p1, Hash p2, Hash p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

@@ -8,6 +8,10 @@ ns: ENTITY
 BOOL DOES_ENTITY_BELONG_TO_THIS_SCRIPT(Entity entity, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **p1**:

@@ -8,6 +8,10 @@ ns: GRAPHICS
 BOOL START_PARTICLE_FX_NON_LOOPED_ON_PED_BONE(char* effectName, Ped ped, float offsetX, float offsetY, float offsetZ, float rotX, float rotY, float rotZ, int boneIndex, float scale, BOOL axisX, BOOL axisY, BOOL axisZ);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **effectName**:
 * **ped**:

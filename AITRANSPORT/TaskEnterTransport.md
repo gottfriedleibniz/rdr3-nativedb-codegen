@@ -8,5 +8,9 @@ ns: AITRANSPORT
 void TASK_ENTER_TRANSPORT(Any* args);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **args**:

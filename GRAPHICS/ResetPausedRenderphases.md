@@ -8,3 +8,7 @@ ns: GRAPHICS
 void RESET_PAUSED_RENDERPHASES();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

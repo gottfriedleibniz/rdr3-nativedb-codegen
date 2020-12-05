@@ -8,6 +8,10 @@ ns: NETWORK
 void NETWORK_CONCEAL_PLAYER(Player player, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:
 * **toggle**:

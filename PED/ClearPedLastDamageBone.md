@@ -8,5 +8,9 @@ ns: PED
 void CLEAR_PED_LAST_DAMAGE_BONE(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

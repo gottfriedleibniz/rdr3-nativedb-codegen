@@ -9,3 +9,7 @@ aliases: ["0xCB4EF7EDAE2E16F1"]
 int _CREATE_HERD();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

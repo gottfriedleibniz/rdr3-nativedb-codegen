@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL IS_NETWORK_ID_OWNED_BY_PARTICIPANT(int netId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **netId**:

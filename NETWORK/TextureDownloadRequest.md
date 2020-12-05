@@ -8,6 +8,10 @@ ns: NETWORK
 int TEXTURE_DOWNLOAD_REQUEST(int* PlayerHandle, char* FilePath, char* Name, BOOL p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **PlayerHandle**:
 * **FilePath**:

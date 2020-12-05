@@ -8,6 +8,10 @@ ns: MAP
 void ADD_POINT_TO_GPS_MULTI_ROUTE(float x, float y, float z, BOOL p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x**:
 * **y**:

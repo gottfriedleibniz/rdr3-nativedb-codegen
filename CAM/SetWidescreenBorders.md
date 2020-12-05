@@ -8,6 +8,10 @@ ns: CAM
 void SET_WIDESCREEN_BORDERS(BOOL p0, int p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

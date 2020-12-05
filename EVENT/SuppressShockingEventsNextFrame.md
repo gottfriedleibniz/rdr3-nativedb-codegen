@@ -8,3 +8,7 @@ ns: EVENT
 void SUPPRESS_SHOCKING_EVENTS_NEXT_FRAME();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

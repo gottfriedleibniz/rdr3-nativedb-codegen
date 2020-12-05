@@ -8,5 +8,9 @@ ns: TASK
 Any GET_PED_WAYPOINT_OVERRIDE_SPEED(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

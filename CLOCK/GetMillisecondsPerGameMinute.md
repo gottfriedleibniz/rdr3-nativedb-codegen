@@ -8,3 +8,7 @@ ns: CLOCK
 int GET_MILLISECONDS_PER_GAME_MINUTE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL NETWORK_REQUEST_CONTROL_OF_ENTITY(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

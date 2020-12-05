@@ -9,5 +9,9 @@ aliases: ["_PROMPT_DELETE"]
 void _UIPROMPT_DELETE(int prompt);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:

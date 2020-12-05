@@ -18,6 +18,8 @@ collision - controls collision between the two entities (FALSE disables collisio
 isPed - pitch doesnt work when false and roll will only work on negative numbers (only peds)
 vertexIndex - position of vertex
 fixedRot - if false it ignores entity vector 
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

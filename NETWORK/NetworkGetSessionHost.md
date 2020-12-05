@@ -9,3 +9,7 @@ aliases: ["0x8DC9AA3B508B1A85"]
 Player _NETWORK_GET_SESSION_HOST();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

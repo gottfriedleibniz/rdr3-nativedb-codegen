@@ -8,6 +8,10 @@ ns: CAM
 void SHAKE_CAM(Cam cam, char* type, float amplitude);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **cam**:
 * **type**:

@@ -8,6 +8,10 @@ ns: DATABINDING
 Any _DATABINDING_ADD_DATA_CONTAINER_FROM_PATH(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

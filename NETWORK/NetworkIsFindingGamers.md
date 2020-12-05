@@ -8,3 +8,7 @@ ns: NETWORK
 BOOL NETWORK_IS_FINDING_GAMERS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

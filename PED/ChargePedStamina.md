@@ -9,6 +9,10 @@ aliases: ["0xC3D4B754C0E86B9E"]
 BOOL _CHARGE_PED_STAMINA(Ped ped, float stamina);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **stamina**:

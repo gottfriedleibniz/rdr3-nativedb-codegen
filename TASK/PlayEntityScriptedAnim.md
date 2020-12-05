@@ -8,6 +8,10 @@ ns: TASK
 void PLAY_ENTITY_SCRIPTED_ANIM(Entity entity, Any* args);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **args**:

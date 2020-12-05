@@ -8,3 +8,7 @@ ns: NETWORK
 BOOL NETWORK_HAVE_ONLINE_PRIVILEGES();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

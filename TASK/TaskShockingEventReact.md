@@ -8,6 +8,10 @@ ns: TASK
 void TASK_SHOCKING_EVENT_REACT(Ped ped, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

@@ -11,6 +11,8 @@ void _SET_MP_GAMER_TAG_TOP_ICON(int gamerTagId, Hash icon);
 
 ```
 Found icons: https://pastebin.com/xx6rEgiG
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

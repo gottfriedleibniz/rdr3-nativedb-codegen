@@ -8,6 +8,10 @@ ns: PLAYER
 void FORCE_CLEANUP_FOR_ALL_THREADS_WITH_THIS_NAME(char* name, int cleanupFlags);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **name**:
 * **cleanupFlags**:

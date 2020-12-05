@@ -8,6 +8,10 @@ ns: UILOG
 void _0xA31013798FADCADC(Any p0, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

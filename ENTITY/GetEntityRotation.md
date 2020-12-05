@@ -8,6 +8,10 @@ ns: ENTITY
 Vector3 GET_ENTITY_ROTATION(Entity entity, int rotationOrder);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **rotationOrder**:

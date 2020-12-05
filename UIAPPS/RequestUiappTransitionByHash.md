@@ -9,6 +9,10 @@ aliases: ["_UIAPP_REQUEST_TRANSITION_BY_HASH"]
 BOOL _REQUEST_UIAPP_TRANSITION_BY_HASH(Hash appNameHash, Hash transitionHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **appNameHash**:
 * **transitionHash**:

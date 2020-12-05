@@ -11,5 +11,7 @@ int _LOCALIZATION_GET_SYSTEM_DATE_FORMAT();
 
 ```
 Possible return values: 0, 1, 2
+
+NativeDB Introduced: v1207
 ```
 

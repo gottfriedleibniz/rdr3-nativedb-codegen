@@ -8,5 +8,9 @@ ns: ANIMSCENE
 void RESUME_ANIM_SCENE_FROM_LAST_CHECKPOINT(int animScene);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animScene**:

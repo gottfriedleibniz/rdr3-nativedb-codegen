@@ -10,6 +10,8 @@ void TASK_FOLLOW_NAV_MESH_TO_COORD(Ped ped, float x, float y, float z, float spe
 
 ```
 If no timeout, set timeout to -1.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

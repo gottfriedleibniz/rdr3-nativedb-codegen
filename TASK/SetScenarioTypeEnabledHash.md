@@ -8,6 +8,10 @@ ns: TASK
 void _SET_SCENARIO_TYPE_ENABLED_HASH(Hash scenarioType, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scenarioType**:
 * **toggle**:

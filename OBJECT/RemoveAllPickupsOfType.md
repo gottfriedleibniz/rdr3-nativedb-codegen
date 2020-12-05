@@ -8,5 +8,9 @@ ns: OBJECT
 void REMOVE_ALL_PICKUPS_OF_TYPE(Hash pickupHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **pickupHash**:

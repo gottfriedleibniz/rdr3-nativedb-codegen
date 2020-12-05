@@ -8,3 +8,7 @@ ns: MAP
 void _0xA1B4052C2A3DCC1E();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

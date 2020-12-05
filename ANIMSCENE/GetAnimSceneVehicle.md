@@ -9,6 +9,10 @@ aliases: ["0x430EE0A19BC5A287"]
 Vehicle _GET_ANIM_SCENE_VEHICLE(int animScene, char* name, BOOL isNetwork);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animScene**:
 * **name**:

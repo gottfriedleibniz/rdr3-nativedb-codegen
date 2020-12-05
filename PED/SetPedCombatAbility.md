@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_COMBAT_ABILITY(Ped ped, int p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

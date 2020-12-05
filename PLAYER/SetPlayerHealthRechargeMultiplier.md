@@ -8,6 +8,10 @@ ns: PLAYER
 void SET_PLAYER_HEALTH_RECHARGE_MULTIPLIER(Player player, float regenRate);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:
 * **regenRate**:

@@ -8,6 +8,10 @@ ns: WEAPON
 BOOL HAS_PED_GOT_WEAPON(Ped ped, Hash weaponHash, int p2, BOOL p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **weaponHash**:

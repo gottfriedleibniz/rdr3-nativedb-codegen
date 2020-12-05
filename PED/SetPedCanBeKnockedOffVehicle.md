@@ -13,6 +13,8 @@ void SET_PED_CAN_BE_KNOCKED_OFF_VEHICLE(Ped ped, int state);
 1 = can't (bike)
 2 = unk 
 3 = unk
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

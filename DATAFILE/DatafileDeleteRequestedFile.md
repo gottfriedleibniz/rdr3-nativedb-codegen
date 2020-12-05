@@ -8,5 +8,9 @@ ns: DATAFILE
 BOOL DATAFILE_DELETE_REQUESTED_FILE(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

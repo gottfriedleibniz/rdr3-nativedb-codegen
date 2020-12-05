@@ -10,6 +10,8 @@ void _0xEDA5CBECF56E1386(Hash effectNameHash);
 
 ```
 ANIMPOSTFX_*
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -8,6 +8,10 @@ ns: TASK
 float WAYPOINT_RECORDING_GET_SPEED_AT_POINT(char* name, int point);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **name**:
 * **point**:

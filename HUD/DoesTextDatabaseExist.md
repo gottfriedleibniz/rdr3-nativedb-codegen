@@ -9,5 +9,9 @@ aliases: ["0x2C729F2B94CEA911"]
 BOOL _DOES_TEXT_DATABASE_EXIST(char* textDatabase);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **textDatabase**:

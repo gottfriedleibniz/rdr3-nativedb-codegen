@@ -9,6 +9,10 @@ aliases: ["0x838C216C2B05A009"]
 void _SET_PED_OWNS_VEHICLE(Ped ped, Vehicle vehicle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **vehicle**:

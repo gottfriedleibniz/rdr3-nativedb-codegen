@@ -8,5 +8,9 @@ ns: CAM
 void SET_CINEMATIC_BUTTON_ACTIVE(BOOL p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

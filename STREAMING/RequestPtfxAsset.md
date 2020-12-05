@@ -8,3 +8,7 @@ ns: STREAMING
 void REQUEST_PTFX_ASSET();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

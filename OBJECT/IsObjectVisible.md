@@ -8,5 +8,9 @@ ns: OBJECT
 BOOL IS_OBJECT_VISIBLE(Object object);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **object**:

@@ -9,5 +9,9 @@ aliases: ["_SHOOT_SINGLE_BULLET_BETWEEN_COORDS_IGNORE_ENTITY_NEW"]
 void _FIRE_SINGLE_BULLET_IGNORE_ENTITY_NEW(Any* args);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **args**:

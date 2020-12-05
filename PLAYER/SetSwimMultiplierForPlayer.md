@@ -11,6 +11,8 @@ void SET_SWIM_MULTIPLIER_FOR_PLAYER(Player player, float multiplier);
 ```
 Swim speed multiplier.
 Multiplier goes up to 1.49f
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

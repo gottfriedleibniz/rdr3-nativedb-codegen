@@ -9,6 +9,10 @@ aliases: ["_LOG_SET_PENDING_DETAILS_ID"]
 Any _UILOG_SET_PENDING_DETAILS_ID(int p0, Hash p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

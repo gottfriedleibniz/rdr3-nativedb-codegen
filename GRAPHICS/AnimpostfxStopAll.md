@@ -8,3 +8,7 @@ ns: GRAPHICS
 void ANIMPOSTFX_STOP_ALL();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

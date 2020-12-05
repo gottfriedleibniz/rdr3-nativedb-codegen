@@ -8,5 +8,9 @@ ns: CAM
 Vector3 GET_CAM_COORD(Cam cam);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **cam**:

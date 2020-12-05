@@ -8,3 +8,7 @@ ns: MISC
 float _GET_BENCHMARK_TIME();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

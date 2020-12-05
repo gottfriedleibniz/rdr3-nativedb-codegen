@@ -8,6 +8,10 @@ ns: OBJECT
 void _HIDE_PICKUP_OBJECT(Object pickupObject, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **pickupObject**:
 * **toggle**:

@@ -8,6 +8,10 @@ ns: PED
 Vector3 GET_PED_DEFENSIVE_AREA_POSITION(Ped ped, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

@@ -10,6 +10,8 @@ int GET_NUM_RESERVED_MISSION_PEDS(BOOL p0);
 
 ```
 p0 appears to be for MP
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

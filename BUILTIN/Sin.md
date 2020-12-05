@@ -8,5 +8,9 @@ ns: BUILTIN
 float SIN(float value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **value**:

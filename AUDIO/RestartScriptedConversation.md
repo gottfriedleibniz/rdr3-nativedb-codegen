@@ -8,5 +8,9 @@ ns: AUDIO
 void RESTART_SCRIPTED_CONVERSATION(char* p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

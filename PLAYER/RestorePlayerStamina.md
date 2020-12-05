@@ -8,6 +8,10 @@ ns: PLAYER
 void RESTORE_PLAYER_STAMINA(Player player, float p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:
 * **p1**:

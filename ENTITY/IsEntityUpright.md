@@ -8,6 +8,10 @@ ns: ENTITY
 BOOL IS_ENTITY_UPRIGHT(Entity entity, float angle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **angle**:

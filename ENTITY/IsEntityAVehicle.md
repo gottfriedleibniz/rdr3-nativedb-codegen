@@ -8,5 +8,9 @@ ns: ENTITY
 BOOL IS_ENTITY_A_VEHICLE(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

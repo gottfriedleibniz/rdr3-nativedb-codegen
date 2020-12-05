@@ -8,6 +8,10 @@ ns: PATHFIND
 BOOL GET_CLOSEST_VEHICLE_NODE(float x, float y, float z, Vector3* outPosition, int nodeType, float p5, float p6);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x**:
 * **y**:

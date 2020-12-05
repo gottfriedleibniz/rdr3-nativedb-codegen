@@ -8,6 +8,10 @@ ns: HUD
 void SET_MP_GAMER_TAG_NAME(int gamerTagId, char* string);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **gamerTagId**:
 * **string**:

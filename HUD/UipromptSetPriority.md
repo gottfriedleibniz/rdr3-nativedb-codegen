@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_PRIORITY"]
 void _UIPROMPT_SET_PRIORITY(int prompt, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **p1**:

@@ -11,6 +11,8 @@ char* _GET_WEAPON_NAME(Hash weaponHash);
 
 ```
 Returns "WNS_INVALID" if the weapon is invalid/doesn't exist.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

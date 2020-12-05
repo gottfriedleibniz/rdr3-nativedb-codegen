@@ -8,6 +8,10 @@ ns: ENTITY
 void SET_ENTITY_IS_TARGET_PRIORITY(Entity entity, BOOL p1, float p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **p1**:

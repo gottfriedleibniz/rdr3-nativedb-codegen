@@ -8,3 +8,7 @@ ns: HUD
 void HIDE_HUD_AND_RADAR_THIS_FRAME();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

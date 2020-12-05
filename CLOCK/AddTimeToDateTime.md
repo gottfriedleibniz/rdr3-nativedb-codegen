@@ -9,6 +9,10 @@ aliases: ["0x28EEACE9B43D9597"]
 void _ADD_TIME_TO_DATE_TIME(Any* inDateTime, Any* timeToAdd, Any* outDateTime);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **inDateTime**:
 * **timeToAdd**:

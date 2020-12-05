@@ -8,6 +8,10 @@ ns: AUDIO
 void SET_HORN_ENABLED(Vehicle vehicle, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **toggle**:

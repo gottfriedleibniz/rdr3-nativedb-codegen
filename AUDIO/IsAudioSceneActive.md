@@ -8,5 +8,9 @@ ns: AUDIO
 BOOL IS_AUDIO_SCENE_ACTIVE(char* scene);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scene**:

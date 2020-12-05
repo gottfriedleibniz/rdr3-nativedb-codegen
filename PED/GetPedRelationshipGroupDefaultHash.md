@@ -8,5 +8,9 @@ ns: PED
 Hash GET_PED_RELATIONSHIP_GROUP_DEFAULT_HASH(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

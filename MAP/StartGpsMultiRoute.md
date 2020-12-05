@@ -8,6 +8,10 @@ ns: MAP
 void START_GPS_MULTI_ROUTE(Hash colorNameHash, BOOL p1, BOOL p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **colorNameHash**:
 * **p1**:

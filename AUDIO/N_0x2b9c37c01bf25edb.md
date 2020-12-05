@@ -8,5 +8,9 @@ ns: AUDIO
 Any _0x2B9C37C01BF25EDB(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

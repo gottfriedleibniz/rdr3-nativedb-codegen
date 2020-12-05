@@ -8,3 +8,7 @@ ns: TASK
 void CLOSE_PATROL_ROUTE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -19,6 +19,8 @@ Returns the zone's name hash if its type matches one of the following:
 - CREEK
 - POND
 - GLACIER
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

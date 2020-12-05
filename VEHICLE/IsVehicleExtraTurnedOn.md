@@ -8,6 +8,10 @@ ns: VEHICLE
 BOOL IS_VEHICLE_EXTRA_TURNED_ON(Vehicle vehicle, int extraId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **extraId**:

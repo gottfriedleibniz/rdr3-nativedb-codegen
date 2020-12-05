@@ -10,6 +10,8 @@ int GET_PLAYER_GROUP(Player player);
 
 ```
 Returns the group ID the player is member of.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

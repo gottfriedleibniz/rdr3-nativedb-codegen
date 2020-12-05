@@ -8,6 +8,10 @@ ns: DATABINDING
 void _0xA3BD6FF95E713EE5(Any p0, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

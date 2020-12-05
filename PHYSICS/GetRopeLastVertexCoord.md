@@ -8,5 +8,9 @@ ns: PHYSICS
 Vector3 GET_ROPE_LAST_VERTEX_COORD(int ropeId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ropeId**:

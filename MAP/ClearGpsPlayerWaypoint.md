@@ -8,3 +8,7 @@ ns: MAP
 void CLEAR_GPS_PLAYER_WAYPOINT();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

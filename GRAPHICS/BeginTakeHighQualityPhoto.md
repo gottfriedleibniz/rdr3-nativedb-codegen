@@ -9,3 +9,7 @@ aliases: ["0xA15BFFC0A01B34E1"]
 BOOL BEGIN_TAKE_HIGH_QUALITY_PHOTO();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

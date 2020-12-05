@@ -8,3 +8,7 @@ ns: MISC
 void _CLEAR_TACTICAL_ANALYSIS_POINTS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,5 +8,9 @@ ns: MINIGAME
 Any _POKER_GET_GAME_SETTINGS_FOR_ID(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

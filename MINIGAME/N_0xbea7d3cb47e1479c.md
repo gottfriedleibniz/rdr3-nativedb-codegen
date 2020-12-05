@@ -8,3 +8,7 @@ ns: MINIGAME
 Any _0xBEA7D3CB47E1479C();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

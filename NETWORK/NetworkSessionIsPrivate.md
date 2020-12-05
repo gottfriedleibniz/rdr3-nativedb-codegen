@@ -8,3 +8,7 @@ ns: NETWORK
 BOOL NETWORK_SESSION_IS_PRIVATE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

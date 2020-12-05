@@ -8,5 +8,9 @@ ns: PLAYER
 void SET_PLAYER_MAY_NOT_ENTER_ANY_VEHICLE(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

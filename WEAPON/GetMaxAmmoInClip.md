@@ -8,6 +8,10 @@ ns: WEAPON
 int GET_MAX_AMMO_IN_CLIP(Ped ped, Hash weaponHash, BOOL p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **weaponHash**:

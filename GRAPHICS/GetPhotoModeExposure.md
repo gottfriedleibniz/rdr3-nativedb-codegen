@@ -9,3 +9,7 @@ aliases: ["0x06C0D8BB6B04A709"]
 float _GET_PHOTO_MODE_EXPOSURE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

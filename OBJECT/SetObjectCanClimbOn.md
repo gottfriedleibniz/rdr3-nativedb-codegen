@@ -8,6 +8,10 @@ ns: OBJECT
 void _SET_OBJECT_CAN_CLIMB_ON(Object object, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **object**:
 * **toggle**:

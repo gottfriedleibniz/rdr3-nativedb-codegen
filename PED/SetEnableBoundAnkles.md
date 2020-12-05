@@ -8,6 +8,10 @@ ns: PED
 void SET_ENABLE_BOUND_ANKLES(Ped ped, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **toggle**:

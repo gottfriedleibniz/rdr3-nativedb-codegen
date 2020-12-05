@@ -8,5 +8,9 @@ ns: ITEMDATABASE
 Any _ITEM_DATABASE_IS_SHOP_LAYOUT_KEY_VALID(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

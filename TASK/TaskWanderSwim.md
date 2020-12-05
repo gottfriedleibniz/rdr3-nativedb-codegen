@@ -8,6 +8,10 @@ ns: TASK
 void TASK_WANDER_SWIM(Ped ped, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_USING_ACTION_MODE(Ped ped, BOOL p1, int p2, char* action);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

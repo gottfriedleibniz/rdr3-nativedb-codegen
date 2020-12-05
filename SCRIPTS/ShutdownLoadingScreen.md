@@ -8,3 +8,7 @@ ns: SCRIPTS
 void SHUTDOWN_LOADING_SCREEN();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

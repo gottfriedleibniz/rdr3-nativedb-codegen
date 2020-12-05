@@ -9,5 +9,9 @@ aliases: ["_PROMPT_SET_FAVOURED_PED_FOR_CONFLICT_RESOLUTION"]
 void _UIPROMPT_SET_FAVOURED_PED_FOR_CONFLICT_RESOLUTION(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

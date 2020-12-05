@@ -10,6 +10,8 @@ BOOL HAS_VEHICLE_RECORDING_BEEN_LOADED(int recording, char* script);
 
 ```
 See REQUEST_VEHICLE_RECORDING
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

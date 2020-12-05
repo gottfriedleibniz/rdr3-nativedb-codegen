@@ -8,6 +8,10 @@ ns: ENTITY
 void SET_ENTITY_VISIBLE(Entity entity, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **toggle**:

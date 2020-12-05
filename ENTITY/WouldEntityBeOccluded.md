@@ -8,6 +8,10 @@ ns: ENTITY
 BOOL WOULD_ENTITY_BE_OCCLUDED(Hash entityModelHash, float x, float y, float z, BOOL p4);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entityModelHash**:
 * **x**:

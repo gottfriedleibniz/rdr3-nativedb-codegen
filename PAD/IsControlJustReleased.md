@@ -8,6 +8,10 @@ ns: PAD
 BOOL IS_CONTROL_JUST_RELEASED(int padIndex, Hash control);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **padIndex**:
 * **control**:

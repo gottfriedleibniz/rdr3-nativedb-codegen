@@ -9,5 +9,9 @@ aliases: ["_PROMPT_IS_PRESSED"]
 BOOL _UIPROMPT_IS_PRESSED(int prompt);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:

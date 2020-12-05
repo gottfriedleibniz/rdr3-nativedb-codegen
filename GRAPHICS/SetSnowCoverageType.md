@@ -11,6 +11,8 @@ void _SET_SNOW_COVERAGE_TYPE(int type);
 
 ```
 https://alloc8or.re/rdr3/doc/enums/eSnowCoverageType.txt
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -8,6 +8,10 @@ ns: AUDIO
 void SET_AUDIO_SCENE_VARIABLE(char* scene, char* variable, float value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scene**:
 * **variable**:

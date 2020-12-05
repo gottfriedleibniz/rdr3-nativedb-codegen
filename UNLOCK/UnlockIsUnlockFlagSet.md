@@ -8,6 +8,10 @@ ns: UNLOCK
 BOOL _UNLOCK_IS_UNLOCK_FLAG_SET(Hash unlockHash, int flag);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **unlockHash**:
 * **flag**:

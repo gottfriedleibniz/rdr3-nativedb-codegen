@@ -13,6 +13,8 @@ void _HIDE_PED_WEAPONS(Ped ped, int p0, BOOL immediately);
  Unequip current weapon and set current weapon to WEAPON_UNARMED.
 p0 usually 2 in R* scripts. Doesn't seem to have any effect if changed....
 immediately: if true it will instantly switch to unarmed
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -10,6 +10,8 @@ BOOL GET_CURRENT_PED_WEAPON(Ped ped, Hash* weaponHash, BOOL p2, int attachPoint,
 
 ```
 attachPoint: https://alloc8or.re/rdr3/doc/enums/eWeaponAttachPoint.txt
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

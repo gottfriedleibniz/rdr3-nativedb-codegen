@@ -8,5 +8,9 @@ ns: TELEMETRY
 void _TELEMETRY_PLAYER_SPAWNED(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

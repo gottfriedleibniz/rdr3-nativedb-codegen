@@ -9,6 +9,10 @@ aliases: ["_ARRAY_VALUE_GET_STRING"]
 char* DATAARRAY_GET_STRING(Any* arrayData, int arrayIndex);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **arrayData**:
 * **arrayIndex**:

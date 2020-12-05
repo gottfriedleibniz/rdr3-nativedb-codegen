@@ -8,3 +8,7 @@ ns: CAM
 Cam GET_RENDERING_CAM();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

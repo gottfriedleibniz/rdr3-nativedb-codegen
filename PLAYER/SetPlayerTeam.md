@@ -10,6 +10,8 @@ void SET_PLAYER_TEAM(Player player, int team, BOOL p2);
 
 ```
 Sets the player's team.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

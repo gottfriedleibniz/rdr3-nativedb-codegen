@@ -8,6 +8,10 @@ ns: ENTITY
 void SET_ENTITY_COLLISION(Entity entity, BOOL toggle, BOOL keepPhysics);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **toggle**:

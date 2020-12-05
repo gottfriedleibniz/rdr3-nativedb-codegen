@@ -11,6 +11,8 @@ BOOL _NETWORK_IS_PLAYER_INDEX_VALID(Player player);
 
 ```
 Returns true if the passed value is less than 32.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

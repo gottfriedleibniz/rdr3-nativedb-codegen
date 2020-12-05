@@ -8,6 +8,10 @@ ns: VEHICLE
 void DISABLE_VEHICLE_WEAPON(BOOL disabled, Hash weaponHash, Vehicle vehicle, Ped owner);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **disabled**:
 * **weaponHash**:

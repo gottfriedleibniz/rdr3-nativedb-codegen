@@ -11,6 +11,8 @@ void _REPORT_CRIME(Player player, Hash crimeType, int bounty, Entity entity, BOO
 
 ```
 crimeType: https://alloc8or.re/rdr3/doc/enums/eCrimeType.txt
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

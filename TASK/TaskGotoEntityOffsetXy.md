@@ -8,6 +8,10 @@ ns: TASK
 void TASK_GOTO_ENTITY_OFFSET_XY(Ped ped, Entity entity, int duration, float p3, float p4, float p5, float p6, BOOL p7);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **entity**:

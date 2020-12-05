@@ -8,5 +8,9 @@ ns: PED
 void REMOVE_GROUP(int groupId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **groupId**:

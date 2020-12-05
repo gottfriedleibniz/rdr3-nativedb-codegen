@@ -8,6 +8,10 @@ ns: CREW
 BOOL NETWORK_GET_PRIMARY_CLAN_DATA_START(Any* p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

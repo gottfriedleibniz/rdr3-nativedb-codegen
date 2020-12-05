@@ -8,6 +8,10 @@ ns: PHYSICS
 void ROPE_DRAW_SHADOW_ENABLED(int* ropeId, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ropeId**:
 * **toggle**:

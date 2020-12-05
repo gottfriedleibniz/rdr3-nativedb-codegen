@@ -8,6 +8,10 @@ ns: PAD
 BOOL _SET_CONTROL_NORMAL(int padIndex, Hash control, float amount);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **padIndex**:
 * **control**:

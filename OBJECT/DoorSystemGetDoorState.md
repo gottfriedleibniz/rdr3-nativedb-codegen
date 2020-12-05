@@ -8,5 +8,9 @@ ns: OBJECT
 int DOOR_SYSTEM_GET_DOOR_STATE(Hash doorHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **doorHash**:

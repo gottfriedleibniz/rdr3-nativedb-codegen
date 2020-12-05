@@ -9,6 +9,10 @@ aliases: ["_LOG_ADD_TOTAL_TAKE_ENTRY"]
 void _UILOG_ADD_TOTAL_TAKE_ENTRY(Hash p0, Hash p1, char* p2, char* p3, Hash p4);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

@@ -8,6 +8,10 @@ ns: PED
 Vector3 GET_ANIM_INITIAL_OFFSET_ROTATION(char* animDict, char* animName, float x, float y, float z, float xRot, float yRot, float zRot, float p8, int p9);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animDict**:
 * **animName**:

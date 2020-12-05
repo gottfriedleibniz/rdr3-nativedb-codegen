@@ -8,5 +8,9 @@ ns: MINIGAME
 Any _MINIGAME_IS_CONNECTED_TO_SERVER(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

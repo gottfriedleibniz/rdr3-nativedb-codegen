@@ -8,5 +8,9 @@ ns: ENTITY
 BOOL IS_ENTITY_ATTACHED_TO_ANY_OBJECT(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

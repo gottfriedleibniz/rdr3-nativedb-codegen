@@ -8,5 +8,9 @@ ns: PED
 BOOL IS_PED_HANGING_ON_TO_VEHICLE(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

@@ -8,3 +8,7 @@ ns: NETWORK
 BOOL NETWORK_HAS_SOCIAL_CLUB_ACCOUNT();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

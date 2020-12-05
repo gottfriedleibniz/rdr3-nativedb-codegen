@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_MONEY(Ped ped, int amount);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **amount**:

@@ -10,6 +10,8 @@ char* NETWORK_GET_GAMERTAG_FROM_HANDLE(Any* netHandle);
 
 ```
 Always returns a null string.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

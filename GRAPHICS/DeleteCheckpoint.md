@@ -8,5 +8,9 @@ ns: GRAPHICS
 void DELETE_CHECKPOINT(int checkpoint);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **checkpoint**:

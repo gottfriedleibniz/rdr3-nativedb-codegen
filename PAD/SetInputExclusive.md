@@ -8,6 +8,10 @@ ns: PAD
 void SET_INPUT_EXCLUSIVE(int padIndex, Hash control);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **padIndex**:
 * **control**:

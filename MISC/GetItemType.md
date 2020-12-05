@@ -24,6 +24,8 @@ int _GET_ITEM_TYPE(ScrHandle handle);
 11 = CObject
 12 = CItemSet
 13 = CPersistentCharacter
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

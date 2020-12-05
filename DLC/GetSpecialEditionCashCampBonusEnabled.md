@@ -9,3 +9,7 @@ aliases: ["0x1DB9D61E505AE3FC"]
 BOOL _GET_SPECIAL_EDITION_CASH_CAMP_BONUS_ENABLED();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

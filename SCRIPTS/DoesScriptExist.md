@@ -8,5 +8,9 @@ ns: SCRIPTS
 BOOL DOES_SCRIPT_EXIST(char* scriptName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scriptName**:

@@ -8,5 +8,9 @@ ns: PLAYER
 char* GET_PLAYER_NAME(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

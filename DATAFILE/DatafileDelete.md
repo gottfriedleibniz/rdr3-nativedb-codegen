@@ -8,5 +8,9 @@ ns: DATAFILE
 void DATAFILE_DELETE(int index);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **index**:

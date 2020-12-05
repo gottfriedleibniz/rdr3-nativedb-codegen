@@ -8,5 +8,9 @@ ns: AUDIO
 BOOL CANCEL_MUSIC_EVENT(char* eventName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **eventName**:

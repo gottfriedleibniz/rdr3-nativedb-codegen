@@ -8,6 +8,10 @@ ns: PLAYER
 void SET_PLAYER_SNEAKING_NOISE_MULTIPLIER(Player player, float multiplier);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:
 * **multiplier**:

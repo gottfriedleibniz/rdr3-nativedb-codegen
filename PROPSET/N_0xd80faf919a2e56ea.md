@@ -8,6 +8,10 @@ ns: PROPSET
 void _0xD80FAF919A2E56EA(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

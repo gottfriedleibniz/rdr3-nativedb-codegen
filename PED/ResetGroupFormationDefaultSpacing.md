@@ -8,5 +8,9 @@ ns: PED
 void RESET_GROUP_FORMATION_DEFAULT_SPACING(int groupHandle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **groupHandle**:

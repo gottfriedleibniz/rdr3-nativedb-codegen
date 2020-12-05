@@ -10,6 +10,8 @@ void ADD_OWNED_EXPLOSION(Ped ped, float x, float y, float z, int explosionType, 
 
 ```
 explosionType: see ADD_EXPLOSION
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

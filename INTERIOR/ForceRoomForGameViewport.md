@@ -8,6 +8,10 @@ ns: INTERIOR
 void FORCE_ROOM_FOR_GAME_VIEWPORT(int interiorID, Hash roomHashKey);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **interiorID**:
 * **roomHashKey**:

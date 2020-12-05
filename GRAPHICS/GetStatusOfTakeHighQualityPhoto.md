@@ -9,3 +9,7 @@ aliases: ["0x4A3DA74C3CCB1725"]
 int GET_STATUS_OF_TAKE_HIGH_QUALITY_PHOTO();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

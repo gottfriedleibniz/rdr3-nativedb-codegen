@@ -8,6 +8,10 @@ ns: VEHICLE
 BOOL SET_VEHICLE_ON_GROUND_PROPERLY(Vehicle vehicle, float p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **p1**:

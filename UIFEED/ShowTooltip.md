@@ -11,6 +11,8 @@ Any _SHOW_TOOLTIP(Any* p0, Any* p1, int p2);
 
 ```
 Example : https://pastebin.com/GvdBp8Dh
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

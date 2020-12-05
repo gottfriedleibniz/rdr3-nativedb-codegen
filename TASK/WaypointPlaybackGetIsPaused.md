@@ -8,5 +8,9 @@ ns: TASK
 BOOL WAYPOINT_PLAYBACK_GET_IS_PAUSED(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

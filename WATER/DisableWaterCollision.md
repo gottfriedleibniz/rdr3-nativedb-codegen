@@ -11,5 +11,7 @@ void _DISABLE_WATER_COLLISION();
 
 ```
 Must be called every frame to take full effect.
+
+NativeDB Introduced: v1207
 ```
 

@@ -8,5 +8,9 @@ ns: VEHICLE
 int GET_VEHICLE_MODEL_NUMBER_OF_SEATS(Hash modelHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **modelHash**:

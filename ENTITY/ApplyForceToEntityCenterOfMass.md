@@ -11,6 +11,8 @@ void APPLY_FORCE_TO_ENTITY_CENTER_OF_MASS(Entity entity, int forceType, float x,
 ```
 p6/relative - makes the xyz force not relative to world coords, but to something else
 p7/highForce - setting false will make the force really low
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

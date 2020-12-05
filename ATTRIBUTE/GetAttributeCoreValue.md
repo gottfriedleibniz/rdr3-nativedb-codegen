@@ -13,6 +13,8 @@ Gets the ped's core value on a scale of 0 to 100. The coreIndex is as follows:
 - health = 0,
 - stamina = 1,
 - deadeye = 2
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

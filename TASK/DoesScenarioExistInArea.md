@@ -8,6 +8,10 @@ ns: TASK
 BOOL DOES_SCENARIO_EXIST_IN_AREA(float x, float y, float z, float radius, BOOL p4, Any p5, BOOL p6);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x**:
 * **y**:

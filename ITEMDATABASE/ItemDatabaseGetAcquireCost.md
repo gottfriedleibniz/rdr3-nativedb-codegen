@@ -8,6 +8,10 @@ ns: ITEMDATABASE
 Any _ITEM_DATABASE_GET_ACQUIRE_COST(Any p0, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

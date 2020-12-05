@@ -8,6 +8,10 @@ ns: PED
 BOOL IS_PED_PERFORMING_MELEE_ACTION(Any p0, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

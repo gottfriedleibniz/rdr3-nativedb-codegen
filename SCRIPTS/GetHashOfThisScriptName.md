@@ -8,3 +8,7 @@ ns: SCRIPTS
 Hash GET_HASH_OF_THIS_SCRIPT_NAME();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

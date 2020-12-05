@@ -9,6 +9,10 @@ aliases: ["_OBJECT_VALUE_GET_STRING"]
 char* DATADICT_GET_STRING(Any* objectData, char* key);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **objectData**:
 * **key**:

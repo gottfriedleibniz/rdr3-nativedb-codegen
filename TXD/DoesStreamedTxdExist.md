@@ -9,5 +9,9 @@ aliases: ["0xBA0163B277C2D2D0"]
 BOOL _DOES_STREAMED_TXD_EXIST(Hash txdHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **txdHash**:

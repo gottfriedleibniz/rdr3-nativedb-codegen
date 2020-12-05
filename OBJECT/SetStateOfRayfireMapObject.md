@@ -8,6 +8,10 @@ ns: OBJECT
 void SET_STATE_OF_RAYFIRE_MAP_OBJECT(Object object, int state);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **object**:
 * **state**:

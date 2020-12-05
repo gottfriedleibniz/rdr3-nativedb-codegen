@@ -8,6 +8,10 @@ ns: OBJECT
 void SET_TEAM_PICKUP_OBJECT(Object object, Any p1, BOOL p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **object**:
 * **p1**:

@@ -8,6 +8,10 @@ ns: PLAYER
 void SET_PLAYER_CLOTH_PIN_FRAMES(Ped ped, int p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

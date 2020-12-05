@@ -8,5 +8,9 @@ ns: MINIGAME
 BOOL _MINIGAME_REQUEST_SEAT_AT_TABLE(Any* data);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **data**:

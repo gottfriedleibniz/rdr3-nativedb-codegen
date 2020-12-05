@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_AS_GROUP_MEMBER(Ped ped, int groupId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **groupId**:

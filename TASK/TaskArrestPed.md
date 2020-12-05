@@ -8,6 +8,10 @@ ns: TASK
 void TASK_ARREST_PED(Ped ped, Ped target);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **target**:

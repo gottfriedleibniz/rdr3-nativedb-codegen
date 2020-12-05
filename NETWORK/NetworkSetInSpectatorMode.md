@@ -8,6 +8,10 @@ ns: NETWORK
 void NETWORK_SET_IN_SPECTATOR_MODE(BOOL toggle, Ped playerPed);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **toggle**:
 * **playerPed**:

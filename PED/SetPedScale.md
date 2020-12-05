@@ -8,6 +8,10 @@ ns: PED
 void _SET_PED_SCALE(Ped ped, float scale);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **scale**:

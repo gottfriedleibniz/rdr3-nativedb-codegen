@@ -9,5 +9,9 @@ aliases: ["_PROMPT_GET_GROUP_ID_FOR_TARGET_ENTITY"]
 int _UIPROMPT_GET_GROUP_ID_FOR_TARGET_ENTITY(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

@@ -8,6 +8,10 @@ ns: PED
 BOOL IS_PED_HEADTRACKING_PED(Ped ped1, Ped ped2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped1**:
 * **ped2**:

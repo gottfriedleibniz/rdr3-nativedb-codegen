@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL CLOUD_HAS_REQUEST_COMPLETED(int id);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **id**:

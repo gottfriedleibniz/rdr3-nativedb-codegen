@@ -10,5 +10,7 @@ int _GET_SECONDS_SINCE_BASE_YEAR();
 
 ```
 Base year is 1898.
+
+NativeDB Introduced: v1207
 ```
 

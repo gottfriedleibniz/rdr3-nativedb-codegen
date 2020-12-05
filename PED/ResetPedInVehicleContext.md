@@ -8,5 +8,9 @@ ns: PED
 void RESET_PED_IN_VEHICLE_CONTEXT(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

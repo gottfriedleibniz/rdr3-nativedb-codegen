@@ -8,5 +8,9 @@ ns: PED
 BOOL _0xEBAAC9A750E7563B(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

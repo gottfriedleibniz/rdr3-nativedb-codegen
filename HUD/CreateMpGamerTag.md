@@ -8,6 +8,10 @@ ns: HUD
 int _CREATE_MP_GAMER_TAG(Player player, char* username, BOOL pointedClanTag, BOOL isRockstarClan, char* clanTag, Any p5);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:
 * **username**:

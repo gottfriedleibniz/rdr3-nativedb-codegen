@@ -8,6 +8,10 @@ ns: PED
 void _SET_PED_PROMPT_NAME(Ped ped, char* name);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **name**:

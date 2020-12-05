@@ -8,5 +8,9 @@ ns: PHYSICS
 void DELETE_CHILD_ROPE(int ropeId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ropeId**:

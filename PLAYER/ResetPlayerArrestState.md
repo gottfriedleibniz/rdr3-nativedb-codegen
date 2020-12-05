@@ -8,5 +8,9 @@ ns: PLAYER
 void RESET_PLAYER_ARREST_STATE(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

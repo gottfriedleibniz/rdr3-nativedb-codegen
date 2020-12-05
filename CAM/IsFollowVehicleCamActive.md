@@ -8,3 +8,7 @@ ns: CAM
 BOOL IS_FOLLOW_VEHICLE_CAM_ACTIVE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

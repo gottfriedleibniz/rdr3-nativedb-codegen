@@ -8,5 +8,9 @@ ns: MISSIONDATA
 Any MISSIONDATA_GET_CATAGORY(Any p0);
 ```
 
+```
+NativeDB Introduced: v1232
+```
+
 ## Parameters
 * **p0**:

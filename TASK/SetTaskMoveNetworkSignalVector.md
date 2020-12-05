@@ -9,6 +9,10 @@ aliases: ["0x4662BFE01938D98D"]
 void _SET_TASK_MOVE_NETWORK_SIGNAL_VECTOR(Ped ped, char* signalName, float x, float y, float z);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **signalName**:

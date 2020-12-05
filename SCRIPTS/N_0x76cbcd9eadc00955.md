@@ -8,3 +8,7 @@ ns: SCRIPTS
 void _0x76CBCD9EADC00955();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

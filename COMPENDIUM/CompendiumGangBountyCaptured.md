@@ -8,5 +8,9 @@ ns: COMPENDIUM
 void COMPENDIUM_GANG_BOUNTY_CAPTURED(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

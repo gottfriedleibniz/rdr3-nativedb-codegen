@@ -8,6 +8,10 @@ ns: CLOCK
 void GET_POSIX_TIME(int* year, int* month, int* day, int* hour, int* minute, int* second);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **year**:
 * **month**:

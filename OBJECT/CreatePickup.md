@@ -8,6 +8,10 @@ ns: OBJECT
 Pickup CREATE_PICKUP(Hash pickupHash, float x, float y, float z, int flags, int p5, BOOL p6, Hash modelHash, int p8, float p9, Any p10);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **pickupHash**:
 * **x**:

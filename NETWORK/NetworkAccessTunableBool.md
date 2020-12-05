@@ -8,6 +8,10 @@ ns: NETWORK
 BOOL NETWORK_ACCESS_TUNABLE_BOOL(Hash tunableContext, Hash tunableName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **tunableContext**:
 * **tunableName**:

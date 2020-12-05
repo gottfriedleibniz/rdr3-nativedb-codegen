@@ -8,5 +8,9 @@ ns: MISC
 void IGNORE_NEXT_RESTART(BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **toggle**:

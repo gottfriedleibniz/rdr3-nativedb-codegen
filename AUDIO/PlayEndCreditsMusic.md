@@ -8,5 +8,9 @@ ns: AUDIO
 void PLAY_END_CREDITS_MUSIC(BOOL play);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **play**:

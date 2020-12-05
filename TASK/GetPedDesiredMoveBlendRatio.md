@@ -8,5 +8,9 @@ ns: TASK
 float GET_PED_DESIRED_MOVE_BLEND_RATIO(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

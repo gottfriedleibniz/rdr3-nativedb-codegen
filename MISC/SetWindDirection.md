@@ -8,5 +8,9 @@ ns: MISC
 void SET_WIND_DIRECTION(float direction);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **direction**:

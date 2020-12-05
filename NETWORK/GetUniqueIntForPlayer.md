@@ -8,5 +8,9 @@ ns: NETWORK
 int GET_UNIQUE_INT_FOR_PLAYER(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

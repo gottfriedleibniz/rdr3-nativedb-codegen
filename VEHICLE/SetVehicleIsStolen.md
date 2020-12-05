@@ -8,6 +8,10 @@ ns: VEHICLE
 void SET_VEHICLE_IS_STOLEN(Vehicle vehicle, BOOL isStolen);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **isStolen**:

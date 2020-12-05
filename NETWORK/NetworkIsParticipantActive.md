@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL NETWORK_IS_PARTICIPANT_ACTIVE(int p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

@@ -8,5 +8,9 @@ ns: ANIMSCENE
 BOOL CHECK_OWNERSHIP_OF_ANIM_SCENE(int animScene);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animScene**:

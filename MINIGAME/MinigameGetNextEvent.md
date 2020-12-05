@@ -8,6 +8,10 @@ ns: MINIGAME
 Any _MINIGAME_GET_NEXT_EVENT(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

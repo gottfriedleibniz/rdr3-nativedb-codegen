@@ -9,5 +9,9 @@ aliases: ["_PROMPT_RESTART_MODES"]
 void _UIPROMPT_RESTART_MODES(int prompt);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:

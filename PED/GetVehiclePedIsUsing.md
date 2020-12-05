@@ -8,5 +8,9 @@ ns: PED
 Vehicle GET_VEHICLE_PED_IS_USING(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

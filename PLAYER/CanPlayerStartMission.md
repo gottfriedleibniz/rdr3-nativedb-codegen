@@ -8,5 +8,9 @@ ns: PLAYER
 BOOL CAN_PLAYER_START_MISSION(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

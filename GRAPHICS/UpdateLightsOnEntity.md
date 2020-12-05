@@ -8,5 +8,9 @@ ns: GRAPHICS
 void UPDATE_LIGHTS_ON_ENTITY(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

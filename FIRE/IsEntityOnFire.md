@@ -8,5 +8,9 @@ ns: FIRE
 BOOL IS_ENTITY_ON_FIRE(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

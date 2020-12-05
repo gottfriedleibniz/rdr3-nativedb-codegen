@@ -8,5 +8,9 @@ ns: PLAYER
 BOOL HAS_FORCE_CLEANUP_OCCURRED(int cleanupFlags);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **cleanupFlags**:

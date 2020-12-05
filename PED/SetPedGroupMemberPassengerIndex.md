@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_GROUP_MEMBER_PASSENGER_INDEX(Ped ped, int index);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **index**:

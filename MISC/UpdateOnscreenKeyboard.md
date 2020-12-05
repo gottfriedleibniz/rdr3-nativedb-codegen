@@ -17,5 +17,7 @@ Status Codes:
 1 - User has finished editing
 2 - User has canceled editing
 3 - Keyboard isn't active
+
+NativeDB Introduced: v1207
 ```
 

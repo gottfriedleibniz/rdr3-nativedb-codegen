@@ -8,6 +8,10 @@ ns: CAM
 void SET_CAM_FAR_CLIP(Cam cam, float farClip);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **cam**:
 * **farClip**:

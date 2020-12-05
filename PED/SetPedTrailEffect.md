@@ -9,6 +9,10 @@ aliases: ["0xA5950E16B8F31052"]
 void _SET_PED_TRAIL_EFFECT(Ped ped, BOOL p1, float p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

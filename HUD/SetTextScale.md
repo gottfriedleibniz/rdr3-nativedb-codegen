@@ -8,6 +8,10 @@ ns: HUD
 void SET_TEXT_SCALE(float scale, float size);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scale**:
 * **size**:

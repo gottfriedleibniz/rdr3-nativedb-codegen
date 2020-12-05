@@ -8,5 +8,9 @@ ns: PLAYER
 void SET_WANTED_LEVEL_MULTIPLIER(float multiplier);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **multiplier**:

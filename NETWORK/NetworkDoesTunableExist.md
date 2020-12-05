@@ -8,6 +8,10 @@ ns: NETWORK
 BOOL NETWORK_DOES_TUNABLE_EXIST(Hash tunableContext, Hash tunableName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **tunableContext**:
 * **tunableName**:

@@ -9,5 +9,9 @@ aliases: ["_IS_FLOW_BLOCK_LOADED"]
 Any _UIFLOWBLOCK_IS_LOADED(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

@@ -8,6 +8,10 @@ ns: PED
 void SET_FACIAL_IDLE_ANIM_OVERRIDE(Ped ped, char* animName, char* animDict);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **animName**:

@@ -8,6 +8,10 @@ ns: ATTRIBUTE
 int GET_MAX_ATTRIBUTE_POINTS(Ped ped, int attributeIndex);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **attributeIndex**:

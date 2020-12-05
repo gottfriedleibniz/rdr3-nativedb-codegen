@@ -11,6 +11,8 @@ void SET_ENTITY_AS_NO_LONGER_NEEDED(Entity* entity);
 ```
 Marks the specified entity (ped, vehicle or object) as no longer needed.
 Entities marked as no longer needed, will be deleted as the engine sees fit.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

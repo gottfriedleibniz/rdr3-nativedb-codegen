@@ -8,5 +8,9 @@ ns: TASK
 void TASK_WEAPON(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

@@ -8,6 +8,10 @@ ns: ENTITY
 void SET_CAN_CLIMB_ON_ENTITY(Entity entity, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **toggle**:

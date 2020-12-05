@@ -8,5 +8,9 @@ ns: MISC
 void SET_DISPATCH_IDEAL_SPAWN_DISTANCE(float p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

@@ -8,5 +8,9 @@ ns: MISC
 void SET_SUPER_JUMP_THIS_FRAME(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

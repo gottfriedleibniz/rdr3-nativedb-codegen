@@ -8,3 +8,7 @@ ns: GRAPHICS
 void END_PETROL_TRAIL_DECALS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

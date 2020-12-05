@@ -8,5 +8,9 @@ ns: UNLOCK
 BOOL _UNLOCK_IS_UNLOCKED(Hash unlockHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **unlockHash**:

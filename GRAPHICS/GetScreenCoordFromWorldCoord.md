@@ -8,6 +8,10 @@ ns: GRAPHICS
 BOOL GET_SCREEN_COORD_FROM_WORLD_COORD(float worldX, float worldY, float worldZ, float* screenX, float* screenY);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **worldX**:
 * **worldY**:

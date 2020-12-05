@@ -8,5 +8,9 @@ ns: OBJECT
 BOOL HAS_OBJECT_BEEN_BROKEN(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

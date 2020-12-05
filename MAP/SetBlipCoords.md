@@ -8,6 +8,10 @@ ns: MAP
 void SET_BLIP_COORDS(Blip blip, float posX, float posY, float posZ);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **blip**:
 * **posX**:

@@ -8,5 +8,9 @@ ns: HUD
 int GET_NAMED_RENDERTARGET_RENDER_ID(char* name);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **name**:

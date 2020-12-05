@@ -8,6 +8,10 @@ ns: NETWORK
 void NETWORK_HANDLE_FROM_FRIEND(int friendIndex, Any* netHandle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **friendIndex**:
 * **netHandle**:

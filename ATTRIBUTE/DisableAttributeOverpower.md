@@ -8,6 +8,10 @@ ns: ATTRIBUTE
 void DISABLE_ATTRIBUTE_OVERPOWER(Ped ped, int attributeIndex);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **attributeIndex**:

@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_RANDOM_COMPONENT_VARIATION(Ped ped, int p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

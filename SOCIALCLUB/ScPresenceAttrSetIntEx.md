@@ -9,6 +9,10 @@ aliases: ["0x0000000085488C49"]
 BOOL SC_PRESENCE_ATTR_SET_INT_EX(char* attrName, int value, BOOL p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **attrName**:
 * **value**:

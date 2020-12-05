@@ -9,6 +9,10 @@ aliases: ["0x30A768C30D385EC5"]
 void _TASK_ANIMAL_BLEED_OUT(Ped ped, Ped killer, BOOL p2, Hash weaponHash, int p4, int p5);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **killer**:

@@ -12,6 +12,8 @@ void DISABLE_PLAYER_FIRING(Player player, BOOL toggle);
 Inhibits the player from using any method of combat including melee and firearms.
 
 NOTE: Only disables the firing for one frame
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

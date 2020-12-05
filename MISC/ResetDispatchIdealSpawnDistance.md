@@ -8,3 +8,7 @@ ns: MISC
 void RESET_DISPATCH_IDEAL_SPAWN_DISTANCE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

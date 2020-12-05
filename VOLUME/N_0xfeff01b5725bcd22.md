@@ -8,5 +8,9 @@ ns: VOLUME
 Any _0xFEFF01B5725BCD22(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

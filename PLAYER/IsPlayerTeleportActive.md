@@ -8,3 +8,7 @@ ns: PLAYER
 BOOL IS_PLAYER_TELEPORT_ACTIVE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

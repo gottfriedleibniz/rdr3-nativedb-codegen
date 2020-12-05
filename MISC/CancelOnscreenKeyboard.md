@@ -8,3 +8,7 @@ ns: MISC
 void _CANCEL_ONSCREEN_KEYBOARD();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

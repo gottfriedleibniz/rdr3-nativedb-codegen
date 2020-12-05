@@ -8,5 +8,9 @@ ns: PAD
 void STOP_PAD_SHAKE(int padIndex);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **padIndex**:

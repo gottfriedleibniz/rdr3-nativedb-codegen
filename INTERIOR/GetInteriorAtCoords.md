@@ -8,6 +8,10 @@ ns: INTERIOR
 int GET_INTERIOR_AT_COORDS(float x, float y, float z);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x**:
 * **y**:

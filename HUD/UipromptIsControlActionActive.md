@@ -9,5 +9,9 @@ aliases: ["0x1BE19185B8AFE299"]
 BOOL _UIPROMPT_IS_CONTROL_ACTION_ACTIVE(Hash control);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **control**:

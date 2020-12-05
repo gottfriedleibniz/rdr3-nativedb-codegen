@@ -11,6 +11,8 @@ Hash _GIVE_WEAPON_TO_PED_2(Ped ped, Hash weaponHash, int ammoCount, BOOL equipNo
 ```
 Gives the ped the weapon. p7 is 0.5f, and p8 is 1.0f. p11 and p12 are both 0.
 For a list of weapon groups, here is a weapons enum by Mooshe with all weapon-related hashes: https://pastebin.com/n72eW6zd
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

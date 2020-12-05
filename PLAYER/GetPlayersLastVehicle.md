@@ -8,3 +8,7 @@ ns: PLAYER
 Vehicle GET_PLAYERS_LAST_VEHICLE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

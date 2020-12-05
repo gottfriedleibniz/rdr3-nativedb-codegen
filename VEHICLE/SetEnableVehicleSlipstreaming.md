@@ -9,5 +9,9 @@ aliases: ["0x73F1E4F6DF26FE30"]
 void SET_ENABLE_VEHICLE_SLIPSTREAMING(BOOL p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

@@ -8,6 +8,10 @@ ns: NETWORK
 void _NETWORK_ALERT(Hash ctx, Hash lh, int ec, int h);
 ```
 
+```
+NativeDB Introduced: v1311
+```
+
 ## Parameters
 * **ctx**:
 * **lh**:

@@ -8,6 +8,10 @@ ns: INTERIOR
 void FORCE_ROOM_FOR_ENTITY(Entity entity, int interior, Hash roomHashKey);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **interior**:

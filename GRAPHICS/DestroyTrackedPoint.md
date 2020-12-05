@@ -8,5 +8,9 @@ ns: GRAPHICS
 void DESTROY_TRACKED_POINT(int point);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **point**:

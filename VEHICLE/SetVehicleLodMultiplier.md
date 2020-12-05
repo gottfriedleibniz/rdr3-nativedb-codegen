@@ -8,6 +8,10 @@ ns: VEHICLE
 void SET_VEHICLE_LOD_MULTIPLIER(Vehicle vehicle, float multiplier);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **multiplier**:

@@ -8,5 +8,9 @@ ns: TASK
 BOOL IS_SCENARIO_GROUP_ENABLED(char* scenarioGroup);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scenarioGroup**:

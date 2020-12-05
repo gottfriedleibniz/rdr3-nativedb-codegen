@@ -8,6 +8,10 @@ ns: MISC
 float ATAN2(float p0, float p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

@@ -8,6 +8,10 @@ ns: HUD
 void SET_MISSION_NAME(BOOL p0, char* name);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **name**:

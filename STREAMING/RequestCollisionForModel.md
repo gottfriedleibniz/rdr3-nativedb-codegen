@@ -8,5 +8,9 @@ ns: STREAMING
 void REQUEST_COLLISION_FOR_MODEL(Hash model);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **model**:

@@ -9,6 +9,10 @@ aliases: ["0x0B6D275D2F242E17"]
 void COLLECTABLE_CATEGORY_SET_HAS_RECEIVED_LIST(Any p0, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

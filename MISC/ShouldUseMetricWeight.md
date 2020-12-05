@@ -8,3 +8,7 @@ ns: MISC
 BOOL _SHOULD_USE_METRIC_WEIGHT();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

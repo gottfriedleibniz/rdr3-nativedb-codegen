@@ -8,6 +8,10 @@ ns: PED
 BOOL IS_ANY_PED_NEAR_POINT(float x, float y, float z, float radius);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x**:
 * **y**:

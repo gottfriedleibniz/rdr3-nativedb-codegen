@@ -9,5 +9,9 @@ aliases: ["0xB9050A97594C8832"]
 Vehicle _GET_VEHICLE_OWNED_BY_PLAYER(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

@@ -16,6 +16,8 @@ note: Visiblity differs when enabling ReviveIcon
 2: the above and TagName
 3: the above, HealthBar and PosseName
 4: the above and SecondaryIcon
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

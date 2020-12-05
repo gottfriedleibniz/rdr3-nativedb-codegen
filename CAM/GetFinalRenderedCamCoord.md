@@ -8,3 +8,7 @@ ns: CAM
 Vector3 GET_FINAL_RENDERED_CAM_COORD();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

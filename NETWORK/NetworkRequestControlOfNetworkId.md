@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL NETWORK_REQUEST_CONTROL_OF_NETWORK_ID(int netId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **netId**:

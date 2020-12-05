@@ -8,3 +8,7 @@ ns: PATHFIND
 BOOL GET_GPS_BLIP_ROUTE_FOUND();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -9,3 +9,7 @@ aliases: ["_LOG_GET_CACHED_OBJECTIVE"]
 char* _UILOG_GET_CACHED_OBJECTIVE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

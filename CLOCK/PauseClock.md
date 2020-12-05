@@ -8,6 +8,10 @@ ns: CLOCK
 void PAUSE_CLOCK(BOOL toggle, Any unused);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **toggle**:
 * **unused**:

@@ -11,6 +11,8 @@ void _SET_PICKUP_OBJECT_GLOW_ENABLED(Object object, BOOL toggle);
 
 ```
 https://imgur.com/a/I2swSDJ
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

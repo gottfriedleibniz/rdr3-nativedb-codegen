@@ -8,5 +8,9 @@ ns: ITEMSET
 void DESTROY_ITEMSET(int itemset);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **itemset**:

@@ -26,6 +26,8 @@ Draws a rectangle on the screen.
 -B: Blue part of the color. (0-255)
 
 -A: Alpha part of the color. (0-255, 0 means totally transparent, 255 means totally opaque)
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

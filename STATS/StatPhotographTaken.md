@@ -8,5 +8,9 @@ ns: STATS
 void STAT_PHOTOGRAPH_TAKEN(int itemset);
 ```
 
+```
+NativeDB Introduced: v1311
+```
+
 ## Parameters
 * **itemset**:

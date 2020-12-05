@@ -8,5 +8,9 @@ ns: SCRIPTS
 void SET_SCRIPT_AS_NO_LONGER_NEEDED(char* scriptName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scriptName**:

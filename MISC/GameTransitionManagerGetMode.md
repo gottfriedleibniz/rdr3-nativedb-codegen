@@ -9,3 +9,7 @@ aliases: ["0xFAED234C7F53ABEB"]
 Hash _GAME_TRANSITION_MANAGER_GET_MODE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

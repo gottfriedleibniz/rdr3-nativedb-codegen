@@ -11,6 +11,8 @@ int _CREATE_PROPSET_4(Hash hash, float x, float y, float z, Entity entity, float
 
 ```
 Same as _CREATE_PROPSET_3
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

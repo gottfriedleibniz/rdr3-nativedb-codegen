@@ -8,6 +8,10 @@ ns: CAM
 void SET_CAM_SPLINE_DURATION(Cam cam, int timeDuration);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **cam**:
 * **timeDuration**:

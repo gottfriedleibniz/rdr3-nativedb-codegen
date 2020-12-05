@@ -9,3 +9,7 @@ aliases: ["_PROMPT_FILTER_CLEAR"]
 void _UIPROMPT_FILTER_CLEAR();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,6 +8,10 @@ ns: AUDIO
 void _0x0D7FD6A55FD63AEF(Any p0, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

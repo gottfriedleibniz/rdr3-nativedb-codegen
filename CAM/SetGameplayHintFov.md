@@ -8,5 +8,9 @@ ns: CAM
 void SET_GAMEPLAY_HINT_FOV(float FOV);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **FOV**:

@@ -8,6 +8,10 @@ ns: OBJECT
 void DOOR_SYSTEM_SET_AUTOMATIC_RATE(Hash doorHash, float rate);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **doorHash**:
 * **rate**:

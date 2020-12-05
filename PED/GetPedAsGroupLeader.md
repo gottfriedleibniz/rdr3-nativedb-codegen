@@ -8,5 +8,9 @@ ns: PED
 Ped GET_PED_AS_GROUP_LEADER(int groupID);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **groupID**:

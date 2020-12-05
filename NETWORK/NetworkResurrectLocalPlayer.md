@@ -8,6 +8,10 @@ ns: NETWORK
 void NETWORK_RESURRECT_LOCAL_PLAYER(float x, float y, float z, float heading, int p4, BOOL p5, Any p6, BOOL p7);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x**:
 * **y**:

@@ -8,5 +8,9 @@ ns: ITEMSET
 Any GET_ITEMSET_SIZE(int itemset);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **itemset**:

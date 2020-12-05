@@ -9,5 +9,9 @@ aliases: ["_PROMPT_DISABLE_PROMPT_TYPE_THIS_FRAME"]
 void _UIPROMPT_DISABLE_PROMPT_TYPE_THIS_FRAME(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

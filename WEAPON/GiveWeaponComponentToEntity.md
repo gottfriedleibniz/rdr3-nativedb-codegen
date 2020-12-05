@@ -11,6 +11,8 @@ void _GIVE_WEAPON_COMPONENT_TO_ENTITY(Entity entity, Hash componentHash, Hash we
 
 ```
 entity can be a ped or weapon object.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

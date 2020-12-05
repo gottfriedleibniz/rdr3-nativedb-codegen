@@ -9,5 +9,9 @@ aliases: ["_PROMPT_WAS_BEAT_MODE_PRESSED_IN_TIME_WINDOW"]
 BOOL _UIPROMPT_WAS_BEAT_MODE_PRESSED_IN_TIME_WINDOW(int prompt);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:

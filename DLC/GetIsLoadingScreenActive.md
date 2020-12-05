@@ -8,3 +8,7 @@ ns: DLC
 BOOL GET_IS_LOADING_SCREEN_ACTIVE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

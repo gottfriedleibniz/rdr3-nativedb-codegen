@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_MIN_MOVE_BLEND_RATIO(Ped ped, float value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **value**:

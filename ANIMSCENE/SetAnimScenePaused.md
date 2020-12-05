@@ -8,6 +8,10 @@ ns: ANIMSCENE
 void SET_ANIM_SCENE_PAUSED(int animScene, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animScene**:
 * **toggle**:

@@ -9,6 +9,10 @@ aliases: ["0x1902C4CFCC5BE57C"]
 void _SET_PED_BODY_COMPONENT(Ped ped, Hash hash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **hash**:

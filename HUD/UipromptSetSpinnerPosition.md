@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_SPINNER_POSITION"]
 void _UIPROMPT_SET_SPINNER_POSITION(int prompt, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **p1**:

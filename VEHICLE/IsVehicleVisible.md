@@ -10,6 +10,8 @@ BOOL IS_VEHICLE_VISIBLE(Vehicle vehicle);
 
 ```
 Requires a visibility tracker on the vehicle (TRACK_VEHICLE_VISIBILITY)
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

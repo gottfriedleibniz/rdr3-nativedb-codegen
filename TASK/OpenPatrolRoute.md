@@ -8,5 +8,9 @@ ns: TASK
 void OPEN_PATROL_ROUTE(char* patrolRoute);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **patrolRoute**:

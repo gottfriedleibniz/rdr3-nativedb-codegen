@@ -8,6 +8,10 @@ ns: PED
 void GET_GROUP_SIZE(int groupID, BOOL* unknown, int* sizeInMembers);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **groupID**:
 * **unknown**:

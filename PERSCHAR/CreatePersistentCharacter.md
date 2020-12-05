@@ -9,5 +9,9 @@ aliases: ["0x4F76E3676583D951"]
 int _CREATE_PERSISTENT_CHARACTER(Hash hash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **hash**:

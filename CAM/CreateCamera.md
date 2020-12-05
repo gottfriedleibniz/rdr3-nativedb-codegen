@@ -8,6 +8,10 @@ ns: CAM
 Cam CREATE_CAMERA(Hash camHash, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **camHash**:
 * **p1**:

@@ -8,6 +8,10 @@ ns: MAP
 void SET_BLIP_ROTATION(Blip blip, int rotation);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **blip**:
 * **rotation**:

@@ -13,6 +13,8 @@ Gets a value indicating whether the specified ped is on top of any vehicle.
 
 Return 1 when ped is on vehicle.
 Return 0 when ped is not on a vehicle.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

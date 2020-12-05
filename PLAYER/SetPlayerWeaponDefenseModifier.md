@@ -8,6 +8,10 @@ ns: PLAYER
 void SET_PLAYER_WEAPON_DEFENSE_MODIFIER(Player player, float modifier);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:
 * **modifier**:

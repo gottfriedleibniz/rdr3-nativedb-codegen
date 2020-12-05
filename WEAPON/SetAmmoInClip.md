@@ -8,6 +8,10 @@ ns: WEAPON
 BOOL SET_AMMO_IN_CLIP(Ped ped, Hash weaponHash, int ammo);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **weaponHash**:

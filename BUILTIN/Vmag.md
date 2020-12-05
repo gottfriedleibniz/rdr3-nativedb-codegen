@@ -10,6 +10,8 @@ float VMAG(float x, float y, float z);
 
 ```
 Calculates the magnitude of a vector.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

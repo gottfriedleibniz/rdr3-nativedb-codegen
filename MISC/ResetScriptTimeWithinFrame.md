@@ -8,3 +8,7 @@ ns: MISC
 void _RESET_SCRIPT_TIME_WITHIN_FRAME();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

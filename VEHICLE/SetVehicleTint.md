@@ -9,6 +9,10 @@ aliases: ["0x8268B098F6FCA4E2"]
 void _SET_VEHICLE_TINT(Vehicle vehicle, int tintId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **tintId**:

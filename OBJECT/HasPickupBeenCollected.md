@@ -8,5 +8,9 @@ ns: OBJECT
 BOOL HAS_PICKUP_BEEN_COLLECTED(Pickup pickup);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **pickup**:

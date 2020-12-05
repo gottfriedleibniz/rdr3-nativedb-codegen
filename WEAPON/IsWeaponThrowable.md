@@ -9,5 +9,9 @@ aliases: ["0x30E7C16B12DA8211"]
 BOOL _IS_WEAPON_THROWABLE(Hash weaponHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **weaponHash**:

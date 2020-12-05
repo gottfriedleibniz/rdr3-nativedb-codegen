@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL _0xEBFA8D50ADDC54C4(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

@@ -8,6 +8,10 @@ ns: STATS
 BOOL CHAL_IS_GOAL_ACTIVE(Hash chalHash, Hash goalHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **chalHash**:
 * **goalHash**:

@@ -8,5 +8,9 @@ ns: VEHICLE
 int GET_VEHICLE_MAX_NUMBER_OF_PASSENGERS(Vehicle vehicle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:

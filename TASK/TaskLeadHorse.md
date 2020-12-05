@@ -8,6 +8,10 @@ ns: TASK
 void TASK_LEAD_HORSE(Ped ped, Ped horse);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **horse**:

@@ -8,6 +8,10 @@ ns: PED
 int GET_PED_NEARBY_PEDS(Ped ped, Any* sizeAndPeds, int ignoredPedType, int p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **sizeAndPeds**:

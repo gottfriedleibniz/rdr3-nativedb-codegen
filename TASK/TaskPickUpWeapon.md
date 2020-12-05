@@ -8,6 +8,10 @@ ns: TASK
 void TASK_PICK_UP_WEAPON(Ped ped, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

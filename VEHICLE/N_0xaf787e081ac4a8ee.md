@@ -8,5 +8,9 @@ ns: VEHICLE
 Any _0xAF787E081AC4A8EE(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

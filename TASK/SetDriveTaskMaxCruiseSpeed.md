@@ -10,6 +10,8 @@ void SET_DRIVE_TASK_MAX_CRUISE_SPEED(Ped ped, float maxCruiseSpeed);
 
 ```
 Not implemented.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -9,3 +9,7 @@ aliases: ["_NETWORK_HAS_PLAYER_BEEN_BANNED"]
 BOOL NETWORK_HAVE_ROS_BANNED_PRIV();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

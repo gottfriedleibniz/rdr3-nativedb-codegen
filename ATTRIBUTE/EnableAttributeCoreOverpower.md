@@ -11,6 +11,8 @@ void _ENABLE_ATTRIBUTE_CORE_OVERPOWER(Ped ped, int coreIndex, float value, BOOL 
 
 ```
 Previously incorrectly named ENABLE_ATTRIBUTE_OVERPOWER
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

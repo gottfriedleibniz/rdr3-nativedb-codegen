@@ -10,6 +10,8 @@ int _ADD_SPEED_ZONE_FOR_COORD(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, An
 
 ```
 ADD_*
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

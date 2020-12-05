@@ -8,6 +8,10 @@ ns: TASK
 void TASK_BREAK_VEHICLE_DOOR_LOCK(Ped ped, Vehicle vehicle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **vehicle**:

@@ -8,6 +8,10 @@ ns: NETSHOPPING
 BOOL _CASHINVENTORY_TRANSACTION_FIRE_AND_FORGET_ITEM(Hash actionHash, int* id, Any* item, int p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **actionHash**:
 * **id**:

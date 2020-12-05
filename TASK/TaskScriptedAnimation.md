@@ -8,6 +8,10 @@ ns: TASK
 void TASK_SCRIPTED_ANIMATION(Ped ped, Any* args);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **args**:

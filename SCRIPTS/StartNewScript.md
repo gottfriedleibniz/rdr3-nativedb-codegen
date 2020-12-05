@@ -8,6 +8,10 @@ ns: SCRIPTS
 int START_NEW_SCRIPT(char* scriptName, int stackSize);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scriptName**:
 * **stackSize**:

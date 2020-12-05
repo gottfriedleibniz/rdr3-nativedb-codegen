@@ -8,5 +8,9 @@ ns: MISSIONDATA
 int MISSIONDATA_GET_HIGH_SCORE(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

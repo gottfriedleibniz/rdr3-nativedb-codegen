@@ -10,5 +10,7 @@ void FORCE_LIGHTNING_FLASH();
 
 ```
 creates single lightning+thunder at random position
+
+NativeDB Introduced: v1207
 ```
 

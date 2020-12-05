@@ -8,5 +8,9 @@ ns: OBJECT
 void TRACK_OBJECT_VISIBILITY(Object object);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **object**:

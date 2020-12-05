@@ -15,6 +15,8 @@ Groups can contain up to 8 peds.
 The parameter is unused.
 
 Returns a handle to the created group, or 0 if a group couldn't be created.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

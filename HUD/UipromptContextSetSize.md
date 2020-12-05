@@ -9,6 +9,10 @@ aliases: ["0x0C718001B77CA468"]
 void _UIPROMPT_CONTEXT_SET_SIZE(int prompt, float size);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **size**:

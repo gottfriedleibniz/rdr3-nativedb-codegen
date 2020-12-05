@@ -10,6 +10,8 @@ ScrHandle ADD_SHOCKING_EVENT_FOR_ENTITY(Hash eventType, Entity entity, float p2,
 
 ```
 eventType: https://alloc8or.re/rdr3/doc/enums/eEventType.txt
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

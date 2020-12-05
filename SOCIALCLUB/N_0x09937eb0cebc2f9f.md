@@ -8,3 +8,7 @@ ns: SOCIALCLUB
 Any _0x09937EB0CEBC2F9F();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

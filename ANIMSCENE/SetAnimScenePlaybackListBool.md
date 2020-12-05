@@ -9,6 +9,10 @@ aliases: ["0x15598CFB25F3DC7E"]
 void _SET_ANIM_SCENE_PLAYBACK_LIST_BOOL(int animScene, char* name, BOOL value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animScene**:
 * **name**:

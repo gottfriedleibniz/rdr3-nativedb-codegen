@@ -8,6 +8,10 @@ ns: WEAPON
 BOOL SET_CURRENT_PED_VEHICLE_WEAPON(Ped ped, Hash weaponHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **weaponHash**:

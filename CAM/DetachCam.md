@@ -8,5 +8,9 @@ ns: CAM
 void DETACH_CAM(Cam cam);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **cam**:

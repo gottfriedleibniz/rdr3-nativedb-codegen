@@ -9,6 +9,10 @@ aliases: ["0x1A47699E8D533E8F"]
 void _GIVE_WEAPON_COMPONENT_TO_WEAPON_OBJECT(Object* weaponObject, Ped ped, Hash componentHash, BOOL p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **weaponObject**:
 * **ped**:

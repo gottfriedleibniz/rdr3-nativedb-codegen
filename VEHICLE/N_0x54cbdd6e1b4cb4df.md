@@ -8,5 +8,9 @@ ns: VEHICLE
 void _0x54CBDD6E1B4CB4DF(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

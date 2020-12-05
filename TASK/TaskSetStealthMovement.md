@@ -8,6 +8,10 @@ ns: TASK
 void TASK_SET_STEALTH_MOVEMENT(Ped ped, BOOL p1, Any p2, BOOL p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

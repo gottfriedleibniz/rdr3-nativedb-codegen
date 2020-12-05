@@ -9,5 +9,9 @@ aliases: ["0x2D0571BB55879DA2"]
 int _GET_SCENARIO_POINT_TYPE_PED_IS_USING(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

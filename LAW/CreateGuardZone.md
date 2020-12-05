@@ -8,5 +8,9 @@ ns: LAW
 void _CREATE_GUARD_ZONE(char* name);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **name**:

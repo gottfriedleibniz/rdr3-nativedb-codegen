@@ -8,5 +8,9 @@ ns: NETSHOPPING
 Any _0xCE54C9ABE6FBC6DB(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

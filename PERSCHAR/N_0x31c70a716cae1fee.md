@@ -8,5 +8,9 @@ ns: PERSCHAR
 Any _0x31C70A716CAE1FEE(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

@@ -8,5 +8,9 @@ ns: ITEMSET
 int CREATE_ITEMSET(BOOL p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

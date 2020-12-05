@@ -8,5 +8,9 @@ ns: OBJECT
 Hash GET_WEAPON_TYPE_FROM_PICKUP_TYPE(Hash pickupHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **pickupHash**:

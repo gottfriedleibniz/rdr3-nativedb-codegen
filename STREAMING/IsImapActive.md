@@ -8,5 +8,9 @@ ns: STREAMING
 BOOL _IS_IMAP_ACTIVE(Hash imapHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **imapHash**:

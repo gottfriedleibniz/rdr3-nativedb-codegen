@@ -8,3 +8,7 @@ ns: STREAMING
 Any _0xDABFE48BA0D457AA();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

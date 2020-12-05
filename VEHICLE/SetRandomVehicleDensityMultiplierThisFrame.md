@@ -8,5 +8,9 @@ ns: VEHICLE
 void SET_RANDOM_VEHICLE_DENSITY_MULTIPLIER_THIS_FRAME(float multiplier);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **multiplier**:

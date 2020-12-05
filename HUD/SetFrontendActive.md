@@ -8,5 +8,9 @@ ns: HUD
 void SET_FRONTEND_ACTIVE(BOOL active);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **active**:

@@ -8,5 +8,9 @@ ns: PED
 Any _0x354CA4DDDEEC397A(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

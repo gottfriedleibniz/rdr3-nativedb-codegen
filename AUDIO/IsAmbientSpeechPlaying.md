@@ -8,5 +8,9 @@ ns: AUDIO
 BOOL IS_AMBIENT_SPEECH_PLAYING(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

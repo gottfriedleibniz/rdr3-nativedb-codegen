@@ -8,3 +8,7 @@ ns: MISC
 int GET_GAME_TIMER();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

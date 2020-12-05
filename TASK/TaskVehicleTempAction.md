@@ -42,6 +42,8 @@ Documentation from GTA V, might be the same in RDR:
 
 Seems to be this:
 Works on NPCs, but overrides their current task. If inside a task sequence (and not being the last task), "time" will work, otherwise the task will be performed forever until tasked with something else
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

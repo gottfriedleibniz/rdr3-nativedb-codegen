@@ -8,6 +8,10 @@ ns: ENTITY
 void SET_ENTITY_LOAD_COLLISION_FLAG(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

@@ -8,5 +8,9 @@ ns: PED
 void REVIVE_INJURED_PED(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

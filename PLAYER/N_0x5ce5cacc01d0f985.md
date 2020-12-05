@@ -8,3 +8,7 @@ ns: PLAYER
 void _0x5CE5CACC01D0F985();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

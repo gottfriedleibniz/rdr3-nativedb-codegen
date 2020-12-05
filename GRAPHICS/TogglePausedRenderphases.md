@@ -8,5 +8,9 @@ ns: GRAPHICS
 void TOGGLE_PAUSED_RENDERPHASES(BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **toggle**:

@@ -8,5 +8,9 @@ ns: HUD
 void SET_TEXT_RENDER_ID(int renderId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **renderId**:

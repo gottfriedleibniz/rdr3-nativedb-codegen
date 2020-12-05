@@ -8,6 +8,10 @@ ns: ENTITY
 BOOL IS_ENTITY_IN_VOLUME(Entity entity, ScrHandle volume, BOOL p2, int p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **volume**:

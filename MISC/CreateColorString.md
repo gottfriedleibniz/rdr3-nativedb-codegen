@@ -10,6 +10,8 @@ char* _CREATE_COLOR_STRING(int rgb);
 
 ```
 Returns a formatted string (0x%x)
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

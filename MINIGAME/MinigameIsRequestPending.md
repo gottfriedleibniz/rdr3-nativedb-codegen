@@ -8,5 +8,9 @@ ns: MINIGAME
 Any _MINIGAME_IS_REQUEST_PENDING(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

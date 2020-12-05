@@ -9,6 +9,10 @@ aliases: ["0x23F74C2FDA6E7C61"]
 Blip _BLIP_ADD_FOR_ENTITY(Hash blipHash, Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **blipHash**:
 * **entity**:

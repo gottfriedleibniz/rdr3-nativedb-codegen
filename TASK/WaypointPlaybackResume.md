@@ -8,6 +8,10 @@ ns: TASK
 void WAYPOINT_PLAYBACK_RESUME(Any p0, BOOL p1, Any p2, Any p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

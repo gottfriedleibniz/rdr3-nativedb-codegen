@@ -9,5 +9,9 @@ aliases: ["0x55123D5A7D9D3C42"]
 void WATER_OVERRIDE_SET_SHOREWAVEAMPLITUDE(float amplitude);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **amplitude**:

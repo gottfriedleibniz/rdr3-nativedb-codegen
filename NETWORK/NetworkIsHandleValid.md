@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL NETWORK_IS_HANDLE_VALID(Any* netHandle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **netHandle**:

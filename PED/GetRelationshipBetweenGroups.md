@@ -8,6 +8,10 @@ ns: PED
 int GET_RELATIONSHIP_BETWEEN_GROUPS(Hash group1, Hash group2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **group1**:
 * **group2**:

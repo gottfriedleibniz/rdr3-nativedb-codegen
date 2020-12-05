@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_RESET_FLAG(Ped ped, int flagId, BOOL doReset);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **flagId**:

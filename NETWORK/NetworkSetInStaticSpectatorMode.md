@@ -8,6 +8,10 @@ ns: NETWORK
 void _NETWORK_SET_IN_STATIC_SPECTATOR_MODE(BOOL toggle, float x, float y, float z);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **toggle**:
 * **x**:

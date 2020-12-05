@@ -10,6 +10,8 @@ void _SET_CHECKPOINT_ICON_RGBA(int checkpoint, int red, int green, int blue, int
 
 ```
 Sets the checkpoint icon color.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

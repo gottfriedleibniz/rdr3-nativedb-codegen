@@ -8,6 +8,10 @@ ns: OBJECT
 void SET_PICKUP_REGENERATION_TIME(Pickup pickup, int duration);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **pickup**:
 * **duration**:

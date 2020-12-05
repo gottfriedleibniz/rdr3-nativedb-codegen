@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_ENABLED"]
 void _UIPROMPT_SET_ENABLED(int prompt, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **toggle**:

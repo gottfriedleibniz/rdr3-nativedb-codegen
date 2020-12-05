@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_TEXT"]
 void _UIPROMPT_SET_TEXT(int prompt, char* text);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **text**:

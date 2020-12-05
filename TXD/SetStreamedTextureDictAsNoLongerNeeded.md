@@ -8,5 +8,9 @@ ns: TXD
 void SET_STREAMED_TEXTURE_DICT_AS_NO_LONGER_NEEDED(char* textureDict);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **textureDict**:

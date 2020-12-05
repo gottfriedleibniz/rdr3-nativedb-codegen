@@ -8,3 +8,7 @@ ns: CAM
 BOOL IS_GAMEPLAY_HINT_ACTIVE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -10,6 +10,8 @@ int GET_ENTITY_LOD_DIST(Entity entity);
 
 ```
 Returns the LOD distance of an entity.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

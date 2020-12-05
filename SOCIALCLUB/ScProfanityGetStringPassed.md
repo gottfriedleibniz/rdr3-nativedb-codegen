@@ -8,5 +8,9 @@ ns: SOCIALCLUB
 BOOL SC_PROFANITY_GET_STRING_PASSED(int token);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **token**:

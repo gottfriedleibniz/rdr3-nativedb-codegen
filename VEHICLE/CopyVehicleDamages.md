@@ -10,6 +10,8 @@ void COPY_VEHICLE_DAMAGES(Vehicle sourceVehicle, Vehicle targetVehicle);
 
 ```
 Copies sourceVehicle's damage (broken bumpers, broken lights, etc.) to targetVehicle.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

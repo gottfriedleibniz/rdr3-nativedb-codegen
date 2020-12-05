@@ -8,5 +8,9 @@ ns: PHYSICS
 void STOP_ROPE_UNWINDING_FRONT(int ropeId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ropeId**:

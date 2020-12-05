@@ -9,5 +9,9 @@ aliases: ["0x20B7F69B40C6B755"]
 BOOL _IS_BACKGROUND_SCRIPT(int threadId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **threadId**:

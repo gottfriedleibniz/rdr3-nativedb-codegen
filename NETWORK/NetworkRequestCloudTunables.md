@@ -10,5 +10,7 @@ void NETWORK_REQUEST_CLOUD_TUNABLES();
 
 ```
 Note: this native was added in build 1311.23
+
+NativeDB Introduced: v1311
 ```
 

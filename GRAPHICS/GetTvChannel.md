@@ -8,3 +8,7 @@ ns: GRAPHICS
 int GET_TV_CHANNEL();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

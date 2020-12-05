@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_ROTATE_MODE"]
 void _UIPROMPT_SET_ROTATE_MODE(int prompt, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **p1**:

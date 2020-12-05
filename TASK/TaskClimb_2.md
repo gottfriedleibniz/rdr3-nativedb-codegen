@@ -8,6 +8,10 @@ ns: TASK
 void _TASK_CLIMB_2(Ped ped, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

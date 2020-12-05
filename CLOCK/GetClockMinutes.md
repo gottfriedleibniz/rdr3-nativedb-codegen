@@ -10,5 +10,7 @@ int GET_CLOCK_MINUTES();
 
 ```
 Gets the current ingame clock minute.
+
+NativeDB Introduced: v1207
 ```
 

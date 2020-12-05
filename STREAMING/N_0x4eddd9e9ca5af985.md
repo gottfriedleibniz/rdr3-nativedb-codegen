@@ -8,5 +8,9 @@ ns: STREAMING
 Any _0x4EDDD9E9CA5AF985(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

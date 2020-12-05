@@ -10,5 +10,7 @@ int TIMERA();
 
 ```
 Counts up. Every 1000 is 1 real-time second. Use SETTIMERA(int value) to set the timer (e.g.: SETTIMERA(0)).
+
+NativeDB Introduced: v1207
 ```
 

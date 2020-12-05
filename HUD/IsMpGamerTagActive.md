@@ -8,5 +8,9 @@ ns: HUD
 BOOL IS_MP_GAMER_TAG_ACTIVE(int gamerTagId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **gamerTagId**:

@@ -8,6 +8,10 @@ ns: PED
 void REMOVE_SCENARIO_BLOCKING_AREA(Any p0, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

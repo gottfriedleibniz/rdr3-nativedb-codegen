@@ -8,5 +8,9 @@ ns: VEHICLE
 BOOL HAS_VEHICLE_ASSET_LOADED(int vehicleAsset);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicleAsset**:

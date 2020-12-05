@@ -9,5 +9,9 @@ aliases: ["0xC212F1D05A8232BB"]
 BOOL _IS_WEAPON_REVOLVER(Hash weaponHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **weaponHash**:

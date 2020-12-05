@@ -8,3 +8,7 @@ ns: CREW
 int NETWORK_CLAN_GET_LOCAL_MEMBERSHIPS_COUNT();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

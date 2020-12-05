@@ -9,6 +9,10 @@ aliases: ["0xF533D68FF970D190"]
 int _FIND_CLOSEST_ACTIVE_SCENARIO_POINT_OF_TYPE(float xPos, float yPos, float zPos, Hash scenarioType, float distance, Any p5, BOOL p6);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **xPos**:
 * **yPos**:

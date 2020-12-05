@@ -10,5 +10,7 @@ BOOL _UI_IS_SINGLEPLAYER_PAUSE_MENU_ACTIVE();
 
 ```
 Hardcoded to return false.
+
+NativeDB Introduced: v1207
 ```
 

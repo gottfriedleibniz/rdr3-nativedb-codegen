@@ -8,3 +8,7 @@ ns: BOUNTY
 void _0x6A9DF0FCD0C87FF9();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,6 +8,10 @@ ns: TASK
 void TASK_PLAY_UPPER_ANIM_FACING_ENTITY(Ped ped, char* animDict, char* animName, Entity entity, int p4, float p5, float p6, int p7, float p8, BOOL p9, BOOL p10, float p11, char* p12, int p13, float p14);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **animDict**:

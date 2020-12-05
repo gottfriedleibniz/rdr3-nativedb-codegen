@@ -8,3 +8,7 @@ ns: AUDIO
 int GET_SOUND_ID();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

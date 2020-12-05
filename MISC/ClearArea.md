@@ -8,6 +8,10 @@ ns: MISC
 void CLEAR_AREA(float x, float y, float z, float radius, Any p4);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x**:
 * **y**:

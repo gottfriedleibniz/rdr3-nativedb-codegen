@@ -12,6 +12,8 @@ float _READ_INT_AS_FLOAT(int value);
 ```
 Reads the passed value as floating point value and returns it.
 Example: _READ_INT_AS_FLOAT(0x3F800000) returns 1.0f because 0x3F800000 is the hexadecimal representation of 1.0f.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

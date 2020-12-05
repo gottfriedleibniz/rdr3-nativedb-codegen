@@ -8,3 +8,7 @@ ns: CAM
 BOOL IS_CINEMATIC_CAM_RENDERING();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

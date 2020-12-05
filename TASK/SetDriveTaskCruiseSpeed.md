@@ -8,6 +8,10 @@ ns: TASK
 void SET_DRIVE_TASK_CRUISE_SPEED(Ped driver, float cruiseSpeed);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **driver**:
 * **cruiseSpeed**:

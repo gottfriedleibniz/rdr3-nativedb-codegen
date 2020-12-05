@@ -8,6 +8,10 @@ ns: WATER
 BOOL GET_WATER_HEIGHT_NO_WAVES(float x, float y, float z, float* height);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x**:
 * **y**:

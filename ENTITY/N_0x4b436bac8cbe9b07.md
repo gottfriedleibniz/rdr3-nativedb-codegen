@@ -8,6 +8,10 @@ ns: ENTITY
 void _0x4B436BAC8CBE9B07(Any p0, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

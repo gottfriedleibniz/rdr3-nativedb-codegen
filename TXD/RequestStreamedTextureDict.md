@@ -8,6 +8,10 @@ ns: TXD
 void REQUEST_STREAMED_TEXTURE_DICT(char* textureDict, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **textureDict**:
 * **p1**:

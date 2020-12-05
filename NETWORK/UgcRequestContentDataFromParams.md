@@ -8,6 +8,10 @@ ns: NETWORK
 int UGC_REQUEST_CONTENT_DATA_FROM_PARAMS(char* contentTypeName, char* contentId, int fileId, int fileVersion, int languageId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **contentTypeName**:
 * **contentId**:

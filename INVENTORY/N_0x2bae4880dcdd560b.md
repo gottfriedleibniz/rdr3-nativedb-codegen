@@ -8,6 +8,10 @@ ns: INVENTORY
 Any _0x2BAE4880DCDD560B(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

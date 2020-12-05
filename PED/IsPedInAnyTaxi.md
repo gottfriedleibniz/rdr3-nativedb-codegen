@@ -8,5 +8,9 @@ ns: PED
 BOOL IS_PED_IN_ANY_TAXI(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

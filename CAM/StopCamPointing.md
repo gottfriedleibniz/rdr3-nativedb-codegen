@@ -8,5 +8,9 @@ ns: CAM
 void STOP_CAM_POINTING(Cam cam);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **cam**:

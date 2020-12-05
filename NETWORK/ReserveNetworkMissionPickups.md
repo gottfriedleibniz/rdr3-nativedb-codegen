@@ -9,5 +9,9 @@ aliases: ["0x4D40E7D749BC6E6D"]
 void RESERVE_NETWORK_MISSION_PICKUPS(int amount);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **amount**:

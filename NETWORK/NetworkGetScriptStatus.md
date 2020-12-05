@@ -8,3 +8,7 @@ ns: NETWORK
 int NETWORK_GET_SCRIPT_STATUS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

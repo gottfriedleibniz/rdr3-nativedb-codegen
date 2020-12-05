@@ -8,6 +8,10 @@ ns: VEHICLE
 BOOL IS_SEAT_WARP_ONLY(Vehicle vehicle, int seatIndex);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **seatIndex**:

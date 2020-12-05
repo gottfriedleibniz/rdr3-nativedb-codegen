@@ -8,6 +8,10 @@ ns: PLAYER
 BOOL IS_PLAYER_TARGETTING_ENTITY(Player player, Entity entity, BOOL p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:
 * **entity**:

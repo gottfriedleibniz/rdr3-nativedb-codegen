@@ -9,6 +9,10 @@ aliases: ["0x345EC3B7EBDE1CB5"]
 int _GET_SCENARIO_POINT_CLOSE_TO_COORDS(float posX, float posY, float posZ, float radius, Any* scenariosInRadius, int size);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **posX**:
 * **posY**:

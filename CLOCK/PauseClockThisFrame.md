@@ -8,5 +8,9 @@ ns: CLOCK
 void _PAUSE_CLOCK_THIS_FRAME(BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **toggle**:

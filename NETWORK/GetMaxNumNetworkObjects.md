@@ -10,5 +10,7 @@ int GET_MAX_NUM_NETWORK_OBJECTS();
 
 ```
 Always returns 60
+
+NativeDB Introduced: v1207
 ```
 

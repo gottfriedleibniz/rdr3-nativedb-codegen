@@ -8,5 +8,9 @@ ns: DATAFILE
 void _DATAFILE_UNLOAD(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

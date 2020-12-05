@@ -8,6 +8,10 @@ ns: TASK
 BOOL GET_TASK_MOVE_NETWORK_EVENT(Ped ped, char* eventName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **eventName**:

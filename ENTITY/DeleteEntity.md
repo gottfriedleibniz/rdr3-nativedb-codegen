@@ -10,6 +10,8 @@ void DELETE_ENTITY(Entity* entity);
 
 ```
 Deletes the specified entity, then sets the handle pointed to by the pointer to NULL.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

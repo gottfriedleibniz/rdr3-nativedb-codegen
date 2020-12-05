@@ -10,6 +10,8 @@ BOOL GET_PED_STEALTH_MOVEMENT(Ped ped);
 
 ```
 Returns whether the entity is in stealth mode
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

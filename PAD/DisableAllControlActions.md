@@ -8,5 +8,9 @@ ns: PAD
 void DISABLE_ALL_CONTROL_ACTIONS(int padIndex);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **padIndex**:

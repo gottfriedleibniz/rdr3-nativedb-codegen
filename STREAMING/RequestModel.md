@@ -10,6 +10,8 @@ void REQUEST_MODEL(Hash model, BOOL p1);
 
 ```
 Request a model to be loaded into memory.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

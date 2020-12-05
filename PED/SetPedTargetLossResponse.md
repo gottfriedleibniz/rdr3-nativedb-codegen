@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_TARGET_LOSS_RESPONSE(Ped ped, int responseType);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **responseType**:

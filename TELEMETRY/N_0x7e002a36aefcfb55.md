@@ -8,3 +8,7 @@ ns: TELEMETRY
 void _0x7E002A36AEFCFB55();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

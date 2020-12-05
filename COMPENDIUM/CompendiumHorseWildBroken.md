@@ -8,5 +8,9 @@ ns: COMPENDIUM
 void COMPENDIUM_HORSE_WILD_BROKEN(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

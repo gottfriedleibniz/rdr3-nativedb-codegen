@@ -8,5 +8,9 @@ ns: UIAPPS
 int _LAUNCH_APP_BY_HASH(Hash appNameHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **appNameHash**:

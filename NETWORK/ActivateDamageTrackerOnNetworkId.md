@@ -8,6 +8,10 @@ ns: NETWORK
 void ACTIVATE_DAMAGE_TRACKER_ON_NETWORK_ID(int netID, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **netID**:
 * **toggle**:

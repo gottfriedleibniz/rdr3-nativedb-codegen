@@ -8,5 +8,9 @@ ns: NETWORK
 void NETWORK_SHOW_PROFILE_UI(Any* networkHandle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **networkHandle**:

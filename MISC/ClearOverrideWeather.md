@@ -8,3 +8,7 @@ ns: MISC
 void CLEAR_OVERRIDE_WEATHER();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

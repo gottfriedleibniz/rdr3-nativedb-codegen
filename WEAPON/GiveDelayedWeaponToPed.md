@@ -8,6 +8,10 @@ ns: WEAPON
 void GIVE_DELAYED_WEAPON_TO_PED(Ped ped, Hash weaponHash, Any p2, BOOL p3, Any p4);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **weaponHash**:

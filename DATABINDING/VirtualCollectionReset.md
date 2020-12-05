@@ -8,5 +8,9 @@ ns: DATABINDING
 void _VIRTUAL_COLLECTION_RESET(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

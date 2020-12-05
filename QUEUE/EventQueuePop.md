@@ -8,5 +8,9 @@ ns: QUEUE
 void _EVENT_QUEUE_POP(Hash hash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **hash**:

@@ -9,3 +9,7 @@ aliases: ["_LOG_CLEAR_HAS_DISPLAYED_CACHED_OBJECTIVE"]
 void _UILOG_CLEAR_HAS_DISPLAYED_CACHED_OBJECTIVE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

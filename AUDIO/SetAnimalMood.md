@@ -10,6 +10,8 @@ void SET_ANIMAL_MOOD(Ped animal, int mood);
 
 ```
 Not implemented.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

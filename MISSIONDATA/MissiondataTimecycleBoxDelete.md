@@ -9,3 +9,7 @@ aliases: ["0x7F89E15A8FB8DE97"]
 void _MISSIONDATA_TIMECYCLE_BOX_DELETE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,5 +8,9 @@ ns: PHYSICS
 int GET_ROPE_VERTEX_COUNT(int ropeId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ropeId**:

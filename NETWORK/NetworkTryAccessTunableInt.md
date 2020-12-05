@@ -8,6 +8,10 @@ ns: NETWORK
 int _NETWORK_TRY_ACCESS_TUNABLE_INT(Hash tunableContext, Hash tunableName, int defaultValue);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **tunableContext**:
 * **tunableName**:

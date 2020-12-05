@@ -8,3 +8,7 @@ ns: SCRIPTS
 void TERMINATE_THIS_THREAD();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,5 +8,9 @@ ns: TASK
 void ASSISTED_MOVEMENT_REMOVE_ROUTE(char* route);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **route**:

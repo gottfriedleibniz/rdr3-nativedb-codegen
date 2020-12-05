@@ -10,5 +10,7 @@ BOOL _NETWORK_ARE_ONLINE_NOTIFICATIONS_SHOWN_IN_STORY_MODE();
 
 ```
 Returns value of fwuiCachedSetting "general.onlineNotificationsInStoryMode"
+
+NativeDB Introduced: v1207
 ```
 

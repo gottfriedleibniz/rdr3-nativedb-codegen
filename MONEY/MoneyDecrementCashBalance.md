@@ -8,5 +8,9 @@ ns: MONEY
 BOOL _MONEY_DECREMENT_CASH_BALANCE(int amount);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **amount**:

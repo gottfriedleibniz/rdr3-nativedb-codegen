@@ -8,6 +8,10 @@ ns: ENTITY
 int GET_ENTITY_BONE_INDEX_BY_NAME(Entity entity, char* boneName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **boneName**:

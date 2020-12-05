@@ -8,3 +8,7 @@ ns: VEHICLE
 void SET_ALL_VEHICLE_GENERATORS_ACTIVE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

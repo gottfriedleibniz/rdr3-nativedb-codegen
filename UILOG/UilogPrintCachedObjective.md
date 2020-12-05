@@ -9,3 +9,7 @@ aliases: ["_LOG_PRINT_CACHED_OBJECTIVE"]
 void _UILOG_PRINT_CACHED_OBJECTIVE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

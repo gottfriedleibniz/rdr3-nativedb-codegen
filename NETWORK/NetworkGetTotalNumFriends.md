@@ -9,3 +9,7 @@ aliases: ["0xDB7ABDD203FA3704"]
 int _NETWORK_GET_TOTAL_NUM_FRIENDS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

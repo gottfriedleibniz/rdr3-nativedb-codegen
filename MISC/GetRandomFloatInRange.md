@@ -8,6 +8,10 @@ ns: MISC
 float GET_RANDOM_FLOAT_IN_RANGE(float startRange, float endRange);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **startRange**:
 * **endRange**:

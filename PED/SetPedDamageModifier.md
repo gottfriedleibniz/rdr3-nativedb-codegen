@@ -11,6 +11,8 @@ void _SET_PED_DAMAGE_MODIFIER(Ped ped, float damageModifier);
 
 ```
 Actual name starts with SET_PED_TO_*
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

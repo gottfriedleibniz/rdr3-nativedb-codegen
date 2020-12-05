@@ -8,6 +8,10 @@ ns: PHYSICS
 void ROPE_SET_UPDATE_ORDER(int ropeId, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ropeId**:
 * **p1**:

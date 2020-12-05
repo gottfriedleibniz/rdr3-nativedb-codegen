@@ -10,6 +10,8 @@ void CLONE_PED_TO_TARGET(Ped ped, Ped targetPed);
 
 ```
 Copies ped's components and props to targetPed.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

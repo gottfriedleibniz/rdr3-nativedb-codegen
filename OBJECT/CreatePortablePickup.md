@@ -8,6 +8,10 @@ ns: OBJECT
 Object CREATE_PORTABLE_PICKUP(Hash pickupHash, float x, float y, float z, BOOL placeOnGround, Hash modelHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **pickupHash**:
 * **x**:

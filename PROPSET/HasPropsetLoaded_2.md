@@ -11,6 +11,8 @@ BOOL _HAS_PROPSET_LOADED_2(Hash hash);
 
 ```
 Same as _HAS_PROPSET_LOADED
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

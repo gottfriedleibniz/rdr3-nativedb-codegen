@@ -8,6 +8,10 @@ ns: AUDIO
 void PLAY_SOUND_FRONTEND(char* audioName, char* audioRef, BOOL p2, Any p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **audioName**:
 * **audioRef**:

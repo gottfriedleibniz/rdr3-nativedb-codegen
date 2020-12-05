@@ -10,6 +10,8 @@ Object GET_CLOSEST_OBJECT_OF_TYPE(float x, float y, float z, float radius, Hash 
 
 ```
 isMission - if true doesn't return mission objects
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

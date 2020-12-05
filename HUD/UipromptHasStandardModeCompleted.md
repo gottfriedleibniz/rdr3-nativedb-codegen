@@ -9,6 +9,10 @@ aliases: ["_PROMPT_HAS_STANDARD_MODE_COMPLETED"]
 BOOL _UIPROMPT_HAS_STANDARD_MODE_COMPLETED(int prompt, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **p1**:

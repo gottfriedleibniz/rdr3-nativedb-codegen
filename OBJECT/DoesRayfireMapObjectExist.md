@@ -8,5 +8,9 @@ ns: OBJECT
 BOOL DOES_RAYFIRE_MAP_OBJECT_EXIST(Object object);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **object**:

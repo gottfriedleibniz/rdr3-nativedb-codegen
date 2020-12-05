@@ -10,6 +10,8 @@ void SET_PED_MAX_HEALTH(Ped ped, int value);
 
 ```
 Sets the maximum health of a ped.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

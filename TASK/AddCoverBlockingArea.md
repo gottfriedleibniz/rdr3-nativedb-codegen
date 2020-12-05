@@ -8,6 +8,10 @@ ns: TASK
 void ADD_COVER_BLOCKING_AREA(float playerX, float playerY, float playerZ, float radiusX, float radiusY, float radiusZ, BOOL p6, BOOL p7, BOOL p8, BOOL p9);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **playerX**:
 * **playerY**:

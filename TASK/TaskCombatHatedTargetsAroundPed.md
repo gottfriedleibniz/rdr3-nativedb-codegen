@@ -10,6 +10,8 @@ void TASK_COMBAT_HATED_TARGETS_AROUND_PED(Ped ped, float radius, int flags, Any 
 
 ```
 Despite its name, it only attacks ONE hated target. The one closest hated target.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

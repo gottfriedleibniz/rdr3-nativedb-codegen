@@ -8,6 +8,10 @@ ns: PED
 void CLEAR_PED_BLOOD_DAMAGE_BY_ZONE(Ped ped, int p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

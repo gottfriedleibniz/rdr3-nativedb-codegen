@@ -8,5 +8,9 @@ ns: PED
 int GET_PED_ACCURACY(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

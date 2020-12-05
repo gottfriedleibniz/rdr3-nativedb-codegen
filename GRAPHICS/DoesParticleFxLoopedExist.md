@@ -8,5 +8,9 @@ ns: GRAPHICS
 BOOL DOES_PARTICLE_FX_LOOPED_EXIST(int ptfxHandle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ptfxHandle**:

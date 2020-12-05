@@ -8,5 +8,9 @@ ns: GRAPHICS
 void REMOVE_PARTICLE_FX_FROM_ENTITY(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

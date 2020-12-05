@@ -8,6 +8,10 @@ ns: VEHICLE
 void SET_VEHICLE_BODY_HEALTH(Vehicle vehicle, float value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **value**:

@@ -8,6 +8,10 @@ ns: MISC
 float GET_ANGLE_BETWEEN_2D_VECTORS(float x1, float y1, float x2, float y2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x1**:
 * **y1**:

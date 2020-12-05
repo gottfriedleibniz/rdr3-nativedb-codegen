@@ -8,6 +8,10 @@ ns: VEHICLE
 void SET_VEHICLE_WHEELS_CAN_BREAK(Vehicle vehicle, BOOL enabled);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **enabled**:

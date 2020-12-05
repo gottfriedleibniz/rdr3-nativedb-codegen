@@ -8,6 +8,10 @@ ns: VEHICLE
 void SET_VEHICLE_DOORS_LOCKED(Vehicle vehicle, int doorLockStatus);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **doorLockStatus**:

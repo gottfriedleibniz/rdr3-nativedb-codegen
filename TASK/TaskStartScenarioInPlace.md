@@ -8,6 +8,10 @@ ns: TASK
 void _TASK_START_SCENARIO_IN_PLACE(Ped ped, Hash scenarioHash, int p2, BOOL p3, Any p4, float p5, BOOL p6);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **scenarioHash**:

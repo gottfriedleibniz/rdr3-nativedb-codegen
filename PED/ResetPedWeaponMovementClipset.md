@@ -8,5 +8,9 @@ ns: PED
 void RESET_PED_WEAPON_MOVEMENT_CLIPSET(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

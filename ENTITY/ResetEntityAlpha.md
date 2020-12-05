@@ -8,5 +8,9 @@ ns: ENTITY
 void RESET_ENTITY_ALPHA(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

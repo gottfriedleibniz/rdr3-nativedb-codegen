@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_STANDARD_MODE"]
 void _UIPROMPT_SET_STANDARD_MODE(int prompt, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **p1**:

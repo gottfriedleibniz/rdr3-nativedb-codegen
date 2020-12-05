@@ -8,5 +8,9 @@ ns: ITEMDATABASE
 Any _ITEM_DATABASE_LOCALIZATION_GET_NUM_LABEL_TYPES(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

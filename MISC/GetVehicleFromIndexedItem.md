@@ -9,5 +9,9 @@ aliases: ["0xE578C8AE173719B3"]
 Vehicle _GET_VEHICLE_FROM_INDEXED_ITEM(ScrHandle item);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **item**:

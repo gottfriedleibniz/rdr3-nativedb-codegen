@@ -10,6 +10,8 @@ void TASK_STAY_IN_COVER(Ped ped);
 
 ```
 Makes the ped run to take cover
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

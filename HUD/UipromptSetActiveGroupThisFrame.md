@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_ACTIVE_GROUP_THIS_FRAME"]
 Any _UIPROMPT_SET_ACTIVE_GROUP_THIS_FRAME(Hash hash, Any p1, Any p2, Any p3, Any p4, int prompt);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **hash**:
 * **p1**:

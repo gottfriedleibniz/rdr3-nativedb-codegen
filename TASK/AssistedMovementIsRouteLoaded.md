@@ -8,5 +8,9 @@ ns: TASK
 BOOL ASSISTED_MOVEMENT_IS_ROUTE_LOADED(char* route);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **route**:

@@ -8,6 +8,10 @@ ns: VEHICLE
 void SET_VEHICLE_FORWARD_SPEED(Vehicle vehicle, float speed);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **speed**:

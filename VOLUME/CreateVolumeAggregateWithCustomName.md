@@ -8,5 +8,9 @@ ns: VOLUME
 int _CREATE_VOLUME_AGGREGATE_WITH_CUSTOM_NAME(char* name);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **name**:

@@ -8,5 +8,9 @@ ns: WEAPON
 BOOL IS_WEAPON_VALID(Hash weaponHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **weaponHash**:

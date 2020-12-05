@@ -8,3 +8,7 @@ ns: CAM
 void _DISABLE_VEHICLE_FIRST_PERSON_CAM_THIS_FRAME();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

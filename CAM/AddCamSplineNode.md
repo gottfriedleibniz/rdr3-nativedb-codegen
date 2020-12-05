@@ -14,6 +14,8 @@ p7 (length) determines the length of the spline, affects camera path and duratio
 p8 big values ~100 will slow down the camera movement before reaching this node
 
 p9 != 0 seems to override the rotation/pitch (bool?)
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

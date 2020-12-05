@@ -8,3 +8,7 @@ ns: NETWORK
 int NETWORK_GET_TOTAL_NUM_PLAYERS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

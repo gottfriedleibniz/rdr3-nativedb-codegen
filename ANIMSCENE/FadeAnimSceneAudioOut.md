@@ -8,6 +8,10 @@ ns: ANIMSCENE
 void FADE_ANIM_SCENE_AUDIO_OUT(int animScene, float p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animScene**:
 * **p1**:

@@ -8,5 +8,9 @@ ns: TASK
 BOOL PED_HAS_USE_SCENARIO_TASK(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

@@ -8,5 +8,9 @@ ns: ITEMDATABASE
 Any _ITEM_DATABASE_GET_HAS_SLOT_COUNT(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

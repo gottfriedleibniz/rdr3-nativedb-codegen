@@ -13,6 +13,8 @@ void _SET_MP_GAMER_TAG_SECONDARY_ICON(int gamerTagId, Hash icon);
 Found icons:
   SPEAKER
   THROPY
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

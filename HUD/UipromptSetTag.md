@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_TAG"]
 void _UIPROMPT_SET_TAG(int prompt, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **p1**:

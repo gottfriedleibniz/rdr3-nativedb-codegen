@@ -8,5 +8,9 @@ ns: TASK
 void WAYPOINT_PLAYBACK_STOP_AIMING_OR_SHOOTING(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

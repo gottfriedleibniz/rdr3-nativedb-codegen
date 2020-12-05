@@ -22,5 +22,7 @@ int GET_CURRENT_LANGUAGE();
 10 = japanese (ja-JP)
 11 = mexican (es-MX)
 12 = chinesesimp (zh-CN)
+
+NativeDB Introduced: v1207
 ```
 

@@ -8,5 +8,9 @@ ns: MISC
 void PAUSE_DEATH_ARREST_RESTART(BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **toggle**:

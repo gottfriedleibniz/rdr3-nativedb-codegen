@@ -10,6 +10,8 @@ int GET_PED_BONE_INDEX(Ped ped, int boneId);
 
 ```
 no bone = -1
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -8,6 +8,10 @@ ns: DECORATOR
 BOOL _DECOR_SET_STRING(Entity entity, char* propertyName, char* value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **propertyName**:

@@ -8,6 +8,10 @@ ns: MISC
 int GET_RANDOM_INT_IN_RANGE(int startRange, int endRange);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **startRange**:
 * **endRange**:

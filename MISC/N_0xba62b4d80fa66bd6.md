@@ -10,6 +10,8 @@ void _0xBA62B4D80FA66BD6(Any p0, Any p1, Any p2, Any p3);
 
 ```
 SCRIPT_RACE_*
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

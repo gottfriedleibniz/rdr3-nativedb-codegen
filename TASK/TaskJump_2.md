@@ -8,6 +8,10 @@ ns: TASK
 void _TASK_JUMP_2(Ped ped, float x, float y, float z, Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **x**:

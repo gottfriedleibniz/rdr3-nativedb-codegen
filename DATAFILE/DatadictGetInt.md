@@ -9,6 +9,10 @@ aliases: ["_OBJECT_VALUE_GET_INTEGER"]
 int DATADICT_GET_INT(Any* objectData, char* key);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **objectData**:
 * **key**:

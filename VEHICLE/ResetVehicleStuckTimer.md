@@ -8,6 +8,10 @@ ns: VEHICLE
 void RESET_VEHICLE_STUCK_TIMER(Vehicle vehicle, int nullAttributes);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **nullAttributes**:

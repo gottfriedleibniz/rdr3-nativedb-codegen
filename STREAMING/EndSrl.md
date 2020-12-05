@@ -8,3 +8,7 @@ ns: STREAMING
 void END_SRL();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,6 +8,10 @@ ns: PED
 Ped CLONE_PED(Ped ped, float heading, BOOL isNetwork, BOOL netMissionEntity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **heading**:

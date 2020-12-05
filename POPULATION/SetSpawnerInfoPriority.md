@@ -8,6 +8,10 @@ ns: POPULATION
 void SET_SPAWNER_INFO_PRIORITY(Hash p0, Hash p1, int priority);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

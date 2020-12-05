@@ -8,3 +8,7 @@ ns: HUD
 BOOL BUSYSPINNER_IS_ON();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,3 +8,7 @@ ns: NETWORK
 int NETWORK_GET_TIMEOUT_TIME();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

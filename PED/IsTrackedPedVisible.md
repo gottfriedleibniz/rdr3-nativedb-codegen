@@ -13,6 +13,8 @@ returns whether or not a ped is visible within your FOV, not this check auto's t
 
 
 Target needs to be tracked.. won't work otherwise.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

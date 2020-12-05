@@ -9,3 +9,7 @@ aliases: ["0x966DD84FB6A46017"]
 void _CLEAR_LAUNCH_PARAMS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

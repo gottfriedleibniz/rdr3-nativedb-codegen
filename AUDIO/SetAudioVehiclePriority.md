@@ -8,6 +8,10 @@ ns: AUDIO
 void SET_AUDIO_VEHICLE_PRIORITY(Vehicle vehicle, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **p1**:

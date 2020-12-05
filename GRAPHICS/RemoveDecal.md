@@ -8,5 +8,9 @@ ns: GRAPHICS
 void REMOVE_DECAL(int decal);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **decal**:

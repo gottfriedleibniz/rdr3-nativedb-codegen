@@ -8,5 +8,9 @@ ns: DATAFILE
 char* DATAFILE_GET_FILE_DICT(int index);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **index**:

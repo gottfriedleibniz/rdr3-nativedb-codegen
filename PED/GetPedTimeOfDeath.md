@@ -8,5 +8,9 @@ ns: PED
 int GET_PED_TIME_OF_DEATH(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

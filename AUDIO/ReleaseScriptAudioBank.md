@@ -8,3 +8,7 @@ ns: AUDIO
 void RELEASE_SCRIPT_AUDIO_BANK();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

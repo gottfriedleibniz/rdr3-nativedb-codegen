@@ -9,6 +9,10 @@ aliases: ["0xA197C35F73AC0F12"]
 void _REPORT_PLAYER(Player player, int reportType, char* description, char* horseName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:
 * **reportType**:

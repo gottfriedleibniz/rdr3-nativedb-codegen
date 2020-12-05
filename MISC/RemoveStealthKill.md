@@ -10,6 +10,8 @@ void _REMOVE_STEALTH_KILL(Hash hash, BOOL p1);
 
 ```
 Appears to remove stealth kill action from memory
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

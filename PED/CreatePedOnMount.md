@@ -8,6 +8,10 @@ ns: PED
 Ped CREATE_PED_ON_MOUNT(Ped mount, Hash modelHash, int index, BOOL p3, BOOL p4, BOOL p5, BOOL p6);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **mount**:
 * **modelHash**:

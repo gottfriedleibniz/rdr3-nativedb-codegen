@@ -8,6 +8,10 @@ ns: TASK
 void TASK_DUMP_CARRIABLE_FROM_PARENT(Ped ped, Ped ped2, Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **ped2**:

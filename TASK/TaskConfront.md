@@ -8,6 +8,10 @@ ns: TASK
 BOOL TASK_CONFRONT(Ped ped, Ped targetPed, int p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **targetPed**:

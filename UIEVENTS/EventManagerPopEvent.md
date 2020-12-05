@@ -8,5 +8,9 @@ ns: UIEVENTS
 void _EVENT_MANAGER_POP_EVENT(Hash hash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **hash**:

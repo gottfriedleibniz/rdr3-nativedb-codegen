@@ -9,5 +9,9 @@ aliases: ["0x3A3D5568AF297CD5"]
 BOOL CLOUD_DID_REQUEST_SUCCEED(int id);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **id**:

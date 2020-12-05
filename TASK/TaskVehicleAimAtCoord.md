@@ -8,6 +8,10 @@ ns: TASK
 void TASK_VEHICLE_AIM_AT_COORD(Ped ped, float x, float y, float z);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **x**:

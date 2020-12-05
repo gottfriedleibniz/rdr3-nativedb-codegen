@@ -10,6 +10,8 @@ BOOL IS_EXPLOSION_IN_SPHERE(int explosionType, float x, float y, float z, float 
 
 ```
 explosionType: see ADD_EXPLOSION
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

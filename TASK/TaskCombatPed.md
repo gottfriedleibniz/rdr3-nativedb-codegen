@@ -8,6 +8,10 @@ ns: TASK
 void TASK_COMBAT_PED(Ped ped, Ped targetPed, int p2, int p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **targetPed**:

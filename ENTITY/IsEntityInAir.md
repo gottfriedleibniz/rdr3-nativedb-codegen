@@ -8,6 +8,10 @@ ns: ENTITY
 BOOL IS_ENTITY_IN_AIR(Entity entity, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **p1**:

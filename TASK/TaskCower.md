@@ -8,6 +8,10 @@ ns: TASK
 void TASK_COWER(Ped ped, int duration, Ped ped2, char* p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **duration**:

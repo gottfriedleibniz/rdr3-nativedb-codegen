@@ -8,6 +8,10 @@ ns: STATS
 void CHAL_ADD_GOAL_PROGRESS_FLOAT(Hash chalHash, Hash goalHash, float value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **chalHash**:
 * **goalHash**:

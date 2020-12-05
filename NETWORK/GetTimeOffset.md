@@ -10,6 +10,8 @@ int GET_TIME_OFFSET(int timeA, int timeB);
 
 ```
 Adds the first argument to the second.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

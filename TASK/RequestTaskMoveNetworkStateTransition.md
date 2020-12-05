@@ -8,6 +8,10 @@ ns: TASK
 void REQUEST_TASK_MOVE_NETWORK_STATE_TRANSITION(Ped ped, char* name);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **name**:

@@ -9,5 +9,9 @@ aliases: ["0x57639FD876B68A91"]
 BOOL SAVE_HIGH_QUALITY_PHOTO(int unused);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **unused**:

@@ -8,6 +8,10 @@ ns: NETWORK
 void _NETWORK_CLOCK_TIME_OVERRIDE_2(int hour, int minute, int second, int transitionTime, BOOL p4, BOOL clockwise);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **hour**:
 * **minute**:

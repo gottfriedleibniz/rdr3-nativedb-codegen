@@ -8,5 +8,9 @@ ns: PED
 void SET_PED_MOVE_ANIMS_BLEND_OUT(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

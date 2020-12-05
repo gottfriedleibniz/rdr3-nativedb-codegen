@@ -16,6 +16,8 @@ BOOL isAudible = If explosion makes a sound.
 BOOL isInvisible = If the explosion is invisible or not.
 
 First BOOL does not give any visual explosion, the vehicle just falls apart completely but slowly and starts to burn.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

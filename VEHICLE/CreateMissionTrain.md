@@ -12,6 +12,8 @@ Vehicle _CREATE_MISSION_TRAIN(Hash configHash, float x, float y, float z, BOOL p
 ```
 configHash: https://alloc8or.re/rdr3/doc/enums/eTrainConfig.txt
 For more information, see trainconfigs.ymt
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -8,5 +8,9 @@ ns: STATS
 int CHAL_GET_MAX_RANKS(Hash chalHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **chalHash**:

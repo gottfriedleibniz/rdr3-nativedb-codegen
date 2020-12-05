@@ -8,6 +8,10 @@ ns: ENTITY
 BOOL HAS_ANIM_EVENT_FIRED(Entity entity, Hash actionHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **actionHash**:

@@ -8,5 +8,9 @@ ns: TASK
 BOOL IS_MOVE_BLEND_RATIO_WALKING(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

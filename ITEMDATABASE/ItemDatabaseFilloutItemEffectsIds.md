@@ -8,6 +8,10 @@ ns: ITEMDATABASE
 Any _ITEM_DATABASE_FILLOUT_ITEM_EFFECTS_IDS(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

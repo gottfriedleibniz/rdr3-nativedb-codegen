@@ -8,5 +8,9 @@ ns: MISC
 void SET_RANDOM_SEED(int seed);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **seed**:

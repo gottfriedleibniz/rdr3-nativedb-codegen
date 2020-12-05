@@ -8,5 +8,9 @@ ns: PED
 BOOL IS_PED_STOPPED(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

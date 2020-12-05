@@ -8,6 +8,10 @@ ns: OBJECT
 void ATTACH_PORTABLE_PICKUP_TO_PED(Object pickupObject, Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **pickupObject**:
 * **ped**:

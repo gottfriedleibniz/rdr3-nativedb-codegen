@@ -10,6 +10,8 @@ void SET_PED_NAME_DEBUG(Ped ped, char* name);
 
 ```
 nullsub, doesn't do anything
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

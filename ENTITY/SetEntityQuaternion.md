@@ -8,6 +8,10 @@ ns: ENTITY
 void SET_ENTITY_QUATERNION(Entity entity, float x, float y, float z, float w);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **x**:

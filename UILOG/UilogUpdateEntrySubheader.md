@@ -9,6 +9,10 @@ aliases: ["_LOG_UPDATE_ENTRY_SUBHEADER"]
 void _UILOG_UPDATE_ENTRY_SUBHEADER(int p0, Hash p1, char* p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

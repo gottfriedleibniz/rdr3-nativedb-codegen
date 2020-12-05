@@ -8,6 +8,10 @@ ns: NETWORK
 void NETWORK_SET_RICH_PRESENCE(int p0, Any* p1, int p2, int p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

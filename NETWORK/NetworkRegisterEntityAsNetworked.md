@@ -8,5 +8,9 @@ ns: NETWORK
 void NETWORK_REGISTER_ENTITY_AS_NETWORKED(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

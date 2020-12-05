@@ -9,6 +9,10 @@ aliases: ["_OBJECT_VALUE_GET_VECTOR3"]
 Vector3 DATADICT_GET_VECTOR(Any* objectData, char* key);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **objectData**:
 * **key**:

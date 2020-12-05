@@ -9,5 +9,9 @@ aliases: ["0x3FBC3F51BF12DFBF"]
 float _GET_ANIM_SCENE_PROGRESS(int animScene);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animScene**:

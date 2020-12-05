@@ -8,5 +8,9 @@ ns: AUDIO
 void STOP_AUDIO_SCENE(char* scene);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scene**:

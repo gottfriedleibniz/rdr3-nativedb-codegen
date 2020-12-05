@@ -9,3 +9,7 @@ aliases: ["0xA16B4FBA7887D7BA"]
 BOOL _GET_SPECIAL_EDITION_CORE_STATS_BONUS_ENABLED();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

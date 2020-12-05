@@ -8,6 +8,10 @@ ns: AUDIO
 BOOL _CAN_PED_SPEAK(Ped ped, char* speechName, BOOL unk);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **speechName**:

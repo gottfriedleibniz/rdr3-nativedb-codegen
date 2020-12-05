@@ -8,5 +8,9 @@ ns: BRAIN
 void ENABLE_SCRIPT_BRAIN_SET(int brainSet);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **brainSet**:

@@ -8,5 +8,9 @@ ns: GOOGLE_ANALYTICS
 void _GOOGLE_ANALYTICS_POP_PAGE(char* pageName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **pageName**:

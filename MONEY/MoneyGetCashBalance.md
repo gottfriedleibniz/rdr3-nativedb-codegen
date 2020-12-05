@@ -8,3 +8,7 @@ ns: MONEY
 int _MONEY_GET_CASH_BALANCE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

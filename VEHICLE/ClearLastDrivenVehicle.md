@@ -8,3 +8,7 @@ ns: VEHICLE
 void CLEAR_LAST_DRIVEN_VEHICLE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

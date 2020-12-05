@@ -8,6 +8,10 @@ ns: AUDIO
 void STOP_CURRENT_PLAYING_AMBIENT_SPEECH(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

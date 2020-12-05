@@ -9,5 +9,9 @@ aliases: ["_PROMPT_IS_RELEASED"]
 BOOL _UIPROMPT_IS_RELEASED(int prompt);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:

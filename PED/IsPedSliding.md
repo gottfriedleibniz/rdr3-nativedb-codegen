@@ -9,5 +9,9 @@ aliases: ["0xD6740E14E4CEFC0B"]
 BOOL _IS_PED_SLIDING(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

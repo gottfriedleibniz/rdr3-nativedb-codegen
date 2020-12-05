@@ -9,5 +9,9 @@ aliases: ["0x81948DFE4F5A0283"]
 void _DELETE_SCENARIO_POINT(int scenario);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scenario**:

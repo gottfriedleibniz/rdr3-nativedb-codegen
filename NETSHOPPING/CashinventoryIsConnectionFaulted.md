@@ -8,3 +8,7 @@ ns: NETSHOPPING
 BOOL _CASHINVENTORY_IS_CONNECTION_FAULTED();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

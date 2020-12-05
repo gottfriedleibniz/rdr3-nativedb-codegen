@@ -8,6 +8,10 @@ ns: ANIMSCENE
 void ATTACH_ANIM_SCENE_TO_ENTITY_PRESERVING_LOCATION(int animScene, Entity entity, int p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animScene**:
 * **entity**:

@@ -8,5 +8,9 @@ ns: NETWORK
 Entity NETWORK_GET_ENTITY_FROM_NETWORK_ID(int netId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **netId**:

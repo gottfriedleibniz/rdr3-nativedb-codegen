@@ -8,5 +8,9 @@ ns: HUD
 char* _GET_LABEL_TEXT_2(char* label);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **label**:

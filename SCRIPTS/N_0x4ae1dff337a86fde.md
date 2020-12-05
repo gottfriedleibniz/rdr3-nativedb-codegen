@@ -10,6 +10,8 @@ BOOL _0x4AE1DFF337A86FDE(int scriptIndex, char* p1);
 
 ```
 BG_*
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

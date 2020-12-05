@@ -8,6 +8,10 @@ ns: POPULATION
 Hash GET_RANDOM_MODEL_FROM_POPULATION_SET(Hash popSetHash, int flags, Hash p2, BOOL p3, BOOL p4, float x, float y, float z);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **popSetHash**:
 * **flags**:

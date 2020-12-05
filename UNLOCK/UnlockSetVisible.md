@@ -8,6 +8,10 @@ ns: UNLOCK
 void _UNLOCK_SET_VISIBLE(Hash unlockHash, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **unlockHash**:
 * **toggle**:

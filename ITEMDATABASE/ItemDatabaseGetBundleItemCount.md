@@ -8,6 +8,10 @@ ns: ITEMDATABASE
 Any _ITEM_DATABASE_GET_BUNDLE_ITEM_COUNT(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

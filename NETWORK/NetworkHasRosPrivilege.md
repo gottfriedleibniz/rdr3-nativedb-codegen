@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL NETWORK_HAS_ROS_PRIVILEGE(int index);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **index**:

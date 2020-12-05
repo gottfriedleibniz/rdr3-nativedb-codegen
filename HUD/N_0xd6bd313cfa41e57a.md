@@ -8,5 +8,9 @@ ns: HUD
 Any _0xD6BD313CFA41E57A(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

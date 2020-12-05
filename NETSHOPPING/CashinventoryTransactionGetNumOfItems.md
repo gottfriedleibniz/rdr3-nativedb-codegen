@@ -8,5 +8,9 @@ ns: NETSHOPPING
 int _CASHINVENTORY_TRANSACTION_GET_NUM_OF_ITEMS(int id);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **id**:

@@ -9,6 +9,10 @@ aliases: ["0x6C76BC24F8BB709A"]
 void _SET_TEXTURE_LAYER_ALPHA(int textureId, int layerId, float texAlpha);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **textureId**:
 * **layerId**:

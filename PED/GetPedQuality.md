@@ -17,6 +17,8 @@ Note: 3 and 4 appear to only be present on script-made peds
 2: PERFECT
 3: RARE
 4: LEGENDARY
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -8,6 +8,10 @@ ns: TASK
 void TASK_SHOOT_WITH_WEAPON(Ped ped, Any* args);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **args**:

@@ -8,3 +8,7 @@ ns: GRAPHICS
 void _CASCADESHADOWS_RESET_TYPE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,5 +8,9 @@ ns: ENTITY
 BOOL GET_ENTITY_COLLISION_DISABLED(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

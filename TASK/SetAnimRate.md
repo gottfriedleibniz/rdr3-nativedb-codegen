@@ -8,6 +8,10 @@ ns: TASK
 void SET_ANIM_RATE(Any p0, float p1, Any p2, BOOL p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

@@ -8,3 +8,7 @@ ns: MINIGAME
 void _MINIGAME_POP_NEXT_EVENT();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

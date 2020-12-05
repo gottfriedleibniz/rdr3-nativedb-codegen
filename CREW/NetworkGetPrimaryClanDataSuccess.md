@@ -8,3 +8,7 @@ ns: CREW
 Any NETWORK_GET_PRIMARY_CLAN_DATA_SUCCESS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

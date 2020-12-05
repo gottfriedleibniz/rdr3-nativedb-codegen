@@ -8,6 +8,10 @@ ns: GRAPHICS
 void SET_PARTICLE_FX_LOOPED_FAR_CLIP_DIST(int ptfxHandle, float range);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ptfxHandle**:
 * **range**:

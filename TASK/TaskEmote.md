@@ -12,6 +12,8 @@ void _TASK_EMOTE(Ped ped, int category, int p2, Hash emoteType, BOOL p4, BOOL p5
 category: https://alloc8or.re/rdr3/doc/enums/eEmoteCategory.txt
 p2: usually 2
 emoteType: https://alloc8or.re/rdr3/doc/enums/eEmoteType.txt
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

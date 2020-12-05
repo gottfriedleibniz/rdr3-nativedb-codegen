@@ -8,5 +8,9 @@ ns: DLC
 BOOL IS_DLC_PRESENT(Hash dlcHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **dlcHash**:

@@ -8,5 +8,9 @@ ns: PED
 int GET_PED_MONEY(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

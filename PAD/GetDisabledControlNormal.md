@@ -8,6 +8,10 @@ ns: PAD
 float GET_DISABLED_CONTROL_NORMAL(int padIndex, Hash control);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **padIndex**:
 * **control**:

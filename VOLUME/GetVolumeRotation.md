@@ -9,5 +9,9 @@ aliases: ["0x18675BC914891122"]
 Vector3 _GET_VOLUME_ROTATION(int volume);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **volume**:

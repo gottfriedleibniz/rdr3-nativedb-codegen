@@ -9,5 +9,9 @@ aliases: ["0x0378C08504160D0D"]
 BOOL IS_OBJECT_A_PICKUP(Object object);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **object**:

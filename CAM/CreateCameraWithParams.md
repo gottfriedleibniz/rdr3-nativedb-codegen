@@ -8,6 +8,10 @@ ns: CAM
 Cam CREATE_CAMERA_WITH_PARAMS(Hash camHash, float posX, float posY, float posZ, float rotX, float rotY, float rotZ, float fov, BOOL p8, Any p9);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **camHash**:
 * **posX**:

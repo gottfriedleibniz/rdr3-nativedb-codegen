@@ -8,3 +8,7 @@ ns: NETWORK
 void NETWORK_CLEAR_GET_GAMER_STATUS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,6 +8,10 @@ ns: HUD
 BOOL GET_HUD_SCREEN_POSITION_FROM_WORLD_POSITION(float worldX, float worldY, float worldZ, float* screenX, float* screenY);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **worldX**:
 * **worldY**:

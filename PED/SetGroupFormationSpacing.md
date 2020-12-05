@@ -8,6 +8,10 @@ ns: PED
 void SET_GROUP_FORMATION_SPACING(int groupId, float p1, float p2, float p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **groupId**:
 * **p1**:

@@ -16,6 +16,8 @@ carriableSlot:
  5 > Left side of a horse
 flags:
  512: enables the prompt being the name of the item when using a generic item
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

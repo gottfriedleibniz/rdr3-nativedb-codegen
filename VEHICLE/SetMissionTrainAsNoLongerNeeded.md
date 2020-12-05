@@ -8,6 +8,10 @@ ns: VEHICLE
 void SET_MISSION_TRAIN_AS_NO_LONGER_NEEDED(Vehicle* train, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **train**:
 * **p1**:

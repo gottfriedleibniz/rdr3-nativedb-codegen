@@ -8,6 +8,10 @@ ns: MISC
 void _GET_WEATHER_TYPE_TRANSITION(Hash* weatherType1, Hash* weatherType2, float* percentWeather2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **weatherType1**:
 * **weatherType2**:

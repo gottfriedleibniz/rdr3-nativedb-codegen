@@ -8,5 +8,9 @@ ns: VEHICLE
 void STOP_PLAYBACK_RECORDED_VEHICLE(Vehicle vehicle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:

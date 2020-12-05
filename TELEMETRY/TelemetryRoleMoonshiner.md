@@ -8,6 +8,10 @@ ns: TELEMETRY
 void _TELEMETRY_ROLE_MOONSHINER(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1232
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

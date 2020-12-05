@@ -8,6 +8,10 @@ ns: TASK
 void SET_PED_DESIRED_MOVE_BLEND_RATIO(Ped ped, float p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

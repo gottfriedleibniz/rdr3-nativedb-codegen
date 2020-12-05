@@ -8,3 +8,7 @@ ns: MAP
 void UNLOCK_MINIMAP_ANGLE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

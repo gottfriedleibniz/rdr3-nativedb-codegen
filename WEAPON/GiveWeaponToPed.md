@@ -8,6 +8,10 @@ ns: WEAPON
 BOOL _GIVE_WEAPON_TO_PED(Ped ped, Any* data, Any* outData);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **data**:

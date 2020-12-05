@@ -8,6 +8,10 @@ ns: NETSHOPPING
 BOOL _CASHINVENTORY_INIT_SESSION_STATUS(int* p0, int* p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

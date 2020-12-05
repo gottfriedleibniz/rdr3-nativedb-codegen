@@ -8,5 +8,9 @@ ns: AUDIO
 void RELEASE_NAMED_SCRIPT_AUDIO_BANK(char* audioBank);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **audioBank**:

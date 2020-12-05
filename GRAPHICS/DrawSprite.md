@@ -24,6 +24,8 @@ heading - Texture rotation in degrees (default = 0.0) positive is clockwise, mea
 red,green,blue - Sprite color (default = 255/255/255)
 
 alpha - opacity level
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

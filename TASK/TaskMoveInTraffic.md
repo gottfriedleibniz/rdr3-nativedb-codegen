@@ -8,6 +8,10 @@ ns: TASK
 void _TASK_MOVE_IN_TRAFFIC(Ped ped, Any p1, Any p2, Any p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

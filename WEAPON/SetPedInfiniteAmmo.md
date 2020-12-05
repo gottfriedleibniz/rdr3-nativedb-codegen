@@ -8,6 +8,10 @@ ns: WEAPON
 void SET_PED_INFINITE_AMMO(Ped ped, BOOL toggle, Hash weaponHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **toggle**:

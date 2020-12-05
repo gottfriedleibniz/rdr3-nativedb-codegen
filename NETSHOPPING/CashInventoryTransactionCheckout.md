@@ -8,5 +8,9 @@ ns: NETSHOPPING
 BOOL _CASHINVENTORY_TRANSACTION_CHECKOUT(int id);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **id**:

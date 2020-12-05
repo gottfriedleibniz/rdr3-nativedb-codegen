@@ -8,5 +8,9 @@ ns: GRAPHICS
 void SET_TIMECYCLE_MODIFIER_STRENGTH(float strength);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **strength**:

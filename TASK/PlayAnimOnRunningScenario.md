@@ -8,6 +8,10 @@ ns: TASK
 void PLAY_ANIM_ON_RUNNING_SCENARIO(Ped ped, char* animDict, char* animName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **animDict**:

@@ -8,3 +8,7 @@ ns: MAP
 void SET_RADAR_AS_EXTERIOR_THIS_FRAME();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

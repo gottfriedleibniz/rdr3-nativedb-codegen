@@ -9,6 +9,10 @@ aliases: ["_ARRAY_VALUE_GET_FLOAT"]
 float DATAARRAY_GET_FLOAT(Any* arrayData, int arrayIndex);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **arrayData**:
 * **arrayIndex**:

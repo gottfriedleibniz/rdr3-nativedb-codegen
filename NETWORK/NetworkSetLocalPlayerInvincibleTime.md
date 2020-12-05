@@ -8,5 +8,9 @@ ns: NETWORK
 void NETWORK_SET_LOCAL_PLAYER_INVINCIBLE_TIME(int time);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **time**:

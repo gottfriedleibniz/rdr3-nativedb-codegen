@@ -10,6 +10,8 @@ BOOL CREATE_INCIDENT(int dispatchService, float x, float y, float z, int numUnit
 
 ```
 dispatchService: see ENABLE_DISPATCH_SERVICE
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

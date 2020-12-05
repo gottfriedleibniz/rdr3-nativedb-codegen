@@ -8,6 +8,10 @@ ns: WEAPON
 BOOL HAS_WEAPON_GOT_WEAPON_COMPONENT(Object weapon, Hash addonHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **weapon**:
 * **addonHash**:

@@ -8,5 +8,9 @@ ns: PHYSICS
 void START_ROPE_WINDING(int ropeId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ropeId**:

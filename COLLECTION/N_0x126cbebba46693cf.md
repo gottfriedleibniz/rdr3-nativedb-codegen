@@ -8,6 +8,10 @@ ns: COLLECTION
 Any _0x126CBEBBA46693CF(Any p0, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

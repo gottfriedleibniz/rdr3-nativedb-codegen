@@ -8,6 +8,10 @@ ns: GRAPHICS
 void REMOVE_PARTICLE_FX(int ptfxHandle, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ptfxHandle**:
 * **p1**:

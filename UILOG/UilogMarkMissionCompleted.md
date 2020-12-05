@@ -9,5 +9,9 @@ aliases: ["_LOG_MARK_MISSION_COMPLETED"]
 void _UILOG_MARK_MISSION_COMPLETED(Hash p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

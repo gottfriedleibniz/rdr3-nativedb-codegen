@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_LEG_IK_MODE(Ped ped, int mode);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **mode**:

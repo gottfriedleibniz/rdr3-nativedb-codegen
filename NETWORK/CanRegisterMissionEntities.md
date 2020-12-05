@@ -8,6 +8,10 @@ ns: NETWORK
 BOOL CAN_REGISTER_MISSION_ENTITIES(int ped_amt, int vehicle_amt, int object_amt, int pickup_amt);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped_amt**:
 * **vehicle_amt**:

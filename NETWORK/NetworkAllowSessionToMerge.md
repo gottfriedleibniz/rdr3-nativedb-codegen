@@ -9,6 +9,10 @@ aliases: ["0x63246A24F5747510"]
 void _NETWORK_ALLOW_SESSION_TO_MERGE(BOOL toggle, Any* p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **toggle**:
 * **p1**:

@@ -8,5 +8,9 @@ ns: PLAYER
 BOOL IS_PLAYER_SCRIPT_CONTROL_ON(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

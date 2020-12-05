@@ -8,5 +8,9 @@ ns: VEHICLE
 void TRACK_VEHICLE_VISIBILITY(Vehicle vehicle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:

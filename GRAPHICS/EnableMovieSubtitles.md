@@ -10,6 +10,8 @@ void ENABLE_MOVIE_SUBTITLES(BOOL toggle);
 
 ```
 nullsub, doesn't do anything
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -11,6 +11,8 @@ void _NETWORK_DEBUG_REQUEST_ENTITY_POSITION(Any* p0);
 
 ```
 Must be called from a background script, otherwise it will do nothing.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

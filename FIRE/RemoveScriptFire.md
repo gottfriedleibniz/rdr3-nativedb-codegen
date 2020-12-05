@@ -8,5 +8,9 @@ ns: FIRE
 void REMOVE_SCRIPT_FIRE(FireId fireHandle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **fireHandle**:

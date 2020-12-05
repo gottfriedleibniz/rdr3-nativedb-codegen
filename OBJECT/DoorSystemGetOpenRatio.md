@@ -8,5 +8,9 @@ ns: OBJECT
 float DOOR_SYSTEM_GET_OPEN_RATIO(Hash doorHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **doorHash**:

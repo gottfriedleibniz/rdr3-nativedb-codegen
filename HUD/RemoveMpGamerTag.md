@@ -8,5 +8,9 @@ ns: HUD
 void REMOVE_MP_GAMER_TAG(int gamerTagId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **gamerTagId**:

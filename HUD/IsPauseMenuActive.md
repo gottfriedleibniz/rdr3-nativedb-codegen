@@ -8,3 +8,7 @@ ns: HUD
 BOOL IS_PAUSE_MENU_ACTIVE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

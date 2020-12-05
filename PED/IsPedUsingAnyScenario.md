@@ -8,5 +8,9 @@ ns: PED
 BOOL IS_PED_USING_ANY_SCENARIO(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

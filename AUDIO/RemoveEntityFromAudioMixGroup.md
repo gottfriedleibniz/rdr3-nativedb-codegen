@@ -8,6 +8,10 @@ ns: AUDIO
 void REMOVE_ENTITY_FROM_AUDIO_MIX_GROUP(Entity entity, float p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **p1**:

@@ -8,5 +8,9 @@ ns: ITEMDATABASE
 Any _ITEM_DATABASE_IS_INTRINSIC_ITEM(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

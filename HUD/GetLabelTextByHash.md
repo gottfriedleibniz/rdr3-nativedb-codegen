@@ -10,6 +10,8 @@ char* _GET_LABEL_TEXT_BY_HASH(Hash labelHash);
 
 ```
 Returns the label text given the hash.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

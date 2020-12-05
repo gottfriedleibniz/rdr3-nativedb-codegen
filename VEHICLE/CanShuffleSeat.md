@@ -8,6 +8,10 @@ ns: VEHICLE
 BOOL CAN_SHUFFLE_SEAT(Vehicle vehicle, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **p1**:

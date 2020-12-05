@@ -8,5 +8,9 @@ ns: MISC
 float ATAN(float p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

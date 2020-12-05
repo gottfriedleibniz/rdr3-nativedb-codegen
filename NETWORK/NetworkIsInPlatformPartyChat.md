@@ -10,5 +10,7 @@ BOOL NETWORK_IS_IN_PLATFORM_PARTY_CHAT();
 
 ```
 Hardcoded to return false.
+
+NativeDB Introduced: v1207
 ```
 

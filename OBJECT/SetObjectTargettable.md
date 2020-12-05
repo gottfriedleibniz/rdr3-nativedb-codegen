@@ -8,6 +8,10 @@ ns: OBJECT
 void SET_OBJECT_TARGETTABLE(Object object, BOOL targettable);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **object**:
 * **targettable**:

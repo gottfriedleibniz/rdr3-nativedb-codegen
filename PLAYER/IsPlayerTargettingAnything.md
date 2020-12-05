@@ -8,5 +8,9 @@ ns: PLAYER
 BOOL IS_PLAYER_TARGETTING_ANYTHING(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

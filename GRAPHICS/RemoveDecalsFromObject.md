@@ -8,5 +8,9 @@ ns: GRAPHICS
 void REMOVE_DECALS_FROM_OBJECT(Object obj);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **obj**:

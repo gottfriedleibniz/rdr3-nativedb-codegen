@@ -8,5 +8,9 @@ ns: MISC
 void _0xBE83CAE8ED77A94F(Hash weatherType);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **weatherType**:

@@ -8,5 +8,9 @@ ns: PLAYER
 Any _0xBEFED69CE8317F91(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

@@ -8,6 +8,10 @@ ns: MISC
 void SET_BIT(int* address, int offset);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **address**:
 * **offset**:

@@ -8,5 +8,9 @@ ns: TELEMETRY
 void _0xEC0BD8736DCAF841(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

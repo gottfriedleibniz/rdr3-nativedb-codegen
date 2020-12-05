@@ -8,3 +8,7 @@ ns: STATS
 void _0x4E463A3CDEFFFE96();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

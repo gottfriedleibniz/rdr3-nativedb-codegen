@@ -27,6 +27,8 @@ struct date_time
     int second;
     int PADDING6;
 };
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

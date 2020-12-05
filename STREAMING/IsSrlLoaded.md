@@ -8,3 +8,7 @@ ns: STREAMING
 BOOL IS_SRL_LOADED();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

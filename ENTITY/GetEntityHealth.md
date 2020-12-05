@@ -8,5 +8,9 @@ ns: ENTITY
 int GET_ENTITY_HEALTH(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

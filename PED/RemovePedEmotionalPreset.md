@@ -11,6 +11,8 @@ void _REMOVE_PED_EMOTIONAL_PRESET(Ped ped, char* name);
 
 ```
 See _REQUEST_PED_EMOTIONAL_PRESET
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

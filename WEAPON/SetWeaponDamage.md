@@ -11,6 +11,8 @@ void _SET_WEAPON_DAMAGE(Object weaponObject, float level, BOOL p2);
 
 ```
 Related to weapon visual damage, not actual damage.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

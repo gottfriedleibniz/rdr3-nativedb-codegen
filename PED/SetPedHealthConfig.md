@@ -11,6 +11,8 @@ void _SET_PED_HEALTH_CONFIG(Ped ped, Hash configHash);
 
 ```
 configHash: see pedhealth.meta
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -8,6 +8,10 @@ ns: AUDIO
 void CLEAR_AMBIENT_ZONE_STATE(char* zoneName, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **zoneName**:
 * **p1**:

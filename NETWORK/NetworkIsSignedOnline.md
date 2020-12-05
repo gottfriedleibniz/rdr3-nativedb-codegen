@@ -8,3 +8,7 @@ ns: NETWORK
 BOOL NETWORK_IS_SIGNED_ONLINE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

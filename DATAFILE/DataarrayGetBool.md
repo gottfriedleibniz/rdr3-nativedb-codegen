@@ -9,6 +9,10 @@ aliases: ["_ARRAY_VALUE_GET_BOOLEAN"]
 BOOL DATAARRAY_GET_BOOL(Any* arrayData, int arrayIndex);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **arrayData**:
 * **arrayIndex**:

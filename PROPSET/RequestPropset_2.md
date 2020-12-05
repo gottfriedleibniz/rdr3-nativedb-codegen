@@ -11,6 +11,8 @@ BOOL _REQUEST_PROPSET_2(Hash hash);
 
 ```
 Same as _REQUEST_PROPSET
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

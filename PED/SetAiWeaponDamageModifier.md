@@ -8,5 +8,9 @@ ns: PED
 void SET_AI_WEAPON_DAMAGE_MODIFIER(float value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **value**:

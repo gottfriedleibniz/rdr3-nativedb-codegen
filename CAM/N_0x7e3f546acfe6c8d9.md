@@ -8,5 +8,9 @@ ns: CAM
 void _0x7E3F546ACFE6C8D9(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

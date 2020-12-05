@@ -8,6 +8,10 @@ ns: CAM
 Cam CREATE_CAM(char* camName, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **camName**:
 * **p1**:

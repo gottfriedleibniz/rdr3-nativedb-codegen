@@ -8,3 +8,7 @@ ns: HUD
 void DISABLE_FRONTEND_THIS_FRAME();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

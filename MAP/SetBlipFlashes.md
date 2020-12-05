@@ -8,6 +8,10 @@ ns: MAP
 BOOL SET_BLIP_FLASHES(Blip blip, int* p1, Hash* p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **blip**:
 * **p1**:

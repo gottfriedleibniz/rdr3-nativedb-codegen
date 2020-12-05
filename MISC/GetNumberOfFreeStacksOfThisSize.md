@@ -8,5 +8,9 @@ ns: MISC
 int GET_NUMBER_OF_FREE_STACKS_OF_THIS_SIZE(int stackSize);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **stackSize**:

@@ -9,3 +9,7 @@ aliases: ["_JORUNAL_CLEAR_ALL_PROGRESS"]
 void _JOURNAL_CLEAR_ALL_PROGRESS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,5 +8,9 @@ ns: VEHICLE
 BOOL CAN_ANCHOR_BOAT_HERE(Vehicle vehicle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:

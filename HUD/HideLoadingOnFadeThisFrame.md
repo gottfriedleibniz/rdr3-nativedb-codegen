@@ -8,3 +8,7 @@ ns: HUD
 void HIDE_LOADING_ON_FADE_THIS_FRAME();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

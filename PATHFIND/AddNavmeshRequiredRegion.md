@@ -8,6 +8,10 @@ ns: PATHFIND
 void ADD_NAVMESH_REQUIRED_REGION(float x, float y, float radius);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x**:
 * **y**:

@@ -10,6 +10,8 @@ BOOL DOES_CAM_EXIST(Cam cam);
 
 ```
 Returns whether or not the passed camera handle exists.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

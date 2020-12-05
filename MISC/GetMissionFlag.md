@@ -8,3 +8,7 @@ ns: MISC
 BOOL GET_MISSION_FLAG();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

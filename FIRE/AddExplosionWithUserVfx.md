@@ -10,6 +10,8 @@ void ADD_EXPLOSION_WITH_USER_VFX(float x, float y, float z, int explosionType, H
 
 ```
 explosionType: see ADD_EXPLOSION
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

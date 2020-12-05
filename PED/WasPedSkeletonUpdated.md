@@ -10,6 +10,8 @@ BOOL WAS_PED_SKELETON_UPDATED(Ped ped);
 
 ```
 Despite this function's name, it simply returns whether the specified handle is a Ped.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

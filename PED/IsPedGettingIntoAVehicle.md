@@ -8,5 +8,9 @@ ns: PED
 BOOL IS_PED_GETTING_INTO_A_VEHICLE(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

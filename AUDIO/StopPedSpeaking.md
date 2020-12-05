@@ -8,6 +8,10 @@ ns: AUDIO
 void STOP_PED_SPEAKING(Ped ped, BOOL shaking);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **shaking**:

@@ -10,5 +10,7 @@ BOOL _IS_MULTIPLAYER_CHAT_ACTIVE();
 
 ```
 Hardcoded to return false.
+
+NativeDB Introduced: v1207
 ```
 

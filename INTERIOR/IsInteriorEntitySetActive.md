@@ -8,6 +8,10 @@ ns: INTERIOR
 BOOL IS_INTERIOR_ENTITY_SET_ACTIVE(int interior, char* entitySetName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **interior**:
 * **entitySetName**:

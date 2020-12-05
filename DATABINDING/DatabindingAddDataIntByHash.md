@@ -8,6 +8,10 @@ ns: DATABINDING
 Any _DATABINDING_ADD_DATA_INT_BY_HASH(Any p0, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

@@ -9,5 +9,9 @@ aliases: ["_DOES_STATE_MACHINE_EXIST"]
 Any _UISTATEMACHINE_EXISTS(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

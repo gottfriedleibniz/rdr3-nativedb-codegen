@@ -8,5 +8,9 @@ ns: VEHICLE
 int GET_VEHICLE_DOOR_LOCK_STATUS(Vehicle vehicle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:

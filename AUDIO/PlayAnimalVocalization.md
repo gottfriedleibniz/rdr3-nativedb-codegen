@@ -8,6 +8,10 @@ ns: AUDIO
 void PLAY_ANIMAL_VOCALIZATION(Ped pedHandle, char* vocalizationName, BOOL p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **pedHandle**:
 * **vocalizationName**:

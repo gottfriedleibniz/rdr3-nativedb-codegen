@@ -8,5 +8,9 @@ ns: TXD
 BOOL HAS_STREAMED_TEXTURE_DICT_LOADED(char* textureDict);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **textureDict**:

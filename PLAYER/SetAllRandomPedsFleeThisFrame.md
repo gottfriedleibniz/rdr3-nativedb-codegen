@@ -8,5 +8,9 @@ ns: PLAYER
 void SET_ALL_RANDOM_PEDS_FLEE_THIS_FRAME(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

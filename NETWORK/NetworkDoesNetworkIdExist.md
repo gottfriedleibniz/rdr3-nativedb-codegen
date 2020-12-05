@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL NETWORK_DOES_NETWORK_ID_EXIST(int netID);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **netID**:

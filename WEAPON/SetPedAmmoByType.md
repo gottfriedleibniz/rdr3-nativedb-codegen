@@ -8,6 +8,10 @@ ns: WEAPON
 void SET_PED_AMMO_BY_TYPE(Ped ped, Hash ammoType, int ammo);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **ammoType**:

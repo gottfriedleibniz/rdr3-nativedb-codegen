@@ -8,6 +8,10 @@ ns: NETWORK
 BOOL NETWORK_ADD_FRIEND(Any* networkHandle, char* message);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **networkHandle**:
 * **message**:

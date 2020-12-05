@@ -8,6 +8,10 @@ ns: CAM
 Vector3 GET_CAM_ROT(Cam cam, int rotationOrder);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **cam**:
 * **rotationOrder**:

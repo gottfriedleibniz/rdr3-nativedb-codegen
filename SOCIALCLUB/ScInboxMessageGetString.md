@@ -8,5 +8,9 @@ ns: SOCIALCLUB
 char* _SC_INBOX_MESSAGE_GET_STRING(int p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

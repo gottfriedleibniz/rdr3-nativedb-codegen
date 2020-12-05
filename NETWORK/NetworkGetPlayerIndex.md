@@ -8,5 +8,9 @@ ns: NETWORK
 int NETWORK_GET_PLAYER_INDEX(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

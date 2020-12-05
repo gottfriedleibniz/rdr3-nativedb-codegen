@@ -8,3 +8,7 @@ ns: MISC
 void _0x54EC7B6BC72BAD69();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -11,6 +11,8 @@ Hash _GET_ENTITY_CARRY_CONFIG(Entity entity);
 
 ```
 Returns zero if the entity is not a carriable
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

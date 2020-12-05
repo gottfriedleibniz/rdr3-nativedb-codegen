@@ -8,5 +8,9 @@ ns: STREAMING
 void REMOVE_ANIM_DICT(char* animDict);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animDict**:

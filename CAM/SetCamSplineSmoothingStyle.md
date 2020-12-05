@@ -8,6 +8,10 @@ ns: CAM
 void SET_CAM_SPLINE_SMOOTHING_STYLE(Cam cam, int smoothingStyle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **cam**:
 * **smoothingStyle**:

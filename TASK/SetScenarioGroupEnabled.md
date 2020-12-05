@@ -8,6 +8,10 @@ ns: TASK
 void SET_SCENARIO_GROUP_ENABLED(char* scenarioGroup, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scenarioGroup**:
 * **toggle**:

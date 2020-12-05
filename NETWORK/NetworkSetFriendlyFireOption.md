@@ -8,5 +8,9 @@ ns: NETWORK
 void NETWORK_SET_FRIENDLY_FIRE_OPTION(BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **toggle**:

@@ -8,6 +8,10 @@ ns: GRAPHICS
 void SET_PARTICLE_FX_LOOPED_EVOLUTION(int ptfxHandle, char* propertyName, float amount, BOOL noNetwork);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ptfxHandle**:
 * **propertyName**:

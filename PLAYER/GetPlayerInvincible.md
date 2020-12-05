@@ -10,6 +10,8 @@ BOOL GET_PLAYER_INVINCIBLE(Player player);
 
 ```
 Returns the player's invincibility status.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

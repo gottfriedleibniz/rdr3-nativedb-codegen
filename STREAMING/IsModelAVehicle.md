@@ -10,6 +10,8 @@ BOOL IS_MODEL_A_VEHICLE(Hash model);
 
 ```
 Returns whether the specified model represents a vehicle.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

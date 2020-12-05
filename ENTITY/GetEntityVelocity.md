@@ -8,6 +8,10 @@ ns: ENTITY
 Vector3 GET_ENTITY_VELOCITY(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

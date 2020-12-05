@@ -9,5 +9,9 @@ aliases: ["_PROMPT_SET_MASH_INDEFINITELY_MODE"]
 void _UIPROMPT_SET_MASH_INDEFINITELY_MODE(int prompt);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:

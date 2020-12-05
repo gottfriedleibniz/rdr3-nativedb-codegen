@@ -8,6 +8,10 @@ ns: UIAPPS
 int _LAUNCH_APP_WITH_ENTRY(char* appName, char* entry);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **appName**:
 * **entry**:

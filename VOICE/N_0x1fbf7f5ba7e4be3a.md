@@ -8,5 +8,9 @@ ns: VOICE
 void _0x1FBF7F5BA7E4BE3A(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

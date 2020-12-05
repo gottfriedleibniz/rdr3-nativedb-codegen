@@ -8,6 +8,10 @@ ns: POPULATION
 Hash GET_PED_MODEL_NAME_IN_POPULATION_SET(Hash popSetHash, int index);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **popSetHash**:
 * **index**:

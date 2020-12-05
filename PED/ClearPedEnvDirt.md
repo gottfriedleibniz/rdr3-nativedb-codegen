@@ -8,5 +8,9 @@ ns: PED
 void CLEAR_PED_ENV_DIRT(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

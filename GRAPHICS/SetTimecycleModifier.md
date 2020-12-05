@@ -8,5 +8,9 @@ ns: GRAPHICS
 void SET_TIMECYCLE_MODIFIER(char* modifierName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **modifierName**:

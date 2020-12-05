@@ -9,6 +9,10 @@ aliases: ["0x780C5B9AE2819807"]
 BOOL _INVENTORY_FITS_SLOT_ID(Hash item, Hash slotId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **item**:
 * **slotId**:

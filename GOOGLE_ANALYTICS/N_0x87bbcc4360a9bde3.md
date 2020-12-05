@@ -8,3 +8,7 @@ ns: GOOGLE_ANALYTICS
 Any _0x87BBCC4360A9BDE3();
 ```
 
+```
+NativeDB Introduced: v1355
+```
+

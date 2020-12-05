@@ -8,6 +8,10 @@ ns: GRAPHICS
 int START_PARTICLE_FX_LOOPED_ON_ENTITY(char* effectName, Entity entity, float xOffset, float yOffset, float zOffset, float xRot, float yRot, float zRot, float scale, BOOL xAxis, BOOL yAxis, BOOL zAxis);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **effectName**:
 * **entity**:

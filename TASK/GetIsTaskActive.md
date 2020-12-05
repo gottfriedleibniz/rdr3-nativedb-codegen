@@ -8,6 +8,10 @@ ns: TASK
 BOOL GET_IS_TASK_ACTIVE(Ped ped, int taskIndex);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **taskIndex**:

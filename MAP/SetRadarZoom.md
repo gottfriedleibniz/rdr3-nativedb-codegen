@@ -8,5 +8,9 @@ ns: MAP
 void SET_RADAR_ZOOM(int zoomLevel);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **zoomLevel**:

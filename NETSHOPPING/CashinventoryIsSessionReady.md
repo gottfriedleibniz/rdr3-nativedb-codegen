@@ -8,3 +8,7 @@ ns: NETSHOPPING
 BOOL _CASHINVENTORY_IS_SESSION_READY();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

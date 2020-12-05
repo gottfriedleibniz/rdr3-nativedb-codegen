@@ -9,6 +9,10 @@ aliases: ["_LOG_REMOVE_ENTRY"]
 void _UILOG_REMOVE_ENTRY(int p0, Hash p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

@@ -8,6 +8,10 @@ ns: CAM
 void POINT_CAM_AT_COORD(Cam cam, float x, float y, float z);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **cam**:
 * **x**:

@@ -13,6 +13,8 @@ Sets your targeting mode.
 0 = Traditional GTA
 1 = Assisted Aiming
 2 = Free Aim
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

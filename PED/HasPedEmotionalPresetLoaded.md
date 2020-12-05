@@ -11,6 +11,8 @@ BOOL _HAS_PED_EMOTIONAL_PRESET_LOADED(Ped ped, char* name);
 
 ```
 See _REQUEST_PED_EMOTIONAL_PRESET
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

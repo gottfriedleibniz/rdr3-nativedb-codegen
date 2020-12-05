@@ -8,6 +8,10 @@ ns: TASK
 void TASK_PED_SLIDE_TO_COORD(Ped ped, float x, float y, float z, float heading, float p5);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **x**:

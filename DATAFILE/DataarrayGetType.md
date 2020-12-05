@@ -18,6 +18,8 @@ Types:
 5 = Vector3
 6 = Object
 7 = Array
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

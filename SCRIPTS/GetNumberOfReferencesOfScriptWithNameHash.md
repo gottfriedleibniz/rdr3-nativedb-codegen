@@ -15,6 +15,8 @@ Actually returns numRefs - 1.
 if (program)
 	v3 = rage::scrProgram::GetNumRefs(program) - 1;
 return v3;
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

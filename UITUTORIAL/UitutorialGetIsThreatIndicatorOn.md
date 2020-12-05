@@ -9,3 +9,7 @@ aliases: ["_GET_IS_THREAT_INDICATOR_ON"]
 BOOL _UITUTORIAL_GET_IS_THREAT_INDICATOR_ON();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

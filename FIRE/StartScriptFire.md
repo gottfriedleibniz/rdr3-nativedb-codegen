@@ -14,6 +14,8 @@ Starts a fire:
 xyz: Location of fire
 maxChildren: The max amount of times a fire can spread to other objects. Must be 25 or less, or the function will do nothing.
 isGasFire: Whether or not the fire is powered by gasoline.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -8,5 +8,9 @@ ns: STREAMING
 void _REMOVE_IMAP(Hash imapHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **imapHash**:

@@ -8,6 +8,10 @@ ns: STATS
 void CHAL_MISSION_ADD_GOAL_PROGRESS_INT(Hash missionHash, Hash goalHash, int value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **missionHash**:
 * **goalHash**:

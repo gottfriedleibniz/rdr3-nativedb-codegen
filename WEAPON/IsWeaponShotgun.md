@@ -9,5 +9,9 @@ aliases: ["0xC75386174ECE95D5"]
 BOOL _IS_WEAPON_SHOTGUN(Hash weaponHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **weaponHash**:

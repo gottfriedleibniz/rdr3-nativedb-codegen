@@ -8,5 +8,9 @@ ns: BUILTIN
 float SQRT(float value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **value**:

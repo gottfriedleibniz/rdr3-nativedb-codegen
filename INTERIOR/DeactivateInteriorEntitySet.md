@@ -8,6 +8,10 @@ ns: INTERIOR
 void DEACTIVATE_INTERIOR_ENTITY_SET(int interior, char* entitySetName, BOOL p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **interior**:
 * **entitySetName**:

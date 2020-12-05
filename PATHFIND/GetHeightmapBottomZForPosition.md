@@ -8,6 +8,10 @@ ns: PATHFIND
 float _GET_HEIGHTMAP_BOTTOM_Z_FOR_POSITION(float left, float right);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **left**:
 * **right**:

@@ -8,6 +8,10 @@ ns: WEAPON
 void SET_PED_AMMO(Ped ped, Hash weaponHash, int ammo);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **weaponHash**:

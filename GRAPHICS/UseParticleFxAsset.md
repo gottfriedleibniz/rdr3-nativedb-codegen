@@ -8,5 +8,9 @@ ns: GRAPHICS
 void USE_PARTICLE_FX_ASSET(char* name);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **name**:

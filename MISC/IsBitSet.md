@@ -8,6 +8,10 @@ ns: MISC
 BOOL IS_BIT_SET(int address, int offset);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **address**:
 * **offset**:

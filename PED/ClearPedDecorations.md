@@ -8,5 +8,9 @@ ns: PED
 void CLEAR_PED_DECORATIONS(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

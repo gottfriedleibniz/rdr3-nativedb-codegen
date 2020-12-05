@@ -8,5 +8,9 @@ ns: TASK
 BOOL _DOES_SCENARIO_GROUP_EXIST_HASH(Hash scenarioGroup);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scenarioGroup**:

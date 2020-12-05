@@ -11,6 +11,8 @@ float _GET_WEAPON_DEGRADATION(Object weaponObject);
 
 ```
 0.0: GOOD CONDITION 1.0: POOR CONDITION
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

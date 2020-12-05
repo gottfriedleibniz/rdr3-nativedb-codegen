@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL NETWORK_GET_ENTITY_IS_NETWORKED(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

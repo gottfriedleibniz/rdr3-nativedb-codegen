@@ -8,3 +8,7 @@ ns: HUD
 void _0x26F6BBEA2CE3E3DC();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

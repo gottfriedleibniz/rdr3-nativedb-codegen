@@ -8,3 +8,7 @@ ns: UIAPPS
 BOOL _IS_ANY_APP_RUNNING();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

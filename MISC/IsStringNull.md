@@ -8,5 +8,9 @@ ns: MISC
 BOOL IS_STRING_NULL(char* string);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **string**:

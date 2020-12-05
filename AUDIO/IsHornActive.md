@@ -10,6 +10,8 @@ BOOL IS_HORN_ACTIVE(Vehicle vehicle);
 
 ```
 Checks whether the horn of a vehicle is currently played.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

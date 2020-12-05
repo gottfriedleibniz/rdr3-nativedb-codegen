@@ -8,5 +8,9 @@ ns: NETWORK
 int GET_NUM_CREATED_MISSION_VEHICLES(BOOL p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

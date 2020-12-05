@@ -11,5 +11,7 @@ void _DISABLE_FIRST_PERSON_CAM_THIS_FRAME_2();
 
 ```
 Does the same as 0x9C473089A934C930
+
+NativeDB Introduced: v1207
 ```
 

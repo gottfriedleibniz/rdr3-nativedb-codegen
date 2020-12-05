@@ -8,6 +8,10 @@ ns: GRAPHICS
 int _CREATE_CHECKPOINT(int type, float posX1, float posY1, float posZ1, float posX2, float posY2, float posZ2, float radius, int red, int green, int blue, int alpha, int reserved);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **type**:
 * **posX1**:

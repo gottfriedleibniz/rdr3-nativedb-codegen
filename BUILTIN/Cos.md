@@ -8,5 +8,9 @@ ns: BUILTIN
 float COS(float value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **value**:

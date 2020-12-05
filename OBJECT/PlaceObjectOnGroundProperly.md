@@ -8,6 +8,10 @@ ns: OBJECT
 BOOL PLACE_OBJECT_ON_GROUND_PROPERLY(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

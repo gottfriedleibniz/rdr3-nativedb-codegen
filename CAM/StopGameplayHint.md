@@ -8,5 +8,9 @@ ns: CAM
 void STOP_GAMEPLAY_HINT(BOOL p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

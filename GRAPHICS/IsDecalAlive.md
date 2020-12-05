@@ -8,5 +8,9 @@ ns: GRAPHICS
 BOOL IS_DECAL_ALIVE(int decal);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **decal**:

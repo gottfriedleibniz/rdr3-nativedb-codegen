@@ -11,6 +11,8 @@ BOOL _BLIP_SET_MODIFIER(Blip blip, Hash modifierHash);
 
 ```
 https://alloc8or.re/rdr3/doc/enums/eBlipModifier.txt
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

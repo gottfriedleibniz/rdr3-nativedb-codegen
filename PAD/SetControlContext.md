@@ -14,6 +14,8 @@ Sets the current control context. Must be called every frame.
 
 context: https://alloc8or.re/rdr3/doc/misc/input_contexts.txt
 For more information, see common:/data/control/settings.meta
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -8,6 +8,10 @@ ns: CAM
 void SET_CAM_ACTIVE_WITH_INTERP(Cam camTo, Cam camFrom, int duration, int easeLocation, int easeRotation);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **camTo**:
 * **camFrom**:

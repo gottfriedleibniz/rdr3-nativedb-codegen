@@ -11,5 +11,7 @@ int _GET_MAX_NUMBER_OF_LOCAL_PHOTOS();
 
 ```
 Always returns 200.
+
+NativeDB Introduced: v1207
 ```
 

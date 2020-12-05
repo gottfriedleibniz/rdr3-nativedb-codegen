@@ -8,3 +8,7 @@ ns: NETWORK
 BOOL NETWORK_IS_TUTORIAL_SESSION_CHANGE_PENDING();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

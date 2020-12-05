@@ -8,6 +8,10 @@ ns: TASK
 float GET_WAYPOINT_DISTANCE_ALONG_ROUTE(char* p0, int p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

@@ -10,6 +10,8 @@ void DISPLAY_HUD(BOOL toggle);
 
 ```
 If Hud should be displayed
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

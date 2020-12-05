@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_LOD_MULTIPLIER(Ped ped, float multiplier);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **multiplier**:

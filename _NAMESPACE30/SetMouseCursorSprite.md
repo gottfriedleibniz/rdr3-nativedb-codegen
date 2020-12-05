@@ -13,6 +13,8 @@ Changes the mouse cursor's sprite.
 1 = Normal
 6 = Left Arrow
 7 = Right Arrow
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

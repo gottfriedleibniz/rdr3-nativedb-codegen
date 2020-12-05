@@ -10,5 +10,7 @@ Player GET_PLAYER_INDEX();
 
 ```
 Returns the same as PLAYER_ID and NETWORK_PLAYER_ID_TO_INT
+
+NativeDB Introduced: v1207
 ```
 

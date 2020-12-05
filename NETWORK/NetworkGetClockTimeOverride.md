@@ -8,6 +8,10 @@ ns: NETWORK
 BOOL _NETWORK_GET_CLOCK_TIME_OVERRIDE(int* hour, int* minute, int* second);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **hour**:
 * **minute**:

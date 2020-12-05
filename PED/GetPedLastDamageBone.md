@@ -8,6 +8,10 @@ ns: PED
 BOOL GET_PED_LAST_DAMAGE_BONE(Ped ped, int* outBone);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **outBone**:

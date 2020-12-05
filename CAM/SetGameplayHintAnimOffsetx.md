@@ -8,5 +8,9 @@ ns: CAM
 void _SET_GAMEPLAY_HINT_ANIM_OFFSETX(float p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

@@ -10,6 +10,8 @@ Hash GET_PED_AMMO_TYPE_FROM_WEAPON(Ped ped, Hash weaponHash);
 
 ```
 Returns the current ammo type of the specified ped's specified weapon.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

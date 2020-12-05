@@ -8,6 +8,10 @@ ns: VEHICLE
 void SET_VEHICLE_PROVIDES_COVER(Vehicle vehicle, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **toggle**:

@@ -8,5 +8,9 @@ ns: ENTITY
 BOOL IS_AN_ENTITY(ScrHandle handle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **handle**:

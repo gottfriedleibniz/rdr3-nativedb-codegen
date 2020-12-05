@@ -10,6 +10,8 @@ void SET_PLAYER_CAN_USE_COVER(Player player, BOOL toggle);
 
 ```
 Sets whether this player can take cover.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

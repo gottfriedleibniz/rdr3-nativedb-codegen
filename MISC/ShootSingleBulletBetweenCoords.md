@@ -8,6 +8,10 @@ ns: MISC
 void SHOOT_SINGLE_BULLET_BETWEEN_COORDS(float x1, float y1, float z1, float x2, float y2, float z2, int damage, BOOL p7, Hash weaponHash, Ped ownerPed, BOOL isAudible, BOOL isInvisible, float speed, BOOL p13);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x1**:
 * **y1**:

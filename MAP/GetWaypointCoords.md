@@ -8,3 +8,7 @@ ns: MAP
 Vector3 _GET_WAYPOINT_COORDS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

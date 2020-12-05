@@ -8,3 +8,7 @@ ns: MISC
 void CLEAR_WEATHER_TYPE_PERSIST();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

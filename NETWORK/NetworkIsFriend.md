@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL NETWORK_IS_FRIEND(Any* networkHandle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **networkHandle**:

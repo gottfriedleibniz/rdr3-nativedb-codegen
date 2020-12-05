@@ -8,5 +8,9 @@ ns: PED
 Ped GET_MELEE_TARGET_FOR_PED(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

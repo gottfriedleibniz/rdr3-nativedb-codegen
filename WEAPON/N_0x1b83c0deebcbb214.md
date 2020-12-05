@@ -8,5 +8,9 @@ ns: WEAPON
 void _0x1B83C0DEEBCBB214(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

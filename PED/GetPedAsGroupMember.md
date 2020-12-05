@@ -8,6 +8,10 @@ ns: PED
 Ped GET_PED_AS_GROUP_MEMBER(int groupID, int memberNumber);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **groupID**:
 * **memberNumber**:

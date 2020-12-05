@@ -8,6 +8,10 @@ ns: TASK
 BOOL TASK_POLICE(Ped ped, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

@@ -8,3 +8,7 @@ ns: MAP
 void CLEAR_GPS_CUSTOM_ROUTE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

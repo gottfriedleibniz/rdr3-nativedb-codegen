@@ -8,5 +8,9 @@ ns: WEAPON
 BOOL IS_PED_WEAPON_READY_TO_SHOOT(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

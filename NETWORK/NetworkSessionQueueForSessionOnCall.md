@@ -9,6 +9,10 @@ aliases: ["0x23D9C1F2E4098EDC"]
 BOOL _NETWORK_SESSION_QUEUE_FOR_SESSION_ON_CALL(int flags, int category, Any* p2, int userHash, Any* sessionRequestId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **flags**:
 * **category**:

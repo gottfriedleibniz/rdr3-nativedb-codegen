@@ -8,3 +8,7 @@ ns: NETWORK
 int NETWORK_GET_NUM_PARTICIPANTS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

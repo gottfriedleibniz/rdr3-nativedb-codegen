@@ -10,6 +10,8 @@ BOOL IS_PLAYER_PLAYING(Player player);
 
 ```
 Checks whether the specified player has a Ped, the Ped is not dead, is not injured and is not arrested.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

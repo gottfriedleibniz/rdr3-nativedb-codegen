@@ -9,3 +9,7 @@ aliases: ["0xBC8A281FF125C655"]
 int _GET_INTERIOR_FROM_GAME_VIEWPORT();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

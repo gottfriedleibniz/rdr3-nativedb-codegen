@@ -8,5 +8,9 @@ ns: PED
 BOOL DOES_GROUP_EXIST(int groupId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **groupId**:

@@ -8,3 +8,7 @@ ns: EVENT
 void _0xE2C2FBB7825FFC66();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,5 +8,9 @@ ns: AICOVERPOINT
 void TASK_EXIT_COVER(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

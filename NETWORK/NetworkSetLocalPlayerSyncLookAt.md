@@ -8,5 +8,9 @@ ns: NETWORK
 void NETWORK_SET_LOCAL_PLAYER_SYNC_LOOK_AT(BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **toggle**:

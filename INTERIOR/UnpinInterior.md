@@ -12,6 +12,8 @@ void UNPIN_INTERIOR(int interior);
 Does something similar to INTERIOR::DISABLE_INTERIOR.
 
 You don't fall through the floor but everything is invisible inside and looks the same as when INTERIOR::DISABLE_INTERIOR is used. Peds behaves normally inside. 
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

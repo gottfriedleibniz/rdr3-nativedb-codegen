@@ -8,6 +8,10 @@ ns: MISC
 void _COPY_MEMORY(Any* dst, Any* src, int size);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **dst**:
 * **src**:

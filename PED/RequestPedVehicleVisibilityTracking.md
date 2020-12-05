@@ -8,6 +8,10 @@ ns: PED
 void REQUEST_PED_VEHICLE_VISIBILITY_TRACKING(Ped ped, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

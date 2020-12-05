@@ -8,5 +8,9 @@ ns: MISC
 void SET_CREDITS_ACTIVE(BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **toggle**:

@@ -8,3 +8,7 @@ ns: CAM
 BOOL IS_GAMEPLAY_CAM_SHAKING();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

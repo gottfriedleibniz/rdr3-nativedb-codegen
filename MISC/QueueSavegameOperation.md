@@ -11,6 +11,8 @@ BOOL _QUEUE_SAVEGAME_OPERATION(int p0);
 
 ```
 p0 must be < 2
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

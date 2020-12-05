@@ -12,6 +12,8 @@ void SET_VEHICLE_DAMAGE(Vehicle vehicle, float xOffset, float yOffset, float zOf
 Apply damage to vehicle at a location. Location is relative to vehicle model (not world).
 
 Radius of effect damage applied in a sphere at impact location
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

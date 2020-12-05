@@ -8,6 +8,10 @@ ns: TASK
 void TASK_STAND_GUARD(Ped ped, float x, float y, float z, float heading, char* scenarioName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **x**:

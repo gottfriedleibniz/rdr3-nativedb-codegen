@@ -10,6 +10,8 @@ void BG_START_CONTEXT_HASH(Hash contextHash);
 
 ```
 Hashed version of BG_START_CONTEXT
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

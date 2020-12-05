@@ -8,6 +8,10 @@ ns: MAP
 void SET_BLIP_NAME_TO_PLAYER_NAME(Blip blip, Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **blip**:
 * **player**:

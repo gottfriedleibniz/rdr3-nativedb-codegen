@@ -8,5 +8,9 @@ ns: MISC
 void SET_THIS_SCRIPT_CAN_BE_PAUSED(BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **toggle**:

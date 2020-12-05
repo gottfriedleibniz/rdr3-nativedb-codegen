@@ -8,3 +8,7 @@ ns: NETWORK
 int GET_NETWORK_TIME_ACCURATE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

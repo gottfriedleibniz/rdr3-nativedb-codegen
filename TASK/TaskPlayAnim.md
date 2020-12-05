@@ -8,6 +8,10 @@ ns: TASK
 void TASK_PLAY_ANIM(Ped ped, char* animDict, char* animName, float speed, float speedMultiplier, int duration, int flags, float playbackRate, BOOL p8, Any p9, BOOL p10, char* p11, BOOL p12);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **animDict**:

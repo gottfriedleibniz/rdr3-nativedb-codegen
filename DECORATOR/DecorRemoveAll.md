@@ -8,5 +8,9 @@ ns: DECORATOR
 BOOL _DECOR_REMOVE_ALL(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

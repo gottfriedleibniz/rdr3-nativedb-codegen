@@ -8,5 +8,9 @@ ns: VEHICLE
 void REMOVE_VEHICLE_ASSET(int vehicleAsset);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicleAsset**:

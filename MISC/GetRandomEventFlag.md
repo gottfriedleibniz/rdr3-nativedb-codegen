@@ -8,3 +8,7 @@ ns: MISC
 BOOL GET_RANDOM_EVENT_FLAG();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

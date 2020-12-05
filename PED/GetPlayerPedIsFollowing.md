@@ -8,5 +8,9 @@ ns: PED
 Player GET_PLAYER_PED_IS_FOLLOWING(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

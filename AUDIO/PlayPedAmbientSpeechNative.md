@@ -31,6 +31,8 @@ ScriptedSpeechParams params{"RE_PH_RHD_V3_AGGRO", "0405_U_M_M_RhdSheriff_01", 1,
 _PLAY_AMBIENT_SPEECH1(PLAYER_PED_ID(), (Any*)&params);
 
 Old name: _PLAY_AMBIENT_SPEECH1
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

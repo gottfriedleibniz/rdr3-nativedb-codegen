@@ -8,6 +8,10 @@ ns: TASK
 void TASK_WARP_PED_INTO_VEHICLE(Ped ped, Vehicle vehicle, int seat);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **vehicle**:

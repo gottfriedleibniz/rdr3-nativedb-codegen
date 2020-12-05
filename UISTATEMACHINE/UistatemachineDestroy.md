@@ -9,5 +9,9 @@ aliases: ["_STATE_MACHINE_DESTROY"]
 void _UISTATEMACHINE_DESTROY(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

@@ -9,5 +9,9 @@ aliases: ["_PROMPT_HAS_MASH_MODE_COMPLETED"]
 BOOL _UIPROMPT_HAS_MASH_MODE_COMPLETED(int prompt);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:

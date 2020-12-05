@@ -8,6 +8,10 @@ ns: PLAYER
 void _SET_PLAYER_CAN_MERCY_KILL(Player player, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1311
+```
+
 ## Parameters
 * **player**:
 * **toggle**:

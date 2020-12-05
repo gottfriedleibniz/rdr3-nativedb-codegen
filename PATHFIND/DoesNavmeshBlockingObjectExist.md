@@ -8,5 +8,9 @@ ns: PATHFIND
 BOOL DOES_NAVMESH_BLOCKING_OBJECT_EXIST(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

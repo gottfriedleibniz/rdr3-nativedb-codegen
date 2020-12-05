@@ -9,5 +9,9 @@ aliases: ["0xA6E6A66FC4CA4224"]
 void _DELETE_SCRIPT_POPZONE(int popZone);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **popZone**:

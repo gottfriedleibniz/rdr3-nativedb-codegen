@@ -8,5 +8,9 @@ ns: TASK
 void REMOVE_COVER_POINT(ScrHandle coverpoint);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **coverpoint**:

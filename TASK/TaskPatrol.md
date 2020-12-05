@@ -8,6 +8,10 @@ ns: TASK
 void TASK_PATROL(Ped ped, char* p1, Any p2, BOOL p3, BOOL p4);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

@@ -8,6 +8,10 @@ ns: OBJECT
 Vector3 _GET_OBJECT_OFFSET_FROM_COORDS(float xPos, float yPos, float zPos, float heading, float xOffset, float yOffset, float zOffset);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **xPos**:
 * **yPos**:

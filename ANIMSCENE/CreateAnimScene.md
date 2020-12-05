@@ -8,6 +8,10 @@ ns: ANIMSCENE
 int _CREATE_ANIM_SCENE(char* animDict, int flags, char* playbackListName, BOOL p3, BOOL p4);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animDict**:
 * **flags**:

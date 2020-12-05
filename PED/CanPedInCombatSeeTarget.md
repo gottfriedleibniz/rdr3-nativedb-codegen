@@ -8,6 +8,10 @@ ns: PED
 BOOL CAN_PED_IN_COMBAT_SEE_TARGET(Ped ped, Ped target);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **target**:

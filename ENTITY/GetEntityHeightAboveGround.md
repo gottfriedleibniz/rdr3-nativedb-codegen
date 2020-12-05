@@ -8,5 +8,9 @@ ns: ENTITY
 float GET_ENTITY_HEIGHT_ABOVE_GROUND(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

@@ -8,5 +8,9 @@ ns: AUDIO
 void REMOVE_PORTAL_SETTINGS_OVERRIDE(char* p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

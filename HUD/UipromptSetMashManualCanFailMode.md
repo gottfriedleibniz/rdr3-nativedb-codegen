@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_MASH_MANUAL_CAN_FAIL_MODE"]
 void _UIPROMPT_SET_MASH_MANUAL_CAN_FAIL_MODE(int prompt, Any p1, Any p2, Any p3, Any p4);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **p1**:

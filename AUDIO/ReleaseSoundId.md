@@ -8,5 +8,9 @@ ns: AUDIO
 void RELEASE_SOUND_ID(int soundId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **soundId**:

@@ -8,3 +8,7 @@ ns: NETWORK
 void _0xD39A72AE5EBD57E5();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

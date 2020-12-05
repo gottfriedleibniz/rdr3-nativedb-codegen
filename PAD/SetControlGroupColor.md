@@ -10,6 +10,8 @@ void _SET_CONTROL_GROUP_COLOR(int padIndex, int red, int green, int blue);
 
 ```
 nullsub, doesn't do anything
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

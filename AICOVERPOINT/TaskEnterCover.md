@@ -8,5 +8,9 @@ ns: AICOVERPOINT
 void TASK_ENTER_COVER(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

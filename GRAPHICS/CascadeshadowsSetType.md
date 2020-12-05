@@ -24,6 +24,8 @@ Possible values:
 "CSM_ST_POISSON16_RPDB_GNORM"
 "CSM_ST_HIGHRES_BOX4x4"
 "CSM_ST_ESM"
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

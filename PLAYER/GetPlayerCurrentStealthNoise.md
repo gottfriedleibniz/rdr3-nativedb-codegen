@@ -8,5 +8,9 @@ ns: PLAYER
 float GET_PLAYER_CURRENT_STEALTH_NOISE(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

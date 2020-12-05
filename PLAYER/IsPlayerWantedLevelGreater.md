@@ -8,6 +8,10 @@ ns: PLAYER
 BOOL IS_PLAYER_WANTED_LEVEL_GREATER(Player player, int wantedLevel);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:
 * **wantedLevel**:

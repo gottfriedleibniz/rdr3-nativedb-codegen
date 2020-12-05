@@ -8,5 +8,9 @@ ns: POPULATION
 int GET_NUM_MODELS_IN_POPULATION_SET(Hash popSetHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **popSetHash**:

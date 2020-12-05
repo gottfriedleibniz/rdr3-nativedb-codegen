@@ -9,6 +9,10 @@ aliases: ["_ARRAY_VALUE_GET_OBJECT"]
 Any* DATAARRAY_GET_DICT(Any* arrayData, int arrayIndex);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **arrayData**:
 * **arrayIndex**:

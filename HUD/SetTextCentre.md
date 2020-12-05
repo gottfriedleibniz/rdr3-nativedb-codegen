@@ -8,5 +8,9 @@ ns: HUD
 void SET_TEXT_CENTRE(BOOL align);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **align**:

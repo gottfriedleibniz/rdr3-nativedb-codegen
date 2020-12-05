@@ -8,5 +8,9 @@ ns: TASK
 BOOL IS_PED_GETTING_UP(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

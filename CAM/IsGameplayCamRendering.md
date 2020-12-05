@@ -8,3 +8,7 @@ ns: CAM
 BOOL IS_GAMEPLAY_CAM_RENDERING();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

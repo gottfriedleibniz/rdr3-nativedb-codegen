@@ -8,6 +8,10 @@ ns: COMPENDIUM
 Any COMPENDIUM_GET_ENTRY_BY_STAT_ITEM(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1355
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

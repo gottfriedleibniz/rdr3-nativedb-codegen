@@ -8,5 +8,9 @@ ns: PED
 Ped GET_JACK_TARGET(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

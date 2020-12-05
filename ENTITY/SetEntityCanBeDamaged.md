@@ -8,6 +8,10 @@ ns: ENTITY
 void SET_ENTITY_CAN_BE_DAMAGED(Entity entity, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **toggle**:

@@ -8,5 +8,9 @@ ns: PED
 void REMOVE_RELATIONSHIP_GROUP(Hash groupHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **groupHash**:

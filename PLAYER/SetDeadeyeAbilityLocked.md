@@ -9,6 +9,10 @@ aliases: ["0x2797B8D66DD0EBB8"]
 void _SET_DEADEYE_ABILITY_LOCKED(Player player, int abilityType, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:
 * **abilityType**:

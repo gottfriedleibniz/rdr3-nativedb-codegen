@@ -9,3 +9,7 @@ aliases: ["0x51F33DBC1A41CBFD"]
 int _NETWORK_SESSION_GET_FLAGS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

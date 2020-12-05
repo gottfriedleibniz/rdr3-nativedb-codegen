@@ -10,6 +10,8 @@ BOOL IS_PLAYER_CONTROL_ON(Player player);
 
 ```
 Returns whether the player can control himself.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

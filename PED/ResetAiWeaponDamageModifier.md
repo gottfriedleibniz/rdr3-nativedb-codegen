@@ -8,3 +8,7 @@ ns: PED
 void RESET_AI_WEAPON_DAMAGE_MODIFIER();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,6 +8,10 @@ ns: CREW
 BOOL NETWORK_CLAN_GET_MEMBERSHIP_DESC(int* memberDesc, int p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **memberDesc**:
 * **p1**:

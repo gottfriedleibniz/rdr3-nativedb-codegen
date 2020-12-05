@@ -8,3 +8,7 @@ ns: MISC
 float GET_WIND_SPEED();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

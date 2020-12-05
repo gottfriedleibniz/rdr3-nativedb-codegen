@@ -8,6 +8,10 @@ ns: GRAPHICS
 void SET_PARTICLE_FX_OVERRIDE(char* oldAsset, char* newAsset);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **oldAsset**:
 * **newAsset**:

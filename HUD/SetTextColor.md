@@ -8,6 +8,10 @@ ns: HUD
 void _SET_TEXT_COLOR(int r, int g, int b, int a);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **r**:
 * **g**:

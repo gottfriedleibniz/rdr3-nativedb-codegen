@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_ORDERING_AS_INPUT_TYPE"]
 void _UIPROMPT_SET_ORDERING_AS_INPUT_TYPE(int prompt, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **p1**:

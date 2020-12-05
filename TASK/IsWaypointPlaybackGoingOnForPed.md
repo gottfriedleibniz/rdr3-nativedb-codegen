@@ -8,6 +8,10 @@ ns: TASK
 BOOL IS_WAYPOINT_PLAYBACK_GOING_ON_FOR_PED(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

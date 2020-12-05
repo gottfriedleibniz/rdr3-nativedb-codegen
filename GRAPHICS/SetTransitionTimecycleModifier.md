@@ -8,6 +8,10 @@ ns: GRAPHICS
 void SET_TRANSITION_TIMECYCLE_MODIFIER(char* modifierName, float transition);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **modifierName**:
 * **transition**:

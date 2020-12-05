@@ -10,6 +10,8 @@ void SET_PLAYER_WANTED_LEVEL(Player player, int wantedLevel, BOOL disableNoMissi
 
 ```
 nullsub, doesn't do anything
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

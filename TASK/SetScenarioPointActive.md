@@ -9,6 +9,10 @@ aliases: ["0xEEE4829304F93EEE"]
 void _SET_SCENARIO_POINT_ACTIVE(int scenario, BOOL active);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scenario**:
 * **active**:

@@ -8,5 +8,9 @@ ns: NETWORK
 Player NETWORK_GET_PLAYER_FROM_GAMER_HANDLE(Any* networkHandle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **networkHandle**:

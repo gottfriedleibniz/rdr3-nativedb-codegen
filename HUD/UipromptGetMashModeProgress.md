@@ -9,5 +9,9 @@ aliases: ["_PROMPT_GET_MASH_MODE_PROGRESS"]
 Any _UIPROMPT_GET_MASH_MODE_PROGRESS(int prompt);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:

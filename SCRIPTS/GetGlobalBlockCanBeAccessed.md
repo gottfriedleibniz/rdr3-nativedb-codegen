@@ -8,5 +8,9 @@ ns: SCRIPTS
 BOOL _GET_GLOBAL_BLOCK_CAN_BE_ACCESSED(int index);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **index**:

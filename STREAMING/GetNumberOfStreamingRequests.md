@@ -8,3 +8,7 @@ ns: STREAMING
 int GET_NUMBER_OF_STREAMING_REQUESTS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

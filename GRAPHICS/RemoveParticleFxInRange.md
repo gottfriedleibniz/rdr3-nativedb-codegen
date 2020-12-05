@@ -8,6 +8,10 @@ ns: GRAPHICS
 void REMOVE_PARTICLE_FX_IN_RANGE(float X, float Y, float Z, float radius);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **X**:
 * **Y**:

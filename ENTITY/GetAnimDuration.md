@@ -8,6 +8,10 @@ ns: ENTITY
 float GET_ANIM_DURATION(char* animDict, char* animName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animDict**:
 * **animName**:

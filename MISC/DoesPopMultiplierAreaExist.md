@@ -8,5 +8,9 @@ ns: MISC
 BOOL DOES_POP_MULTIPLIER_AREA_EXIST(int id);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **id**:

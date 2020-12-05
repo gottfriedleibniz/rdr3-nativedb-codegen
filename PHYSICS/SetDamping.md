@@ -8,6 +8,10 @@ ns: PHYSICS
 void SET_DAMPING(Entity entity, int vertex, float value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **vertex**:

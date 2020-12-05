@@ -8,5 +8,9 @@ ns: PED
 BOOL IS_PED_BEING_STEALTH_KILLED(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

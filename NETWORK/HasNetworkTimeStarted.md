@@ -8,3 +8,7 @@ ns: NETWORK
 BOOL HAS_NETWORK_TIME_STARTED();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

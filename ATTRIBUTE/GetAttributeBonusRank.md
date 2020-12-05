@@ -8,6 +8,10 @@ ns: ATTRIBUTE
 int GET_ATTRIBUTE_BONUS_RANK(Ped ped, int coreIndex);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **coreIndex**:

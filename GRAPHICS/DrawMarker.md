@@ -9,6 +9,10 @@ aliases: ["0x2A32FAA57B937173"]
 void _DRAW_MARKER(Hash type, float posX, float posY, float posZ, float dirX, float dirY, float dirZ, float rotX, float rotY, float rotZ, float scaleX, float scaleY, float scaleZ, int red, int green, int blue, int alpha, BOOL bobUpAndDown, BOOL faceCamera, int p19, BOOL rotate, char* textureDict, char* textureName, BOOL drawOnEnts);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **type**:
 * **posX**:

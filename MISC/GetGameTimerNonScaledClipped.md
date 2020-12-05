@@ -11,5 +11,7 @@ int _GET_GAME_TIMER_NON_SCALED_CLIPPED();
 
 ```
 Returns rage::fwTimer::sm_nonScaledClippedTime
+
+NativeDB Introduced: v1207
 ```
 

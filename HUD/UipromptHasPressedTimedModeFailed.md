@@ -9,5 +9,9 @@ aliases: ["_PROMPT_HAS_PRESSED_TIMED_MODE_FAILED"]
 Any _UIPROMPT_HAS_PRESSED_TIMED_MODE_FAILED(int prompt);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:

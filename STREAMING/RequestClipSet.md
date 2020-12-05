@@ -8,5 +8,9 @@ ns: STREAMING
 void REQUEST_CLIP_SET(char* clipSet);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **clipSet**:

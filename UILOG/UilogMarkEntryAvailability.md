@@ -9,6 +9,10 @@ aliases: ["_LOG_MARK_ENTRY_AVAILABILITY"]
 void _UILOG_MARK_ENTRY_AVAILABILITY(int p0, Hash p1, int p2, char* p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

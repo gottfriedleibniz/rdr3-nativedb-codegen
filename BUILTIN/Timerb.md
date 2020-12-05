@@ -8,3 +8,7 @@ ns: BUILTIN
 int TIMERB();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,6 +8,10 @@ ns: TELEMETRY
 void _TELEMETRY_INTRO_SKIP(Any p0, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1355
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

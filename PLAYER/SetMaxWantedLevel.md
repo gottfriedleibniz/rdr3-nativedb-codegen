@@ -8,5 +8,9 @@ ns: PLAYER
 void SET_MAX_WANTED_LEVEL(int maxWantedLevel);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **maxWantedLevel**:

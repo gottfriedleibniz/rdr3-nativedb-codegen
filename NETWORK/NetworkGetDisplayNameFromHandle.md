@@ -17,6 +17,8 @@ if (_NETWORK_GET_DISPLAY_NAME_FROM_HANDLE(handle, displayName))
 {
 	// use displayName
 }
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

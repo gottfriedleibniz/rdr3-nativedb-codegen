@@ -8,6 +8,10 @@ ns: AUDIO
 BOOL LOAD_STREAM(char* streamName, char* soundSet);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **streamName**:
 * **soundSet**:

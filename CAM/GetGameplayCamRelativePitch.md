@@ -8,3 +8,7 @@ ns: CAM
 float GET_GAMEPLAY_CAM_RELATIVE_PITCH();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,5 +8,9 @@ ns: ENTITY
 float GET_ENTITY_UPRIGHT_VALUE(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

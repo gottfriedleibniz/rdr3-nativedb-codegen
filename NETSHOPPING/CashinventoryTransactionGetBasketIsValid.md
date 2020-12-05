@@ -8,5 +8,9 @@ ns: NETSHOPPING
 BOOL _CASHINVENTORY_TRANSACTION_GET_BASKET_IS_VALID(int id);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **id**:

@@ -8,6 +8,10 @@ ns: ENTITY
 int GET_ENTITY_MAX_HEALTH(Entity entity, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **p1**:

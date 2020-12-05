@@ -9,6 +9,10 @@ aliases: ["_OBJECT_VALUE_GET_FLOAT"]
 float DATADICT_GET_FLOAT(Any* objectData, char* key);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **objectData**:
 * **key**:

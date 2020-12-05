@@ -8,5 +8,9 @@ ns: SPACTIONPROXY
 BOOL _SPACTIONPROXY_GET_NEXT_PENDING_CRAFTING_ACTION(Any* data);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **data**:

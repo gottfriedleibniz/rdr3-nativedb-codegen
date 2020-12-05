@@ -8,5 +8,9 @@ ns: ENTITY
 Any _0xC8CCDB712FBCBA92(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

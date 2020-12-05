@@ -10,6 +10,8 @@ void DESTROY_CAM(Cam cam, BOOL p1);
 
 ```
 BOOL param indicates whether the cam should be destroyed if it belongs to the calling script.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

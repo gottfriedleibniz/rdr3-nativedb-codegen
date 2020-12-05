@@ -11,6 +11,8 @@ void ENABLE_ATTRIBUTE_OVERPOWER(Ped ped, int attributeIndex, float value, BOOL m
 
 ```
 Old name: _SET_ATTRIBUTE_OVERPOWER_VALUE
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

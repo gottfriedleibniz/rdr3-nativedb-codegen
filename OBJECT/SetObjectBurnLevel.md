@@ -11,6 +11,8 @@ void _SET_OBJECT_BURN_LEVEL(Object object, float burnLevel, BOOL affectAsh);
 
 ```
 Seems to mostly have effect on wood-made objects https://imgur.com/a/32oQvOn
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

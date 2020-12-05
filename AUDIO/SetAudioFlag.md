@@ -8,6 +8,10 @@ ns: AUDIO
 void SET_AUDIO_FLAG(char* flagName, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **flagName**:
 * **toggle**:

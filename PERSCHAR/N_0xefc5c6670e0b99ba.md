@@ -8,3 +8,7 @@ ns: PERSCHAR
 void _0xEFC5C6670E0B99BA();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

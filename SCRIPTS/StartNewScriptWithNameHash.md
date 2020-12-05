@@ -8,6 +8,10 @@ ns: SCRIPTS
 int START_NEW_SCRIPT_WITH_NAME_HASH(Hash scriptHash, int stackSize);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scriptHash**:
 * **stackSize**:

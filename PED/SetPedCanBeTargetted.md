@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_CAN_BE_TARGETTED(Ped ped, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **toggle**:

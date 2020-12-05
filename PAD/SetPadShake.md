@@ -8,6 +8,10 @@ ns: PAD
 void SET_PAD_SHAKE(int padIndex, int duration, int frequency);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **padIndex**:
 * **duration**:

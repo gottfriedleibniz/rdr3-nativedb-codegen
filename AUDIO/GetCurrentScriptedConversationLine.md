@@ -8,5 +8,9 @@ ns: AUDIO
 int GET_CURRENT_SCRIPTED_CONVERSATION_LINE(char* p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

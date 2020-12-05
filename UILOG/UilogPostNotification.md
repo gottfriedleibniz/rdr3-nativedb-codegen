@@ -9,5 +9,9 @@ aliases: ["_LOG_POST_NOTIFICATION"]
 int _UILOG_POST_NOTIFICATION(Any* data);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **data**:

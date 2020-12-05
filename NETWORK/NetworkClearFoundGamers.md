@@ -8,3 +8,7 @@ ns: NETWORK
 void NETWORK_CLEAR_FOUND_GAMERS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

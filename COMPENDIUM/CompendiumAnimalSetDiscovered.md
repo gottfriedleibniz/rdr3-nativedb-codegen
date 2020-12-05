@@ -8,5 +8,9 @@ ns: COMPENDIUM
 void COMPENDIUM_ANIMAL_SET_DISCOVERED(Any p0);
 ```
 
+```
+NativeDB Introduced: v1311
+```
+
 ## Parameters
 * **p0**:

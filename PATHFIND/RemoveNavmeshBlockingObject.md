@@ -8,5 +8,9 @@ ns: PATHFIND
 void REMOVE_NAVMESH_BLOCKING_OBJECT(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

@@ -8,5 +8,9 @@ ns: STATS
 int CHAL_MISSION_GET_NUM_GOALS_COMPLETE(Hash missionHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **missionHash**:

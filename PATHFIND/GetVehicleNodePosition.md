@@ -8,6 +8,10 @@ ns: PATHFIND
 void GET_VEHICLE_NODE_POSITION(int nodeId, Vector3* outPosition);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **nodeId**:
 * **outPosition**:

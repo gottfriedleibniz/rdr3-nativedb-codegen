@@ -10,6 +10,8 @@ void ROPE_FORCE_LENGTH(int ropeId, float length);
 
 ```
 Forces a rope to a certain length.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

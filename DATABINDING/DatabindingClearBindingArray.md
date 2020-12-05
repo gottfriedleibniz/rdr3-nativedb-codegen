@@ -8,5 +8,9 @@ ns: DATABINDING
 void _DATABINDING_CLEAR_BINDING_ARRAY(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

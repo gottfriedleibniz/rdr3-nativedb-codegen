@@ -8,3 +8,7 @@ ns: MISC
 Vector3 GET_WIND_DIRECTION();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

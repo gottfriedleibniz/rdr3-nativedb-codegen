@@ -9,5 +9,9 @@ aliases: ["0x96C638784DB4C815"]
 float _GET_ENTITY_HEALTH_FLOAT(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

@@ -8,3 +8,7 @@ ns: STREAMING
 BOOL IS_PLAYER_SWITCH_IN_PROGRESS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

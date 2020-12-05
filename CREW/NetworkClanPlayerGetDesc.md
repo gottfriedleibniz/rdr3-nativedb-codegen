@@ -8,6 +8,10 @@ ns: CREW
 BOOL NETWORK_CLAN_PLAYER_GET_DESC(int* clanDesc, int bufferSize, Any* networkHandle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **clanDesc**:
 * **bufferSize**:

@@ -8,3 +8,7 @@ ns: PERSISTENCE
 void _0x7A1BD123E5CDB6E5();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

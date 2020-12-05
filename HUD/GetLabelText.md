@@ -10,6 +10,8 @@ char* _GET_LABEL_TEXT(char* labelName);
 
 ```
 Gets a string literal from a label name.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

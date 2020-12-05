@@ -8,6 +8,10 @@ ns: TASK
 void TASK_JUMP(Ped ped, BOOL unused);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **unused**:

@@ -10,6 +10,8 @@ BOOL DOES_TEXT_LABEL_EXIST(char* label);
 
 ```
 Checks if the passed gxt name exists in the game files.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

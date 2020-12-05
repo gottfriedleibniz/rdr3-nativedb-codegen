@@ -16,6 +16,8 @@ Try not to use it alone, since using this function alone, will make peds fall th
 Instead, before calling this function, you may want to declare the position, where your Resurrected ped to be spawn at.(For instance, Around 2 floats of Player's current position.) 
 
 Also, disabling any assigned task immediately helped in the number of scenarios, where If you want peds to perform certain decided tasks.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

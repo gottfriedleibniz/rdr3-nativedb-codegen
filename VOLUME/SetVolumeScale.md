@@ -9,6 +9,10 @@ aliases: ["0xA46E98BDC407E23D"]
 BOOL _SET_VOLUME_SCALE(int volume, float scaleX, float scaleY, float scaleZ);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **volume**:
 * **scaleX**:

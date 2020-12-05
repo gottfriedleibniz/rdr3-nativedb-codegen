@@ -12,6 +12,8 @@ BOOL IS_ENTITY_AT_COORD(Entity entity, float xPos, float yPos, float zPos, float
 Checks if entity is within x/y/zSize distance of x/y/z. 
 
 Last three are unknown ints, almost always p7 = 0, p8 = 1, p9 = 0
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

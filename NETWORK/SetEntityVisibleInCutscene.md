@@ -8,6 +8,10 @@ ns: NETWORK
 void SET_ENTITY_VISIBLE_IN_CUTSCENE(Entity entity, BOOL p1, BOOL p2, int p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **p1**:

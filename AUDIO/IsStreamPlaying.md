@@ -8,5 +8,9 @@ ns: AUDIO
 BOOL IS_STREAM_PLAYING(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

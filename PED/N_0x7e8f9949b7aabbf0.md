@@ -8,6 +8,10 @@ ns: PED
 void _0x7E8F9949B7AABBF0(Any p0, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

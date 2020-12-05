@@ -8,6 +8,10 @@ ns: TASK
 void TASK_EVERYONE_LEAVE_VEHICLE_IN_ORDER(Vehicle vehicle, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **p1**:

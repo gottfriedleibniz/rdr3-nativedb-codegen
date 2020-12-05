@@ -8,5 +8,9 @@ ns: GRAPHICS
 void ANIMPOSTFX_STOP(char* effectName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **effectName**:

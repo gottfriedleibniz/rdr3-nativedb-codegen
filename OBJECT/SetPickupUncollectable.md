@@ -8,6 +8,10 @@ ns: OBJECT
 void _SET_PICKUP_UNCOLLECTABLE(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

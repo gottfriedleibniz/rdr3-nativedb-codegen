@@ -8,5 +8,9 @@ ns: SCRIPTS
 void SET_NO_LOADING_SCREEN(BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **toggle**:

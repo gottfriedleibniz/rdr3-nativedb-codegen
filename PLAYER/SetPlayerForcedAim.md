@@ -8,6 +8,10 @@ ns: PLAYER
 void SET_PLAYER_FORCED_AIM(Player player, BOOL toggle, Ped ped, int p3, BOOL p4);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:
 * **toggle**:

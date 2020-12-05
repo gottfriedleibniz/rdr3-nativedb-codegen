@@ -8,3 +8,7 @@ ns: CAM
 Vector3 GET_GAMEPLAY_CAM_COORD();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

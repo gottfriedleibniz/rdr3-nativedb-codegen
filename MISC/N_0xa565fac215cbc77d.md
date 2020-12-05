@@ -10,5 +10,7 @@ void _0xA565FAC215CBC77D();
 
 ```
 nullsub, doesn't do anything
+
+NativeDB Introduced: v1207
 ```
 

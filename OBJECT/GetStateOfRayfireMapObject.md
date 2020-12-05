@@ -8,5 +8,9 @@ ns: OBJECT
 int GET_STATE_OF_RAYFIRE_MAP_OBJECT(Object object);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **object**:

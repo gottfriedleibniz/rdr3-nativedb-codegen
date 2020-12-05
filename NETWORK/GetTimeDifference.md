@@ -10,6 +10,8 @@ int GET_TIME_DIFFERENCE(int timeA, int timeB);
 
 ```
 Subtracts the second argument from the first.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -8,5 +8,9 @@ ns: POPULATION
 int _CREATE_POPZONE_FROM_VOLUME(int volume);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **volume**:

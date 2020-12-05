@@ -10,6 +10,8 @@ BOOL _REMOVE_SPEED_ZONE(int speedzone);
 
 ```
 REMOVE_*
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

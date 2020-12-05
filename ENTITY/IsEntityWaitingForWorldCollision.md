@@ -8,5 +8,9 @@ ns: ENTITY
 BOOL IS_ENTITY_WAITING_FOR_WORLD_COLLISION(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

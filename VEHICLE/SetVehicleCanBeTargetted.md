@@ -8,6 +8,10 @@ ns: VEHICLE
 void SET_VEHICLE_CAN_BE_TARGETTED(Vehicle vehicle, BOOL state);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **state**:

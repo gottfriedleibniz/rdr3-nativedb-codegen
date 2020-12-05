@@ -9,3 +9,7 @@ aliases: ["0xD6663EC374092383"]
 int GET_STATUS_OF_SAVE_HIGH_QUALITY_PHOTO();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

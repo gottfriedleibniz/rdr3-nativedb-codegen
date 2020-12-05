@@ -9,5 +9,9 @@ aliases: ["0x5C2EA6C44F515F34"]
 Hash _GET_AMMO_TYPE_FOR_WEAPON(Hash weaponHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **weaponHash**:

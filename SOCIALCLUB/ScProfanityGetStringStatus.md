@@ -8,5 +8,9 @@ ns: SOCIALCLUB
 int SC_PROFANITY_GET_STRING_STATUS(int token);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **token**:

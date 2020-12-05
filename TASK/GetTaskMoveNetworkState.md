@@ -8,5 +8,9 @@ ns: TASK
 char* GET_TASK_MOVE_NETWORK_STATE(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

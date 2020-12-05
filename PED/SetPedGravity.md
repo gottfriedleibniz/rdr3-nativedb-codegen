@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_GRAVITY(Ped ped, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **toggle**:

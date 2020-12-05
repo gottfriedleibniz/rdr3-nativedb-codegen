@@ -13,6 +13,8 @@ Sets the field of view of the cam.
 
 Min: 1.0f
 Max: 130.0f
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

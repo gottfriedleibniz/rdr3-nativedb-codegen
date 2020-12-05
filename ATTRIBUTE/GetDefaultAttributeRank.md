@@ -8,6 +8,10 @@ ns: ATTRIBUTE
 int GET_DEFAULT_ATTRIBUTE_RANK(Ped ped, int attributeIndex);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **attributeIndex**:

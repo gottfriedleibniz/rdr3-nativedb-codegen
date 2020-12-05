@@ -8,3 +8,7 @@ ns: VOICE
 Any _0xDB622ECD3DCBE078();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

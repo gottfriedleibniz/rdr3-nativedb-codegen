@@ -8,3 +8,7 @@ ns: UILOG
 void _0xDA0A30153FCC0FFD();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

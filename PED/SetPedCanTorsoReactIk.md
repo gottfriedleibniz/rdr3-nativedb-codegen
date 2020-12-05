@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_CAN_TORSO_REACT_IK(Ped ped, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

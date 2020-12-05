@@ -8,5 +8,9 @@ ns: STREAMING
 void PREFETCH_SRL(char* srl);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **srl**:

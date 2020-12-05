@@ -8,5 +8,9 @@ ns: VEHICLE
 void DELETE_MISSION_TRAIN(Vehicle* train);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **train**:

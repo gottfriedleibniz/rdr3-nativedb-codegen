@@ -8,5 +8,9 @@ ns: WEAPON
 Hash GET_WEAPONTYPE_GROUP(Hash weaponHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **weaponHash**:

@@ -9,5 +9,9 @@ aliases: ["0x841475AC96E794D1"]
 BOOL _DOES_SCENARIO_POINT_EXIST(int scenario);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scenario**:

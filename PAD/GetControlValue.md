@@ -8,6 +8,10 @@ ns: PAD
 int GET_CONTROL_VALUE(int padIndex, Hash control);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **padIndex**:
 * **control**:

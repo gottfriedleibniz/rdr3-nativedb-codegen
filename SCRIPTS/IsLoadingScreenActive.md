@@ -10,5 +10,7 @@ BOOL _IS_LOADING_SCREEN_ACTIVE();
 
 ```
 Same as GET_IS_LOADING_SCREEN_ACTIVE
+
+NativeDB Introduced: v1207
 ```
 

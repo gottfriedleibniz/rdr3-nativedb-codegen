@@ -10,6 +10,8 @@ BOOL _TELEMETRY_CREATE_UUID(Any* uuid);
 
 ```
 Works in MP only.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

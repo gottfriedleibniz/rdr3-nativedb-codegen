@@ -8,6 +8,10 @@ ns: TASK
 void ASSISTED_MOVEMENT_SET_ROUTE_PROPERTIES(char* route, int props);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **route**:
 * **props**:

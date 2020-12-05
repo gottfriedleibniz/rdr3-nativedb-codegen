@@ -8,5 +8,9 @@ ns: EVENT
 BOOL REMOVE_SHOCKING_EVENT(ScrHandle event);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **event**:

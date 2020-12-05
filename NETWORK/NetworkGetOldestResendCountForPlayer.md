@@ -8,5 +8,9 @@ ns: NETWORK
 int _NETWORK_GET_OLDEST_RESEND_COUNT_FOR_PLAYER(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

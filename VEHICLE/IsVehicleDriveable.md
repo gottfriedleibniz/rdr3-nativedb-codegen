@@ -8,6 +8,10 @@ ns: VEHICLE
 BOOL IS_VEHICLE_DRIVEABLE(Vehicle vehicle, BOOL p1, BOOL p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **p1**:

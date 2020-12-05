@@ -11,6 +11,8 @@ int START_NEW_SCRIPT_WITH_ARGS(char* scriptName, Any* args, int argCount, int st
 ```
 return : script thread id, 0 if failed
 Pass pointer to struct of args in p1, size of struct goes into p2
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

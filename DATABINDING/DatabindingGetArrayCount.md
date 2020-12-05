@@ -9,5 +9,9 @@ aliases: ["_DATABDING_GET_ARRAY_COUNT"]
 Any _DATABINDING_GET_ARRAY_COUNT(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

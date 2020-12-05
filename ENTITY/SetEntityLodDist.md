@@ -10,6 +10,8 @@ void SET_ENTITY_LOD_DIST(Entity entity, int value);
 
 ```
 LOD distance can be 0 to 0xFFFF (higher values will result in 0xFFFF) as it is actually stored as a 16-bit value (aka uint16_t).
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

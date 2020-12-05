@@ -9,5 +9,9 @@ aliases: ["0x9682F850056C9ADE"]
 BOOL _IS_PED_LASSOED(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

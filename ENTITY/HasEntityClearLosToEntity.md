@@ -8,6 +8,10 @@ ns: ENTITY
 BOOL HAS_ENTITY_CLEAR_LOS_TO_ENTITY(Entity entity1, Entity entity2, int traceType);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity1**:
 * **entity2**:

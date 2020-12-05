@@ -8,6 +8,10 @@ ns: ANIMSCENE
 void ABORT_ANIM_SCENE(int animScene, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animScene**:
 * **p1**:

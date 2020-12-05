@@ -8,6 +8,10 @@ ns: AUDIO
 void ADD_ENTITY_TO_AUDIO_MIX_GROUP(Entity entity, char* groupName, float p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **groupName**:

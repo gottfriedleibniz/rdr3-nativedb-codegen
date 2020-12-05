@@ -8,5 +8,9 @@ ns: HUD
 void _0xC9CAEAEEC1256E54(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

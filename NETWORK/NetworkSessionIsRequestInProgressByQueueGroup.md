@@ -9,5 +9,9 @@ aliases: ["0x9E762A595CF88E4A"]
 BOOL _NETWORK_SESSION_IS_REQUEST_IN_PROGRESS_BY_QUEUE_GROUP(int queueGroup);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **queueGroup**:

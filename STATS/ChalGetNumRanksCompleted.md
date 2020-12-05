@@ -8,5 +8,9 @@ ns: STATS
 int CHAL_GET_NUM_RANKS_COMPLETED(Hash chalHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **chalHash**:

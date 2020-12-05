@@ -8,6 +8,10 @@ ns: ENTITY
 void FORCE_ENTITY_AI_AND_ANIMATION_UPDATE(Entity entity, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **p1**:

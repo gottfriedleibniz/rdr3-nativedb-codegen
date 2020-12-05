@@ -8,6 +8,10 @@ ns: OBJECT
 Object GET_RAYFIRE_MAP_OBJECT(float x, float y, float z, float radius, char* name);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x**:
 * **y**:

@@ -8,5 +8,9 @@ ns: HUD
 BOOL IS_NAMED_RENDERTARGET_LINKED(Hash modelHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **modelHash**:

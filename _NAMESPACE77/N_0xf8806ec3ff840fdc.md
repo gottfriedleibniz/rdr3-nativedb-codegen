@@ -8,3 +8,7 @@ ns: _NAMESPACE77
 Any _0xF8806EC3FF840FDC();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

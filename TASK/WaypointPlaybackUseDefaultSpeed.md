@@ -8,5 +8,9 @@ ns: TASK
 void WAYPOINT_PLAYBACK_USE_DEFAULT_SPEED(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

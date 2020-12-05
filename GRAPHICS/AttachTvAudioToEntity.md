@@ -8,5 +8,9 @@ ns: GRAPHICS
 void ATTACH_TV_AUDIO_TO_ENTITY(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_FIRING_PATTERN(Ped ped, Hash patternHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **patternHash**:

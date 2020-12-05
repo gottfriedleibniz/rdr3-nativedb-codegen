@@ -8,5 +8,9 @@ ns: STREAMING
 void REMOVE_NAMED_PTFX_ASSET(Hash fxNameHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **fxNameHash**:

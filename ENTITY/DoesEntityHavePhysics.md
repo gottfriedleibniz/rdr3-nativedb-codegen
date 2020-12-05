@@ -8,5 +8,9 @@ ns: ENTITY
 BOOL DOES_ENTITY_HAVE_PHYSICS(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

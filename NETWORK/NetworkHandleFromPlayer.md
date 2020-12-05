@@ -8,6 +8,10 @@ ns: NETWORK
 void NETWORK_HANDLE_FROM_PLAYER(Player player, Any* netHandle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:
 * **netHandle**:

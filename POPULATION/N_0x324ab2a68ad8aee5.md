@@ -8,3 +8,7 @@ ns: POPULATION
 void _0x324AB2A68AD8AEE5();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

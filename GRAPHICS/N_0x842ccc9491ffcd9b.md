@@ -10,6 +10,8 @@ Hash _0x842CCC9491FFCD9B(char* effectName);
 
 ```
 ANIMPOSTFX_*
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

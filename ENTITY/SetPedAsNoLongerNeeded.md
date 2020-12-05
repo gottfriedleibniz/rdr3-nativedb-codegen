@@ -10,6 +10,8 @@ void SET_PED_AS_NO_LONGER_NEEDED(Ped* ped);
 
 ```
 This is an alias of SET_ENTITY_AS_NO_LONGER_NEEDED.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

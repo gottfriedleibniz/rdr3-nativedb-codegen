@@ -9,5 +9,9 @@ aliases: ["_PROMPT_IS_HOLD_MODE_RUNNING"]
 BOOL _UIPROMPT_IS_HOLD_MODE_RUNNING(int prompt);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:

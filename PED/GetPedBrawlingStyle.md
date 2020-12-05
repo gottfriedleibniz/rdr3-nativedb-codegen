@@ -9,5 +9,9 @@ aliases: ["0xEC6B59BE445FEC51"]
 Hash _GET_PED_BRAWLING_STYLE(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

@@ -10,6 +10,8 @@ void SET_MODEL_AS_NO_LONGER_NEEDED(Hash model);
 
 ```
 Marks the model as no longer needed.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

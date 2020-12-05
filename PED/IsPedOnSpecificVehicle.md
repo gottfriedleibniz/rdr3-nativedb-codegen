@@ -8,6 +8,10 @@ ns: PED
 BOOL IS_PED_ON_SPECIFIC_VEHICLE(Ped ped, Vehicle vehicle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **vehicle**:

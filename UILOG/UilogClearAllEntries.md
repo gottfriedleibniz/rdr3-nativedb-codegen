@@ -9,3 +9,7 @@ aliases: ["_LOG_CLEAR_ALL_ENTRIES"]
 void _UILOG_CLEAR_ALL_ENTRIES();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

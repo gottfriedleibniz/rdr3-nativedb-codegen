@@ -8,5 +8,9 @@ ns: PED
 void SET_SCENARIO_PED_DENSITY_MULTIPLIER_THIS_FRAME(float multiplier);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **multiplier**:

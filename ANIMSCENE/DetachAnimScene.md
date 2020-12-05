@@ -8,5 +8,9 @@ ns: ANIMSCENE
 void DETACH_ANIM_SCENE(int animScene);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animScene**:

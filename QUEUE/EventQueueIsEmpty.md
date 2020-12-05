@@ -8,5 +8,9 @@ ns: QUEUE
 BOOL _EVENT_QUEUE_IS_EMPTY(Hash hash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **hash**:

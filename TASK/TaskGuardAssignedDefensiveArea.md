@@ -8,6 +8,10 @@ ns: TASK
 void TASK_GUARD_ASSIGNED_DEFENSIVE_AREA(Ped ped, float p1, float p2, float p3, float p4, float p5, Any p6);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

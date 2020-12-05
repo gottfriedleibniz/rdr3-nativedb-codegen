@@ -8,5 +8,9 @@ ns: PATHFIND
 BOOL GET_VEHICLE_NODE_IS_SWITCHED_OFF(int nodeID);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **nodeID**:

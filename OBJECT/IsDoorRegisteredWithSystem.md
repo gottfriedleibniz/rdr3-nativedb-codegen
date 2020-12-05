@@ -8,5 +8,9 @@ ns: OBJECT
 BOOL IS_DOOR_REGISTERED_WITH_SYSTEM(Hash doorHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **doorHash**:

@@ -13,6 +13,8 @@ BOOL _CREATE_INCIDENT_WITH_ENTITIES(int dispatchService, float x, float y, float
 dispatchService: see ENABLE_DISPATCH_SERVICE
 
 The entities must be added to itemSet.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

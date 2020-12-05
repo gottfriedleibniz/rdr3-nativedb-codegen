@@ -8,3 +8,7 @@ ns: STREAMING
 BOOL _0xC2C05DEFE85A0B64();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,5 +8,9 @@ ns: DATAFILE
 BOOL DATAFILE_HAS_VALID_FILE_DATA(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

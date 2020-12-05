@@ -8,3 +8,7 @@ ns: NETWORK
 BOOL NETWORK_IS_GAME_IN_PROGRESS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

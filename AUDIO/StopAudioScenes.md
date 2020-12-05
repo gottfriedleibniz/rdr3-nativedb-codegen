@@ -8,3 +8,7 @@ ns: AUDIO
 void STOP_AUDIO_SCENES();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

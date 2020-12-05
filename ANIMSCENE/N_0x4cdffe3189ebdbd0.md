@@ -8,5 +8,9 @@ ns: ANIMSCENE
 Any _0x4CDFFE3189EBDBD0(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

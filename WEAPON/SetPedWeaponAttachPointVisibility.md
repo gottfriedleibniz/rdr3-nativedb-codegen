@@ -11,6 +11,8 @@ void _SET_PED_WEAPON_ATTACH_POINT_VISIBILITY(Ped ped, int attachPoint, BOOL visi
 
 ```
 attachPoint: https://alloc8or.re/rdr3/doc/enums/eWeaponAttachPoint.txt
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

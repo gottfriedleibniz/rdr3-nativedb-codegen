@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_VISUAL_FIELD_CENTER_ANGLE(Ped ped, float angle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **angle**:

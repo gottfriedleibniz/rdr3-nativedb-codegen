@@ -8,5 +8,9 @@ ns: OBJECT
 Hash _GET_PICKUP_HASH(Hash pickupHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **pickupHash**:

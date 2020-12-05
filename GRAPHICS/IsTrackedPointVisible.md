@@ -8,5 +8,9 @@ ns: GRAPHICS
 BOOL IS_TRACKED_POINT_VISIBLE(int point);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **point**:

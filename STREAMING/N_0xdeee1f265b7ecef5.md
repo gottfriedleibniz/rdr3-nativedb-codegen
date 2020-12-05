@@ -8,3 +8,7 @@ ns: STREAMING
 void _0xDEEE1F265B7ECEF5();
 ```
 
+```
+NativeDB Introduced: v1311
+```
+

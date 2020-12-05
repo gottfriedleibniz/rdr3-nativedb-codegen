@@ -14,6 +14,8 @@ struct StatId
 	alignas(8) Hash BaseId;
 	alignas(8) Hash PermutationId;
 }
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

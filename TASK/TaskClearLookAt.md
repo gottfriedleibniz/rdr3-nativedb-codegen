@@ -25,6 +25,8 @@ Another one where it doesn't "look" at current player -
 AI::TASK_PLAY_ANIM(l_3ED, "missheist_agency2aig_2", "look_at_phone_a", 1000.0, -2.0, -1, 48, v_2, 0, 0, 0);
 PED::_2208438012482A1A(l_3ED, 0, 0);
 AI::TASK_CLEAR_LOOK_AT(l_3ED);
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

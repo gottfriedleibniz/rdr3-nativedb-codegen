@@ -8,3 +8,7 @@ ns: NETWORK
 BOOL NETWORK_CAN_SESSION_END();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

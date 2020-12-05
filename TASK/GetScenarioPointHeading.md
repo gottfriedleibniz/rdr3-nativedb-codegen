@@ -11,6 +11,8 @@ float _GET_SCENARIO_POINT_HEADING(int Scenario, BOOL p1);
 
 ```
 p1 is always true
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

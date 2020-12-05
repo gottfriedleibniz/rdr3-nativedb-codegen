@@ -8,3 +8,7 @@ ns: MISC
 int _GET_SCRIPT_TIME_WITHIN_FRAME_IN_MICROSECONDS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

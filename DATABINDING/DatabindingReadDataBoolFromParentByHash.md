@@ -8,6 +8,10 @@ ns: DATABINDING
 Any _DATABINDING_READ_DATA_BOOL_FROM_PARENT_BY_HASH(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

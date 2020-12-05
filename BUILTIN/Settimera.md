@@ -8,5 +8,9 @@ ns: BUILTIN
 void SETTIMERA(int value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **value**:

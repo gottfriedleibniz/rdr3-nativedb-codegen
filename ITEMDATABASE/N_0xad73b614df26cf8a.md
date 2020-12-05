@@ -8,6 +8,10 @@ ns: ITEMDATABASE
 Any _0xAD73B614DF26CF8A(Any p0, Any p1, Any p2, Any p3);
 ```
 
+```
+NativeDB Introduced: v1232
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

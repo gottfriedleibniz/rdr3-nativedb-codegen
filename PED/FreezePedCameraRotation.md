@@ -8,5 +8,9 @@ ns: PED
 void _FREEZE_PED_CAMERA_ROTATION(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

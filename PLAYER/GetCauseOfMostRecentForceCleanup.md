@@ -8,3 +8,7 @@ ns: PLAYER
 int GET_CAUSE_OF_MOST_RECENT_FORCE_CLEANUP();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

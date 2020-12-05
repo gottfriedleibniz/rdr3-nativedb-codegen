@@ -12,6 +12,8 @@ void BRING_VEHICLE_TO_HALT(Vehicle vehicle, float distance, int duration, BOOL u
 This native makes the vehicle stop immediately
 
 distance defines how far it will travel until stopping.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

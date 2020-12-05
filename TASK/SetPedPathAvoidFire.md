@@ -8,6 +8,10 @@ ns: TASK
 void SET_PED_PATH_AVOID_FIRE(Ped ped, BOOL avoidFire);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **avoidFire**:

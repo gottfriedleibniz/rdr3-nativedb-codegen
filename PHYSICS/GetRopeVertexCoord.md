@@ -8,6 +8,10 @@ ns: PHYSICS
 Vector3 GET_ROPE_VERTEX_COORD(int ropeId, int vertex);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ropeId**:
 * **vertex**:

@@ -10,6 +10,8 @@ BOOL HAS_CLIP_SET_LOADED(char* clipSet);
 
 ```
 Alias for HAS_ANIM_SET_LOADED.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

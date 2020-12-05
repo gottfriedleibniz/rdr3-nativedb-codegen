@@ -8,5 +8,9 @@ ns: AUDIO
 void SKIP_TO_NEXT_SCRIPTED_CONVERSATION_LINE(char* p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

@@ -8,5 +8,9 @@ ns: ENTITY
 BOOL DOES_ENTITY_HAVE_DRAWABLE(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

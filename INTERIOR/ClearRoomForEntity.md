@@ -8,5 +8,9 @@ ns: INTERIOR
 void CLEAR_ROOM_FOR_ENTITY(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

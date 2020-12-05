@@ -9,5 +9,9 @@ aliases: ["0xEE04C0AFD4EFAF0E"]
 Entity _GET_ENTITY_FROM_ITEM(ScrHandle item);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **item**:

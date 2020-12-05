@@ -8,3 +8,7 @@ ns: CRASHLOG
 BOOL _0xF0D545C1EEAD614A();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

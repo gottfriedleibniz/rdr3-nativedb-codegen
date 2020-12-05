@@ -8,6 +8,10 @@ ns: VEHICLE
 void _SET_VEHICLE_JET_ENGINE_ON(Vehicle vehicle, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **toggle**:

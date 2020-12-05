@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL NETWORK_HAS_CONTROL_OF_PICKUP(Pickup pickup);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **pickup**:

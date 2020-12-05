@@ -8,5 +8,9 @@ ns: CREW
 BOOL NETWORK_CLAN_PLAYER_IS_ACTIVE(Any* networkHandle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **networkHandle**:

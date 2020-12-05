@@ -9,5 +9,9 @@ aliases: ["0xCDC5512A407CF08D"]
 BOOL _IS_ANIM_SCENE_ACTIVE(int animScene);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animScene**:

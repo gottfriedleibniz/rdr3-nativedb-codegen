@@ -8,3 +8,7 @@ ns: NETWORK
 int GET_CLOUD_TIME_AS_INT();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,3 +8,7 @@ ns: UIAPPS
 void _CLOSE_ALL_APPS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

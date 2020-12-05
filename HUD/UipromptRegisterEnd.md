@@ -9,5 +9,9 @@ aliases: ["_PROMPT_REGISTER_END"]
 void _UIPROMPT_REGISTER_END(int prompt);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:

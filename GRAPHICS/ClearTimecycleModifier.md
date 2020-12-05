@@ -8,3 +8,7 @@ ns: GRAPHICS
 void CLEAR_TIMECYCLE_MODIFIER();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

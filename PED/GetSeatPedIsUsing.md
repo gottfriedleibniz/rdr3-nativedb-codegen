@@ -9,5 +9,9 @@ aliases: ["0x4E76CB57222A00E5"]
 int _GET_SEAT_PED_IS_USING(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

@@ -10,6 +10,8 @@ int INT_TO_PARTICIPANTINDEX(int value);
 
 ```
 Simply returns whatever is passed to it (Regardless of whether the handle is valid or not).
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

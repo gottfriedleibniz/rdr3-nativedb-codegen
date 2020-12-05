@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_TARGET_MODE_PROGRESS"]
 void _UIPROMPT_SET_TARGET_MODE_PROGRESS(int prompt, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **p1**:

@@ -8,3 +8,7 @@ ns: NETWORK
 BOOL NETWORK_IS_CLOUD_AVAILABLE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

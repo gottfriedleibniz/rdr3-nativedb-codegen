@@ -8,5 +8,9 @@ ns: TASK
 int GET_ACTIVE_VEHICLE_MISSION_TYPE(Vehicle vehicle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:

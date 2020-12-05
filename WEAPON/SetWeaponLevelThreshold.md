@@ -11,6 +11,8 @@ void _SET_WEAPON_LEVEL_THRESHOLD(Object weaponObject, float threshold);
 
 ```
 every other level will have the max value of (brokeLevel - threshold)
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

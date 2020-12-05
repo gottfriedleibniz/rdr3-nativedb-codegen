@@ -14,6 +14,8 @@ Returns:
 1 = ped
 2 = vehicle
 3 = object
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

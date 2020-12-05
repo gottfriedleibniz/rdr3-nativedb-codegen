@@ -8,6 +8,10 @@ ns: VEHICLE
 BOOL DOES_EXTRA_EXIST(Vehicle vehicle, int extraId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **extraId**:

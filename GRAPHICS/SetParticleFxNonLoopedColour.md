@@ -8,6 +8,10 @@ ns: GRAPHICS
 void SET_PARTICLE_FX_NON_LOOPED_COLOUR(float r, float g, float b);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **r**:
 * **g**:

@@ -10,6 +10,8 @@ void SET_ENTITY_COORDS_NO_OFFSET(Entity entity, float xPos, float yPos, float zP
 
 ```
 Axis - Invert Axis Flags
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

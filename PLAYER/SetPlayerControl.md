@@ -8,6 +8,10 @@ ns: PLAYER
 void SET_PLAYER_CONTROL(Player player, BOOL toggle, int flags, BOOL p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:
 * **toggle**:

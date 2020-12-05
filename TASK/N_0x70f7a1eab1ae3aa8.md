@@ -8,6 +8,10 @@ ns: TASK
 void _0x70F7A1EAB1AE3AA8(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1232
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

@@ -8,3 +8,7 @@ ns: NETWORK
 BOOL NETWORK_IS_IN_MP_CUTSCENE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

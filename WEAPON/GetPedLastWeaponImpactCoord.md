@@ -8,6 +8,10 @@ ns: WEAPON
 BOOL GET_PED_LAST_WEAPON_IMPACT_COORD(Ped ped, Vector3* coords);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **coords**:

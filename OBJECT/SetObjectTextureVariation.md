@@ -8,6 +8,10 @@ ns: OBJECT
 void _SET_OBJECT_TEXTURE_VARIATION(Object object, int textureVariation);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **object**:
 * **textureVariation**:

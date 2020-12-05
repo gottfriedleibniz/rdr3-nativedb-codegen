@@ -10,6 +10,8 @@ Vector3 _0x83ACC65D9ACEC5EF(float p0, float p1, float p2, float p3, float p4, fl
 
 ```
 GET_C*
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

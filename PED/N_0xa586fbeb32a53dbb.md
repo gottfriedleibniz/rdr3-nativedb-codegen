@@ -8,3 +8,7 @@ ns: PED
 Any _0xA586FBEB32A53DBB();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

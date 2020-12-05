@@ -8,5 +8,9 @@ ns: GRAPHICS
 void SET_PARTICLE_FX_NON_LOOPED_ALPHA(float alpha);
 ```
 
+```
+NativeDB Introduced: v1311
+```
+
 ## Parameters
 * **alpha**:

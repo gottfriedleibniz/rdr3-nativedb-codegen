@@ -11,6 +11,8 @@ void _REMOVE_ALL_SHOCKING_EVENTS_OF_TYPE(Hash eventType, BOOL p1);
 
 ```
 eventType: https://alloc8or.re/rdr3/doc/enums/eEventType.txt
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

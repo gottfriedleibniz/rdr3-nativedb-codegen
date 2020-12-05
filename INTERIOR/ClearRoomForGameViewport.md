@@ -8,3 +8,7 @@ ns: INTERIOR
 void CLEAR_ROOM_FOR_GAME_VIEWPORT();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

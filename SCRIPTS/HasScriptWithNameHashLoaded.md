@@ -8,5 +8,9 @@ ns: SCRIPTS
 BOOL HAS_SCRIPT_WITH_NAME_HASH_LOADED(Hash scriptHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scriptHash**:

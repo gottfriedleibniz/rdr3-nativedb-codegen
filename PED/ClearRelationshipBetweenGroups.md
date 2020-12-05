@@ -8,6 +8,10 @@ ns: PED
 void CLEAR_RELATIONSHIP_BETWEEN_GROUPS(int relationship, Hash group1, Hash group2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **relationship**:
 * **group1**:

@@ -8,5 +8,9 @@ ns: TASK
 int GET_PED_WAYPOINT_PROGRESS(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

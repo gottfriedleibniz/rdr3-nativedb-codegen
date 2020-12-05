@@ -10,6 +10,8 @@ void ADD_EXPLOSION(float x, float y, float z, int explosionType, float damageSca
 
 ```
 https://alloc8or.re/rdr3/doc/enums/eExplosionTag.txt
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

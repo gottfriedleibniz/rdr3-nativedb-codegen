@@ -8,6 +8,10 @@ ns: EVENT
 Any _0x796EECFF0C6D39BE(Any p0, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

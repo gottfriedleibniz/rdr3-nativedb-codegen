@@ -8,5 +8,9 @@ ns: NETWORK
 Any _0xDCA4A74135E1DEA5(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

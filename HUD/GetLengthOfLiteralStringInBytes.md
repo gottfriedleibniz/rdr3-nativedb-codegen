@@ -8,5 +8,9 @@ ns: HUD
 int GET_LENGTH_OF_LITERAL_STRING_IN_BYTES(char* string);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **string**:

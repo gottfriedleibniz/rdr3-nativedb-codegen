@@ -8,3 +8,7 @@ ns: GRAPHICS
 BOOL GET_TOGGLE_PAUSED_RENDERPHASES_STATUS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

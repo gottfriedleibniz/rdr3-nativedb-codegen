@@ -8,6 +8,10 @@ ns: PAD
 void ENABLE_CONTROL_ACTION(int padIndex, Hash control, BOOL enable);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **padIndex**:
 * **control**:

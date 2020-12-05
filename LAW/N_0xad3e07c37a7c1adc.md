@@ -8,6 +8,10 @@ ns: LAW
 void _0xAD3E07C37A7C1ADC(char* name, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **name**:
 * **p1**:

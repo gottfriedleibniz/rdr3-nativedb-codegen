@@ -8,6 +8,10 @@ ns: ENTITY
 BOOL IS_ENTITY_TOUCHING_ENTITY(Entity entity, Entity targetEntity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **targetEntity**:

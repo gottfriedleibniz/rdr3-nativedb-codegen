@@ -8,6 +8,10 @@ ns: NETSHOPPING
 BOOL _CASHINVENTORY_TRANSACTION_START(int* id, Hash type, Hash actionHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **id**:
 * **type**:

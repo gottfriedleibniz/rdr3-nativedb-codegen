@@ -8,5 +8,9 @@ ns: OBJECT
 void _MARK_OBJECT_FOR_DELETION(Object object);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **object**:

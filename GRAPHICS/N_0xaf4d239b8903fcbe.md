@@ -8,3 +8,7 @@ ns: GRAPHICS
 void _0xAF4D239B8903FCBE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

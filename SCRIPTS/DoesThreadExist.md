@@ -9,5 +9,9 @@ aliases: ["0xFF975BC4435A0FA3"]
 BOOL _DOES_THREAD_EXIST(int threadId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **threadId**:

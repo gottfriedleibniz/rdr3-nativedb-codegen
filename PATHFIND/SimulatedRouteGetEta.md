@@ -8,5 +8,9 @@ ns: PATHFIND
 float SIMULATED_ROUTE_GET_ETA(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

@@ -9,5 +9,9 @@ aliases: ["0xEB3CB3386C775D72"]
 void _RESET_MINIMAP_FOW(Hash hash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **hash**:

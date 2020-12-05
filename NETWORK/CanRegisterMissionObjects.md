@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL CAN_REGISTER_MISSION_OBJECTS(int amount);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **amount**:

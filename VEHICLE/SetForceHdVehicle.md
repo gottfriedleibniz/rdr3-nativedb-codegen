@@ -8,6 +8,10 @@ ns: VEHICLE
 void SET_FORCE_HD_VEHICLE(Vehicle vehicle, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **toggle**:

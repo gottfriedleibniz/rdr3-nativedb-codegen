@@ -8,6 +8,10 @@ ns: ITEMSET
 Any GET_INDEXED_ITEM_IN_ITEMSET(int itemset, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **itemset**:
 * **p1**:

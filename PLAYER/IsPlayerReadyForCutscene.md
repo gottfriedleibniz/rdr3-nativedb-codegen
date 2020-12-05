@@ -8,5 +8,9 @@ ns: PLAYER
 BOOL IS_PLAYER_READY_FOR_CUTSCENE(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

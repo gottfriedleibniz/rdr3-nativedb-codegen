@@ -8,3 +8,7 @@ ns: MISC
 BOOL IS_MINIGAME_IN_PROGRESS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

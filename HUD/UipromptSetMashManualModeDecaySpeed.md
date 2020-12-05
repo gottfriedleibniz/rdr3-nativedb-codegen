@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_MASH_MANUAL_MODE_DECAY_SPEED"]
 void _UIPROMPT_SET_MASH_MANUAL_MODE_DECAY_SPEED(int prompt, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **p1**:

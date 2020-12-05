@@ -8,6 +8,10 @@ ns: DATABINDING
 void _DATABINDING_WRITE_DATA_HASH_STRING(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

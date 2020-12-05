@@ -8,6 +8,10 @@ ns: VEHICLE
 void REQUEST_VEHICLE_ASSET(Hash vehicleHash, int vehicleAsset);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicleHash**:
 * **vehicleAsset**:

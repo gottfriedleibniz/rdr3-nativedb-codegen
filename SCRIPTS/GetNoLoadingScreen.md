@@ -8,3 +8,7 @@ ns: SCRIPTS
 BOOL GET_NO_LOADING_SCREEN();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

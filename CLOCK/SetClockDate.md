@@ -8,6 +8,10 @@ ns: CLOCK
 void SET_CLOCK_DATE(int day, int month, int year);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **day**:
 * **month**:

@@ -8,6 +8,10 @@ ns: NETWORK
 void SET_NETWORK_ID_EXISTS_ON_ALL_MACHINES(int netId, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **netId**:
 * **toggle**:

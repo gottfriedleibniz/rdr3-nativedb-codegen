@@ -8,6 +8,10 @@ ns: INTERIOR
 void DISABLE_INTERIOR(int interior, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **interior**:
 * **toggle**:

@@ -13,6 +13,8 @@ Does not affect weapons, particles, fire/explosions, flashlights or the sun.
 When set to true, all emissive textures (including ped components that have light effects), street lights, building lights, vehicle lights, etc will all be turned off.
 
 state: True turns off all artificial light sources in the map: buildings, street lights, car lights, etc. False turns them back on.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

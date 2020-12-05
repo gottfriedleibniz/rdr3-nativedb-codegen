@@ -8,6 +8,10 @@ ns: CAM
 void SET_CAM_NEAR_CLIP(Cam cam, float nearClip);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **cam**:
 * **nearClip**:

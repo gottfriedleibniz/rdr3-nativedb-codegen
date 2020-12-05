@@ -9,5 +9,9 @@ aliases: ["_PROMPT_GET_GROUP_ACTIVE_PAGE"]
 int _UIPROMPT_GET_GROUP_ACTIVE_PAGE(Hash hash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **hash**:

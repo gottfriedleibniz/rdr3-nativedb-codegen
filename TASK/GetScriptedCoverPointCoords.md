@@ -8,5 +8,9 @@ ns: TASK
 Vector3 GET_SCRIPTED_COVER_POINT_COORDS(ScrHandle coverpoint);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **coverpoint**:

@@ -8,5 +8,9 @@ ns: ENTITY
 void CLEAR_ENTITY_LAST_DAMAGE_ENTITY(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

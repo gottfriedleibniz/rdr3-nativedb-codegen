@@ -16,6 +16,8 @@ Could be the move speed on the path. Needs testing.
 Default is 1.0 and maximum is 10.0
 
 SET_PED_PATH_CLIMB_COST_MODIFIER ?
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

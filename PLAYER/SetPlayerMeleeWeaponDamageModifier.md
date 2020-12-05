@@ -8,6 +8,10 @@ ns: PLAYER
 void SET_PLAYER_MELEE_WEAPON_DAMAGE_MODIFIER(Player player, float modifier);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:
 * **modifier**:

@@ -9,3 +9,7 @@ aliases: ["0xF1622CE88A1946FB"]
 void _UIPROMPT_DISABLE_PROMPTS_THIS_FRAME();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

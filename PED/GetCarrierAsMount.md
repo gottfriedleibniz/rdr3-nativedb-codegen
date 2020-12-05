@@ -9,5 +9,9 @@ aliases: ["0xA033D7E4BBF9844D"]
 Ped _GET_CARRIER_AS_MOUNT(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

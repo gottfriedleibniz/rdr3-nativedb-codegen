@@ -8,5 +8,9 @@ ns: TASK
 void CLEAR_SEQUENCE_TASK(int* taskSequenceId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **taskSequenceId**:

@@ -8,5 +8,9 @@ ns: SCRIPTS
 Hash _GET_HASH_OF_THREAD(int threadId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **threadId**:

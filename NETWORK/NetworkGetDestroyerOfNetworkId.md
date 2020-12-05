@@ -8,6 +8,10 @@ ns: NETWORK
 int NETWORK_GET_DESTROYER_OF_NETWORK_ID(int netId, Hash* weaponHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **netId**:
 * **weaponHash**:

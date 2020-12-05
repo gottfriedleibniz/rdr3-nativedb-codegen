@@ -8,5 +8,9 @@ ns: PED
 BOOL CAN_KNOCK_PED_OFF_VEHICLE(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

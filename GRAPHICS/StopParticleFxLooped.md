@@ -8,6 +8,10 @@ ns: GRAPHICS
 void STOP_PARTICLE_FX_LOOPED(int ptfxHandle, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ptfxHandle**:
 * **p1**:

@@ -9,6 +9,10 @@ aliases: ["0x738271B660FE0695"]
 int _GET_ENTITIES_FROM_PROPSET(int propSet, int itemSet, Any p2, BOOL p3, BOOL p4);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **propSet**:
 * **itemSet**:

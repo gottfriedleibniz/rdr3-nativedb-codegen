@@ -8,3 +8,7 @@ ns: MISC
 float GET_RAIN_LEVEL();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

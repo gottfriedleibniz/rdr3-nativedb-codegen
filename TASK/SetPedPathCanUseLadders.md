@@ -8,6 +8,10 @@ ns: TASK
 void SET_PED_PATH_CAN_USE_LADDERS(Ped ped, BOOL Toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **Toggle**:

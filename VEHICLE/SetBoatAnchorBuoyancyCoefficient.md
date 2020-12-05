@@ -8,6 +8,10 @@ ns: VEHICLE
 void _SET_BOAT_ANCHOR_BUOYANCY_COEFFICIENT(Vehicle vehicle, float value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **value**:

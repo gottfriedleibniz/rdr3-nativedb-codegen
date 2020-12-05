@@ -10,6 +10,8 @@ void SET_IGNORE_NO_GPS_FLAG(BOOL toggle);
 
 ```
 nullsub, doesn't do anything
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

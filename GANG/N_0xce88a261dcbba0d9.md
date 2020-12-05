@@ -8,6 +8,10 @@ ns: GANG
 Any _0xCE88A261DCBBA0D9(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

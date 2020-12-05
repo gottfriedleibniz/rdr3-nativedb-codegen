@@ -8,6 +8,10 @@ ns: ENTITY
 Any STOP_ENTITY_ANIM(Entity entity, char* animation, char* animGroup, float p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **animation**:

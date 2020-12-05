@@ -8,3 +8,7 @@ ns: MISC
 Any _0xF236C84C6ADFCB2F();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

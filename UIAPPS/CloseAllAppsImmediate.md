@@ -9,3 +9,7 @@ aliases: ["0x12769EEB8DBD7A7B"]
 void _CLOSE_ALL_APPS_IMMEDIATE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

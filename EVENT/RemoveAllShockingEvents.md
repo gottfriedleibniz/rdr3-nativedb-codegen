@@ -8,5 +8,9 @@ ns: EVENT
 void REMOVE_ALL_SHOCKING_EVENTS(BOOL p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

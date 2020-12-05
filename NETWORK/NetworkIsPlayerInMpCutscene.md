@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL NETWORK_IS_PLAYER_IN_MP_CUTSCENE(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

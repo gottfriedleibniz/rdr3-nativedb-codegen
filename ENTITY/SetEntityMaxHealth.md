@@ -8,6 +8,10 @@ ns: ENTITY
 void SET_ENTITY_MAX_HEALTH(Entity entity, int value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **value**:

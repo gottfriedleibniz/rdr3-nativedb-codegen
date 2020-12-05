@@ -8,3 +8,7 @@ ns: MISC
 float GET_SNOW_LEVEL();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

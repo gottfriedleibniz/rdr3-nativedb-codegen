@@ -8,3 +8,7 @@ ns: HUD
 void CLEAR_ALL_HELP_MESSAGES();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

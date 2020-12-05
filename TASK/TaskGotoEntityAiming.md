@@ -13,6 +13,8 @@ ped = Ped you want to perform this task.
 target = the Entity they should aim at.
 distanceToStopAt = distance from the target, where the ped should stop to aim.
 StartAimingDist = distance where the ped should start to aim.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

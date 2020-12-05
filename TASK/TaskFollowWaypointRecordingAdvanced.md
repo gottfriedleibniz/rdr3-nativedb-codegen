@@ -8,6 +8,10 @@ ns: TASK
 void TASK_FOLLOW_WAYPOINT_RECORDING_ADVANCED(Ped ped, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

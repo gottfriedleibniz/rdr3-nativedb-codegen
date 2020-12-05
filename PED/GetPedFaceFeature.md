@@ -9,6 +9,10 @@ aliases: ["0xFD1BA1EEF7985BB8"]
 Any _GET_PED_FACE_FEATURE(Ped ped, int index);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **index**:

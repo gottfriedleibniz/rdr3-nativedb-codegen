@@ -8,6 +8,10 @@ ns: ATTRIBUTE
 void ADD_ATTRIBUTE_POINTS(Ped ped, int attributeIndex, int p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **attributeIndex**:

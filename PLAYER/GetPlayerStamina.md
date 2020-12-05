@@ -9,5 +9,9 @@ aliases: ["0x0FF421E467373FCF"]
 float _GET_PLAYER_STAMINA(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

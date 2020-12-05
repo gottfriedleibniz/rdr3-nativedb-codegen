@@ -8,6 +8,10 @@ ns: GRAPHICS
 void SET_PARTICLE_FX_LOOPED_SCALE(int ptfxHandle, float scale);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ptfxHandle**:
 * **scale**:

@@ -8,6 +8,10 @@ ns: TASK
 void TASK_LOOT_NEAREST_ENTITY(Ped ped, float x, float y, float z, int p4, float p5);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **x**:

@@ -9,6 +9,10 @@ aliases: ["_OBJECT_VALUE_ADD_INTEGER"]
 void DATADICT_SET_INT(Any* objectData, char* key, int value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **objectData**:
 * **key**:

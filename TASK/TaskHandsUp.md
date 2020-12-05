@@ -8,6 +8,10 @@ ns: TASK
 void TASK_HANDS_UP(Ped ped, int duration, Ped facingPed, int p3, BOOL p4);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **duration**:

@@ -8,3 +8,7 @@ ns: TASK
 void RESET_SCENARIO_GROUPS_ENABLED();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

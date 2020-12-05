@@ -8,5 +8,9 @@ ns: STATS
 void CHAL_NET_STOP_CHAL(Hash chalHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **chalHash**:

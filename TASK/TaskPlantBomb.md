@@ -8,6 +8,10 @@ ns: TASK
 void TASK_PLANT_BOMB(Ped ped, float x, float y, float z, float heading);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **x**:

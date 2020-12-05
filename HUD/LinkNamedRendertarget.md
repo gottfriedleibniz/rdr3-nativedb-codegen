@@ -8,5 +8,9 @@ ns: HUD
 void LINK_NAMED_RENDERTARGET(Hash modelHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **modelHash**:

@@ -8,5 +8,9 @@ ns: MISSIONDATA
 int MISSIONDATA_GET_REPLAY_STATE(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

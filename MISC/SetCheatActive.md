@@ -30,6 +30,8 @@ Cheats are GTA IV cheats:
 15 = Spawn Sanchez
 
 Initially used in Max Payne 3, that's why we know the name.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

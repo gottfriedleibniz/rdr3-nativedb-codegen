@@ -16,6 +16,8 @@ boneId: The ID of the bone to get the position from. This is NOT the index.
 offsetX: The X-component of the offset to add to the position relative to the bone's rotation.
 offsetY: The Y-component of the offset to add to the position relative to the bone's rotation.
 offsetZ: The Z-component of the offset to add to the position relative to the bone's rotation.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

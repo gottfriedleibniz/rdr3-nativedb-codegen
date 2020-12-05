@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL NETWORK_IS_GAMER_IN_MY_SESSION(Any* networkHandle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **networkHandle**:

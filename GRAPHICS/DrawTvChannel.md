@@ -8,6 +8,10 @@ ns: GRAPHICS
 void DRAW_TV_CHANNEL(float xPos, float yPos, float xScale, float yScale, float rotation, int red, int green, int blue, int alpha);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **xPos**:
 * **yPos**:

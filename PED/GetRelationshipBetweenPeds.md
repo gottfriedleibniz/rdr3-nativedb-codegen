@@ -8,6 +8,10 @@ ns: PED
 int GET_RELATIONSHIP_BETWEEN_PEDS(Ped ped1, Ped ped2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped1**:
 * **ped2**:

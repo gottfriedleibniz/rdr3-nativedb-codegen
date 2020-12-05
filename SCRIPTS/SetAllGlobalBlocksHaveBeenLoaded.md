@@ -9,5 +9,9 @@ aliases: ["0x11986B05885564D2"]
 void _SET_ALL_GLOBAL_BLOCKS_HAVE_BEEN_LOADED(BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **toggle**:

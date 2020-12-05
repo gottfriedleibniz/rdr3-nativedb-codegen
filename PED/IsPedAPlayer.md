@@ -8,5 +8,9 @@ ns: PED
 BOOL IS_PED_A_PLAYER(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

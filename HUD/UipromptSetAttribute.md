@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_ATTRIBUTE"]
 void _UIPROMPT_SET_ATTRIBUTE(int prompt, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **p1**:

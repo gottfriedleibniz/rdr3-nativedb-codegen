@@ -8,3 +8,7 @@ ns: VOICE
 void _0xB3E8841F6BDAF83E();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

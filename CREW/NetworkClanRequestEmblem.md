@@ -8,5 +8,9 @@ ns: CREW
 BOOL NETWORK_CLAN_REQUEST_EMBLEM(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

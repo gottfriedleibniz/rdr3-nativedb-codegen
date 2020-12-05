@@ -16,6 +16,8 @@ doorIndex:
 3 = Back Left Door
 4 = Hood
 5 = Trunk
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

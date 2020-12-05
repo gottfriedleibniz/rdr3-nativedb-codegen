@@ -8,6 +8,10 @@ ns: TASK
 void TASK_GO_TO_ENTITY(Ped ped, Entity target, int duration, float distance, float speed, float p5, int p6);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **target**:

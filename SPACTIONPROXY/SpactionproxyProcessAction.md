@@ -8,6 +8,10 @@ ns: SPACTIONPROXY
 BOOL _SPACTIONPROXY_PROCESS_ACTION(Any p0, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

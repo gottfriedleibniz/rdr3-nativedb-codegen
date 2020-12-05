@@ -8,5 +8,9 @@ ns: STREAMING
 void _REQUEST_IMAP(Hash imapHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **imapHash**:

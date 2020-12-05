@@ -10,6 +10,8 @@ BOOL IS_PLAYER_RIDING_TRAIN(Player player);
 
 ```
 Returns true if the player is riding a train.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

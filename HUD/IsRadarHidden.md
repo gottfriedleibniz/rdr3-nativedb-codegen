@@ -8,3 +8,7 @@ ns: HUD
 BOOL IS_RADAR_HIDDEN();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

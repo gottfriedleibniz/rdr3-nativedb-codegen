@@ -10,6 +10,8 @@ Player NETWORK_GET_PLAYER_INDEX_FROM_PED(Ped ped);
 
 ```
 Returns the Player associated to a given Ped when in an online session.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

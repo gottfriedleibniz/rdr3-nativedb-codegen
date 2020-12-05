@@ -9,5 +9,9 @@ aliases: ["0x9617B6E5F6537B63"]
 void _SET_INCIDENT_UNK(int incidentId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **incidentId**:

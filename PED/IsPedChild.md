@@ -9,5 +9,9 @@ aliases: ["0x137772000DAF42C5"]
 BOOL _IS_PED_CHILD(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

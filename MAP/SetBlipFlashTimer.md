@@ -8,6 +8,10 @@ ns: MAP
 void SET_BLIP_FLASH_TIMER(Blip blip, int p1, int p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **blip**:
 * **p1**:

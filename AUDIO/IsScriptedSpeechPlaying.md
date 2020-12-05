@@ -8,5 +8,9 @@ ns: AUDIO
 BOOL IS_SCRIPTED_SPEECH_PLAYING(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

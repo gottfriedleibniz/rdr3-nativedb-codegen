@@ -8,5 +8,9 @@ ns: TASK
 BOOL IS_TASK_MOVE_NETWORK_ACTIVE(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

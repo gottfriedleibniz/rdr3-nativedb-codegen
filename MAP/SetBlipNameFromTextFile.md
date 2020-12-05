@@ -8,6 +8,10 @@ ns: MAP
 void SET_BLIP_NAME_FROM_TEXT_FILE(Blip blip, char* textLabel);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **blip**:
 * **textLabel**:

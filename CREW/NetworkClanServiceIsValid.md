@@ -8,3 +8,7 @@ ns: CREW
 BOOL NETWORK_CLAN_SERVICE_IS_VALID();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,6 +8,10 @@ ns: PED
 void _DISABLE_AMBIENT_LOOK_AT_REQUESTS(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

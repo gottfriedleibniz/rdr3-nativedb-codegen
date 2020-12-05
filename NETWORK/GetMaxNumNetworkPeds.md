@@ -10,5 +10,7 @@ int GET_MAX_NUM_NETWORK_PEDS();
 
 ```
 Always returns 110
+
+NativeDB Introduced: v1207
 ```
 

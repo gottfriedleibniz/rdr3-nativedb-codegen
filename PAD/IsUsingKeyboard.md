@@ -11,6 +11,8 @@ BOOL _IS_USING_KEYBOARD(int padIndex);
 
 ```
 padIndex is not used
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

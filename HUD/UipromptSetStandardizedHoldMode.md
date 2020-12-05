@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_STANDARDIZED_HOLD_MODE"]
 void _UIPROMPT_SET_STANDARDIZED_HOLD_MODE(int prompt, int p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **p1**:

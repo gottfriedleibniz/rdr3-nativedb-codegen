@@ -9,6 +9,10 @@ aliases: ["0x139805C2A67C4795"]
 void TASK_MOVE_NETWORK_BY_NAME_WITH_INIT_PARAMS(Ped ped, char* p1, Any* data, float p3, BOOL p4, char* animDict, int flags);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

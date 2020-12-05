@@ -8,5 +8,9 @@ ns: SCRIPTS
 BOOL DOES_SCRIPT_WITH_NAME_HASH_EXIST(Hash scriptHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scriptHash**:

@@ -8,6 +8,10 @@ ns: DECORATOR
 int _DECOR_GET_UINT8(Entity entity, char* propertyName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **propertyName**:

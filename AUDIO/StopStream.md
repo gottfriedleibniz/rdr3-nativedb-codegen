@@ -8,5 +8,9 @@ ns: AUDIO
 void STOP_STREAM(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

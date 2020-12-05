@@ -8,5 +8,9 @@ ns: SCRIPTS
 void TERMINATE_THREAD(int threadId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **threadId**:

@@ -8,5 +8,9 @@ ns: PLAYER
 int GET_WANTED_LEVEL_THRESHOLD(int wantedLevel);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **wantedLevel**:

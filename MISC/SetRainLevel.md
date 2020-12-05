@@ -9,5 +9,9 @@ aliases: ["_SET_RAIN_FX_INTENSITY"]
 void _SET_RAIN_LEVEL(float intensity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **intensity**:

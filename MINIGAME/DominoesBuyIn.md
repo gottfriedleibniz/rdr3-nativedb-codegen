@@ -8,5 +8,9 @@ ns: MINIGAME
 Any _DOMINOES_BUY_IN(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

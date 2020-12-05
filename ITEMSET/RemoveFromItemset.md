@@ -8,6 +8,10 @@ ns: ITEMSET
 void REMOVE_FROM_ITEMSET(int itemset, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **itemset**:
 * **p1**:

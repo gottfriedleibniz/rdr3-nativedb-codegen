@@ -9,6 +9,10 @@ aliases: ["0x58AC173A55D9D7B4"]
 void _DELETE_PROPSET(int propSet, BOOL p1, BOOL p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **propSet**:
 * **p1**:

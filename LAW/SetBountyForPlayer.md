@@ -9,6 +9,10 @@ aliases: ["0x093A9D1F72DF0D19"]
 void _SET_BOUNTY_FOR_PLAYER(Player player, int amount);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:
 * **amount**:

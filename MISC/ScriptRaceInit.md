@@ -9,6 +9,10 @@ aliases: ["0x8AE059F47158417E"]
 void SCRIPT_RACE_INIT(Any p0, Any p1, Any p2, Any p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

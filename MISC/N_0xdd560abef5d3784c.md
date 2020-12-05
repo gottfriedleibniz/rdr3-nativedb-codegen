@@ -8,6 +8,10 @@ ns: MISC
 void _0xDD560ABEF5D3784C(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

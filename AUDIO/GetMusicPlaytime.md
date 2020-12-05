@@ -8,3 +8,7 @@ ns: AUDIO
 int GET_MUSIC_PLAYTIME();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

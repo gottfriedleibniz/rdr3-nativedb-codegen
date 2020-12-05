@@ -8,6 +8,10 @@ ns: OBJECT
 Object CREATE_OBJECT_NO_OFFSET(Hash modelHash, float x, float y, float z, BOOL isNetwork, BOOL netMissionEntity, BOOL dynamic, BOOL p7);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **modelHash**:
 * **x**:

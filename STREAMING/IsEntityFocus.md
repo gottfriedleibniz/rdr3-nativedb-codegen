@@ -8,5 +8,9 @@ ns: STREAMING
 BOOL IS_ENTITY_FOCUS(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

@@ -8,5 +8,9 @@ ns: TASK
 BOOL IS_PED_SPRINTING(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

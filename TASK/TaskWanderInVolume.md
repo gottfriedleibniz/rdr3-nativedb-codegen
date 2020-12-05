@@ -8,6 +8,10 @@ ns: TASK
 void TASK_WANDER_IN_VOLUME(Ped ped, Any p1, Any p2, Any p3, Any p4);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

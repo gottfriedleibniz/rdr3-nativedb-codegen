@@ -8,6 +8,10 @@ ns: PLAYER
 void _0x3D9DA5C9EFD20D88(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

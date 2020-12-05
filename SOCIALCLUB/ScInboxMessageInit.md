@@ -8,5 +8,9 @@ ns: SOCIALCLUB
 Hash _SC_INBOX_MESSAGE_INIT(int p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

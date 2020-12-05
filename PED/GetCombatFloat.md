@@ -8,6 +8,10 @@ ns: PED
 float GET_COMBAT_FLOAT(Ped ped, int p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

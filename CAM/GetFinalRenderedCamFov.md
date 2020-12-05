@@ -8,3 +8,7 @@ ns: CAM
 float GET_FINAL_RENDERED_CAM_FOV();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,6 +8,10 @@ ns: TASK
 void TASK_VEHICLE_MISSION(Ped driver, Vehicle vehicle, Vehicle vehicleTarget, int missionType, float p4, Any p5, float p6, float p7, BOOL DriveAgainstTraffic);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **driver**:
 * **vehicle**:

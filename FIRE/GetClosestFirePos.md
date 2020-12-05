@@ -8,6 +8,10 @@ ns: FIRE
 BOOL GET_CLOSEST_FIRE_POS(Vector3* outPosition, float x, float y, float z);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **outPosition**:
 * **x**:

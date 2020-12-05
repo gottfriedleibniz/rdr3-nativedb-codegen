@@ -8,5 +8,9 @@ ns: OBJECT
 BOOL DOES_PICKUP_EXIST(Pickup pickup);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **pickup**:

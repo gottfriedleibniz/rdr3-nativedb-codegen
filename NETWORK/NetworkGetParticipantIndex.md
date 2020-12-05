@@ -8,5 +8,9 @@ ns: NETWORK
 int NETWORK_GET_PARTICIPANT_INDEX(int index);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **index**:

@@ -8,6 +8,10 @@ ns: MISC
 void GET_MODEL_DIMENSIONS(Hash modelHash, Vector3* minimum, Vector3* maximum);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **modelHash**:
 * **minimum**:

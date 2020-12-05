@@ -8,6 +8,10 @@ ns: TASK
 void TASK_GUARD_CURRENT_POSITION(Ped ped, float p1, float p2, BOOL p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

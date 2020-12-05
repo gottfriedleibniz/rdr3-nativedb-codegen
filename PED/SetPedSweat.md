@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_SWEAT(Ped ped, float sweat);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **sweat**:

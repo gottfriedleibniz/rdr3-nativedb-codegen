@@ -8,5 +8,9 @@ ns: PLAYER
 void RESET_WANTED_LEVEL_DIFFICULTY(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

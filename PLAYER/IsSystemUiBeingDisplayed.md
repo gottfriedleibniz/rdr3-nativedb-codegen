@@ -8,3 +8,7 @@ ns: PLAYER
 BOOL IS_SYSTEM_UI_BEING_DISPLAYED();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

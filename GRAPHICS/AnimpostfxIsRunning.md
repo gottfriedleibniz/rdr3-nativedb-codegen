@@ -8,5 +8,9 @@ ns: GRAPHICS
 BOOL ANIMPOSTFX_IS_RUNNING(char* effectName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **effectName**:

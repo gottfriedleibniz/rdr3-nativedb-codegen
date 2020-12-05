@@ -9,3 +9,7 @@ aliases: ["0x7E8F86A4FA33033C"]
 BOOL _MISSIONDATA_TIMECYCLE_BOX_EXISTS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

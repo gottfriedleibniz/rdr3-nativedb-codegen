@@ -8,6 +8,10 @@ ns: PED
 int GET_PED_NEARBY_VEHICLES(Ped ped, Any* sizeAndVehs);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **sizeAndVehs**:

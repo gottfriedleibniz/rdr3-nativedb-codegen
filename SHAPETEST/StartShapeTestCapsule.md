@@ -8,6 +8,10 @@ ns: SHAPETEST
 int START_SHAPE_TEST_CAPSULE(float x1, float y1, float z1, float x2, float y2, float z2, float radius, int flags, Entity entityToIgnore, int p9);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x1**:
 * **y1**:

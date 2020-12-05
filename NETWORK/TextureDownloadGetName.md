@@ -8,5 +8,9 @@ ns: NETWORK
 char* TEXTURE_DOWNLOAD_GET_NAME(int p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

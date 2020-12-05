@@ -8,3 +8,7 @@ ns: NETWORK
 BOOL NETWORK_IS_TUNABLE_CLOUD_REQUEST_PENDING();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

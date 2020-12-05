@@ -8,5 +8,9 @@ ns: NETWORK
 void NETWORK_DISABLE_PROXIMITY_MIGRATION(int netID);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **netID**:

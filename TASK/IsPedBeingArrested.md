@@ -10,6 +10,8 @@ BOOL IS_PED_BEING_ARRESTED(Ped ped);
 
 ```
 This function is hard-coded to always return false.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

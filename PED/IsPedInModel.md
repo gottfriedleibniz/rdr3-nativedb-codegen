@@ -8,6 +8,10 @@ ns: PED
 BOOL IS_PED_IN_MODEL(Ped ped, Hash modelHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **modelHash**:

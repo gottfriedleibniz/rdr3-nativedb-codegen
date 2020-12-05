@@ -8,3 +8,7 @@ ns: CAM
 BOOL IS_AIM_CAM_ACTIVE();
 ```
 
+```
+NativeDB Introduced: v1232
+```
+

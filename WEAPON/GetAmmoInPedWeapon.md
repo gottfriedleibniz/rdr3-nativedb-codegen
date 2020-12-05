@@ -8,6 +8,10 @@ ns: WEAPON
 int GET_AMMO_IN_PED_WEAPON(Ped ped, Hash weaponHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **weaponHash**:

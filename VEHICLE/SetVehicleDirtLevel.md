@@ -8,6 +8,10 @@ ns: VEHICLE
 void SET_VEHICLE_DIRT_LEVEL(Vehicle vehicle, float dirtLevel);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **dirtLevel**:

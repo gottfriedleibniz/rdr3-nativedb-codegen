@@ -10,6 +10,8 @@ void BG_START_CONTEXT(char* contextName);
 
 ```
 Inserts the given context into the background scripts context map.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

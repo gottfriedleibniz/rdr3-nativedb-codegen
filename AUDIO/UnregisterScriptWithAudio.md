@@ -10,5 +10,7 @@ void UNREGISTER_SCRIPT_WITH_AUDIO();
 
 ```
 nullsub, doesn't do anything
+
+NativeDB Introduced: v1207
 ```
 

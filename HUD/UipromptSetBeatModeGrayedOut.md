@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_BEAT_MODE_GRAYED_OUT"]
 void _UIPROMPT_SET_BEAT_MODE_GRAYED_OUT(int prompt, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **p1**:

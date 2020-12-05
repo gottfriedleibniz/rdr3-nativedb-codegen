@@ -8,6 +8,10 @@ ns: PED
 void SET_RAGDOLL_BLOCKING_FLAGS(Ped ped, int flags);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **flags**:

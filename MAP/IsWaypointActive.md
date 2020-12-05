@@ -8,3 +8,7 @@ ns: MAP
 BOOL IS_WAYPOINT_ACTIVE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

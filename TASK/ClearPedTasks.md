@@ -8,6 +8,10 @@ ns: TASK
 void CLEAR_PED_TASKS(Ped ped, BOOL p1, BOOL p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

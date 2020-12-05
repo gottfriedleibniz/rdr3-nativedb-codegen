@@ -8,6 +8,10 @@ ns: MISC
 int COMPARE_STRINGS(char* str1, char* str2, BOOL matchCase, int maxLength);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **str1**:
 * **str2**:

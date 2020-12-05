@@ -8,6 +8,10 @@ ns: COMPENDIUM
 Any _0xCD278B6BFBDBDC22(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1355
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

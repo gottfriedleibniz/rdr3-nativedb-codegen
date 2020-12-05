@@ -9,6 +9,10 @@ aliases: ["0xA9EF4AD10BDDDB57"]
 void _SET_WEAPON_SOOT(Object weaponObject, float level, BOOL p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **weaponObject**:
 * **level**:

@@ -8,6 +8,10 @@ ns: PED
 void APPLY_PED_DAMAGE_PACK(Ped ped, char* damagePack, float damage, float mult);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **damagePack**:

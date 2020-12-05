@@ -8,6 +8,10 @@ ns: ENTITY
 BOOL IS_ENTITY_TOUCHING_MODEL(Entity entity, Hash modelHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **modelHash**:

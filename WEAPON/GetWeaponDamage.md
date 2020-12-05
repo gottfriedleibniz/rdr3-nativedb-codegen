@@ -11,6 +11,8 @@ float _GET_WEAPON_DAMAGE(Object weaponObject);
 
 ```
 Related to weapon visual damage, not actual damage.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

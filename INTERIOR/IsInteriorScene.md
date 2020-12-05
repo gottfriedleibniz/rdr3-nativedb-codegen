@@ -8,3 +8,7 @@ ns: INTERIOR
 BOOL IS_INTERIOR_SCENE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

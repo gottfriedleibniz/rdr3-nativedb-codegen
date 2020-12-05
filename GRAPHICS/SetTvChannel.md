@@ -8,5 +8,9 @@ ns: GRAPHICS
 void SET_TV_CHANNEL(int channel);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **channel**:

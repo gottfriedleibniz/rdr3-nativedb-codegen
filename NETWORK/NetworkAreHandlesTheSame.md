@@ -8,6 +8,10 @@ ns: NETWORK
 BOOL NETWORK_ARE_HANDLES_THE_SAME(Any* netHandle1, Any* netHandle2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **netHandle1**:
 * **netHandle2**:

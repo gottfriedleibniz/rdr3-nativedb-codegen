@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_PRESSED_TIMED_MODE"]
 void _UIPROMPT_SET_PRESSED_TIMED_MODE(int prompt, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **p1**:

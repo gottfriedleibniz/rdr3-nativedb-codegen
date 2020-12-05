@@ -8,6 +8,10 @@ ns: LAW
 void _SET_GUARD_ZONE_POSITION(char* name, float x, float y, float z);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **name**:
 * **x**:

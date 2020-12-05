@@ -8,5 +8,9 @@ ns: PLAYER
 void FORCE_CLEANUP(int cleanupFlags);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **cleanupFlags**:

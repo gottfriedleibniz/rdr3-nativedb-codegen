@@ -8,3 +8,7 @@ ns: MAP
 Blip GET_MAIN_PLAYER_BLIP_ID();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

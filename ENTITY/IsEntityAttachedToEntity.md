@@ -8,6 +8,10 @@ ns: ENTITY
 BOOL IS_ENTITY_ATTACHED_TO_ENTITY(Entity from, Entity to);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **from**:
 * **to**:

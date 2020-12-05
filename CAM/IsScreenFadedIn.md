@@ -8,3 +8,7 @@ ns: CAM
 BOOL IS_SCREEN_FADED_IN();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

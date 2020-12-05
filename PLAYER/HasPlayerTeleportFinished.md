@@ -8,5 +8,9 @@ ns: PLAYER
 BOOL _HAS_PLAYER_TELEPORT_FINISHED(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

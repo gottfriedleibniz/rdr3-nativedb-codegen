@@ -8,6 +8,10 @@ ns: TASK
 void TASK_DRIVE_BY(Ped driverPed, Ped targetPed, Vehicle targetVehicle, float targetX, float targetY, float targetZ, float distanceToShoot, int pedAccuracy, BOOL p8, Hash firingPattern);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **driverPed**:
 * **targetPed**:

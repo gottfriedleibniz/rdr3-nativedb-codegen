@@ -8,3 +8,7 @@ ns: PED
 void CLEAR_PED_NON_CREATION_AREA();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_FLEE_ATTRIBUTES(Ped ped, int attributeFlags, BOOL enable);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **attributeFlags**:

@@ -8,5 +8,9 @@ ns: STATS
 void _0xCD0D69C65BB0E8B9(Any p0);
 ```
 
+```
+NativeDB Introduced: v1311
+```
+
 ## Parameters
 * **p0**:

@@ -10,6 +10,8 @@ Vector3 GET_ENTITY_FORWARD_VECTOR(Hash entity);
 
 ```
 Gets the entity's forward vector.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

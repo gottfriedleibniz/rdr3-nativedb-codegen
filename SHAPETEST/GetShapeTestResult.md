@@ -8,6 +8,10 @@ ns: SHAPETEST
 int GET_SHAPE_TEST_RESULT(int rayHandle, BOOL* hit, Vector3* endCoords, Vector3* surfaceNormal, Entity* entityHit);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **rayHandle**:
 * **hit**:

@@ -8,3 +8,7 @@ ns: NETWORK
 BOOL NETWORK_GET_THIS_SCRIPT_IS_NETWORK_SCRIPT();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

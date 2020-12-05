@@ -11,6 +11,8 @@ BOOL _IS_EXPLOSION_IN_VOLUME(int explosionType, int volume);
 
 ```
 explosionType: see ADD_EXPLOSION
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

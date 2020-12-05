@@ -8,5 +8,9 @@ ns: SOCIALCLUB
 BOOL _SC_INBOX_MESSAGE_POP(int p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

@@ -8,6 +8,10 @@ ns: NETWORK
 void NETWORK_GET_GLOBAL_MULTIPLAYER_CLOCK(int* hours, int* minutes, int* seconds);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **hours**:
 * **minutes**:

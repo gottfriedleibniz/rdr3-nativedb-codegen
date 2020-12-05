@@ -8,6 +8,10 @@ ns: VEHICLE
 Entity GET_TRAIN_CARRIAGE(Vehicle train, int trailerNumber);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **train**:
 * **trailerNumber**:

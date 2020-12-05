@@ -8,6 +8,10 @@ ns: CAM
 void _ANIMATE_GAMEPLAY_CAM_ZOOM(float p0, float distance);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **distance**:

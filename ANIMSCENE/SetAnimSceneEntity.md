@@ -8,6 +8,10 @@ ns: ANIMSCENE
 void SET_ANIM_SCENE_ENTITY(int animScene, char* entityName, Entity entity, int flags);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animScene**:
 * **entityName**:

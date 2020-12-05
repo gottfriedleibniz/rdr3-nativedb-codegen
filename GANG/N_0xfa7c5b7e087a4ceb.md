@@ -8,3 +8,7 @@ ns: GANG
 Any _0xFA7C5B7E087A4CEB();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

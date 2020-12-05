@@ -8,5 +8,9 @@ ns: NETWORK
 void RESERVE_NETWORK_MISSION_PEDS(int amount);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **amount**:

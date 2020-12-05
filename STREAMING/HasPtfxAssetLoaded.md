@@ -8,3 +8,7 @@ ns: STREAMING
 BOOL HAS_PTFX_ASSET_LOADED();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

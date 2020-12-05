@@ -8,6 +8,10 @@ ns: ANIMSCENE
 void SET_ANIM_SCENE_FLOAT(int animScene, char* name, float value, BOOL p3, BOOL p4);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animScene**:
 * **name**:

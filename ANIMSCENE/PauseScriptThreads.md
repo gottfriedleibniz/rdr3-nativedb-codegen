@@ -11,6 +11,8 @@ void _PAUSE_SCRIPT_THREADS(BOOL toggle);
 
 ```
 Pauses all script threads except the one that called it.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -8,5 +8,9 @@ ns: MISC
 int ABSI(int value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **value**:

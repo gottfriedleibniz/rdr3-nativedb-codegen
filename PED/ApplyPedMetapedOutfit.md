@@ -9,6 +9,10 @@ aliases: ["0x74F512E29CB717E2"]
 BOOL _APPLY_PED_METAPED_OUTFIT(int requestId, Ped ped, BOOL p2, BOOL p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **requestId**:
 * **ped**:

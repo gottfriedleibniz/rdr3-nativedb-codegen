@@ -8,6 +8,10 @@ ns: TASK
 void SET_SEQUENCE_TO_REPEAT(int taskSequenceId, BOOL repeat);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **taskSequenceId**:
 * **repeat**:

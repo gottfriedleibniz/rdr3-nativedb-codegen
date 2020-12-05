@@ -8,3 +8,7 @@ ns: MINIGAME
 void _0xF6DE98516FD3AC9B();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

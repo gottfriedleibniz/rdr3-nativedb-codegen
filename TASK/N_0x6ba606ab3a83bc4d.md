@@ -8,5 +8,9 @@ ns: TASK
 Any _0x6BA606AB3A83BC4D(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

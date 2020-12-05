@@ -8,5 +8,9 @@ ns: INTERIOR
 void PIN_INTERIOR_IN_MEMORY(int interior);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **interior**:

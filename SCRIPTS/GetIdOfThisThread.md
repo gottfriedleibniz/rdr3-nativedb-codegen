@@ -8,3 +8,7 @@ ns: SCRIPTS
 int GET_ID_OF_THIS_THREAD();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

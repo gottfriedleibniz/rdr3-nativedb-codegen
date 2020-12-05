@@ -15,6 +15,8 @@ easeTime - Time in milliseconds for the transition to happen
 If you have created a script (rendering) camera, and want to go back to the 
 character (gameplay) camera, call this native with render set to 0.
 Setting ease to 1 will smooth the transition.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

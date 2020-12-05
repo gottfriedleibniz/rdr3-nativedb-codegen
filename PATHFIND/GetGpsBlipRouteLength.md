@@ -8,3 +8,7 @@ ns: PATHFIND
 int GET_GPS_BLIP_ROUTE_LENGTH();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

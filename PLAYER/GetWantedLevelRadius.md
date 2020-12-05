@@ -8,5 +8,9 @@ ns: PLAYER
 float GET_WANTED_LEVEL_RADIUS(int p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

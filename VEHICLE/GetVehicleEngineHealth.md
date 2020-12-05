@@ -18,6 +18,8 @@ Maximum: 1000
 0 and below: Engine catches fire and health rapidly declines
 300: Engine is smoking and losing functionality
 1000: Engine is perfect
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

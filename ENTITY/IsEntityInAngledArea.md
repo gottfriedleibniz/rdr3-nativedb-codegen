@@ -12,6 +12,8 @@ BOOL IS_ENTITY_IN_ANGLED_AREA(Entity entity, float originX, float originY, float
 Creates a spherical cone at origin that extends to surface with the angle specified. Then returns true if the entity is inside the spherical cone
 
 Angle is measured in degrees.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -9,5 +9,9 @@ aliases: ["0xF49F14462F0AE27C"]
 Ped _GET_MOUNT_OF_PLAYER(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

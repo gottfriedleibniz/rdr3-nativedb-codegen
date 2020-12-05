@@ -8,5 +8,9 @@ ns: BUILTIN
 void WAIT(int ms);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ms**:

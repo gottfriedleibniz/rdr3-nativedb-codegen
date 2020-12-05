@@ -8,5 +8,9 @@ ns: MAP
 BOOL DOES_BLIP_EXIST(Blip blip);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **blip**:

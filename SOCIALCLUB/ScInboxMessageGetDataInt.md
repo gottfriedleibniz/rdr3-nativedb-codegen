@@ -8,6 +8,10 @@ ns: SOCIALCLUB
 BOOL SC_INBOX_MESSAGE_GET_DATA_INT(int p0, char* context, int* out);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **context**:

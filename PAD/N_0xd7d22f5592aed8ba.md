@@ -8,5 +8,9 @@ ns: PAD
 int _0xD7D22F5592AED8BA(int p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

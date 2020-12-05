@@ -8,5 +8,9 @@ ns: MAP
 void SET_GPS_MULTI_ROUTE_RENDER(BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **toggle**:

@@ -8,6 +8,10 @@ ns: TASK
 void TASK_VEHICLE_AIM_AT_PED(Ped ped, Ped target);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **target**:

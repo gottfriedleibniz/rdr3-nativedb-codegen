@@ -8,3 +8,7 @@ ns: NETWORK
 BOOL NETWORK_IS_IN_SESSION();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

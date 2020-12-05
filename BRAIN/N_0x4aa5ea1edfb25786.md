@@ -8,5 +8,9 @@ ns: BRAIN
 void _0x4AA5EA1EDFB25786(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

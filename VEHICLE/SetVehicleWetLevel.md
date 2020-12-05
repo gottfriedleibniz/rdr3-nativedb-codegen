@@ -11,6 +11,8 @@ void _SET_VEHICLE_WET_LEVEL(Vehicle vehicle, float wetLevel);
 
 ```
 wetLevel: 0.0 - 1.0
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

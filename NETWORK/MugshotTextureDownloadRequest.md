@@ -9,6 +9,10 @@ aliases: ["0x9B5DB6CEAFAA10BB"]
 int _MUGSHOT_TEXTURE_DOWNLOAD_REQUEST(Any* netHandle, int p1, char* name, BOOL p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **netHandle**:
 * **p1**:

@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_URGENT_PULSING_ENABLED"]
 void _UIPROMPT_SET_URGENT_PULSING_ENABLED(int prompt, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **p1**:

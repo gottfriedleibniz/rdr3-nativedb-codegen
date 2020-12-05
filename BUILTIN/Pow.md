@@ -8,6 +8,10 @@ ns: BUILTIN
 float POW(float base, float exponent);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **base**:
 * **exponent**:

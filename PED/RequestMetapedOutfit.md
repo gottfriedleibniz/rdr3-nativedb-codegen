@@ -9,6 +9,10 @@ aliases: ["0x13154A76CE0CF9AB"]
 int _REQUEST_METAPED_OUTFIT(Hash model, Hash outfit);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **model**:
 * **outfit**:

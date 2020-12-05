@@ -8,6 +8,10 @@ ns: STATS
 void CHAL_NET_START_GOAL(Hash chalHash, Hash goalHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **chalHash**:
 * **goalHash**:

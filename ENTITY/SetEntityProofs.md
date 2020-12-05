@@ -8,6 +8,10 @@ ns: ENTITY
 void SET_ENTITY_PROOFS(Entity entity, int proofsBitset, BOOL p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **proofsBitset**:

@@ -9,5 +9,9 @@ aliases: ["0x59643424B68D52B5"]
 BOOL _IS_PED_CLIMBING_LADDER(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

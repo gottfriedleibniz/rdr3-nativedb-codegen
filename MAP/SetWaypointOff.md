@@ -8,3 +8,7 @@ ns: MAP
 void SET_WAYPOINT_OFF();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

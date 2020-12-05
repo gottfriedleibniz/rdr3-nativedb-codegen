@@ -9,6 +9,10 @@ aliases: ["_ARRAY_VALUE_GET_INTEGER"]
 int DATAARRAY_GET_INT(Any* arrayData, int arrayIndex);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **arrayData**:
 * **arrayIndex**:

@@ -9,6 +9,10 @@ aliases: ["_OBJECT_VALUE_GET_ARRAY"]
 Any* DATADICT_GET_ARRAY(Any* objectData, char* key);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **objectData**:
 * **key**:

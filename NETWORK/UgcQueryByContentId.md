@@ -8,6 +8,10 @@ ns: NETWORK
 BOOL _UGC_QUERY_BY_CONTENT_ID(char* contentId, BOOL latestVersion, char* contentTypeName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **contentId**:
 * **latestVersion**:

@@ -10,6 +10,8 @@ void SET_PED_SHOOT_RATE(Ped ped, int shootRate);
 
 ```
 shootRate 0-1000
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

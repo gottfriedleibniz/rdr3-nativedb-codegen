@@ -13,6 +13,8 @@ Makes a ped run away from another ped (fleeTarget).
 
 distance = ped will flee this distance.
 fleeTime = ped will flee for this amount of time, set to "-1" to flee forever
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

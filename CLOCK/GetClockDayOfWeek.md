@@ -18,5 +18,7 @@ Gets the current day of the week.
 4: Thursday
 5: Friday
 6: Saturday
+
+NativeDB Introduced: v1207
 ```
 

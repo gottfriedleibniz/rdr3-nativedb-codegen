@@ -8,6 +8,10 @@ ns: HUD
 BOOL REGISTER_NAMED_RENDERTARGET(char* name, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **name**:
 * **p1**:

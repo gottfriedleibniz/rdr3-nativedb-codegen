@@ -8,6 +8,10 @@ ns: INTERIOR
 int GET_INTERIOR_FROM_COLLISION(float x, float y, float z);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x**:
 * **y**:

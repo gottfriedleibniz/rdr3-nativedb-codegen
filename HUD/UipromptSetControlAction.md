@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_CONTROL_ACTION"]
 Any _UIPROMPT_SET_CONTROL_ACTION(int prompt, Hash control);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **control**:

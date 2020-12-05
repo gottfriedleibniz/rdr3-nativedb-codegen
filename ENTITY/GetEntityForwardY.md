@@ -10,6 +10,8 @@ float GET_ENTITY_FORWARD_Y(Entity entity);
 
 ```
 Gets the Y-component of the entity's forward vector.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -8,6 +8,10 @@ ns: PHYSICS
 void DETACH_ROPE_FROM_ENTITY(int ropeId, Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ropeId**:
 * **entity**:

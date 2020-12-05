@@ -10,6 +10,8 @@ Ped GET_PED_INDEX_FROM_ENTITY_INDEX(Entity entity);
 
 ```
 Simply returns whatever is passed to it (Regardless of whether the handle is valid or not).
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -9,5 +9,9 @@ aliases: ["0xA92450B5AE687AAF"]
 Hash _GET_SCENARIO_POINT_TYPE(int scenario);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scenario**:

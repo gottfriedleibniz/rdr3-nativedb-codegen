@@ -8,5 +8,9 @@ ns: UIEVENTS
 BOOL _EVENT_MANAGER_IS_EVENT_PENDING(Hash hash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **hash**:

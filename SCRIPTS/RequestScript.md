@@ -8,5 +8,9 @@ ns: SCRIPTS
 void REQUEST_SCRIPT(char* scriptName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **scriptName**:

@@ -9,6 +9,10 @@ aliases: ["0x502E1591A504F843"]
 BOOL _IS_MP_GAMER_TAG_ACTIVE_ON_ENTITY(int gamerTagId, Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **gamerTagId**:
 * **entity**:

@@ -9,5 +9,9 @@ aliases: ["0x2738D68D2B4E09E7"]
 void _UISTATEMACHINE_DESTROY_AND_CLEAR(Any* p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

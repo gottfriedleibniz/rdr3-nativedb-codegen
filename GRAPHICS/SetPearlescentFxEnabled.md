@@ -11,6 +11,8 @@ void _SET_PEARLESCENT_FX_ENABLED(Object object, BOOL toggle);
 
 ```
 Enables/disables a kind of 'shiny' effect on metals.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

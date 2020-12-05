@@ -8,5 +8,9 @@ ns: CAM
 void STOP_GAMEPLAY_CAM_SHAKING(BOOL p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

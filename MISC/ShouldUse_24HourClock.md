@@ -8,3 +8,7 @@ ns: MISC
 BOOL _SHOULD_USE_24_HOUR_CLOCK();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

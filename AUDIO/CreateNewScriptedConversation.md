@@ -8,5 +8,9 @@ ns: AUDIO
 BOOL CREATE_NEW_SCRIPTED_CONVERSATION(char* p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

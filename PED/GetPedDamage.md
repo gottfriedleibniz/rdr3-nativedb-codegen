@@ -14,6 +14,8 @@ int _GET_PED_DAMAGE(Ped ped);
 0: POOR
 1: GOOD
 2: PERFECT
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

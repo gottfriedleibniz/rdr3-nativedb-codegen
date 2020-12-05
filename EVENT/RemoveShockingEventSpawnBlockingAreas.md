@@ -8,3 +8,7 @@ ns: EVENT
 void REMOVE_SHOCKING_EVENT_SPAWN_BLOCKING_AREAS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

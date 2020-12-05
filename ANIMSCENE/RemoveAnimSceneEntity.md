@@ -8,6 +8,10 @@ ns: ANIMSCENE
 void REMOVE_ANIM_SCENE_ENTITY(int animScene, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animScene**:
 * **p1**:

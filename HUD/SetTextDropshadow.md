@@ -11,6 +11,8 @@ void SET_TEXT_DROPSHADOW(int distance, int r, int g, int b, int a);
 ```
 distance - shadow distance in pixels, both horizontal and vertical
 r, g, b, a - color
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

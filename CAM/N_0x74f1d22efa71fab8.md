@@ -8,3 +8,7 @@ ns: CAM
 Any _0x74F1D22EFA71FAB8();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -9,5 +9,9 @@ aliases: ["0xB5DED7B65C604FDF"]
 BOOL _IS_DOOR_REGISTERED_WITH_NETWORK(Hash doorHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **doorHash**:

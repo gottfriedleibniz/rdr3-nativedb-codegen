@@ -8,6 +8,10 @@ ns: COMPENDIUM
 Any COMPENDIUM_FISH_GET_LURE_SUITABILITY_BY_STAT_ITEM(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

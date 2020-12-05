@@ -14,6 +14,8 @@ int _GET_STATUS_OF_TEXTURE_DOWNLOAD(int p0);
 2 = failed
 
 GET_ST*
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

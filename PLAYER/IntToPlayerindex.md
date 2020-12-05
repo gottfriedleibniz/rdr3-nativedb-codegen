@@ -10,6 +10,8 @@ Player INT_TO_PLAYERINDEX(int value);
 
 ```
 Simply returns whatever is passed to it (Regardless of whether the handle is valid or not).
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

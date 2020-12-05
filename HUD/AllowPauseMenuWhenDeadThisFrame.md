@@ -8,3 +8,7 @@ ns: HUD
 void _ALLOW_PAUSE_MENU_WHEN_DEAD_THIS_FRAME();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

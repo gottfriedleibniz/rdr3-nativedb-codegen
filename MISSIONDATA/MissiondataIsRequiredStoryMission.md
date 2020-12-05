@@ -9,5 +9,9 @@ aliases: ["0xE824CE7D13FCB35E"]
 Any MISSIONDATA_IS_REQUIRED_STORY_MISSION(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

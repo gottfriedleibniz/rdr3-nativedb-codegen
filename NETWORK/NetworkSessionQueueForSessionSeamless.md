@@ -11,6 +11,8 @@ BOOL _NETWORK_SESSION_QUEUE_FOR_SESSION_SEAMLESS(int flags, int userHash, Any* s
 
 ```
 userHash is unused
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -9,5 +9,9 @@ aliases: ["0x48A88FC684C55FDC"]
 BOOL _HAS_PROPSET_LOADED(Hash hash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **hash**:

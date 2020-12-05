@@ -8,5 +8,9 @@ ns: OBJECT
 void _0x9A74A9CADFA8A598(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

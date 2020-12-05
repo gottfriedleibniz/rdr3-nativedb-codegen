@@ -8,3 +8,7 @@ ns: MISC
 void NETWORK_SET_SCRIPT_IS_SAFE_FOR_NETWORK_GAME();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

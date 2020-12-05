@@ -8,5 +8,9 @@ ns: MISC
 float ASIN(float p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

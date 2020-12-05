@@ -8,5 +8,9 @@ ns: HUD
 Any _JOURNAL_GET_GRIME_AT_INDEX(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

@@ -8,5 +8,9 @@ ns: SOCIALCLUB
 BOOL _IS_SC_INBOX_VALID(int p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

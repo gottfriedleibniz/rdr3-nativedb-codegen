@@ -8,6 +8,10 @@ ns: WEAPON
 void REMOVE_WEAPON_FROM_PED(Ped ped, Hash weaponHash, BOOL p2, Hash p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **weaponHash**:

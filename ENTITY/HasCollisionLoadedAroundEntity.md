@@ -8,5 +8,9 @@ ns: ENTITY
 BOOL HAS_COLLISION_LOADED_AROUND_ENTITY(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

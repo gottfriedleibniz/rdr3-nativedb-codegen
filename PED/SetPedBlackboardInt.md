@@ -9,6 +9,10 @@ aliases: ["0x5F53010C4C3F6BAF"]
 void _SET_PED_BLACKBOARD_INT(Ped ped, char* variableName, int value, int p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **variableName**:

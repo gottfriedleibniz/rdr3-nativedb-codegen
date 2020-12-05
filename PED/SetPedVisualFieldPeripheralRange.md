@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_VISUAL_FIELD_PERIPHERAL_RANGE(Ped ped, float range);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **range**:

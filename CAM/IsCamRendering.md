@@ -8,5 +8,9 @@ ns: CAM
 BOOL IS_CAM_RENDERING(Cam cam);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **cam**:

@@ -8,5 +8,9 @@ ns: NETWORK
 int UGC_REQUEST_CACHED_DESCRIPTION(int p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

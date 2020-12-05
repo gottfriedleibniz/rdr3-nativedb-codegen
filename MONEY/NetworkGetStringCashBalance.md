@@ -9,3 +9,7 @@ aliases: ["0x282D36FF103D78DF"]
 char* _NETWORK_GET_STRING_CASH_BALANCE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

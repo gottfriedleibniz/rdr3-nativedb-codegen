@@ -8,5 +8,9 @@ ns: MINIGAME
 Any _DOMINOES_REQUEST_VALID_PLACEMENTS(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

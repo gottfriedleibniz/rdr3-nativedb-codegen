@@ -8,3 +8,7 @@ ns: STREAMING
 void REMOVE_PTFX_ASSET();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -9,6 +9,10 @@ aliases: ["_PROMPT_SET_VISIBLE"]
 void _UIPROMPT_SET_VISIBLE(int prompt, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **toggle**:

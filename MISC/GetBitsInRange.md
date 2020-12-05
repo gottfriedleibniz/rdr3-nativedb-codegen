@@ -8,6 +8,10 @@ ns: MISC
 int GET_BITS_IN_RANGE(int var, int rangeStart, int rangeEnd);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **var**:
 * **rangeStart**:

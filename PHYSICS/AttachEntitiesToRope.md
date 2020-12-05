@@ -10,6 +10,8 @@ void ATTACH_ENTITIES_TO_ROPE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any
 
 ```
 Attaches entity 1 to entity 2.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

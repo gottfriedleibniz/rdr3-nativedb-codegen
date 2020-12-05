@@ -8,6 +8,10 @@ ns: PED
 Vector3 GET_DEAD_PED_PICKUP_COORDS(Ped ped, float p1, float p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

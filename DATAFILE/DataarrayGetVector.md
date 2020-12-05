@@ -9,6 +9,10 @@ aliases: ["_ARRAY_VALUE_GET_VECTOR3"]
 Vector3 DATAARRAY_GET_VECTOR(Any* arrayData, int arrayIndex);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **arrayData**:
 * **arrayIndex**:

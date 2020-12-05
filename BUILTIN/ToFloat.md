@@ -8,5 +8,9 @@ ns: BUILTIN
 float TO_FLOAT(int value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **value**:

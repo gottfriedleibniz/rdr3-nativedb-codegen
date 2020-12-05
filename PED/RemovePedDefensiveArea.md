@@ -10,6 +10,8 @@ void REMOVE_PED_DEFENSIVE_AREA(Ped ped, BOOL toggle);
 
 ```
 Ped will no longer get angry when you stay near him.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -8,3 +8,7 @@ ns: UIFEED
 void _0x6035E8FBCA32AC5E();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

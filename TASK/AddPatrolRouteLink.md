@@ -8,6 +8,10 @@ ns: TASK
 void ADD_PATROL_ROUTE_LINK(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

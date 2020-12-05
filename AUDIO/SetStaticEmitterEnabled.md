@@ -8,6 +8,10 @@ ns: AUDIO
 void SET_STATIC_EMITTER_ENABLED(char* emitterName, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **emitterName**:
 * **toggle**:

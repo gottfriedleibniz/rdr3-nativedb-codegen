@@ -9,3 +9,7 @@ aliases: ["_PROMPT_REGISTER_BEGIN"]
 int _UIPROMPT_REGISTER_BEGIN();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

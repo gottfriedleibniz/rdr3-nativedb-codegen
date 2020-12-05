@@ -14,6 +14,8 @@ If toggle is set to false:
 
 If toggle is set to true:
  The police will be shown on the (mini)map
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

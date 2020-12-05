@@ -10,6 +10,8 @@ BOOL NETWORK_IS_PENDING_FRIEND(Any* networkHandle);
 
 ```
 Hardcoded to return false.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

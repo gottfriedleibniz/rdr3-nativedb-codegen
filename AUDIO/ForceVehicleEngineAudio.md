@@ -8,6 +8,10 @@ ns: AUDIO
 void _FORCE_VEHICLE_ENGINE_AUDIO(Vehicle vehicle, char* audioName);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **audioName**:

@@ -8,5 +8,9 @@ ns: TASK
 void UNCUFF_PED(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

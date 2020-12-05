@@ -8,6 +8,10 @@ ns: PED
 BOOL IS_PED_BEING_STUNNED(Ped ped, int p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

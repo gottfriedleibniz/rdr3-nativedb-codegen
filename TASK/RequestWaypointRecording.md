@@ -8,5 +8,9 @@ ns: TASK
 void REQUEST_WAYPOINT_RECORDING(char* name);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **name**:

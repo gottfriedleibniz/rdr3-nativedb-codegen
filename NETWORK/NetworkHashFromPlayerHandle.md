@@ -8,5 +8,9 @@ ns: NETWORK
 Hash NETWORK_HASH_FROM_PLAYER_HANDLE(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

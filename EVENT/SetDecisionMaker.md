@@ -8,6 +8,10 @@ ns: EVENT
 void SET_DECISION_MAKER(Ped ped, Hash name);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **name**:

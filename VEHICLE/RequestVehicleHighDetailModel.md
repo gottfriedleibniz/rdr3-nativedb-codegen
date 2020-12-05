@@ -8,5 +8,9 @@ ns: VEHICLE
 void REQUEST_VEHICLE_HIGH_DETAIL_MODEL(Vehicle vehicle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:

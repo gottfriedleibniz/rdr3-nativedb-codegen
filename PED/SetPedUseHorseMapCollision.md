@@ -10,6 +10,8 @@ Any _SET_PED_USE_HORSE_MAP_COLLISION(Ped ped, BOOL toggle);
 
 ```
 Doesn't actually return anything.
+
+NativeDB Introduced: v1232
 ```
 
 ## Parameters

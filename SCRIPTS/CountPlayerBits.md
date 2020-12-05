@@ -9,5 +9,9 @@ aliases: ["0x462C687BEA254BD9"]
 int COUNT_PLAYER_BITS(Any* value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **value**:

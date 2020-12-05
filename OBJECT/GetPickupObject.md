@@ -8,5 +8,9 @@ ns: OBJECT
 Object GET_PICKUP_OBJECT(Pickup pickup);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **pickup**:

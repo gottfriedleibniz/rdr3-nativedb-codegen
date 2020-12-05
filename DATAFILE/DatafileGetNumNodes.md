@@ -8,5 +8,9 @@ ns: DATAFILE
 Any _DATAFILE_GET_NUM_NODES(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

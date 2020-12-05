@@ -8,6 +8,10 @@ ns: ENTITY
 void FREEZE_ENTITY_POSITION(Entity entity, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **toggle**:

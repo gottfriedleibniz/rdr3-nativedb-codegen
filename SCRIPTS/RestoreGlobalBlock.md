@@ -9,5 +9,9 @@ aliases: ["0xDC3914A99B4A5FDF"]
 BOOL _RESTORE_GLOBAL_BLOCK(int index);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **index**:

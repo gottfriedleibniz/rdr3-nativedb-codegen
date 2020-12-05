@@ -8,6 +8,10 @@ ns: COMPENDIUM
 void COMPENDIUM_ANIMAL_OBSERVED_BY_STAT_NAME(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

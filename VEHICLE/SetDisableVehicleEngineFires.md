@@ -8,6 +8,10 @@ ns: VEHICLE
 void SET_DISABLE_VEHICLE_ENGINE_FIRES(Vehicle vehicle, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **p1**:

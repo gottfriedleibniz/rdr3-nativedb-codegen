@@ -11,6 +11,8 @@ void SET_ENTITY_ALPHA(Entity entity, int alphaLevel, BOOL skin);
 ```
 skin - everything alpha except skin
 Set entity alpha level. Ranging from 0 to 255 but chnages occur after every 20 percent (after every 51).
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

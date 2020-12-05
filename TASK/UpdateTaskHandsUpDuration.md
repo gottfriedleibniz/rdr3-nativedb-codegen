@@ -8,6 +8,10 @@ ns: TASK
 void UPDATE_TASK_HANDS_UP_DURATION(Ped ped, int duration);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **duration**:

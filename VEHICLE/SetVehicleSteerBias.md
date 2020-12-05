@@ -17,6 +17,8 @@ Steer bias:
 -1.0 = full right
 0.0 = centered steering
 1.0 = full left
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

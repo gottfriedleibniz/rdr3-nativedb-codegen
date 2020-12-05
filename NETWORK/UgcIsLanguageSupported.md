@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL UGC_IS_LANGUAGE_SUPPORTED(int languageId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **languageId**:

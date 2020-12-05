@@ -8,5 +8,9 @@ ns: OBJECT
 float GET_RAYFIRE_MAP_OBJECT_ANIM_PHASE(Object object);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **object**:

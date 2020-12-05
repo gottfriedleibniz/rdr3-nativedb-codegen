@@ -8,6 +8,10 @@ ns: TASK
 void TASK_LEAVE_VEHICLE(Ped ped, Vehicle vehicle, int flags, Ped unkPed);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **vehicle**:

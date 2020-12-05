@@ -8,5 +8,9 @@ ns: BUILTIN
 void SETTIMERB(int value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **value**:

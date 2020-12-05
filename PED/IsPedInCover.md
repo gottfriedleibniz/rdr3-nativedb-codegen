@@ -8,6 +8,10 @@ ns: PED
 BOOL IS_PED_IN_COVER(Ped ped, BOOL p1, BOOL p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

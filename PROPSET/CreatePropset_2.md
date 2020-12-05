@@ -11,6 +11,8 @@ int _CREATE_PROPSET_2(Hash hash, float x, float y, float z, int p4, float p5, fl
 
 ```
 Same as _CREATE_PROPSET
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

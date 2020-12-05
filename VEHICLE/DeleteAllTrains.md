@@ -8,3 +8,7 @@ ns: VEHICLE
 void DELETE_ALL_TRAINS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

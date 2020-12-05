@@ -8,3 +8,7 @@ ns: MISC
 float GET_FRAME_TIME();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

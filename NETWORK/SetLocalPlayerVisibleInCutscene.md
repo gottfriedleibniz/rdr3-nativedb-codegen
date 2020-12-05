@@ -8,6 +8,10 @@ ns: NETWORK
 void SET_LOCAL_PLAYER_VISIBLE_IN_CUTSCENE(Any p0, Any p1, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

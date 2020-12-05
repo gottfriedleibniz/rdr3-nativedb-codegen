@@ -8,5 +8,9 @@ ns: HUD
 Any _JOURNAL_CAN_WRITE_ENTRY(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

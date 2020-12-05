@@ -9,3 +9,7 @@ aliases: ["_GET_TOTAL_SC_INBOX_IDS"]
 int SC_INBOX_GET_TOTAL_NUM_MESSAGES();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

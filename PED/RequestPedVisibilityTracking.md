@@ -8,5 +8,9 @@ ns: PED
 void REQUEST_PED_VISIBILITY_TRACKING(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

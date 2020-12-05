@@ -8,6 +8,10 @@ ns: TASK
 void STOP_ANIM_TASK(Ped ped, char* animDictionary, char* animationName, float p3);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **animDictionary**:

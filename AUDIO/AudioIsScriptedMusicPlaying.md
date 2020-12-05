@@ -8,3 +8,7 @@ ns: AUDIO
 BOOL AUDIO_IS_SCRIPTED_MUSIC_PLAYING();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

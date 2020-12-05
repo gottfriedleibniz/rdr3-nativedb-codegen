@@ -10,6 +10,8 @@ void RESET_PARTICLE_FX_OVERRIDE(char* name);
 
 ```
 Resets the effect of SET_PARTICLE_FX_OVERRIDE
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

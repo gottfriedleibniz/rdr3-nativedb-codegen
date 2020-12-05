@@ -8,6 +8,10 @@ ns: AUDIO
 void SET_AMBIENT_VOICE_NAME(Ped ped, char* name);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **name**:

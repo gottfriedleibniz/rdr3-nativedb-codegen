@@ -10,6 +10,8 @@ int GET_INTERIOR_AT_COORDS_WITH_TYPEHASH(float x, float y, float z, Hash typeHas
 
 ```
 Hashed version of GET_INTERIOR_AT_COORDS_WITH_TYPE
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

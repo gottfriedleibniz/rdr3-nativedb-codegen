@@ -8,5 +8,9 @@ ns: PLAYER
 Ped GET_PLAYER_PED(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

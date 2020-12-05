@@ -8,6 +8,10 @@ ns: ENTITY
 void DETACH_ENTITY(Entity entity, BOOL p1, BOOL collision);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **p1**:

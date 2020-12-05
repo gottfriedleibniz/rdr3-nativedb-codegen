@@ -12,5 +12,7 @@ Player PLAYER_ID();
 This returns YOUR 'identity' as a Player type.
 
 Always returns 0 in story mode.
+
+NativeDB Introduced: v1207
 ```
 

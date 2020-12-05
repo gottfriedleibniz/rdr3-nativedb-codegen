@@ -8,5 +8,9 @@ ns: CAM
 float GET_CAM_FOV(Cam cam);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **cam**:

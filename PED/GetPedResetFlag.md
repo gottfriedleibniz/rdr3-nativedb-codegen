@@ -8,6 +8,10 @@ ns: PED
 BOOL GET_PED_RESET_FLAG(Ped ped, int flagId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **flagId**:

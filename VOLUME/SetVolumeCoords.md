@@ -9,6 +9,10 @@ aliases: ["0x541B8576615C33DE"]
 BOOL _SET_VOLUME_COORDS(int volume, float posX, float posY, float posZ);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **volume**:
 * **posX**:

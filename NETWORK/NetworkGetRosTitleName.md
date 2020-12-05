@@ -11,5 +11,7 @@ char* _NETWORK_GET_ROS_TITLE_NAME();
 
 ```
 Returns CGameConfig->ConfigOnlineServices->RosTitleName (see gameconfig.xml)
+
+NativeDB Introduced: v1207
 ```
 

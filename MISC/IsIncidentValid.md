@@ -8,5 +8,9 @@ ns: MISC
 BOOL IS_INCIDENT_VALID(int incidentId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **incidentId**:

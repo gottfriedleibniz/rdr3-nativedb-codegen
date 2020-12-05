@@ -8,6 +8,10 @@ ns: MAP
 void SET_BLIP_SPRITE(Blip blip, Hash hash, BOOL p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **blip**:
 * **hash**:

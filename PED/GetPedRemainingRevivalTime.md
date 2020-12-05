@@ -16,6 +16,8 @@ normalized / non normalized
 -1.0                        DEAD
 
 Returns some value from AI task 562 (unknown).
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

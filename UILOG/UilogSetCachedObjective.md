@@ -9,5 +9,9 @@ aliases: ["_LOG_SET_CACHED_OBJECTIVE"]
 void _UILOG_SET_CACHED_OBJECTIVE(char* p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

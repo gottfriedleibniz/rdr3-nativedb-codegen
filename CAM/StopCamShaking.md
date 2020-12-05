@@ -8,6 +8,10 @@ ns: CAM
 void STOP_CAM_SHAKING(Cam cam, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **cam**:
 * **p1**:

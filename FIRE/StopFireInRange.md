@@ -8,6 +8,10 @@ ns: FIRE
 void STOP_FIRE_IN_RANGE(float x, float y, float z, float radius);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x**:
 * **y**:

@@ -8,3 +8,7 @@ ns: CAM
 void _0x16E9ABDD34DDD931();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

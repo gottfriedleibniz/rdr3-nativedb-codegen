@@ -8,5 +8,9 @@ ns: MAP
 void ALLOW_SONAR_BLIPS(BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **toggle**:

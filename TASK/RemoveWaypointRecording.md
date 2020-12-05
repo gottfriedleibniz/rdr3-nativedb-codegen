@@ -8,5 +8,9 @@ ns: TASK
 void REMOVE_WAYPOINT_RECORDING(char* name);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **name**:

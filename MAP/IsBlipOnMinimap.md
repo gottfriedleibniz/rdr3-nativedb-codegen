@@ -8,5 +8,9 @@ ns: MAP
 BOOL IS_BLIP_ON_MINIMAP(Blip blip);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **blip**:

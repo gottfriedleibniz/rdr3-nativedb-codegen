@@ -10,6 +10,8 @@ int OBJ_TO_NET(Object object);
 
 ```
 Returns the network ID of the given object.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

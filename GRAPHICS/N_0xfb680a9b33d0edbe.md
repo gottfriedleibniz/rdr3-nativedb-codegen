@@ -8,5 +8,9 @@ ns: GRAPHICS
 void _0xFB680A9B33D0EDBE(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

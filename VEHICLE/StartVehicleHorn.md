@@ -16,6 +16,8 @@ mode: The hash of "NORMAL" or "HELDDOWN". Can be 0.
 duration: The duration to sound the horn, in milliseconds.
 
 Note: If a player is in the vehicle, it will only sound briefly.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

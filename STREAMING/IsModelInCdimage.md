@@ -10,6 +10,8 @@ BOOL IS_MODEL_IN_CDIMAGE(Hash model);
 
 ```
 Returns whether the specified model exists in the game.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

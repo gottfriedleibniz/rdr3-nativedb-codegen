@@ -12,6 +12,8 @@ void TASK_GO_TO_ENTITY_WHILE_AIMING_AT_ENTITY(Ped ped, Any p1, Any p2, Any p3, A
 shootatEntity:
 If true, peds will shoot at Entity till it is dead.
 If false, peds will just walk till they reach the entity and will cease shooting.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

@@ -8,6 +8,10 @@ ns: MAP
 void SET_BLIP_SCALE(Blip blip, float scale);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **blip**:
 * **scale**:

@@ -10,6 +10,8 @@ void SET_CAM_ROT(Cam cam, float rotX, float rotY, float rotZ, int rotationOrder)
 
 ```
 Sets the rotation of the cam.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

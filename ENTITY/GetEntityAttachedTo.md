@@ -8,5 +8,9 @@ ns: ENTITY
 Entity GET_ENTITY_ATTACHED_TO(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

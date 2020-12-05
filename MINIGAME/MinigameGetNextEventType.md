@@ -8,3 +8,7 @@ ns: MINIGAME
 Any _MINIGAME_GET_NEXT_EVENT_TYPE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,5 +8,9 @@ ns: OBJECT
 void DETACH_PORTABLE_PICKUP_FROM_PED(Object pickupObject);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **pickupObject**:

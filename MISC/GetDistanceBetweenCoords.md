@@ -12,6 +12,8 @@ float GET_DISTANCE_BETWEEN_COORDS(float x1, float y1, float z1, float x2, float 
 If useZ is false, only the 2D plane (X-Y) will be considered for calculating the distance.
 
 Consider using this faster native instead: SYSTEM::VDIST - DVIST always takes in consideration the 3D coordinates.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

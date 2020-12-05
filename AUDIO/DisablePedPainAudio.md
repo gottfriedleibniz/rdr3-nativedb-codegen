@@ -8,6 +8,10 @@ ns: AUDIO
 void DISABLE_PED_PAIN_AUDIO(Ped ped, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **toggle**:

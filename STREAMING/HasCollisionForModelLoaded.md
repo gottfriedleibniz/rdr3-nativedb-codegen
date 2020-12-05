@@ -8,5 +8,9 @@ ns: STREAMING
 BOOL HAS_COLLISION_FOR_MODEL_LOADED(Hash model);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **model**:

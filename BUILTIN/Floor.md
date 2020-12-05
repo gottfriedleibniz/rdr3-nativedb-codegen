@@ -8,5 +8,9 @@ ns: BUILTIN
 int FLOOR(float value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **value**:

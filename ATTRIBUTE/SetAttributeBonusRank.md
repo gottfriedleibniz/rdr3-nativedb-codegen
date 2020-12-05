@@ -8,6 +8,10 @@ ns: ATTRIBUTE
 void SET_ATTRIBUTE_BONUS_RANK(Ped ped, int attributeIndex, int p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **attributeIndex**:

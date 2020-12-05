@@ -8,5 +8,9 @@ ns: COMPENDIUM
 Any COMPENDIUM_GET_SHORT_DESCRIPTION_FROM_PED(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

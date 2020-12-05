@@ -8,3 +8,7 @@ ns: VEHICLE
 Vehicle GET_LAST_DRIVEN_VEHICLE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,6 +8,10 @@ ns: TASK
 void TASK_PERFORM_SEQUENCE(Ped ped, int taskSequenceId);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **taskSequenceId**:

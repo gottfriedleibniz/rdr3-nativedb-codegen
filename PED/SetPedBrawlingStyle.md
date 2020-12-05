@@ -11,6 +11,8 @@ void _SET_PED_BRAWLING_STYLE(Ped ped, Hash brawlingStyle);
 
 ```
 brawlingStyle: https://alloc8or.re/rdr3/doc/enums/eBrawlingStyle.txt
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

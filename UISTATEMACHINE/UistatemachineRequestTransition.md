@@ -9,6 +9,10 @@ aliases: ["_STATE_MACHINE_REQUEST_TRANSITION"]
 Any _UISTATEMACHINE_REQUEST_TRANSITION(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

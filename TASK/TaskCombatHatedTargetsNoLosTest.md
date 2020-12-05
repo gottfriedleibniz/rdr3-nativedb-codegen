@@ -8,6 +8,10 @@ ns: TASK
 void TASK_COMBAT_HATED_TARGETS_NO_LOS_TEST(Ped ped, float radius);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **radius**:

@@ -8,6 +8,10 @@ ns: UIEVENTS
 BOOL _EVENT_MANAGER_GET_EVENT(Hash hash, Any* eventData);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **hash**:
 * **eventData**:

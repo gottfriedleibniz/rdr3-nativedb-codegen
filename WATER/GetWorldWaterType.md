@@ -9,3 +9,7 @@ aliases: ["0x189739A7631C1867"]
 int _GET_WORLD_WATER_TYPE();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

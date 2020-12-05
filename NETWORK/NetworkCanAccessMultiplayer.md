@@ -8,5 +8,9 @@ ns: NETWORK
 BOOL NETWORK_CAN_ACCESS_MULTIPLAYER(int* loadingState);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **loadingState**:

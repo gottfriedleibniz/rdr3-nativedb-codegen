@@ -8,5 +8,9 @@ ns: CREW
 void NETWORK_CLAN_RELEASE_EMBLEM(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

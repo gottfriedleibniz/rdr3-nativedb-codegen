@@ -8,5 +8,9 @@ ns: PLAYER
 int GET_PLAYER_WANTED_LEVEL(Player player);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:

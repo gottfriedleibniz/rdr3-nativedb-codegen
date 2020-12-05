@@ -9,6 +9,10 @@ aliases: ["_CREATE_VEHICLE_2"]
 Vehicle _CREATE_DRAFT_VEHICLE(Hash modelHash, float x, float y, float z, float heading, BOOL isNetwork, BOOL netMissionEntity, BOOL p7, int numHorses, BOOL p9);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **modelHash**:
 * **x**:

@@ -9,6 +9,10 @@ aliases: ["0x9609DBDDE18FAD8C"]
 int _CREATE_PROPSET_3(Hash hash, float x, float y, float z, Entity entity, float p5, BOOL p6, int p7, BOOL p8);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **hash**:
 * **x**:

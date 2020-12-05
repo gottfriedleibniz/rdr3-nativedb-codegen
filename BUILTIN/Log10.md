@@ -8,5 +8,9 @@ ns: BUILTIN
 float _LOG10(float value);
 ```
 
+```
+NativeDB Introduced: v1232
+```
+
 ## Parameters
 * **value**:

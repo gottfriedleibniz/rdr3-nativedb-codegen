@@ -8,3 +8,7 @@ ns: STREAMING
 void CLEAR_FOCUS();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,5 +8,9 @@ ns: PED
 int GET_SEAT_PED_IS_TRYING_TO_ENTER(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

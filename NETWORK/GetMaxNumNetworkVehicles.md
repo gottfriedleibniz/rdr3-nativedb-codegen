@@ -10,5 +10,7 @@ int GET_MAX_NUM_NETWORK_VEHICLES();
 
 ```
 Always returns 40
+
+NativeDB Introduced: v1207
 ```
 

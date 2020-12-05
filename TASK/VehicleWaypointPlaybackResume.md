@@ -8,5 +8,9 @@ ns: TASK
 void VEHICLE_WAYPOINT_PLAYBACK_RESUME(Vehicle vehicle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:

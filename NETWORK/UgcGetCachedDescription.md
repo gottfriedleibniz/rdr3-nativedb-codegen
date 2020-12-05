@@ -8,6 +8,10 @@ ns: NETWORK
 char* UGC_GET_CACHED_DESCRIPTION(int p0, int length);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **length**:

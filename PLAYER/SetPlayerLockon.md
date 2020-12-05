@@ -8,6 +8,10 @@ ns: PLAYER
 void SET_PLAYER_LOCKON(Player player, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **player**:
 * **toggle**:

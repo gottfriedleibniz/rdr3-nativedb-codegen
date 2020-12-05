@@ -9,6 +9,10 @@ aliases: ["_PROMPT_REMOVE_GROUP"]
 void _UIPROMPT_REMOVE_GROUP(int prompt, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **prompt**:
 * **p1**:

@@ -8,6 +8,10 @@ ns: AITRANSPORT
 Any _0xFFEC4B0A1A3ED515(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

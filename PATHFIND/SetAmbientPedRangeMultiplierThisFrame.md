@@ -8,5 +8,9 @@ ns: PATHFIND
 void SET_AMBIENT_PED_RANGE_MULTIPLIER_THIS_FRAME(float multiplier);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **multiplier**:

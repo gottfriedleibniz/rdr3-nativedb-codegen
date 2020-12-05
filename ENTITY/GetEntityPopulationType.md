@@ -8,5 +8,9 @@ ns: ENTITY
 int GET_ENTITY_POPULATION_TYPE(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

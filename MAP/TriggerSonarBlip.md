@@ -8,6 +8,10 @@ ns: MAP
 void TRIGGER_SONAR_BLIP(Hash typeHash, float x, float y, float z);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **typeHash**:
 * **x**:

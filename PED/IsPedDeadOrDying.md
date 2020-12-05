@@ -8,6 +8,10 @@ ns: PED
 BOOL IS_PED_DEAD_OR_DYING(Ped ped, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **p1**:

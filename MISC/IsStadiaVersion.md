@@ -11,5 +11,7 @@ BOOL _IS_STADIA_VERSION();
 
 ```
 Hardcoded to return false.
+
+NativeDB Introduced: v1207
 ```
 

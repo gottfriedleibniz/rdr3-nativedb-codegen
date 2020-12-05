@@ -9,5 +9,9 @@ aliases: ["0x772A1969F649E902"]
 BOOL _IS_THIS_MODEL_A_HORSE(Hash model);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **model**:

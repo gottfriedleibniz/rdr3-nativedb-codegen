@@ -10,6 +10,8 @@ float VMAG2(float x, float y, float z);
 
 ```
 Calculates the magnitude of a vector but does not perform Sqrt operations. (Its way faster)
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

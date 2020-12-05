@@ -8,6 +8,10 @@ ns: BUILTIN
 int SHIFT_RIGHT(int value, int bitShift);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **value**:
 * **bitShift**:

@@ -8,3 +8,7 @@ ns: MISC
 int _GET_SYSTEM_TIME();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

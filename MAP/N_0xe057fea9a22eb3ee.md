@@ -8,5 +8,9 @@ ns: MAP
 void _0xE057FEA9A22EB3EE(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

@@ -8,5 +8,9 @@ ns: PED
 void REMOVE_PED_FROM_GROUP(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

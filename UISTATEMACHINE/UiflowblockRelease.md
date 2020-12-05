@@ -9,5 +9,9 @@ aliases: ["_RELEASE_FLOW_BLOCK"]
 void _UIFLOWBLOCK_RELEASE(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

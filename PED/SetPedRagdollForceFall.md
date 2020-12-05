@@ -8,5 +8,9 @@ ns: PED
 void SET_PED_RAGDOLL_FORCE_FALL(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

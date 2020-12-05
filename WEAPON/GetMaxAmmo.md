@@ -8,6 +8,10 @@ ns: WEAPON
 BOOL GET_MAX_AMMO(Ped ped, int* ammo, Hash weaponHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **ammo**:

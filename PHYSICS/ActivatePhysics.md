@@ -8,5 +8,9 @@ ns: PHYSICS
 void ACTIVATE_PHYSICS(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

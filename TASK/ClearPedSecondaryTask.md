@@ -8,5 +8,9 @@ ns: TASK
 void CLEAR_PED_SECONDARY_TASK(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

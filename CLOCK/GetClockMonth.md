@@ -8,3 +8,7 @@ ns: CLOCK
 int GET_CLOCK_MONTH();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

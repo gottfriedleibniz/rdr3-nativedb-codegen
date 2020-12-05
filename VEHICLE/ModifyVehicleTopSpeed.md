@@ -8,6 +8,10 @@ ns: VEHICLE
 void MODIFY_VEHICLE_TOP_SPEED(Vehicle vehicle, float value);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **value**:

@@ -8,5 +8,9 @@ ns: MISC
 void SET_WIND_SPEED(float speed);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **speed**:

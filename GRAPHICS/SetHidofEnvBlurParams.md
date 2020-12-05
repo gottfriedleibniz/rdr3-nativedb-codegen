@@ -8,6 +8,10 @@ ns: GRAPHICS
 void _SET_HIDOF_ENV_BLUR_PARAMS(BOOL p0, BOOL p1, float p2, float p3, float p4, float p5);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

@@ -10,6 +10,8 @@ void CREATE_MODEL_SWAP(float x, float y, float z, float radius, Hash originalMod
 
 ```
 Only works with objects!
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

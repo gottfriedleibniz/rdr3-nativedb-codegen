@@ -8,6 +8,10 @@ ns: SCRIPTS
 BOOL IS_THREAD_ACTIVE(int threadId, BOOL p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **threadId**:
 * **p1**:

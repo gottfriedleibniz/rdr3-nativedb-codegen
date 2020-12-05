@@ -8,6 +8,10 @@ ns: CAM
 void SHAKE_GAMEPLAY_CAM(char* shakeName, float intensity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **shakeName**:
 * **intensity**:

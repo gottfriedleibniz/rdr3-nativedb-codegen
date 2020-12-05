@@ -8,6 +8,10 @@ ns: ENTITY
 void SET_ENTITY_HEADING(Entity entity, float heading);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:
 * **heading**:

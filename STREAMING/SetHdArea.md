@@ -8,6 +8,10 @@ ns: STREAMING
 void SET_HD_AREA(float x, float y, float z, float radius);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x**:
 * **y**:

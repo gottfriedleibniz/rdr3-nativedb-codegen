@@ -9,5 +9,9 @@ aliases: ["0xD5FE956C70FF370B"]
 BOOL _GET_PED_CROUCH_MOVEMENT(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

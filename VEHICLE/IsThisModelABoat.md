@@ -8,5 +8,9 @@ ns: VEHICLE
 BOOL IS_THIS_MODEL_A_BOAT(Hash model);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **model**:

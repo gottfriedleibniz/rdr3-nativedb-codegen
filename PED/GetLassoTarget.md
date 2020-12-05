@@ -9,5 +9,9 @@ aliases: ["0xB65A4DAB460A19BD"]
 Entity _GET_LASSO_TARGET(Ped ped);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:

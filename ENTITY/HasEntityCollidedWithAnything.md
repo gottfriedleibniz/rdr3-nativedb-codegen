@@ -8,5 +8,9 @@ ns: ENTITY
 BOOL HAS_ENTITY_COLLIDED_WITH_ANYTHING(Entity entity);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **entity**:

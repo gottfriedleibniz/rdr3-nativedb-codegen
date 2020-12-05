@@ -8,6 +8,10 @@ ns: VEHICLE
 void SET_PLAYBACK_SPEED(Vehicle vehicle, float speed);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:
 * **speed**:

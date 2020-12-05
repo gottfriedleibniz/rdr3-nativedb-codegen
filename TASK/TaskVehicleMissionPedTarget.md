@@ -10,6 +10,8 @@ void TASK_VEHICLE_MISSION_PED_TARGET(Ped ped, Vehicle vehicle, Ped pedTarget, in
 
 ```
 See TASK_VEHICLE_MISSION
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

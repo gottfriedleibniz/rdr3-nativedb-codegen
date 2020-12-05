@@ -8,3 +8,7 @@ ns: AUDIO
 void _0xDAD6CD07CAA4F382();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

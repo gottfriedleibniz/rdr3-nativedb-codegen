@@ -9,5 +9,9 @@ aliases: ["0x1F7977C9101F807F"]
 BOOL _IS_AMMO_VALID(Hash ammoHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ammoHash**:

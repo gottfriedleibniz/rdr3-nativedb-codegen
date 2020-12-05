@@ -8,6 +8,10 @@ ns: ANIMSCENE
 void SET_ANIM_SCENE_RATE(int animScene, float rate);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **animScene**:
 * **rate**:

@@ -8,5 +8,9 @@ ns: PED
 void SET_AI_MELEE_WEAPON_DAMAGE_MODIFIER(float modifier);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **modifier**:

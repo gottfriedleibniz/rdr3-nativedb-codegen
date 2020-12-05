@@ -8,6 +8,10 @@ ns: PATHFIND
 void SET_PED_PATHS_IN_AREA(float x1, float y1, float z1, float x2, float y2, float z2, BOOL unknown, Any p7);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x1**:
 * **y1**:

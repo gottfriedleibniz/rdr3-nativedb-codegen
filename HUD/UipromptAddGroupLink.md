@@ -9,6 +9,10 @@ aliases: ["_PROMPT_ADD_GROUP_LINK"]
 void _UIPROMPT_ADD_GROUP_LINK(Any p0, int prompt, Any p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **prompt**:

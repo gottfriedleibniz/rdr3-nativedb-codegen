@@ -8,6 +8,10 @@ ns: MINIGAME
 Any _DOMINOES_PLACE_DOMINO(Any p0, Any p1);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **p1**:

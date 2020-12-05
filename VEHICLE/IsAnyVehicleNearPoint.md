@@ -8,6 +8,10 @@ ns: VEHICLE
 BOOL IS_ANY_VEHICLE_NEAR_POINT(float x, float y, float z, float radius);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x**:
 * **y**:

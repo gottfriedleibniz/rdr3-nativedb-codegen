@@ -9,6 +9,10 @@ aliases: ["_OBJECT_VALUE_GET_BOOLEAN"]
 BOOL DATADICT_GET_BOOL(Any* objectData, char* key);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **objectData**:
 * **key**:

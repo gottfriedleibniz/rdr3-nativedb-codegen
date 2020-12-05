@@ -8,5 +8,9 @@ ns: OBJECT
 void _FORCE_PICKUP_REGENERATE(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

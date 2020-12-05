@@ -10,6 +10,8 @@ void ENABLE_DISPATCH_SERVICE(int dispatchService, BOOL toggle);
 
 ```
 https://alloc8or.re/rdr3/doc/enums/DispatchType.txt
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

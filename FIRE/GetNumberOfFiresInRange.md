@@ -8,6 +8,10 @@ ns: FIRE
 int GET_NUMBER_OF_FIRES_IN_RANGE(float x, float y, float z, float radius);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **x**:
 * **y**:

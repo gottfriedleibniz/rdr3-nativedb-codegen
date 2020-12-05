@@ -8,6 +8,10 @@ ns: TASK
 void SET_PED_PATH_CAN_DROP_FROM_HEIGHT(Ped ped, BOOL Toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **Toggle**:

@@ -9,5 +9,9 @@ aliases: ["_REQUEST_FLOW_BLOCK"]
 Any _UIFLOWBLOCK_REQUEST(Any p0);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:

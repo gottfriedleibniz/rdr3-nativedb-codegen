@@ -8,6 +8,10 @@ ns: VEHICLE
 Vehicle CREATE_VEHICLE(Hash modelHash, float x, float y, float z, float heading, BOOL isNetwork, BOOL netMissionEntity, BOOL p7, BOOL p8);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **modelHash**:
 * **x**:

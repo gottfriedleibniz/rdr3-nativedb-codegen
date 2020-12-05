@@ -10,6 +10,8 @@ BOOL IS_PED_RELOADING(Ped ped);
 
 ```
 Returns whether the specified ped is reloading.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

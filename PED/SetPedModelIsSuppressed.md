@@ -8,6 +8,10 @@ ns: PED
 void SET_PED_MODEL_IS_SUPPRESSED(Ped ped, BOOL toggle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **ped**:
 * **toggle**:

@@ -10,6 +10,8 @@ BOOL IS_TIME_MORE_THAN(int timeA, int timeB);
 
 ```
 Subtracts the first argument from the second, then returns whether the result is negative.
+
+NativeDB Introduced: v1207
 ```
 
 ## Parameters

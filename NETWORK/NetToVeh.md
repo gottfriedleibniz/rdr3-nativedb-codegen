@@ -8,5 +8,9 @@ ns: NETWORK
 Vehicle NET_TO_VEH(int netHandle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **netHandle**:

@@ -8,6 +8,10 @@ ns: AUDIO
 void ADD_PED_TO_CONVERSATION(char* p0, Ped ped, char* p2);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **p0**:
 * **ped**:

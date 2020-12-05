@@ -8,6 +8,10 @@ ns: HUD
 char* _GET_TEXT_SUBSTRING(char* text, int position, int length);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **text**:
 * **position**:

@@ -9,3 +9,7 @@ aliases: ["0x754616EC6965D1BF"]
 void _ENABLE_WATER_COLLISION();
 ```
 
+```
+NativeDB Introduced: v1207
+```
+

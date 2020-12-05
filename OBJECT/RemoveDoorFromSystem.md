@@ -8,5 +8,9 @@ ns: OBJECT
 void REMOVE_DOOR_FROM_SYSTEM(Hash doorHash);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **doorHash**:

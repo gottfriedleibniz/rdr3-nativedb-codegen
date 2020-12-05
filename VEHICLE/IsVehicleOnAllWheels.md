@@ -8,5 +8,9 @@ ns: VEHICLE
 BOOL IS_VEHICLE_ON_ALL_WHEELS(Vehicle vehicle);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **vehicle**:

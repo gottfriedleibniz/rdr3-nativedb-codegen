@@ -8,5 +8,9 @@ ns: OBJECT
 Vector3 GET_PICKUP_COORDS(Pickup pickup);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **pickup**:

@@ -16,5 +16,7 @@ for (num3 = 0; num3 < NETWORK::0xCCD8C02D(); num3++)
         if (NETWORK::NETWORK_IS_PARTICIPANT_ACTIVE(PLAYER::0x98F3B274(num3)) != 0)
         {
             var num5 = NETWORK::NETWORK_GET_PLAYER_INDEX(PLAYER::0x98F3B274(num3));
+
+NativeDB Introduced: v1207
 ```
 

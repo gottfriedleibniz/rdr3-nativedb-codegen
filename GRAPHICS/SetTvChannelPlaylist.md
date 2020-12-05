@@ -8,6 +8,10 @@ ns: GRAPHICS
 void SET_TV_CHANNEL_PLAYLIST(int tvChannel, char* playlistName, BOOL restart);
 ```
 
+```
+NativeDB Introduced: v1207
+```
+
 ## Parameters
 * **tvChannel**:
 * **playlistName**:
