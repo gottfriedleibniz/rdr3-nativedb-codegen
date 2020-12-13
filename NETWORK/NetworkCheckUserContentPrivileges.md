@@ -1,0 +1,17 @@
+---
+ns: NETWORK
+aliases: ["0x595F028698072DD9"]
+---
+## NETWORK_CHECK_USER_CONTENT_PRIVILEGES
+
+```c
+// 0x595F028698072DD9 0xBB54AA3D
+BOOL NETWORK_CHECK_USER_CONTENT_PRIVILEGES(int p0);
+```
+
+```
+NativeDB Introduced: v1207
+```
+
+## Parameters
+* **p0**:
