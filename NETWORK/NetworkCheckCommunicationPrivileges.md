@@ -1,0 +1,17 @@
+---
+ns: NETWORK
+aliases: ["0x83F28CE49FBBFFBA"]
+---
+## NETWORK_CHECK_COMMUNICATION_PRIVILEGES
+
+```c
+// 0x83F28CE49FBBFFBA 0xA79E5B05
+BOOL NETWORK_CHECK_COMMUNICATION_PRIVILEGES(int p0);
+```
+
+```
+NativeDB Introduced: v1207
+```
+
+## Parameters
+* **p0**:

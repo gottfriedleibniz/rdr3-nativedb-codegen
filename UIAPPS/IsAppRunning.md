@@ -4,13 +4,13 @@ ns: UIAPPS
 ## _IS_APP_RUNNING
 
 ```c
-// 0x4E511D093A86AD49
-BOOL _IS_APP_RUNNING(Hash appNameHash);
+// 0xDE4A9B35D028979F
+BOOL _IS_APP_RUNNING(char* appName);
 ```
 
 ```
-NativeDB Introduced: v1207
+NativeDB Introduced: v1232
 ```
 
 ## Parameters
-* **appNameHash**:
+* **appName**:
