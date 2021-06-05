@@ -8,9 +8,9 @@ ns: PED
 BOOL IS_PED_IN_VEHICLE(Ped ped, Vehicle vehicle, BOOL atGetIn);
 ```
 
-```
 Gets a value indicating whether the specified ped is in the specified vehicle.
 
+```
 NativeDB Introduced: v1207
 ```
 

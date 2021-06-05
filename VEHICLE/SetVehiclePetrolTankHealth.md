@@ -8,9 +8,9 @@ ns: VEHICLE
 void SET_VEHICLE_PETROL_TANK_HEALTH(Vehicle vehicle, float health);
 ```
 
-```
 1000 is max health
 
+```
 NativeDB Introduced: v1207
 ```
 

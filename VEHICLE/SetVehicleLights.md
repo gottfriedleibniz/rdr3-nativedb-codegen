@@ -8,9 +8,9 @@ ns: VEHICLE
 void SET_VEHICLE_LIGHTS(Vehicle vehicle, int state);
 ```
 
-```
 Sets the vehicle's lights state.
 
+```
 NativeDB Introduced: v1207
 ```
 

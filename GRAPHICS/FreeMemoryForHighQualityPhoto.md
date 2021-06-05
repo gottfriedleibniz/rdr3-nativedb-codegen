@@ -1,0 +1,15 @@
+---
+ns: GRAPHICS
+aliases: ["0xD45547D8396F002A"]
+---
+## FREE_MEMORY_FOR_HIGH_QUALITY_PHOTO
+
+```c
+// 0xD45547D8396F002A 0x9CBA682A
+void FREE_MEMORY_FOR_HIGH_QUALITY_PHOTO();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

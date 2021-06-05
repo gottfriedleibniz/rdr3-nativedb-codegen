@@ -8,9 +8,7 @@ ns: TASK
 void TASK_VEHICLE_TEMP_ACTION(Ped driver, Vehicle vehicle, int action, int time);
 ```
 
-```
 Documentation from GTA V, might be the same in RDR:
-
 '1 - brake
 '3 - brake + reverse
 '4 - turn left 90 + braking
@@ -39,10 +37,10 @@ Documentation from GTA V, might be the same in RDR:
 '30 - performs a burnout (brake until stop + brake and accelerate)
 '31 - accelerate + handbrake
 '32 - accelerate very strong
-
 Seems to be this:
 Works on NPCs, but overrides their current task. If inside a task sequence (and not being the last task), "time" will work, otherwise the task will be performed forever until tasked with something else
 
+```
 NativeDB Introduced: v1207
 ```
 

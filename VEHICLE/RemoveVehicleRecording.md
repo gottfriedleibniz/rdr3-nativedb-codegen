@@ -8,9 +8,9 @@ ns: VEHICLE
 void REMOVE_VEHICLE_RECORDING(Any p0, Any* p1);
 ```
 
-```
 See REQUEST_VEHICLE_RECORDING
 
+```
 NativeDB Introduced: v1207
 ```
 

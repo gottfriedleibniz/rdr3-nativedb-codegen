@@ -8,7 +8,6 @@ ns: VEHICLE
 void SET_VEHICLE_DOOR_OPEN(Vehicle vehicle, int doorIndex, BOOL loose, BOOL openInstantly);
 ```
 
-```
 doorIndex:
 0 = Front Left Door
 1 = Front Right Door
@@ -19,6 +18,7 @@ doorIndex:
 6 = Back
 7 = Back2
 
+```
 NativeDB Introduced: v1207
 ```
 

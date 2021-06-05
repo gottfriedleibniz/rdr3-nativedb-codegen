@@ -8,9 +8,9 @@ ns: GRAPHICS
 void SET_CHECKPOINT_RGBA(int checkpoint, int red, int green, int blue, int alpha);
 ```
 
-```
 Sets the checkpoint color.
 
+```
 NativeDB Introduced: v1207
 ```
 

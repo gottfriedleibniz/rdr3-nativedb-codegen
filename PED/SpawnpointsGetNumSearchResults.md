@@ -1,0 +1,15 @@
+---
+ns: PED
+aliases: ["0xA635C11B8C44AFC2"]
+---
+## SPAWNPOINTS_GET_NUM_SEARCH_RESULTS
+
+```c
+// 0xA635C11B8C44AFC2 0xF46B4DC8
+int SPAWNPOINTS_GET_NUM_SEARCH_RESULTS();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

@@ -8,9 +8,9 @@ ns: WEAPON
 void SET_CURRENT_PED_WEAPON(Ped ped, Hash weaponHash, BOOL equipNow, int attachPoint, BOOL p4, BOOL p5);
 ```
 
-```
 attachPoint: https://alloc8or.re/rdr3/doc/enums/eWeaponAttachPoint.txt
 
+```
 NativeDB Introduced: v1207
 ```
 

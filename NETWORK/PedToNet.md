@@ -8,9 +8,9 @@ ns: NETWORK
 int PED_TO_NET(Ped ped);
 ```
 
-```
 Returns the network ID of the given ped.
 
+```
 NativeDB Introduced: v1207
 ```
 

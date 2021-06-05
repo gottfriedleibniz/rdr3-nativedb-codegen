@@ -1,0 +1,15 @@
+---
+ns: SCRIPTS
+aliases: ["0x9E4EF615E307FBBE"]
+---
+## IS_THREAD_EXIT_REQUESTED
+
+```c
+// 0x9E4EF615E307FBBE
+BOOL IS_THREAD_EXIT_REQUESTED();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

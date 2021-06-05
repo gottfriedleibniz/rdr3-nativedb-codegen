@@ -8,9 +8,9 @@ ns: TASK
 void TASK_FLUSH_ROUTE();
 ```
 
-```
 Clears the current point route. Call this before TASK_EXTEND_ROUTE and TASK_FOLLOW_POINT_ROUTE.
 
+```
 NativeDB Introduced: v1207
 ```
 

@@ -1,0 +1,15 @@
+---
+ns: MISC
+aliases: ["0xF236C84C6ADFCB2F"]
+---
+## _IS_MISSION_CREATOR_ACTIVE
+
+```c
+// 0xF236C84C6ADFCB2F
+BOOL _IS_MISSION_CREATOR_ACTIVE();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

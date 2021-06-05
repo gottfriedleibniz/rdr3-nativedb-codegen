@@ -8,9 +8,9 @@ ns: MAP
 Blip GET_BLIP_FROM_ENTITY(Entity entity);
 ```
 
-```
 Returns the Blip handle of given Entity.
 
+```
 NativeDB Introduced: v1207
 ```
 

@@ -1,0 +1,17 @@
+---
+ns: PLAYER
+aliases: ["0x755E08680F21EF30"]
+---
+## GET_TARGET_CHARACTER_NAME_SCRIPT_OVERRIDE_RAW_STRING
+
+```c
+// 0x755E08680F21EF30
+char* GET_TARGET_CHARACTER_NAME_SCRIPT_OVERRIDE_RAW_STRING(Ped ped);
+```
+
+```
+NativeDB Introduced: v1207
+```
+
+## Parameters
+* **ped**:

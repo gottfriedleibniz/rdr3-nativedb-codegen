@@ -1,0 +1,15 @@
+---
+ns: TELEMETRY
+aliases: ["0xE9F24081D84931B8"]
+---
+## ANALYTICS_PLAYTIME_FREEMODE_START
+
+```c
+// 0xE9F24081D84931B8
+void ANALYTICS_PLAYTIME_FREEMODE_START();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

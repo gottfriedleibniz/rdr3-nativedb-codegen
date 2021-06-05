@@ -8,6 +8,8 @@ ns: ATTRIBUTE
 void SET_ATTRIBUTE_BONUS_RANK(Ped ped, int attributeIndex, int p2);
 ```
 
+attributeIndex: https://alloc8or.re/rdr3/doc/enums/ePedAttribute.txt
+
 ```
 NativeDB Introduced: v1207
 ```

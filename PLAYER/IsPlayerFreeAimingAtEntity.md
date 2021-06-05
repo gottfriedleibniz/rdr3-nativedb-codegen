@@ -8,9 +8,9 @@ ns: PLAYER
 BOOL IS_PLAYER_FREE_AIMING_AT_ENTITY(Player player, Entity entity);
 ```
 
-```
 Gets a value indicating whether the specified player is currently aiming freely at the specified entity.
 
+```
 NativeDB Introduced: v1207
 ```
 

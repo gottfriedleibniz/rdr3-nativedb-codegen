@@ -8,12 +8,10 @@ ns: PED
 BOOL IS_TRACKED_PED_VISIBLE(Ped ped);
 ```
 
-```
 returns whether or not a ped is visible within your FOV, not this check auto's to false after a certain distance.
-
-
 Target needs to be tracked.. won't work otherwise.
 
+```
 NativeDB Introduced: v1207
 ```
 

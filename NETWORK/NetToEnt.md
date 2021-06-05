@@ -8,9 +8,9 @@ ns: NETWORK
 Entity NET_TO_ENT(int netHandle);
 ```
 
-```
 gets the entity id of a network id
 
+```
 NativeDB Introduced: v1207
 ```
 

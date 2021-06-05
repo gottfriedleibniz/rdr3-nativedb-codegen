@@ -8,6 +8,8 @@ ns: PED
 void SET_PED_FLEE_ATTRIBUTES(Ped ped, int attributeFlags, BOOL enable);
 ```
 
+attributeFlags: https://alloc8or.re/rdr3/doc/enums/eFleeAttribute.txt
+
 ```
 NativeDB Introduced: v1207
 ```

@@ -8,9 +8,9 @@ ns: VEHICLE
 Ped GET_PED_IN_VEHICLE_SEAT(Vehicle vehicle, int seatIndex);
 ```
 
-```
--1 (driver) <= index < GET_VEHICLE_MAX_NUMBER_OF_PASSENGERS(vehicle)
+seatIndex: https://alloc8or.re/rdr3/doc/enums/eVehicleSeat.txt
 
+```
 NativeDB Introduced: v1207
 ```
 

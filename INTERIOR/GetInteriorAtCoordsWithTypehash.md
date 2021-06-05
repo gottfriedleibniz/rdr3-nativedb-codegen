@@ -8,9 +8,9 @@ ns: INTERIOR
 int GET_INTERIOR_AT_COORDS_WITH_TYPEHASH(float x, float y, float z, Hash typeHash);
 ```
 
-```
 Hashed version of GET_INTERIOR_AT_COORDS_WITH_TYPE
 
+```
 NativeDB Introduced: v1207
 ```
 

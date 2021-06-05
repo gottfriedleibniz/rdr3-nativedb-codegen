@@ -6,8 +6,10 @@ aliases: ["0xB190BCA3F4042F95"]
 
 ```c
 // 0xB190BCA3F4042F95
-void _ADD_AMMO_TO_PED(Ped ped, Hash weaponHash, int amount, Hash reason);
+void _ADD_AMMO_TO_PED(Ped ped, Hash weaponHash, int amount, Hash addReason);
 ```
+
+addReason: https://alloc8or.re/rdr3/doc/enums/eAddItemReason.txt
 
 ```
 NativeDB Introduced: v1207
@@ -17,4 +19,4 @@ NativeDB Introduced: v1207
 * **ped**:
 * **weaponHash**:
 * **amount**:
-* **reason**:
+* **addReason**:

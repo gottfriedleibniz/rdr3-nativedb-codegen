@@ -8,9 +8,9 @@ ns: PLAYER
 void SET_PLAYER_CAN_BE_HASSLED_BY_GANGS(Player player, BOOL toggle);
 ```
 
-```
 Sets whether this player can be hassled by gangs.
 
+```
 NativeDB Introduced: v1207
 ```
 

@@ -8,9 +8,9 @@ ns: DECORATOR
 BOOL DECOR_SET_BOOL(Entity entity, char* propertyName, BOOL value);
 ```
 
-```
 This function sets metadata of type bool to specified entity.
 
+```
 NativeDB Introduced: v1207
 ```
 

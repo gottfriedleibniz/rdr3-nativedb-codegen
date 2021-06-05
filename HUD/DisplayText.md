@@ -8,9 +8,9 @@ ns: HUD
 void _DISPLAY_TEXT(long text, float xPos, float yPos);
 ```
 
-```
-Note: you must use _CREATE_VAR_STRING
+Note: you must use VAR_STRING
 
+```
 NativeDB Introduced: v1207
 ```
 

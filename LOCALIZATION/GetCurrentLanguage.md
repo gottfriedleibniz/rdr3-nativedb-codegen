@@ -8,7 +8,6 @@ ns: LOCALIZATION
 int GET_CURRENT_LANGUAGE();
 ```
 
-```
 0 = american (en-US)
 1 = french (fr-FR)
 2 = german (de-DE)
@@ -23,6 +22,7 @@ int GET_CURRENT_LANGUAGE();
 11 = mexican (es-MX)
 12 = chinesesimp (zh-CN)
 
+```
 NativeDB Introduced: v1207
 ```
 

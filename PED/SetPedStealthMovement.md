@@ -8,9 +8,9 @@ ns: PED
 void SET_PED_STEALTH_MOVEMENT(Ped ped, Any p1, Any p2, Any p3);
 ```
 
-```
 Not implemented.
 
+```
 NativeDB Introduced: v1207
 ```
 

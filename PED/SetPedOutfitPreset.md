@@ -8,9 +8,9 @@ ns: PED
 void _SET_PED_OUTFIT_PRESET(Ped ped, int presetId, BOOL p2);
 ```
 
-```
 Sets the outfit preset for the ped. The presetId is an index which determines its preset outfit. p2 is always false.
 
+```
 NativeDB Introduced: v1207
 ```
 

@@ -8,9 +8,9 @@ ns: ENTITY
 void _SET_ENTITY_SOMETHING(Entity entity, BOOL toggle);
 ```
 
-```
 SET_ENTITY_*
 
+```
 NativeDB Introduced: v1207
 ```
 

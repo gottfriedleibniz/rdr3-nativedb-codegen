@@ -9,9 +9,9 @@ aliases: ["0x279B0696DA4657EB"]
 BOOL _QUEUE_SAVEGAME_OPERATION(int p0);
 ```
 
-```
 p0 must be < 2
 
+```
 NativeDB Introduced: v1207
 ```
 

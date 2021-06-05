@@ -8,9 +8,9 @@ ns: GRAPHICS
 BOOL _IS_TV_PLAYLIST_ITEM_PLAYING(Hash videoCliphash);
 ```
 
-```
 IS_*
 
+```
 NativeDB Introduced: v1207
 ```
 

@@ -8,9 +8,9 @@ ns: STREAMING
 void REMOVE_CLIP_SET(char* clipSet);
 ```
 
-```
 Alias for REMOVE_ANIM_SET.
 
+```
 NativeDB Introduced: v1207
 ```
 

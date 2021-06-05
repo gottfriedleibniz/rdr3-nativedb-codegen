@@ -1,0 +1,17 @@
+---
+ns: GRAPHICS
+aliases: ["0xC71B50AE58D07369"]
+---
+## GET_STATUS_OF_LOAD_MISSION_CREATOR_PHOTO
+
+```c
+// 0xC71B50AE58D07369 0x226B08EA
+int GET_STATUS_OF_LOAD_MISSION_CREATOR_PHOTO(Any* p0);
+```
+
+```
+NativeDB Introduced: v1207
+```
+
+## Parameters
+* **p0**:

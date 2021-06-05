@@ -8,9 +8,9 @@ ns: NETWORK
 Ped NET_TO_PED(int netHandle);
 ```
 
-```
 gets the ped id of a network id
 
+```
 NativeDB Introduced: v1207
 ```
 

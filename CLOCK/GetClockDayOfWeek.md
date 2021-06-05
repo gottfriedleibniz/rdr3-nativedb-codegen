@@ -8,9 +8,7 @@ ns: CLOCK
 int GET_CLOCK_DAY_OF_WEEK();
 ```
 
-```
 Gets the current day of the week.
-
 0: Sunday
 1: Monday
 2: Tuesday
@@ -19,6 +17,7 @@ Gets the current day of the week.
 5: Friday
 6: Saturday
 
+```
 NativeDB Introduced: v1207
 ```
 

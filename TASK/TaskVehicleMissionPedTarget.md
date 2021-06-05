@@ -8,9 +8,9 @@ ns: TASK
 void TASK_VEHICLE_MISSION_PED_TARGET(Ped ped, Vehicle vehicle, Ped pedTarget, int mode, float maxSpeed, int drivingStyle, float minDistance, float p7, BOOL DriveAgainstTraffic);
 ```
 
-```
 See TASK_VEHICLE_MISSION
 
+```
 NativeDB Introduced: v1207
 ```
 

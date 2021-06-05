@@ -5,8 +5,10 @@ ns: PED
 
 ```c
 // 0x3C606747B23E497B 0x8818A959
-void SET_PED_COMBAT_RANGE(Ped ped, int p1);
+void SET_PED_COMBAT_RANGE(Ped ped, int range);
 ```
+
+range: https://alloc8or.re/rdr3/doc/enums/eCombatRange.txt
 
 ```
 NativeDB Introduced: v1207
@@ -14,4 +16,4 @@ NativeDB Introduced: v1207
 
 ## Parameters
 * **ped**:
-* **p1**:
+* **range**:

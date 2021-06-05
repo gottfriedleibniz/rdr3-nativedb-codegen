@@ -1,0 +1,15 @@
+---
+ns: POSSE
+aliases: ["0xC088FF658B2E51DA"]
+---
+## POSSE_GET_POSSE_MEMBERSHIP_COUNT
+
+```c
+// 0xC088FF658B2E51DA
+int POSSE_GET_POSSE_MEMBERSHIP_COUNT();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

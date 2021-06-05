@@ -1,0 +1,15 @@
+---
+ns: SCRIPTS
+aliases: ["0xBE7D814CFA181B56"]
+---
+## _BG_RELOAD_ALL_BACKGROUND_SCRIPTS
+
+```c
+// 0xBE7D814CFA181B56
+void _BG_RELOAD_ALL_BACKGROUND_SCRIPTS();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

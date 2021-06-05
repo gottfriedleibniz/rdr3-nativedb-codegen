@@ -8,9 +8,9 @@ ns: OBJECT
 Object GET_CLOSEST_OBJECT_OF_TYPE(float x, float y, float z, float radius, Hash modelHash, BOOL isMission, BOOL p6, BOOL p7);
 ```
 
-```
 isMission - if true doesn't return mission objects
 
+```
 NativeDB Introduced: v1207
 ```
 

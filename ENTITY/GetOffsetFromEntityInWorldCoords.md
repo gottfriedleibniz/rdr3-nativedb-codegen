@@ -8,13 +8,12 @@ ns: ENTITY
 Vector3 GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS(Entity entity, float offsetX, float offsetY, float offsetZ);
 ```
 
-```
 Offset values are relative to the entity.
-
 x = left/right
 y = forward/backward
 z = up/down
 
+```
 NativeDB Introduced: v1207
 ```
 

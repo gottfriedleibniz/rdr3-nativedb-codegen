@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+aliases: ["0x3FE141FDB990E3D1"]
+---
+## NETWORK_ACTIVITY_RESET_TO_IDLE
+
+```c
+// 0x3FE141FDB990E3D1
+void NETWORK_ACTIVITY_RESET_TO_IDLE();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

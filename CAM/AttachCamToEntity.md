@@ -8,9 +8,9 @@ ns: CAM
 void ATTACH_CAM_TO_ENTITY(Cam cam, Entity entity, float xOffset, float yOffset, float zOffset, BOOL isRelative);
 ```
 
-```
 Last param determines if its relative to the Entity
 
+```
 NativeDB Introduced: v1207
 ```
 

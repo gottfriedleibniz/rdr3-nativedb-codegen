@@ -8,9 +8,9 @@ ns: ENTITY
 Hash GET_ENTITY_MODEL(Entity entity);
 ```
 
-```
 Returns the model hash from the entity
 
+```
 NativeDB Introduced: v1207
 ```
 

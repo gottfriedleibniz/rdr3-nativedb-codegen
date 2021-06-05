@@ -8,9 +8,9 @@ ns: AUDIO
 void PLAY_PAIN(Ped ped, int painId, float p2, BOOL p3, BOOL isNetwork);
 ```
 
-```
 Valid pain IDs: 0..12
 
+```
 NativeDB Introduced: v1207
 ```
 

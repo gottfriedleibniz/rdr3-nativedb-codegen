@@ -8,7 +8,6 @@ ns: VEHICLE
 void SET_VEHICLE_DOOR_BROKEN(Vehicle vehicle, int doorIndex, BOOL deleteDoor);
 ```
 
-```
 doorIndex:
 0 = Front Right Door
 1 = Front Left Door
@@ -17,6 +16,7 @@ doorIndex:
 4 = Hood
 5 = Trunk
 
+```
 NativeDB Introduced: v1207
 ```
 

@@ -1,0 +1,15 @@
+---
+ns: BOUNTY
+aliases: ["0x2BA1BCC99826CDA2"]
+---
+## _BOUNTY_CANCEL_LEGENDARY_MISSION
+
+```c
+// 0x2BA1BCC99826CDA2
+void _BOUNTY_CANCEL_LEGENDARY_MISSION();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

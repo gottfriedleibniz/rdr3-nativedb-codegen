@@ -5,8 +5,10 @@ ns: PED
 
 ```c
 // 0xC7622C0D36B2FDA8 0x6C23D329
-void SET_PED_COMBAT_ABILITY(Ped ped, int p1);
+void SET_PED_COMBAT_ABILITY(Ped ped, int abilityLevel);
 ```
+
+abilityLevel: https://alloc8or.re/rdr3/doc/enums/eCombatAbilityLevel.txt
 
 ```
 NativeDB Introduced: v1207
@@ -14,4 +16,4 @@ NativeDB Introduced: v1207
 
 ## Parameters
 * **ped**:
-* **p1**:
+* **abilityLevel**:

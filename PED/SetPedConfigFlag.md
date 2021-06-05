@@ -8,6 +8,8 @@ ns: PED
 void SET_PED_CONFIG_FLAG(Ped ped, int flagId, BOOL value);
 ```
 
+flagId: https://alloc8or.re/rdr3/doc/enums/ePedScriptConfigFlags.txt
+
 ```
 NativeDB Introduced: v1207
 ```

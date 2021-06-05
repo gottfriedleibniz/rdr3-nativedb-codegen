@@ -1,0 +1,15 @@
+---
+ns: GRAPHICS
+aliases: ["0x614682E715ADBAAC"]
+---
+## FREE_MEMORY_FOR_LOW_QUALITY_PHOTO
+
+```c
+// 0x614682E715ADBAAC 0x108F36CC
+void FREE_MEMORY_FOR_LOW_QUALITY_PHOTO();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

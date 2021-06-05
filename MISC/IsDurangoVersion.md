@@ -8,9 +8,9 @@ ns: MISC
 BOOL IS_DURANGO_VERSION();
 ```
 
-```
 Hardcoded to return false.
 
+```
 NativeDB Introduced: v1207
 ```
 

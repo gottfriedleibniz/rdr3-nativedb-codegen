@@ -8,9 +8,9 @@ ns: GRAPHICS
 void SET_TV_AUDIO_FRONTEND(BOOL toggle);
 ```
 
-```
 Probably changes tvs from being a 3d audio to being "global" audio
 
+```
 NativeDB Introduced: v1207
 ```
 

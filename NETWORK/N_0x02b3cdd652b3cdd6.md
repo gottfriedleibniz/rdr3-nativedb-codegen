@@ -8,11 +8,10 @@ ns: NETWORK
 int _0x02B3CDD652B3CDD6();
 ```
 
-```
 Note: this native was added in build 1311.16
-
 GET_NUM_*
 
+```
 NativeDB Introduced: v1311
 ```
 

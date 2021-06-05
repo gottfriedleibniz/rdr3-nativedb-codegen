@@ -8,10 +8,10 @@ ns: MISC
 float GET_HEADING_FROM_VECTOR_2D(float dx, float dy);
 ```
 
-```
 dx = x1 - x2
 dy = y1 - y2
 
+```
 NativeDB Introduced: v1207
 ```
 

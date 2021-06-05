@@ -1,0 +1,17 @@
+---
+ns: INVENTORY
+aliases: ["0x42A2F33A1942E865"]
+---
+## _INVENTORY_RELEASE_ITEM_COLLECTION
+
+```c
+// 0x42A2F33A1942E865
+BOOL _INVENTORY_RELEASE_ITEM_COLLECTION(int p0);
+```
+
+```
+NativeDB Introduced: v1207
+```
+
+## Parameters
+* **p0**:

@@ -8,9 +8,9 @@ ns: PED
 BOOL IS_PED_FACING_PED(Ped ped, Ped otherPed, float angle);
 ```
 
-```
 angle is ped's view cone
 
+```
 NativeDB Introduced: v1207
 ```
 

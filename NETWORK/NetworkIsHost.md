@@ -8,9 +8,9 @@ ns: NETWORK
 BOOL NETWORK_IS_HOST();
 ```
 
-```
 If you are host, returns true else returns false.
 
+```
 NativeDB Introduced: v1207
 ```
 

@@ -1,0 +1,17 @@
+---
+ns: BOUNTY
+aliases: ["0x8521C2E235558278"]
+---
+## _BOUNTY_REQUEST_POSSE_MEMBER_ESCAPED_CHARACTER_BOUNTY_HUNT
+
+```c
+// 0x8521C2E235558278
+BOOL _BOUNTY_REQUEST_POSSE_MEMBER_ESCAPED_CHARACTER_BOUNTY_HUNT(Any* outRpcGuid);
+```
+
+```
+NativeDB Introduced: v1207
+```
+
+## Parameters
+* **outRpcGuid**:

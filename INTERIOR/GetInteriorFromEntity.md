@@ -8,9 +8,9 @@ ns: INTERIOR
 int GET_INTERIOR_FROM_ENTITY(Entity entity);
 ```
 
-```
 Returns the handle of the interior that the entity is in. Returns 0 if outside.
 
+```
 NativeDB Introduced: v1207
 ```
 

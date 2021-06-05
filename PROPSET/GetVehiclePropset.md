@@ -2,11 +2,11 @@
 ns: PROPSET
 aliases: ["0xCE2ACD6F602803E5"]
 ---
-## _GET_VEHICLE_PROPSET
+## _GET_VEHICLE_PROP_SET
 
 ```c
 // 0xCE2ACD6F602803E5
-int _GET_VEHICLE_PROPSET(Vehicle vehicle);
+int _GET_VEHICLE_PROP_SET(Vehicle vehicle);
 ```
 
 ```

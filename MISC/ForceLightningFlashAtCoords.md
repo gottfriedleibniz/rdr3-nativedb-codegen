@@ -8,9 +8,9 @@ ns: MISC
 void _FORCE_LIGHTNING_FLASH_AT_COORDS(float x, float y, float z, float p3);
 ```
 
-```
 p3 is always -1.0f in the scripts
 
+```
 NativeDB Introduced: v1207
 ```
 

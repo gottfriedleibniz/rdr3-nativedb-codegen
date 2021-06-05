@@ -1,0 +1,15 @@
+---
+ns: CAM
+aliases: ["0x139EFB0A71DD9011"]
+---
+## IS_DEATH_FAIL_CAMERA_RUNNING
+
+```c
+// 0x139EFB0A71DD9011
+BOOL IS_DEATH_FAIL_CAMERA_RUNNING();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

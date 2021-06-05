@@ -8,12 +8,12 @@ ns: PED
 void SET_GROUP_FORMATION(int groupId, int formationType);
 ```
 
-```
 0: Default
 1: Circle Around Leader
 2: Alternative Circle Around Leader
 3: Line, with Leader at center
 
+```
 NativeDB Introduced: v1207
 ```
 

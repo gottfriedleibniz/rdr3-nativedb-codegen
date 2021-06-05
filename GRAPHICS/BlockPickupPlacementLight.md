@@ -6,7 +6,7 @@ aliases: ["0x0552AA3FFC5B87AA"]
 
 ```c
 // 0x0552AA3FFC5B87AA
-void BLOCK_PICKUP_PLACEMENT_LIGHT(Any p0, Any p1);
+void BLOCK_PICKUP_PLACEMENT_LIGHT(Pickup pickup, BOOL toggle);
 ```
 
 ```
@@ -14,5 +14,5 @@ NativeDB Introduced: v1207
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **pickup**:
+* **toggle**:

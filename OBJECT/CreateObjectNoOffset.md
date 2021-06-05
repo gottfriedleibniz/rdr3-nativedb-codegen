@@ -5,7 +5,7 @@ ns: OBJECT
 
 ```c
 // 0x9A294B2138ABB884 0x58040420
-Object CREATE_OBJECT_NO_OFFSET(Hash modelHash, float x, float y, float z, BOOL isNetwork, BOOL netMissionEntity, BOOL dynamic, BOOL p7);
+Object CREATE_OBJECT_NO_OFFSET(Hash modelHash, float x, float y, float z, BOOL isNetwork, BOOL bScriptHostObj, BOOL dynamic, BOOL p7);
 ```
 
 ```
@@ -18,6 +18,6 @@ NativeDB Introduced: v1207
 * **y**:
 * **z**:
 * **isNetwork**:
-* **netMissionEntity**:
+* **bScriptHostObj**:
 * **dynamic**:
 * **p7**:

@@ -8,9 +8,9 @@ ns: NETWORK
 int GET_MAX_NUM_NETWORK_PICKUPS();
 ```
 
-```
 Always returns 80
 
+```
 NativeDB Introduced: v1207
 ```
 

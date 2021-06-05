@@ -8,6 +8,8 @@ ns: PED
 BOOL GET_PED_CONFIG_FLAG(Ped ped, int flagId, BOOL p2);
 ```
 
+flagId: see SET_PED_CONFIG_FLAG
+
 ```
 NativeDB Introduced: v1207
 ```

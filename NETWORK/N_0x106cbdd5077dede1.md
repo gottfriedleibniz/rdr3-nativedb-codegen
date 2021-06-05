@@ -8,9 +8,9 @@ ns: NETWORK
 int _0x106CBDD5077DEDE1(BOOL p0);
 ```
 
-```
 Note: this native was added in build 1311.23
 
+```
 NativeDB Introduced: v1311
 ```
 

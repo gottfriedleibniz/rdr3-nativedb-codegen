@@ -8,9 +8,9 @@ ns: MAP
 void DISPLAY_RADAR(BOOL toggle);
 ```
 
-```
 If Minimap / Radar should be displayed.
 
+```
 NativeDB Introduced: v1207
 ```
 

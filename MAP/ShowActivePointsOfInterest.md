@@ -1,0 +1,15 @@
+---
+ns: MAP
+aliases: ["0x3FBB838AEA30C1D8"]
+---
+## _SHOW_ACTIVE_POINTS_OF_INTEREST
+
+```c
+// 0x3FBB838AEA30C1D8
+void _SHOW_ACTIVE_POINTS_OF_INTEREST();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

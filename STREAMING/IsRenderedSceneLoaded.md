@@ -1,0 +1,15 @@
+---
+ns: STREAMING
+aliases: ["0x45BF3A6239A576B7"]
+---
+## IS_RENDERED_SCENE_LOADED
+
+```c
+// 0x45BF3A6239A576B7
+BOOL IS_RENDERED_SCENE_LOADED();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

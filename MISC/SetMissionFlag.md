@@ -8,9 +8,9 @@ ns: MISC
 void SET_MISSION_FLAG(BOOL toggle);
 ```
 
-```
 If true, the player can't save the game.
 
+```
 NativeDB Introduced: v1207
 ```
 

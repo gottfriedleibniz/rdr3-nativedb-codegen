@@ -8,6 +8,8 @@ ns: NETWORK
 BOOL NETWORK_IS_PLAYER_IN_MP_CUTSCENE(Player player);
 ```
 
+Note: scripts seem to indicate that this was renamed to NETWORK_IS_PLAYER_IN_MP_FAST_INSTANCE
+
 ```
 NativeDB Introduced: v1207
 ```

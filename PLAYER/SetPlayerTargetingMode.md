@@ -8,12 +8,12 @@ ns: PLAYER
 void SET_PLAYER_TARGETING_MODE(int targetMode);
 ```
 
-```
 Sets your targeting mode.
 0 = Traditional GTA
 1 = Assisted Aiming
 2 = Free Aim
 
+```
 NativeDB Introduced: v1207
 ```
 

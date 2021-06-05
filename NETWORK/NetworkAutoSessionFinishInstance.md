@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+aliases: ["0xBB51299166B844F3"]
+---
+## NETWORK_AUTO_SESSION_FINISH_INSTANCE
+
+```c
+// 0xBB51299166B844F3
+void NETWORK_AUTO_SESSION_FINISH_INSTANCE();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

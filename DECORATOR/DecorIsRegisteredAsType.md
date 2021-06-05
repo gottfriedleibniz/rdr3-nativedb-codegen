@@ -8,9 +8,9 @@ ns: DECORATOR
 BOOL DECOR_IS_REGISTERED_AS_TYPE(char* propertyName, int type);
 ```
 
-```
 type: see DECOR_REGISTER
 
+```
 NativeDB Introduced: v1207
 ```
 

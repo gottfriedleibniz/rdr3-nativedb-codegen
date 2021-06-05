@@ -8,9 +8,9 @@ ns: MISC
 void DELETE_INCIDENT(int incidentId);
 ```
 
-```
 Delete an incident with a given id.
 
+```
 NativeDB Introduced: v1207
 ```
 

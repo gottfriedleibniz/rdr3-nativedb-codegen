@@ -8,11 +8,10 @@ ns: PED
 BOOL IS_PED_INJURED(Ped ped);
 ```
 
-```
 Gets a value indicating whether this ped's health is below its injured threshold.
-
 The default threshold is 100.
 
+```
 NativeDB Introduced: v1207
 ```
 

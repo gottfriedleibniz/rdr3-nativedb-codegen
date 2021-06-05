@@ -8,9 +8,9 @@ ns: MISC
 BOOL STRING_TO_INT(char* string, int* outInteger);
 ```
 
-```
 Returns false if it's a null or empty string or if the string is too long. outInteger will be set to -999 in that case.
 
+```
 NativeDB Introduced: v1207
 ```
 

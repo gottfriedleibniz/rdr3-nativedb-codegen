@@ -8,12 +8,10 @@ ns: ATTRIBUTE
 int _GET_ATTRIBUTE_CORE_VALUE(Ped ped, int coreIndex);
 ```
 
-```
-Gets the ped's core value on a scale of 0 to 100. The coreIndex is as follows:
-- health = 0,
-- stamina = 1,
-- deadeye = 2
+Gets the ped's core value on a scale of 0 to 100.
+coreIndex: https://alloc8or.re/rdr3/doc/enums/eAttributeCore.txt
 
+```
 NativeDB Introduced: v1207
 ```
 

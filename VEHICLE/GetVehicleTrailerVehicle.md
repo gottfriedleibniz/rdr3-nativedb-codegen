@@ -8,9 +8,9 @@ ns: VEHICLE
 BOOL GET_VEHICLE_TRAILER_VEHICLE(Vehicle vehicle, Vehicle* trailer);
 ```
 
-```
 Gets the trailer of a vehicle and puts it into the trailer parameter.
 
+```
 NativeDB Introduced: v1207
 ```
 

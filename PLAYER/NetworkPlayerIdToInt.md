@@ -8,9 +8,9 @@ ns: PLAYER
 int NETWORK_PLAYER_ID_TO_INT();
 ```
 
-```
 Does exactly the same thing as PLAYER_ID()
 
+```
 NativeDB Introduced: v1207
 ```
 

@@ -8,16 +8,9 @@ ns: OBJECT
 void DOOR_SYSTEM_SET_DOOR_STATE(Hash doorHash, int state);
 ```
 
-```
-Door lock states: (GTAV v323)
-0: UNLOCKED
-1: LOCKED
-2: DOORSTATE_FORCE_LOCKED_UNTIL_OUT_OF_AREA
-3: DOORSTATE_FORCE_UNLOCKED_THIS_FRAME
-4: DOORSTATE_FORCE_LOCKED_THIS_FRAME
-5: DOORSTATE_FORCE_OPEN_THIS_FRAME
-6: DOORSTATE_FORCE_CLOSED_THIS_FRAME
+Door lock states: https://alloc8or.re/rdr3/doc/enums/eDoorState.txt
 
+```
 NativeDB Introduced: v1207
 ```
 

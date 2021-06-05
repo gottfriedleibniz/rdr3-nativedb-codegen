@@ -8,9 +8,9 @@ ns: PED
 BOOL IS_PED_SHOOTING(Ped ped);
 ```
 
-```
 Returns whether the specified ped is shooting.
 
+```
 NativeDB Introduced: v1207
 ```
 

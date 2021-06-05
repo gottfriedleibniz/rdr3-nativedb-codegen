@@ -5,7 +5,7 @@ ns: NETWORK
 
 ```c
 // 0xDCA6ABDB9288FBE4
-void _0xDCA6ABDB9288FBE4(Any p0, Any p1);
+void _0xDCA6ABDB9288FBE4(Player player, BOOL toggle);
 ```
 
 ```
@@ -13,5 +13,5 @@ NativeDB Introduced: v1207
 ```
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **player**:
+* **toggle**:

@@ -8,11 +8,10 @@ ns: MAP
 void LOCK_MINIMAP_ANGLE(int angle);
 ```
 
-```
 Locks the minimap to the specified angle in integer degrees.
-
 angle: The angle in whole degrees. If less than 0 or greater than 360, unlocks the angle.
 
+```
 NativeDB Introduced: v1207
 ```
 

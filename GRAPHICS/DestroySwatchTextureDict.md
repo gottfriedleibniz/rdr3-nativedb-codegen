@@ -1,0 +1,15 @@
+---
+ns: GRAPHICS
+aliases: ["0xDAD7FB8402651654"]
+---
+## _DESTROY_SWATCH_TEXTURE_DICT
+
+```c
+// 0xDAD7FB8402651654
+void _DESTROY_SWATCH_TEXTURE_DICT();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

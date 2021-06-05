@@ -8,6 +8,8 @@ ns: VEHICLE
 BOOL CAN_SHUFFLE_SEAT(Vehicle vehicle, int seatIndex);
 ```
 
+seatIndex: https://alloc8or.re/rdr3/doc/enums/eVehicleSeat.txt
+
 ```
 NativeDB Introduced: v1207
 ```

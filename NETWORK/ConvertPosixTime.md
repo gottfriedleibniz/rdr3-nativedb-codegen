@@ -9,9 +9,7 @@ aliases: ["_GET_DATE_AND_TIME_FROM_UNIX_EPOCH"]
 void CONVERT_POSIX_TIME(int posixTime, Any* timeStructure);
 ```
 
-```
 Takes the specified time and writes it to the structure specified in the second argument.
-
 struct date_time
 {
     int year;
@@ -28,6 +26,7 @@ struct date_time
     int PADDING6;
 };
 
+```
 NativeDB Introduced: v1207
 ```
 

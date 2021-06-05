@@ -2,11 +2,11 @@
 ns: PROPSET
 aliases: ["0xB1964A83B345B4AB"]
 ---
-## _RELEASE_PROPSET
+## _RELEASE_PROP_SET
 
 ```c
 // 0xB1964A83B345B4AB
-BOOL _RELEASE_PROPSET(Hash hash);
+BOOL _RELEASE_PROP_SET(Hash hash);
 ```
 
 ```

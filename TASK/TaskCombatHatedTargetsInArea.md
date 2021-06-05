@@ -8,9 +8,9 @@ ns: TASK
 void TASK_COMBAT_HATED_TARGETS_IN_AREA(Ped ped, float x, float y, float z, float radius, int flags, Any p6);
 ```
 
-```
 Despite its name, it only attacks ONE hated target. The one closest to the specified position.
 
+```
 NativeDB Introduced: v1207
 ```
 

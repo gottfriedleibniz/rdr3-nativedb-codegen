@@ -8,9 +8,9 @@ ns: MISC
 BOOL CREATE_INCIDENT(int dispatchService, float x, float y, float z, int numUnits, float radius, int* outIncidentID, Any p7, Any p8);
 ```
 
-```
 dispatchService: see ENABLE_DISPATCH_SERVICE
 
+```
 NativeDB Introduced: v1207
 ```
 

@@ -8,13 +8,12 @@ ns: CAM
 void SET_GAMEPLAY_CAM_RELATIVE_PITCH(float x, float Value2);
 ```
 
-```
 Sets the camera pitch.
-
 Parameters:
 x = pitches the camera on the x axis.
 Value2 = always seems to be hex 0x3F800000 (1.000000 float).
 
+```
 NativeDB Introduced: v1207
 ```
 

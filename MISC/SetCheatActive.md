@@ -9,9 +9,7 @@ aliases: ["0xD4958E8CF0DE0DD0"]
 void SET_CHEAT_ACTIVE(int cheatId);
 ```
 
-```
 Cheats are GTA IV cheats:
-
 0 = unknown
 1 = unknown (same as 0)
 2 = Max Health and Armor
@@ -28,9 +26,9 @@ Cheats are GTA IV cheats:
 13 = Spawn Cognoscenti
 14 = Spawn Super GT
 15 = Spawn Sanchez
-
 Initially used in Max Payne 3, that's why we know the name.
 
+```
 NativeDB Introduced: v1207
 ```
 

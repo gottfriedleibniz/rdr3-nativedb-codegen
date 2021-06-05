@@ -8,9 +8,9 @@ ns: PED
 void DELETE_PED(Ped* ped);
 ```
 
-```
 Deletes the specified ped, then sets the handle pointed to by the pointer to NULL.
 
+```
 NativeDB Introduced: v1207
 ```
 

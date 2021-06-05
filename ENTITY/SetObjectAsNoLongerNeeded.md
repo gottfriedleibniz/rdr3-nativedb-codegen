@@ -8,9 +8,9 @@ ns: ENTITY
 void SET_OBJECT_AS_NO_LONGER_NEEDED(Object* object);
 ```
 
-```
 This is an alias of SET_ENTITY_AS_NO_LONGER_NEEDED.
 
+```
 NativeDB Introduced: v1207
 ```
 

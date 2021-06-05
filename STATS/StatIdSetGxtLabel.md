@@ -8,9 +8,9 @@ ns: STATS
 BOOL STAT_ID_SET_GXT_LABEL(Any* statId, char* label, BOOL p2);
 ```
 
-```
 statId: see 0xC48FE1971C9743FF
 
+```
 NativeDB Introduced: v1207
 ```
 

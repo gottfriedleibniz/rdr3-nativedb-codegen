@@ -2,11 +2,11 @@
 ns: PROPSET
 aliases: ["0x738271B660FE0695"]
 ---
-## _GET_ENTITIES_FROM_PROPSET
+## _GET_ENTITIES_FROM_PROP_SET
 
 ```c
 // 0x738271B660FE0695
-int _GET_ENTITIES_FROM_PROPSET(int propSet, int itemSet, Any p2, BOOL p3, BOOL p4);
+int _GET_ENTITIES_FROM_PROP_SET(int propSet, int itemSet, Any p2, BOOL p3, BOOL p4);
 ```
 
 ```

@@ -9,7 +9,6 @@ aliases: ["0x5BA7A68A346A5A91"]
 Hash _GET_WATER_MAP_ZONE_AT_COORDS(float x, float y, float z);
 ```
 
-```
 Returns the zone's name hash if its type matches one of the following:
 - LAKE
 - RIVER
@@ -20,6 +19,7 @@ Returns the zone's name hash if its type matches one of the following:
 - POND
 - GLACIER
 
+```
 NativeDB Introduced: v1207
 ```
 

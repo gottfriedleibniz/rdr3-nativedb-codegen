@@ -1,0 +1,17 @@
+---
+ns: PLAYER
+aliases: ["0x354F689C4FFAAB37"]
+---
+## GET_HAS_PLAYER_DISCOVERED_CHARACTER_NAME_MP
+
+```c
+// 0x354F689C4FFAAB37
+BOOL GET_HAS_PLAYER_DISCOVERED_CHARACTER_NAME_MP(Any p0);
+```
+
+```
+NativeDB Introduced: v1207
+```
+
+## Parameters
+* **p0**:

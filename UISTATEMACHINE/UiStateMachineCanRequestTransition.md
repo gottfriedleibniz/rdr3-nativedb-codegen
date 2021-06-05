@@ -1,0 +1,17 @@
+---
+ns: UISTATEMACHINE
+aliases: ["0xF7C180F57F85D0B8"]
+---
+## UI_STATE_MACHINE_CAN_REQUEST_TRANSITION
+
+```c
+// 0xF7C180F57F85D0B8
+Any UI_STATE_MACHINE_CAN_REQUEST_TRANSITION(Any p0);
+```
+
+```
+NativeDB Introduced: v1207
+```
+
+## Parameters
+* **p0**:

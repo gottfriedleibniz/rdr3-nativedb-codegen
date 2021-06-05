@@ -8,7 +8,6 @@ ns: VEHICLE
 BOOL IS_VEHICLE_DOOR_FULLY_OPEN(Vehicle vehicle, int doorIndex);
 ```
 
-```
 doorIndex:
 0 = Front Left Door
 1 = Front Right Door
@@ -18,6 +17,7 @@ doorIndex:
 5 = Trunk
 6 = Trunk2
 
+```
 NativeDB Introduced: v1207
 ```
 

@@ -8,9 +8,9 @@ ns: SCRIPTS
 int SCRIPT_THREAD_ITERATOR_GET_NEXT_THREAD_ID();
 ```
 
-```
 If the function returns 0, the end of the iteration has been reached.
 
+```
 NativeDB Introduced: v1207
 ```
 

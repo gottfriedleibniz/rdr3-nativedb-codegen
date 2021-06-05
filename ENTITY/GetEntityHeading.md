@@ -8,9 +8,9 @@ ns: ENTITY
 float GET_ENTITY_HEADING(Entity entity);
 ```
 
-```
 Returns the heading of the entity in degrees. Also know as the "Yaw" of an entity.
 
+```
 NativeDB Introduced: v1207
 ```
 

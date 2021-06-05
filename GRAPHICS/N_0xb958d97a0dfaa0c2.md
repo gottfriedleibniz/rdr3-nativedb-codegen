@@ -8,9 +8,9 @@ ns: GRAPHICS
 BOOL _0xB958D97A0DFAA0C2(char* effectName);
 ```
 
-```
 ANIMPOSTFX_*
 
+```
 NativeDB Introduced: v1207
 ```
 

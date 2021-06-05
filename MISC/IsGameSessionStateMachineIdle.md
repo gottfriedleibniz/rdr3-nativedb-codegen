@@ -1,0 +1,15 @@
+---
+ns: MISC
+aliases: ["0xF9E7DBB39080640B"]
+---
+## IS_GAME_SESSION_STATE_MACHINE_IDLE
+
+```c
+// 0xF9E7DBB39080640B
+BOOL IS_GAME_SESSION_STATE_MACHINE_IDLE();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

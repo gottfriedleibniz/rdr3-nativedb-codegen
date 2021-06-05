@@ -1,0 +1,15 @@
+---
+ns: STREAMING
+aliases: ["0xCF45DF50C7775F2A"]
+---
+## IS_LOAD_SCENE_ACTIVE
+
+```c
+// 0xCF45DF50C7775F2A
+BOOL IS_LOAD_SCENE_ACTIVE();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

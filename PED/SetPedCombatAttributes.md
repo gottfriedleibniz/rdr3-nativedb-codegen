@@ -8,6 +8,8 @@ ns: PED
 void SET_PED_COMBAT_ATTRIBUTES(Ped ped, int attributeIndex, BOOL enabled);
 ```
 
+attributeIndex: https://alloc8or.re/rdr3/doc/enums/eCombatAttribute.txt
+
 ```
 NativeDB Introduced: v1207
 ```

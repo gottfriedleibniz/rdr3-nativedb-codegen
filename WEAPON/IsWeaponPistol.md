@@ -2,11 +2,11 @@
 ns: WEAPON
 aliases: ["0xDDC64F5E31EEDAB6"]
 ---
-## _IS_WEAPON_PISTOL
+## IS_WEAPON_PISTOL
 
 ```c
 // 0xDDC64F5E31EEDAB6
-BOOL _IS_WEAPON_PISTOL(Hash weaponHash);
+BOOL IS_WEAPON_PISTOL(Hash weaponHash);
 ```
 
 ```

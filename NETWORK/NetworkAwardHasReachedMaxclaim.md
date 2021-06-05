@@ -1,0 +1,17 @@
+---
+ns: NETWORK
+aliases: ["0xFBE782B3165AC8EC"]
+---
+## NETWORK_AWARD_HAS_REACHED_MAXCLAIM
+
+```c
+// 0xFBE782B3165AC8EC
+BOOL NETWORK_AWARD_HAS_REACHED_MAXCLAIM(Any p0);
+```
+
+```
+NativeDB Introduced: v1207
+```
+
+## Parameters
+* **p0**:

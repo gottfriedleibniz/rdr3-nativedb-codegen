@@ -8,10 +8,10 @@ ns: OBJECT
 void DOOR_SYSTEM_SET_OPEN_RATIO(Hash doorHash, float ajar, BOOL forceUpdate);
 ```
 
-```
 Sets the ajar angle of a door.
 Ranges from -1.0 to 1.0, and 0.0 is closed / default.
 
+```
 NativeDB Introduced: v1207
 ```
 

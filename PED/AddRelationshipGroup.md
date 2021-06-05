@@ -8,9 +8,9 @@ ns: PED
 Any ADD_RELATIONSHIP_GROUP(char* name, Hash* groupHash);
 ```
 
-```
 Can't select void. This function returns nothing. The hash of the created relationship group is output in the second parameter.
 
+```
 NativeDB Introduced: v1207
 ```
 

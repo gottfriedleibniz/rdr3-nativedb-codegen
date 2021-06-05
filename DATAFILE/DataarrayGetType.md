@@ -9,7 +9,6 @@ aliases: ["_ARRAY_VALUE_GET_TYPE"]
 int DATAARRAY_GET_TYPE(Any* arrayData, int arrayIndex);
 ```
 
-```
 Types:
 1 = Boolean
 2 = Integer
@@ -19,6 +18,7 @@ Types:
 6 = Object
 7 = Array
 
+```
 NativeDB Introduced: v1207
 ```
 

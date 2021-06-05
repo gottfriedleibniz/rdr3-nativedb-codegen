@@ -1,0 +1,15 @@
+---
+ns: STREAMING
+aliases: ["0x8A3945405B31048F"]
+---
+## GET_POPULATION_BUDGET_MULTIPLIER
+
+```c
+// 0x8A3945405B31048F
+float GET_POPULATION_BUDGET_MULTIPLIER();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

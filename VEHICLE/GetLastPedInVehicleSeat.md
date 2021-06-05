@@ -8,6 +8,8 @@ ns: VEHICLE
 Ped GET_LAST_PED_IN_VEHICLE_SEAT(Vehicle vehicle, int seatIndex);
 ```
 
+seatIndex: https://alloc8or.re/rdr3/doc/enums/eVehicleSeat.txt
+
 ```
 NativeDB Introduced: v1207
 ```

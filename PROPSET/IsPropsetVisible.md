@@ -2,11 +2,11 @@
 ns: PROPSET
 aliases: ["0x0CE8AAFE9E433A23"]
 ---
-## _IS_PROPSET_VISIBLE
+## _IS_PROP_SET_VISIBLE
 
 ```c
 // 0x0CE8AAFE9E433A23
-BOOL _IS_PROPSET_VISIBLE(int propSet);
+BOOL _IS_PROP_SET_VISIBLE(int propSet);
 ```
 
 ```

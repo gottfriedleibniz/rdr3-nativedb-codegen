@@ -8,6 +8,8 @@ ns: PED
 void CLEAR_RAGDOLL_BLOCKING_FLAGS(Ped ped, int flags);
 ```
 
+flags: see SET_RAGDOLL_BLOCKING_FLAGS
+
 ```
 NativeDB Introduced: v1207
 ```

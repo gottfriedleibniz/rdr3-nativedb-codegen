@@ -8,9 +8,9 @@ ns: PLAYER
 void STOP_PLAYER_TELEPORT();
 ```
 
-```
 Disables the player's teleportation
 
+```
 NativeDB Introduced: v1207
 ```
 

@@ -8,9 +8,9 @@ ns: NETWORK
 BOOL _IS_OBJECT_REASSIGNMENT_IN_PROGRESS();
 ```
 
-```
 Note: this native was added in build 1311.16
 
+```
 NativeDB Introduced: v1311
 ```
 

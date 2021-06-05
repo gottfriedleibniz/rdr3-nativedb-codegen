@@ -8,6 +8,8 @@ ns: ATTRIBUTE
 void DISABLE_ATTRIBUTE_OVERPOWER(Ped ped, int attributeIndex);
 ```
 
+attributeIndex: https://alloc8or.re/rdr3/doc/enums/ePedAttribute.txt
+
 ```
 NativeDB Introduced: v1207
 ```

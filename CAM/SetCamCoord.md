@@ -8,9 +8,9 @@ ns: CAM
 void SET_CAM_COORD(Cam cam, float posX, float posY, float posZ);
 ```
 
-```
 Sets the position of the cam.
 
+```
 NativeDB Introduced: v1207
 ```
 

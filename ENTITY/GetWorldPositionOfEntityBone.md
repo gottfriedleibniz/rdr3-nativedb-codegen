@@ -8,9 +8,9 @@ ns: ENTITY
 Vector3 GET_WORLD_POSITION_OF_ENTITY_BONE(Entity entity, int boneIndex);
 ```
 
-```
 Returns the coordinates of an entity-bone.
 
+```
 NativeDB Introduced: v1207
 ```
 

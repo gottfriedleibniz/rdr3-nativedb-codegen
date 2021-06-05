@@ -8,9 +8,9 @@ ns: PED
 BOOL IS_PED_EVASIVE_DIVING(Ped ped, Entity* evadingEntity);
 ```
 
-```
 Presumably returns the Entity that the Ped is currently diving out of the way of.
 
+```
 NativeDB Introduced: v1207
 ```
 

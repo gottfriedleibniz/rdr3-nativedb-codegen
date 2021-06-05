@@ -8,9 +8,9 @@ ns: BUILTIN
 float TIMESTEP();
 ```
 
-```
 Gets the current frame time.
 
+```
 NativeDB Introduced: v1207
 ```
 

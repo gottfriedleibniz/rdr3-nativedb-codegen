@@ -8,9 +8,9 @@ ns: SCRIPTS
 void BG_END_CONTEXT(char* contextName);
 ```
 
-```
 Deletes the given context from the background scripts context map.
 
+```
 NativeDB Introduced: v1207
 ```
 

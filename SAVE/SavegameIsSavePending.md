@@ -1,0 +1,15 @@
+---
+ns: SAVE
+aliases: ["0x3CF46F55C6585590"]
+---
+## SAVEGAME_IS_SAVE_PENDING
+
+```c
+// 0x3CF46F55C6585590
+BOOL SAVEGAME_IS_SAVE_PENDING();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

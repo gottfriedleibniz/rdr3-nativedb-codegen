@@ -8,9 +8,9 @@ ns: ENTITY
 float GET_ENTITY_SUBMERGED_LEVEL(Entity entity);
 ```
 
-```
 Get how much of the entity is submerged.  1.0f is whole entity.
 
+```
 NativeDB Introduced: v1207
 ```
 

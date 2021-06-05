@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+aliases: ["0x1BB50CD340A996E6"]
+---
+## NETWORK_IS_RESETTING_POPULATION
+
+```c
+// 0x1BB50CD340A996E6
+BOOL NETWORK_IS_RESETTING_POPULATION();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

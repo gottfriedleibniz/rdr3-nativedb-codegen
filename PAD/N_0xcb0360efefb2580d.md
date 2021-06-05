@@ -8,9 +8,9 @@ ns: PAD
 void _0xCB0360EFEFB2580D(int padIndex);
 ```
 
-```
 nullsub, doesn't do anything
 
+```
 NativeDB Introduced: v1207
 ```
 

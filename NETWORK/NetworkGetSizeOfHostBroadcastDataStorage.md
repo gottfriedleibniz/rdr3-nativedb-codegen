@@ -1,0 +1,17 @@
+---
+ns: NETWORK
+aliases: ["0xBA24095EA96DFE17"]
+---
+## _NETWORK_GET_SIZE_OF_HOST_BROADCAST_DATA_STORAGE
+
+```c
+// 0xBA24095EA96DFE17
+int _NETWORK_GET_SIZE_OF_HOST_BROADCAST_DATA_STORAGE(int* p0);
+```
+
+```
+NativeDB Introduced: v1207
+```
+
+## Parameters
+* **p0**:

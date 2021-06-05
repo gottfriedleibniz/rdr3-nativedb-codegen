@@ -8,9 +8,9 @@ ns: SCRIPTS
 char* _NET_RPC_GUID_TO_STRING(Any* netRpcGuid);
 ```
 
-```
 Returns "INVALID_NET_RPC_GUID" if netRpcGuid is invalid.
 
+```
 NativeDB Introduced: v1311
 ```
 

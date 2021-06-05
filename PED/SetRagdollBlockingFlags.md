@@ -8,6 +8,8 @@ ns: PED
 void SET_RAGDOLL_BLOCKING_FLAGS(Ped ped, int flags);
 ```
 
+flags: https://alloc8or.re/rdr3/doc/enums/eRagdollBlockingFlags.txt
+
 ```
 NativeDB Introduced: v1207
 ```

@@ -8,9 +8,9 @@ ns: TASK
 BOOL IS_PED_IN_WRITHE(Ped ped);
 ```
 
-```
 This native checks if a ped is on the ground, in pain from a (gunshot) wound.
 
+```
 NativeDB Introduced: v1207
 ```
 

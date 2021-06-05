@@ -9,7 +9,6 @@ aliases: ["_GET_SCRIPT_HANDLE_TYPE"]
 int _GET_ITEM_TYPE(ScrHandle handle);
 ```
 
-```
 0 = invalid
 1 = CEntity
 2 = rage::volBase
@@ -25,6 +24,7 @@ int _GET_ITEM_TYPE(ScrHandle handle);
 12 = CItemSet
 13 = CPersistentCharacter
 
+```
 NativeDB Introduced: v1207
 ```
 

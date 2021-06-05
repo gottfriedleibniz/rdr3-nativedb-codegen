@@ -1,0 +1,17 @@
+---
+ns: NETWORK
+aliases: ["0x4B05B97BA46F419D"]
+---
+## NETWORK_ALLOW_ALL_ENTITY_FADING_FOR_INSTANCES
+
+```c
+// 0x4B05B97BA46F419D
+void NETWORK_ALLOW_ALL_ENTITY_FADING_FOR_INSTANCES(BOOL toggle);
+```
+
+```
+NativeDB Introduced: v1207
+```
+
+## Parameters
+* **toggle**:

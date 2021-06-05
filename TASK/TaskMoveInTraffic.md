@@ -1,11 +1,12 @@
 ---
 ns: TASK
+aliases: ["_TASK_MOVE_IN_TRAFFIC"]
 ---
-## _TASK_MOVE_IN_TRAFFIC
+## TASK_MOVE_IN_TRAFFIC
 
 ```c
 // 0x8AA1593AEC087A29
-void _TASK_MOVE_IN_TRAFFIC(Ped ped, Any p1, Any p2, Any p3);
+void TASK_MOVE_IN_TRAFFIC(Ped ped, Any p1, Any p2, Any p3);
 ```
 
 ```

@@ -5,7 +5,7 @@ ns: VEHICLE
 
 ```c
 // 0x7263332501E07F52 0xE14FDBA6
-BOOL SET_VEHICLE_ON_GROUND_PROPERLY(Vehicle vehicle, float p1);
+BOOL SET_VEHICLE_ON_GROUND_PROPERLY(Vehicle vehicle, BOOL p1);
 ```
 
 ```

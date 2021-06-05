@@ -8,9 +8,9 @@ ns: MISC
 BOOL _SHOULD_USE_METRIC_MEASUREMENTS_2();
 ```
 
-```
 Same as SHOULD_USE_METRIC_MEASUREMENTS
 
+```
 NativeDB Introduced: v1207
 ```
 

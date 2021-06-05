@@ -8,9 +8,9 @@ ns: VEHICLE
 void SET_VEHICLE_HAS_STRONG_AXLES(Vehicle vehicle, BOOL toggle);
 ```
 
-```
 if true, axles won't bend.
 
+```
 NativeDB Introduced: v1207
 ```
 

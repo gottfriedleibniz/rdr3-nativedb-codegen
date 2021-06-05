@@ -8,11 +8,11 @@ ns: TASK
 void TASK_LOOK_AT_ENTITY(Ped ped, Any p1, Any p2, Any p3, Any p4, Any p5);
 ```
 
-```
 param3: duration in ms, use -1 to look forever
 param4: using 2048 is fine
 param5: using 3 is fine
 
+```
 NativeDB Introduced: v1207
 ```
 

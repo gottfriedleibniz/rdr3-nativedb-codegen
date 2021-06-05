@@ -8,9 +8,9 @@ ns: VEHICLE
 void SET_VEHICLE_EXTRA(Vehicle vehicle, int extraId, BOOL disable);
 ```
 
-```
 Note: only some vehicle have extras
 
+```
 NativeDB Introduced: v1207
 ```
 

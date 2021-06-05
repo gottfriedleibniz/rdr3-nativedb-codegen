@@ -1,0 +1,18 @@
+---
+ns: BOUNTY
+aliases: ["0x22D3A61CE053270C"]
+---
+## _BOUNTY_REQUEST_POSSE_MEMBER_CLAIM_CHARACTER_BOUNTY_SHARE
+
+```c
+// 0x22D3A61CE053270C
+BOOL _BOUNTY_REQUEST_POSSE_MEMBER_CLAIM_CHARACTER_BOUNTY_SHARE(Any* outRpcGuid, Any* p1);
+```
+
+```
+NativeDB Introduced: v1207
+```
+
+## Parameters
+* **outRpcGuid**:
+* **p1**:

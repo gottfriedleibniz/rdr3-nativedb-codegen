@@ -8,9 +8,9 @@ ns: ENTITY
 void CREATE_MODEL_SWAP(float x, float y, float z, float radius, Hash originalModel, Hash newModel, BOOL p6);
 ```
 
-```
 Only works with objects!
 
+```
 NativeDB Introduced: v1207
 ```
 

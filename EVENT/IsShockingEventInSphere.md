@@ -8,9 +8,9 @@ ns: EVENT
 BOOL IS_SHOCKING_EVENT_IN_SPHERE(Hash eventType, float x, float y, float z, float radius);
 ```
 
-```
 eventType: https://alloc8or.re/rdr3/doc/enums/eEventType.txt
 
+```
 NativeDB Introduced: v1207
 ```
 

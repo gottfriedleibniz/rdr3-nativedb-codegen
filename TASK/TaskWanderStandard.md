@@ -8,11 +8,10 @@ ns: TASK
 void TASK_WANDER_STANDARD(Ped ped, float p1, int p2);
 ```
 
-```
 Makes ped walk around the area.
-
 set p1 to 10.0f and p2 to 10 if you want the ped to walk anywhere without a duration.
 
+```
 NativeDB Introduced: v1207
 ```
 

@@ -8,9 +8,9 @@ ns: MISC
 BOOL IS_PC_VERSION();
 ```
 
-```
 Hardcoded to return true.
 
+```
 NativeDB Introduced: v1207
 ```
 

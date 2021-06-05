@@ -9,9 +9,9 @@ aliases: ["0xB2920B9760F0F36B"]
 Any _SHOW_SIMPLE_RIGHT_TEXT(Any* p0, Any* p1, int p2);
 ```
 
-```
 Display text on right of the screen, Example : https://pastebin.com/n1YmNe25
 
+```
 NativeDB Introduced: v1207
 ```
 

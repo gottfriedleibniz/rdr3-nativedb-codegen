@@ -1,5 +1,6 @@
 ---
 ns: BUILTIN
+aliases: ["_SET_THREAD_PRIORITY"]
 ---
 ## _SET_THREAD_PRIORITY
 
@@ -8,11 +9,11 @@ ns: BUILTIN
 void _SET_THREAD_PRIORITY(int priority);
 ```
 
-```
 0 = high
 1 = normal
 2 = low
 
+```
 NativeDB Introduced: v1207
 ```
 

@@ -9,7 +9,6 @@ aliases: ["0xF0B4F759F35CC7F5"]
 void TASK_CARRIABLE(Entity entity, Hash carryConfig, Ped carrier, int carriableSlot, int flags);
 ```
 
-```
 carriableSlot:
  7 > Back of a horse
  6 > Right side of a horse
@@ -17,6 +16,7 @@ carriableSlot:
 flags:
  512: enables the prompt being the name of the item when using a generic item
 
+```
 NativeDB Introduced: v1207
 ```
 

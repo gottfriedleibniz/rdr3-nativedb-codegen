@@ -8,11 +8,10 @@ ns: NETWORK
 int PARTICIPANT_ID_TO_INT();
 ```
 
-```
 Return the local Participant ID.
-
 This native is exactly the same as 'PARTICIPANT_ID' native.
 
+```
 NativeDB Introduced: v1207
 ```
 

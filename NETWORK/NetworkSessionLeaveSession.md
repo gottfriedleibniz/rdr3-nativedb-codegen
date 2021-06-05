@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+aliases: ["_NETWORK_SESSION_LEAVE"]
+---
+## NETWORK_SESSION_LEAVE_SESSION
+
+```c
+// 0x17C21B7319A05047
+BOOL NETWORK_SESSION_LEAVE_SESSION();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

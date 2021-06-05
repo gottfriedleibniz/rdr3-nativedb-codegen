@@ -8,9 +8,9 @@ ns: PLAYER
 Ped PLAYER_PED_ID();
 ```
 
-```
 Returns current player ped
 
+```
 NativeDB Introduced: v1207
 ```
 

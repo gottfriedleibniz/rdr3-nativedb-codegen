@@ -1,0 +1,17 @@
+---
+ns: BOUNTY
+aliases: ["0x12E981D53B07BF48"]
+---
+## _BOUNTY_REQUEST_ESCAPED_CHARACTER_BOUNTY_HUNT
+
+```c
+// 0x12E981D53B07BF48
+BOOL _BOUNTY_REQUEST_ESCAPED_CHARACTER_BOUNTY_HUNT(Any* outRpcGuid);
+```
+
+```
+NativeDB Introduced: v1207
+```
+
+## Parameters
+* **outRpcGuid**:

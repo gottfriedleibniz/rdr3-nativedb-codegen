@@ -8,9 +8,9 @@ ns: MISC
 BOOL IS_ORBIS_VERSION();
 ```
 
-```
 Hardcoded to return false.
 
+```
 NativeDB Introduced: v1207
 ```
 

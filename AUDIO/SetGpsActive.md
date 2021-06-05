@@ -8,9 +8,9 @@ ns: AUDIO
 void SET_GPS_ACTIVE(BOOL active);
 ```
 
-```
 nullsub, doesn't do anything
 
+```
 NativeDB Introduced: v1207
 ```
 

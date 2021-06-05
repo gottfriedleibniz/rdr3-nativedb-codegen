@@ -8,9 +8,9 @@ ns: PED
 void SET_PED_RAGDOLL_ON_COLLISION(Any p0, Any p1, Any p2);
 ```
 
-```
 Causes Ped to ragdoll on collision with any object (e.g Running into trashcan). If applied to player you will sometimes trip on the sidewalk.
 
+```
 NativeDB Introduced: v1207
 ```
 

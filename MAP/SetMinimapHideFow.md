@@ -8,9 +8,9 @@ ns: MAP
 void SET_MINIMAP_HIDE_FOW(BOOL toggle);
 ```
 
-```
 Reveals the entire minimap (FOW = Fog of War)
 
+```
 NativeDB Introduced: v1207
 ```
 

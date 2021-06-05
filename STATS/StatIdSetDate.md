@@ -8,9 +8,9 @@ ns: STATS
 BOOL STAT_ID_SET_DATE(Any* statId, Any* date, BOOL p2);
 ```
 
-```
 statId: see 0xC48FE1971C9743FF
 
+```
 NativeDB Introduced: v1207
 ```
 

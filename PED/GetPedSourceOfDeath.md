@@ -8,11 +8,10 @@ ns: PED
 Entity GET_PED_SOURCE_OF_DEATH(Ped ped);
 ```
 
-```
 Returns the Entity (Ped, Vehicle, or ?Object?) that killed the 'ped'
-
 Is best to check if the Ped is dead before asking for its killer.
 
+```
 NativeDB Introduced: v1207
 ```
 

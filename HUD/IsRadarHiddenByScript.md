@@ -1,0 +1,15 @@
+---
+ns: HUD
+aliases: ["0x66F35DD9D2B58579"]
+---
+## IS_RADAR_HIDDEN_BY_SCRIPT
+
+```c
+// 0x66F35DD9D2B58579
+BOOL IS_RADAR_HIDDEN_BY_SCRIPT();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

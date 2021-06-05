@@ -5,7 +5,7 @@ ns: TELEMETRY
 
 ```c
 // 0x0777D65EE8A17517
-void _TELEMETRY_PHOTO_CAM(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
+void _TELEMETRY_PHOTO_CAM(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8);
 ```
 
 ```
@@ -21,3 +21,4 @@ NativeDB Introduced: v1311
 * **p5**:
 * **p6**:
 * **p7**:
+* **p8**:

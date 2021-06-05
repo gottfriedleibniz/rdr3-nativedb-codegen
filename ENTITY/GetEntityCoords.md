@@ -5,8 +5,13 @@ ns: ENTITY
 
 ```c
 // 0xA86D5F069399F44D 0x1647F1CB
-Vector3 GET_ENTITY_COORDS(Entity entity, BOOL p1, BOOL p2);
+Vector3 GET_ENTITY_COORDS(Entity entity, BOOL alive, BOOL realCoords);
 ```
+
+Gets the current coordinates for a specified entity.
+`entity` = The entity to get the coordinates from.
+`alive` = Unused by the game, potentially used by debug builds in order to assert whether or not an entity was alive.
+If entity is a ped and it's in a vehicle or on a mount the coords of that entity are returned. Set 'realCoords' to true when you need the true ped coords.
 
 ```
 NativeDB Introduced: v1207
@@ -14,5 +19,5 @@ NativeDB Introduced: v1207
 
 ## Parameters
 * **entity**:
-* **p1**:
-* **p2**:
+* **alive**:
+* **realCoords**:

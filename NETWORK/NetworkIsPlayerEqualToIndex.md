@@ -8,9 +8,9 @@ ns: NETWORK
 BOOL _NETWORK_IS_PLAYER_EQUAL_TO_INDEX(Player player, int index);
 ```
 
-```
 NETWORK_ARE_*
 
+```
 NativeDB Introduced: v1207
 ```
 

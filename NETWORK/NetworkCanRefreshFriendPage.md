@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+aliases: ["0x1AF5E28E64A76A9F"]
+---
+## NETWORK_CAN_REFRESH_FRIEND_PAGE
+
+```c
+// 0x1AF5E28E64A76A9F
+BOOL NETWORK_CAN_REFRESH_FRIEND_PAGE();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

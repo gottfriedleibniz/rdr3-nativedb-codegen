@@ -5,13 +5,15 @@ ns: ENTITY
 
 ```c
 // 0xC0EDEF16D90661EE
-void _0xC0EDEF16D90661EE(Any p0, Any p1);
+void _0xC0EDEF16D90661EE(Entity entity, float p1);
 ```
+
+SET_ENTITY_A*
 
 ```
 NativeDB Introduced: v1207
 ```
 
 ## Parameters
-* **p0**:
+* **entity**:
 * **p1**:

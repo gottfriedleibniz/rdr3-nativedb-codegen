@@ -8,9 +8,9 @@ ns: FIRE
 void ADD_EXPLOSION(float x, float y, float z, int explosionType, float damageScale, BOOL isAudible, BOOL isInvisible, float cameraShake);
 ```
 
-```
 https://alloc8or.re/rdr3/doc/enums/eExplosionTag.txt
 
+```
 NativeDB Introduced: v1207
 ```
 

@@ -8,9 +8,9 @@ ns: PLAYER
 void CLEAR_PLAYER_WANTED_LEVEL(Player player);
 ```
 
-```
 nullsub, doesn't do anything
 
+```
 NativeDB Introduced: v1207
 ```
 

@@ -8,6 +8,8 @@ ns: VEHICLE
 BOOL IS_SEAT_WARP_ONLY(Vehicle vehicle, int seatIndex);
 ```
 
+seatIndex: https://alloc8or.re/rdr3/doc/enums/eVehicleSeat.txt
+
 ```
 NativeDB Introduced: v1207
 ```

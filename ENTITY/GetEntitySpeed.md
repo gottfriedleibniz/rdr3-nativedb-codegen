@@ -8,9 +8,9 @@ ns: ENTITY
 float GET_ENTITY_SPEED(Entity entity);
 ```
 
-```
 Result is in meters per second (m/s)
 
+```
 NativeDB Introduced: v1207
 ```
 

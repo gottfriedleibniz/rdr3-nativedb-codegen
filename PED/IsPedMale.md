@@ -8,9 +8,9 @@ ns: PED
 BOOL IS_PED_MALE(Ped ped);
 ```
 
-```
 Returns true/false if the ped is/isn't male.
 
+```
 NativeDB Introduced: v1207
 ```
 

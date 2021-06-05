@@ -8,9 +8,9 @@ ns: TASK
 void CLEAR_PED_TASKS_IMMEDIATELY(Ped ped, BOOL p1, BOOL p2);
 ```
 
-```
 Immediately stops the pedestrian from whatever it's doing. They stop fighting, animations, etc. they forget what they were doing.
 
+```
 NativeDB Introduced: v1207
 ```
 

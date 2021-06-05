@@ -8,9 +8,9 @@ ns: REPLAY
 BOOL _IS_INTERIOR_RENDERING_DISABLED();
 ```
 
-```
 Hardcoded to return false.
 
+```
 NativeDB Introduced: v1207
 ```
 

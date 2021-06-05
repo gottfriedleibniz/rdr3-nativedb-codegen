@@ -8,13 +8,11 @@ ns: PLAYER
 BOOL IS_PLAYER_BEING_ARRESTED(Player player, BOOL atArresting);
 ```
 
-```
 Return true while player is being arrested / busted.
-
 If atArresting is set to 1, this function will return 1 when player is being arrested (while player is putting his hand up, but still have control)
-
 If atArresting is set to 0, this function will return 1 only when the busted screen is shown.
 
+```
 NativeDB Introduced: v1207
 ```
 

@@ -8,9 +8,9 @@ ns: VEHICLE
 BOOL ARE_ANY_VEHICLE_SEATS_FREE(Vehicle vehicle);
 ```
 
-```
 Returns false if every seat is occupied.
 
+```
 NativeDB Introduced: v1207
 ```
 

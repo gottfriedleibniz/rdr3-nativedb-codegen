@@ -1,0 +1,15 @@
+---
+ns: STREAMING
+aliases: ["0x0909F71B5C070797"]
+---
+## IS_LOAD_SCENE_LOADED
+
+```c
+// 0x0909F71B5C070797
+BOOL IS_LOAD_SCENE_LOADED();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

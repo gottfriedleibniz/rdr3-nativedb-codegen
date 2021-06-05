@@ -6,8 +6,10 @@ aliases: ["0x4752F68EB7F2D280"]
 
 ```c
 // 0x4752F68EB7F2D280
-void _SET_LAW_REGION(Player player, Hash lawRegionHash, Hash p2);
+void _SET_LAW_REGION(Player player, Hash lawRegionHash, Hash stateHash);
 ```
+
+https://alloc8or.re/rdr3/doc/enums/eLawRegion.txt
 
 ```
 NativeDB Introduced: v1207
@@ -16,4 +18,4 @@ NativeDB Introduced: v1207
 ## Parameters
 * **player**:
 * **lawRegionHash**:
-* **p2**:
+* **stateHash**:

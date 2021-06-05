@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+aliases: ["0xD0541EF28E9C4783"]
+---
+## _GET_SOCIAL_MATCHMAKING_ALLOWED
+
+```c
+// 0xD0541EF28E9C4783
+BOOL _GET_SOCIAL_MATCHMAKING_ALLOWED();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

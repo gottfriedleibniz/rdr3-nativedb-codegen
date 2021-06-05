@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+aliases: ["0x3B82ACC3F4B6240C"]
+---
+## NETWORK_ACTION_PLATFORM_INVITE
+
+```c
+// 0x3B82ACC3F4B6240C
+BOOL NETWORK_ACTION_PLATFORM_INVITE();
+```
+
+```
+NativeDB Introduced: v1207
+```
+

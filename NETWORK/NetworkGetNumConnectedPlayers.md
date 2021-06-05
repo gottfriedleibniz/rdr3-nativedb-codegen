@@ -8,9 +8,9 @@ ns: NETWORK
 int NETWORK_GET_NUM_CONNECTED_PLAYERS();
 ```
 
-```
 Returns the amount of players connected in the current session. Only works when connected to a session/server.
 
+```
 NativeDB Introduced: v1207
 ```
 

@@ -9,9 +9,9 @@ aliases: ["NETWORK_HAVE_JUST_UPLOAD_LATER"]
 BOOL NETWORK_HAS_VALID_ROS_CREDENTIALS();
 ```
 
-```
 Returns whether the signed-in user has valid Rockstar Online Services (ROS) credentials.
 
+```
 NativeDB Introduced: v1207
 ```
 

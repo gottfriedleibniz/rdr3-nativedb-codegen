@@ -9,9 +9,10 @@ aliases: ["ENABLE_ATTRIBUTE_OVERPOWER"]
 void _ENABLE_ATTRIBUTE_CORE_OVERPOWER(Ped ped, int coreIndex, float value, BOOL makeSound);
 ```
 
-```
+coreIndex: https://alloc8or.re/rdr3/doc/enums/eAttributeCore.txt
 Previously incorrectly named ENABLE_ATTRIBUTE_OVERPOWER
 
+```
 NativeDB Introduced: v1207
 ```
 

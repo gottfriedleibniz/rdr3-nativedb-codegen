@@ -8,9 +8,9 @@ ns: WEAPON
 Hash _GET_WEAPONTYPE_MODEL(Hash weaponHash);
 ```
 
-```
 Gets the model hash from the weapon hash.
 
+```
 NativeDB Introduced: v1207
 ```
 
