@@ -9,6 +9,7 @@ aliases: ["_EVENT_MANAGER_GET_EVENT"]
 BOOL EVENTS_UI_GET_MESSAGE(Hash hash, Any* eventData);
 ```
 
+```
 eventData:
 struct UI_SCRIPT_EVENT
 {
@@ -19,7 +20,6 @@ struct UI_SCRIPT_EVENT
 };
 Old name: _EVENT_MANAGER_GET_EVENT
 
-```
 NativeDB Introduced: v1207
 ```
 

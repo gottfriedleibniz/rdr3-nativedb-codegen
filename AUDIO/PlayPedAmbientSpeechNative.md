@@ -9,6 +9,7 @@ aliases: ["_PLAY_AMBIENT_SPEECH1"]
 BOOL PLAY_PED_AMBIENT_SPEECH_NATIVE(Ped ped, Any* params);
 ```
 
+```
 struct ScriptedSpeechParams
 {
 	const char* speechName;
@@ -21,12 +22,12 @@ struct ScriptedSpeechParams
 	alignas(8) int v8;
 };
 static_assert(sizeof(ScriptedSpeechParams) == 0x40, "incorrect ScriptedSpeechParams size");
+
 Example:
 ScriptedSpeechParams params{"RE_PH_RHD_V3_AGGRO", "0405_U_M_M_RhdSheriff_01", 1, 0x67F3AB43, 0, true, 1, 1};
 _PLAY_AMBIENT_SPEECH1(PLAYER_PED_ID(), (Any*)&params);
 Old name: _PLAY_AMBIENT_SPEECH1
 
-```
 NativeDB Introduced: v1207
 ```
 

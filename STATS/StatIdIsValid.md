@@ -9,13 +9,13 @@ aliases: ["_STAT_ID_IS_VALID"]
 BOOL STAT_ID_IS_VALID(Any* statId);
 ```
 
+```
 struct StatId
 {
 	alignas(8) Hash BaseId;
 	alignas(8) Hash PermutationId;
 }
 
-```
 NativeDB Introduced: v1207
 ```
 
